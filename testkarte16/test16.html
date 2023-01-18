@@ -35,7 +35,7 @@
 			.then(data => {
 				var filenamelist = [];
 				for(let d in data) {
-					var entry = data[d].path.replace("//testkarte16","");
+					var entry = data[d].path.replace("testkarte16//","");
 					filenamelist[parseInt(d)] = entry;
 					console.log(entry);
 				}
