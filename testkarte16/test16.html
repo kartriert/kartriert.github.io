@@ -26,7 +26,7 @@
 	  
 	  function filelistRequest(){
 		  return new Promise(function (resolve, reject) {
-			jQuery.fetch("https://api.github.com/users/kartriert/").then(
+			fetch("https://api.github.com/users/kartriert/").then(
 				(response) => {
 					var rawfilelisting = response;
 					var filelisting = JSON.stringify(rawfilelisting);
