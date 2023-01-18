@@ -31,7 +31,12 @@
 				(error) => {
 					reject(error);
 				}
-			);
+			)
+			.then(data => {
+				for(let d in data) {
+					console.log(data[d].name);
+				}
+			})
 		  });
 	  }
 	  
