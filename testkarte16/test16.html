@@ -35,7 +35,7 @@
 			.then(data => {
 				var filenamelist = [];
 				for(let d in data) {
-					var entry = data[d].path;
+					var entry = data[d].path.replace("testkarte16","");
 					filenamelist[parseInt(d)] = entry;
 				}
 				resolve(filenamelist);
@@ -44,7 +44,7 @@
 	  }
 	  
 	  function getMetadata(path) {
-		  return $.getJSON(path);
+		  return $.getJSON("testkarte16"+path);
 	  }
 	  
 	  async function main() {
