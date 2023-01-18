@@ -27,17 +27,7 @@
 	  function filelistRequest(){
 		  return new Promise(function (resolve, reject) {
 			fetch("https://api.github.com/repos/kartriert/kartriert.github.io/contents/testkarte16/ner-results?ref=main").then(
-				(response => response.json()) => {
-					var rawfilelisting = response.json();
-					console.log (rawfilelisting);
-					for (file in rawfilelisting){
-						console.log(file);
-					}
-					var filelisting = JSON.stringify(rawfilelisting);
-					filelisting = filelisting.slice(1, -2)
-					var filenamelist = filelisting.split(";");
-					resolve(filenamelist)
-				},
+				(response => response.json()),
 				(error) => {
 					reject(error);
 				}
