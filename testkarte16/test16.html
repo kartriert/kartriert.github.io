@@ -33,9 +33,10 @@
 				}
 			)
 			.then(data => {
+				var filenamelist = [];
 				for(let d in data) {
 					var entry = data[d].path.replace("testkarte16","");
-					console.log(entry);
+					console.log(d);
 				}
 			})
 		  });
