@@ -34,7 +34,8 @@
 			)
 			.then(data => {
 				for(let d in data) {
-					console.log(data[d].name);
+					var entry = data[d].path.replace("testkarte16","");
+					console.log(data[d].path);
 				}
 			})
 		  });
