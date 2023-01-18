@@ -26,7 +26,7 @@
 	  
 	  function filelistRequest(){
 		  return new Promise(function (resolve, reject) {
-			fetch("https://api.github.com/repos/kartriert/kartriert.github.io").then(
+			fetch("https://api.github.com/repos/kartriert/kartriert.github.io/contents/testkarte16/ner-results?ref=main").then(
 				(response) => {
 					var rawfilelisting = response;
 					var filelisting = JSON.stringify(rawfilelisting);
