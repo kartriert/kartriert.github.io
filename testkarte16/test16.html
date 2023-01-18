@@ -29,6 +29,7 @@
 			fetch("https://api.github.com/repos/kartriert/kartriert.github.io/contents/testkarte16/ner-results?ref=main").then(
 				(response) => {
 					var rawfilelisting = response.json();
+					console.log (rawfilelisting);
 					for (file in rawfilelisting){
 						console.log(file);
 					}
