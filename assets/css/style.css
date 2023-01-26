@@ -850,6 +850,24 @@ details[open].styled summary {
   background: #fff;
   border: 2px solid #34b7a7;
 }
+/*--------------------------------------------------------------
+# DH buttons
+--------------------------------------------------------------*/
+.grid-container {
+  display: grid;
+  grid-template-columns: 1 fr 1 fr 1fr;
+  grid-template-rows: 1700 px;
+  grid-auto-flow: column;
+  column-gap: 10px;
+
+}
+
+.buttons button {
+  background-color: #c8e9e5;
+  color: #333333;
+  border-radius: 5px;
+}
+
 
 /*--------------------------------------------------------------
 # Services
