@@ -209,7 +209,7 @@
 			var b = Math.floor(Math.random() * 255);
 			color= "rgb("+r+" ,"+g+","+ b+")"; 
 			// Füge Layer zur Sammlung hinzu
-			sixteenthLayers.push ( new L.GeoJSON.AJAX("https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/travelogues/data/output/text_ner/with_url/finished/"+filenamelist[i], {
+			sixteenthLayers.push ( new L.GeoJSON.AJAX("https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/"+filenamelist[i], {
 				title : tl,
 				pointToLayer: function (feature, latlng) {
 					return L.circleMarker(latlng, {
