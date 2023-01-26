@@ -33,6 +33,20 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  
+  <!-- Map Imports -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+     integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+     crossorigin=""/>
+  <link rel="stylesheet" href="./jquery-ui.css" type="text/css">
+  <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
+     integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg="
+     crossorigin=""></script>
+  <script type='text/javascript' src=".\testkarte16\leaflet.ajax.min.js"></script>
+  <script type='text/javascript' src=".\testkarte16\jquery-1.9.1.min.js"></script>
+  <script type='text/javascript' src=".\testkarte16\jquery-ui.js"></script>
+  <script src="./testkarte16/SliderControl.js" type="text/javascript"></script>
+  <style>#map { height: 768px; width: 1280px }</style>
 </head>
 
 <body>
@@ -66,7 +80,7 @@
         <div class="container" data-aos="fade-up">
             <div class="section-title">
                 <h2>Karte</h2>
-                <p>Platzfreihalter.</p>
+                <div id="map"></div>
             </div>
         </div>
     </section>
@@ -124,6 +138,126 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  
+  <!-- Map Script -->
+  <script>
+	  
+	  function filelistRequest(){
+		  return new Promise(function (resolve, reject) {
+			fetch("https://api.github.com/repos/kartriert/kartriert.github.io/contents/testkarte16/ner-results?ref=main").then(
+				(response => response.json()),
+				(error) => {
+					reject(error);
+				}
+			)
+			.then(data => {
+				var filenamelist = [];
+				for(let d in data) {
+					var entry = data[d].path.replace("testkarte16\/","");
+					filenamelist[parseInt(d)] = entry;
+				}
+				resolve(filenamelist);
+			})
+		  });
+	  }
+	  
+	  function getMetadata(path) {
+		  return $.getJSON(path);
+	  }
+	  
+	  async function main() {
+		  // Initialisierung der Hintergrundkarte
+		  var map = L.map('map').setView([40, 0], 3);     
+		  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19,attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+		  // Ermittlung der verfügbaren GeoJSONs
+		  var filenamelist = await filelistRequest();
+		  // Listung der Metadatenquellen
+		  var metadatafiles = []
+		  for (let j=0; j<filenamelist.length; j++){
+			  var entry = filenamelist[j].replace("ner-results", "https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/Leaflet-Test/metadata");
+			  var entry = entry.replace("geojson", "json");
+			  metadatafiles[j] = entry;
+		  } 
+		  // Style der Marker für Punktobjekte
+		  var testMarker = {
+			radius: 8,
+			color: "#000",
+			weight: 1,
+			opacity: 1,
+			fillOpacity: 0.8
+		  };
+		  //Import der GeoJson-Layer
+		  var t;
+		  var tl;
+		  var sixteenthLayers = [];
+		  for (let i=0; i < filenamelist.length; i++){
+			var meta = await getMetadata(metadatafiles[i]);
+			for (let g=0; g<meta.length; g++){
+				if (meta[g].label.constructor.name=="Array"){
+					if (meta[g].label[0]["@value"]=="Date Issued"){
+						t = meta[g].value;
+					}
+					if (meta[g].label[0]["@value"]=="Title"){
+						tl = meta[g].value;
+					}
+				}
+			}
+			//Generiere Markefarbe für Layer
+			var color;
+			var r = Math.floor(Math.random() * 255);
+			var g = Math.floor(Math.random() * 255);
+			var b = Math.floor(Math.random() * 255);
+			color= "rgb("+r+" ,"+g+","+ b+")"; 
+			// Füge Layer zur Sammlung hinzu
+			sixteenthLayers.push ( new L.GeoJSON.AJAX("https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/Leaflet-Test/"+filenamelist[i], {
+				title : tl,
+				pointToLayer: function (feature, latlng) {
+					return L.circleMarker(latlng, {
+						radius: 8,
+						fillColor: color,
+						color: "#000",
+						weight: 1,
+						opacity: 1,
+						fillOpacity: 0.8	
+						});
+				}, time: t}));
+		  }
+		  // Sortiere und gruppiere Layer nach Datum
+		  sixteenthLayers.sort((a,b) => (a.options.time > b.options.time) ? 1 : ((b.options.time > a.options.time) ? -1 : 0))
+		  var timeGroups = [];
+		  var tempgroup;
+		  for (let l=0; l < sixteenthLayers.length; l++){
+			  var t = sixteenthLayers[l].options.time;
+			  if (l==0){
+			   tempgroup = L.layerGroup([sixteenthLayers[l]], {time: t});
+				}
+			  else {
+				 if (t != sixteenthLayers[l-1].options.time){
+					 timeGroups.push (tempgroup);
+					 tempgroup = L.layerGroup([sixteenthLayers[l]], {time: t});
+				 }  
+				 else {
+					 tempgroup.addLayer(sixteenthLayers[l]);
+				 }
+			   }
+		  }
+		  var testGroup = L.layerGroup(timeGroups);
+		  // Layerkontrolle
+		  var base = {}
+		  var titles = {};
+		  for (let k=0; k < sixteenthLayers.length; k++){
+				titles[sixteenthLayers[k].options.title] = sixteenthLayers[k];
+				}
+		  var overlays = titles;
+		  		  var sControl = L.control.sliderControl({position: "topleft", layer: testGroup, range: true, sameDate: true, alwaysShowDate: true, timeStrLength: 4});
+		  map.addControl(sControl);
+		  var layerControl = L.control.layers(base, overlays).addTo(map);
+		  sControl.startSlider();
+	  }
+	  
+	  main();
+	  
+    </script>
 
 </body>
 
