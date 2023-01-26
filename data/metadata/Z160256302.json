@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118734784'>Niebuhr, Carsten, 1733-1815</a> - <a href='http://d-nb.info/gnd/1019727713'>Bauernfeind, Georg Wilhelm, 1728-1763, [Ill.]</a> - <a href='http://d-nb.info/gnd/11954931X'>Friedrich V., D\u00e4nemark, K\u00f6nig, 1723-1766, [Widmungsempf\u00e4nger]</a> - <a href='http://d-nb.info/gnd/118930915'>Christian VII., D\u00e4nemark, K\u00f6nig, 1749-1808, [Widmungsempf\u00e4nger]</a> - abgefasset von Carsten Niebuhr"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Beschreibung von Arabien: Aus eigenen Beobachtungen und im Lande selbst gesammleten Nachrichten"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Leipzig"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "M\u00f6ller, Breitkopf"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1772"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "XLVII, 431 S., [1] gef. Bl., XXIV teilw. gef. Bl., [1]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4068878-1'>Naher Osten</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, Geschichte 1761-1763, <a href='http://d-nb.info/gnd/4002529-9'>Arabien</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, Geschichte 1761-1763, <a href='http://d-nb.info/gnd/4241223-7'>Arabisch</a>, <a href='http://d-nb.info/gnd/4027107-9'>Inschrift</a>, <a href='http://d-nb.info/gnd/4068878-1'>Naher Osten</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1761-1763, <a href='http://d-nb.info/gnd/4002529-9'>Arabien</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1761-1763, <a href='http://d-nb.info/gnd/4068878-1'>Naher Osten</a>, <a href='http://d-nb.info/gnd/4020216-1'>Geografie</a>, <a href='http://d-nb.info/gnd/4020202-1'>Geod\u00e4sie</a>, <a href='http://d-nb.info/gnd/4029823-1'>Kartografie</a>, Geschichte 1761-1763, <a href='http://d-nb.info/gnd/4002529-9'>Arabien</a>, <a href='http://d-nb.info/gnd/4020216-1'>Geografie</a>, <a href='http://d-nb.info/gnd/4020202-1'>Geod\u00e4sie</a>, <a href='http://d-nb.info/gnd/4029823-1'>Kartografie</a>, Geschichte 1761-1763"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC07152452'>Alt Mag 309834-C</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z160256302"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC07152452"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-08-06T22:19:53"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-11-13T23:36:57"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2029-10-06T22:19:53"
+    }
+]
