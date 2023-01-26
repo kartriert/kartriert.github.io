@@ -1,0 +1,192 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/100832989'>Barchewitz, Ernst Christoph, 1687-1758</a> - St\u00f6\u00dfel, Johann Chr. ; St\u00f6\u00dfel, Johann D."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Ernst Christoph Barchewitz, Thur. Der Edlen Ost-Indianischen Compagnie der vereinigten Nieder-Lande gewesenen commandierenden Officiers auf der Insul Lethy Allerneueste und wahrhaffte Ost-Indianische Reise-Beschreibung: Darinnen I. Seine durch Teutsch- und Holland nach Indien gethane Reise; II. Sein Eilff-j\u00e4hriger Auffenthalt auf Java, Banda und den Sudwester-Insulen, Gl\u00fccks- und Ungl\u00fccks-F\u00e4lle und seltsame Begebenheiten, auch remarqvirte rare Gew\u00e4chse, B\u00e4ume, Fr\u00fcchte, Thiere, Fische, Insecten, Berge, Vestungen, Nationen, Gewohnheiten, Aberglauben der Wilden, und viele andere Denckw\u00fcrdigkeiten mehr; III. Seine R\u00fcck-Reise, der dabey erlittene grausame Sturm, und endlich gl\u00fccklich erfolgte Ankunfft in sein Vaterland umst\u00e4ndlich beschrieben wird ; Benebst einer ausf\u00fchrlichen Land-Charte der Sudwester- und Bandanesischen Insulen, welche in anderen Land-Charten nicht gefunden, noch in denen Geographien beschrieben werden und einem vollst\u00e4ndigen Register"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Volume"
+            },
+            {
+                "@language": "ger",
+                "@value": "Band"
+            }
+        ],
+        "value": "Tbl. in Rot- u. Schwarzdr."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "XA-DXDE"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Johann Christoph und Johann David St\u00f6\u00dfeln"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1730"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[1] Doppelbl., [8]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4116816-1'>Ostindien</a>, Reisebericht 1711-1722"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC03196490'>ZKAR MAG 361967-A</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z4215710X"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC03196490"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2018-02-19T05:08:22"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2018-02-19T06:41:30"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2033-04-19T05:08:22"
+    }
+]

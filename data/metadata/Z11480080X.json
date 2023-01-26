@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118734784'>Niebuhr, Carsten, 1733-1815</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "<< Carsten Niebuhrs>> Reisebeschreibung nach Arabien und anderen umliegenden L\u00e4ndern. 2."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Kopenhagen"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Gedruckt in der Hofbuchdruckerey bey Nicolaus M\u00f6ller"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1778"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[8] Bl., 479 S., LII teilw. gef. Bl."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4026722-2'>Indien</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, Geschichte 1763-1764, <a href='http://d-nb.info/gnd/4038788-4'>Mesopotamien</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, Geschichte 1764-1766, <a href='http://d-nb.info/gnd/4045231-1'>Persepolis</a>, <a href='http://d-nb.info/gnd/4163552-8'>Keilschrift</a>, <a href='http://d-nb.info/gnd/4027107-9'>Inschrift</a>, <a href='http://d-nb.info/gnd/4026722-2'>Indien</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1764-1766, <a href='http://d-nb.info/gnd/4068878-1'>Naher Osten</a>, <a href='http://d-nb.info/gnd/4073972-7'>Landeskunde</a>, Geschichte 1764-1766, <a href='http://d-nb.info/gnd/4026722-2'>Indien</a>, <a href='http://d-nb.info/gnd/4020216-1'>Geografie</a>, <a href='http://d-nb.info/gnd/4020202-1'>Geod\u00e4sie</a>, <a href='http://d-nb.info/gnd/4029823-1'>Kartografie</a>, Geschichte 1763-1764, <a href='http://d-nb.info/gnd/4068878-1'>Naher Osten</a>, <a href='http://d-nb.info/gnd/4020216-1'>Geografie</a>, <a href='http://d-nb.info/gnd/4020202-1'>Geod\u00e4sie</a>, <a href='http://d-nb.info/gnd/4029823-1'>Kartografie</a>, Geschichte 1764-1766, <a href='http://d-nb.info/gnd/4002529-9'>Arabien</a>, <a href='http://d-nb.info/gnd/4068878-1'>Naher Osten</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, Reisebericht 1761-1767"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC07890923'>Alt Mag 309801-C.2</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z11480080X"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC07890923"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2014-08-28T00:19:15"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-11-13T23:51:02"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2029-10-28T00:19:15"
+    }
+]
