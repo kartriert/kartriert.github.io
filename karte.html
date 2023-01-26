@@ -153,6 +153,7 @@
 			.then(data => {
 				var filenamelist = [];
 				for(let d in data) {
+					var entry = data[d].path;
 					filenamelist[parseInt(d)] = entry;
 				}
 				resolve(filenamelist);
