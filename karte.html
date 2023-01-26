@@ -153,7 +153,7 @@
 			.then(data => {
 				var filenamelist = [];
 				for(let d in data) {
-					var entry = data[d].path.replace("testkarte16\/","");
+					var entry = data[d].path.replace("Leaflet-Test\/","");
 					filenamelist[parseInt(d)] = entry;
 				}
 				resolve(filenamelist);
