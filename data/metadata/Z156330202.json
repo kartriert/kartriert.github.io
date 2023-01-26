@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118848224'>Arvieux, Laurent </a> - <a href='http://d-nb.info/gnd/118500333'>Abu-'l-Fid\u0101 Ism\u0101\u02bf\u012bl Ibn-\u02bfAl\u012b, 1273-1331</a> - <a href='http://d-nb.info/gnd/132984245'>La Roque, Jean </a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Beschreibung der Reise nach Palestina, Zu dem Grossen Emir, dem Oberhaupte unter den F\u00fcrsten der Araber in der W\u00fcsten, welche unter dem Titel der Bedouiten [sic] oder der arabischen Sceniten bekannt sind, und welche vorgeben, sie w\u00e4ren die rechten Nachkommen Ismaels, des Sohnes Abraham. Auf Befehl und Verordnung K\u00f6nigl. Majest\u00e4t Ludwigs des XIV. verrichtet. Benebst einer allgemeinen Beschreibung von Arabien, welche von dem Sultan Ismael Abulfeda aufgesetzet, von dem Herrn De La Roque aber ins Franz\u00f6sische nach den besten Manuscriptis \u00fcbersetzet, und mit Noten hin und wieder versehen worden. Nunmehr auch in teutsche Sprache \u00fcbersetzt"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Leipzig"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Zu finden im Braunischen Buchladen"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1740"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[12] Bl., 288 S., [1]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4002529-9'>Arabien</a>, <a href='http://d-nb.info/gnd/4044381-4'>Pal\u00e4stina</a>, <a href='http://d-nb.info/gnd/4049275-8'>Reise </a>, <, um 1715, >"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC09668105'>Alt Prunk 48.Y.33</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z156330202"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09668105"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2012-01-20T07:12:18"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-02T15:04:31"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2027-03-20T07:12:18"
+    }
+]
