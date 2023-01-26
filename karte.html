@@ -144,7 +144,7 @@
 	  
 	  function filelistRequest(){
 		  return new Promise(function (resolve, reject) {
-			fetch("https://api.github.com/repos/kartriert/reiseberichte-kartriert/contents/Leaflet-Test/ner-results?ref=main").then(
+			fetch("https://api.github.com/repos/kartriert/reiseberichte-kartriert/contents/travelogues/data/output/text_ner/with_url/finished?ref=main").then(
 				(response => response.json()),
 				(error) => {
 					reject(error);
@@ -153,7 +153,7 @@
 			.then(data => {
 				var filenamelist = [];
 				for(let d in data) {
-					var entry = data[d].path.replace("Leaflet-Test\/","");
+					var entry = data[d].path.replace("finished\/","");
 					filenamelist[parseInt(d)] = entry;
 				}
 				resolve(filenamelist);
@@ -174,7 +174,7 @@
 		  // Listung der Metadatenquellen
 		  var metadatafiles = []
 		  for (let j=0; j<filenamelist.length; j++){
-			  var entry = filenamelist[j].replace("ner-results", "https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/Leaflet-Test/metadata");
+			  var entry = filenamelist[j].replace("finished", "https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/data/metadata");
 			  var entry = entry.replace("geojson", "json");
 			  metadatafiles[j] = entry;
 		  } 
@@ -209,7 +209,7 @@
 			var b = Math.floor(Math.random() * 255);
 			color= "rgb("+r+" ,"+g+","+ b+")"; 
 			// Füge Layer zur Sammlung hinzu
-			sixteenthLayers.push ( new L.GeoJSON.AJAX("https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/Leaflet-Test/"+filenamelist[i], {
+			sixteenthLayers.push ( new L.GeoJSON.AJAX("https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/travelogues/data/output/text_ner/with_url/finished/"+filenamelist[i], {
 				title : tl,
 				pointToLayer: function (feature, latlng) {
 					return L.circleMarker(latlng, {
