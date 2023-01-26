@@ -153,7 +153,6 @@
 			.then(data => {
 				var filenamelist = [];
 				for(let d in data) {
-					var entry = data[d].path.replace("finished\/","");
 					filenamelist[parseInt(d)] = entry;
 				}
 				resolve(filenamelist);
@@ -174,7 +173,7 @@
 		  // Listung der Metadatenquellen
 		  var metadatafiles = []
 		  for (let j=0; j<filenamelist.length; j++){
-			  var entry = filenamelist[j].replace("travelogues/data/output/text_ner/with_url", "data/metadata");
+			  var entry = filenamelist[j].replace("travelogues/data/output/text_ner/with_url/finished", "data/metadata");
 			  var entry = entry.replace("geojson", "json");
 			  metadatafiles[j] = entry;
 			  console.log(entry);
