@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "Meares, John - <a href='http://d-nb.info/gnd/118534416'>Forster, Georg, 1754-1794</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Geschichte der Reisen, die seit Cook an der Nordwest- und Nordost-K\u00fcste von Amerika und in dem n\u00f6rdlichsten Amerika selbst von Meares, Dixon, Portlock, Coxe, Long u. a. m. unternommen worden sind ; Aus dem Englischen, mit Zuziehung aller anderweitigen H\u00fclfsquellen, ausgearbeitet von Georg Forster. 1. Des Kapitians John Meares und des Kapitains William Douglas Reisen nach der Nordwest-K\u00fcste von Amerika, in den Jahren 1786 bis 1789"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Volume"
+            },
+            {
+                "@language": "ger",
+                "@value": "Band"
+            }
+        ],
+        "value": "Erster Band"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Berlin"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "Vo\u00df"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1791"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4042483-2'>Nordamerika</a>, <a href='http://d-nb.info/gnd/4438057-4'>Nordwestk\u00fcste</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise </a>, <, 1786-89, >, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise</a>, Douglas, William 1786-89, <a href='http://d-nb.info/gnd/4001670-5'>Amerika</a>, <a href='http://d-nb.info/gnd/4261540-9'>K\u00fcstengebiet</a>, <a href='http://d-nb.info/gnd/4017916-3'>Forschungsreise </a>, <, 1764-1791, >"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC09624733'>Alt Prunk 51.F.2.(Vol.1)</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z172169706"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC09624733"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2012-09-10T23:53:35"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-03T07:58:39"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2027-11-10T23:53:35"
+    }
+]
