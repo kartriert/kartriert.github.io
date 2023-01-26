@@ -1,0 +1,166 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/103203808X'>Blainville, J. </a> - <a href='http://d-nb.info/gnd/124568254'>Turnbull, George, 1698-1748</a> - <a href='http://d-nb.info/gnd/1025948416'>Guthrie, William, 1708-1770</a> - <a href='http://d-nb.info/gnd/116276762'>K\u00f6hler, Johann Tobias, 1720-1768</a> - aus des Verfassers eigener Handschrift in englischer Sprache zum erstenmal zum Druck bef\u00f6rdert von Georg Turnbull der Rechten Doktor und Wilhelm Guthrie Ritter nunmehr in das Deutsche \u00fcbersetzet, erl\u00e4utert und hin und wieder mit Anmerkungen versehen von Johann Tobias K\u00f6hler Professor zu G\u00f6ttingen und Mitglied der Churf\u00fcrstlich Maynzischen Academie der n\u00fctzlichen Wissenschaften"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "<<Des>> Herrn von Blainville ehemaligen Gesandschaftssekret\u00e4rs der Generalstaaten der vereinigten Niederlande an dem Spanischen Hofe Reisebeschreibung durch Holland, Oberdeutschland und die Schweiz, besonders aber durch Italien. F\u00fcnfter und lezter Band ; nebst einem brauchbaren Register \u00fcber das ganze Werk ; zweyter und lezter Zusatz in 138 Briefen oder Reise eines Engl\u00e4nders durch Frankreich, Italien, die griechischen Inseln und Deutschland ; [D. Matthews]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "XA-DXDE"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1767"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[2] Bl., 532 S., [24]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4015701-5'>Europa</a>, Reisebericht"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC06055022'>Kar 364192-B.5</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z86141705"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC06055022"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2018-02-19T04:30:00"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2018-02-19T12:13:43"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2033-04-19T04:30"
+    }
+]

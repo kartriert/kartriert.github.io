@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/100121454'>Emericus, Halensis</a> - Verfasset und zusamm getragen von ... R. P. Emerico Halensi"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Sieben-J\u00e4hrige Wanderschafft: Das ist: Kurtze, und wahrhaffte Beschreibung Der Sieben-J\u00e4hrigen Visitations-Rey\u00df R.mi P. Hartmanni Brixinensis Des gantzen Capuciner-Ordens Weiland gewesten Ministri Generalis, Durch Spanien, Franckreich, Niederland, Teutsch- und Welschland: Worinn Nebst denen vornehmsten St\u00e4dten und Landschafften in Europa, vil rare Merckw\u00fcrdigkeiten, und seltsame Zuf\u00e4ll, wie auch die Gewohnheiten verschidener Nationen enthalten seynd ... Nun aber Zu gemeiner Bequemlichkeit, und nutzbaren, auch erg\u00f6tzlichen Zeit-Vertreibung, auf vilf\u00e4ltig- und sehnliches Anverlangen in offentlichen Druck hervorgegeben"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Innsbruck"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "gedruckt bey Michael Anton Wagner"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1753"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[11] Bl., 232 S., [6]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/1008639-0'>Kapuziner</a>, Bayerische Provinz, Kapuziner, Bayerische Provinz, <a href='http://d-nb.info/gnd/4486812-1'>Kapuziner</a>, Bologneser Provinz, Kapuziner, Bologneser Provinz, <a href='http://d-nb.info/gnd/4590580-0'>Kapuziner</a>, Els\u00e4ssische Provinz, Kapuziner, Els\u00e4ssische Provinz, <a href='http://d-nb.info/gnd/4350537-5'>Kapuziner</a>, Lyoner Provinz, Kapuziner, Lyoner Provinz, <a href='http://d-nb.info/gnd/4395980-5'>Kapuziner</a>, Nordtirolische Kapuziner-Ordensprovinz, Kapuziner, Nordtirolische Kapuziner-Ordensprovinz, <a href='http://d-nb.info/gnd/4725518-3'>Kapuziner</a>, Provinz Katalonien, Kapuziner, Provinz Katalonien, <a href='http://d-nb.info/gnd/1215752-1'>Kapuziner</a>, Warszawska Prowincja, Kapuziner, Warszawska Prowincja, <a href='http://d-nb.info/gnd/4330375-4'>Kapuziner</a>, Rheinisch-Westf\u00e4lische Kapuziner-Ordensprovinz, Kapuziner, Rheinisch-Westf\u00e4lische Kapuziner-Ordensprovinz, <a href='http://d-nb.info/gnd/4132571-0'>Visitation</a>, Bericht, <a href='http://d-nb.info/gnd/1012705-7'>Kapuziner</a>, Kapuziner, <a href='http://d-nb.info/gnd/4015701-5'>Europa</a>, <a href='http://d-nb.info/gnd/4132571-0'>Visitation</a>, Erlebnisbericht, Geschichte 1753, Quelle"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC03086246'>Alt Mag 305627-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z42111500"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC03086246"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2013-08-05T21:50:45"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-04T20:17:50"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2028-10-05T21:50:45"
+    }
+]

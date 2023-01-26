@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/10005739X'>Briemle, Vinzenz</a> - <a href='http://d-nb.info/gnd/13007540X'>Pock, Johann Joseph, 1675-1735, [Bearb.]</a> - Aus eigener Erfahrung, durch achtzehen-j\u00e4hrige m\u00fchesame verrichtete solche Reisen zu seiner Privat-Erg\u00f6tzung aufgezeichnet von Vincentio Briemle, aus Schwaben Bistums Costantz Jetzo aber Mit sonderbahren Anmerckungen ... auch andern bew\u00e4hrten Autoren versehen durch Johann Joseph Pock, Rittern des guldenen Sporns ... Beeder Rechten Doctorem, auch Chur-Bayerischen Hof-Raths Advocaten"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "<<Die>> Durch die drey Theile der Welt, Europa, Asia und Africa, Besonders in denselben nach Loreto, Rom, Monte-Cassino, nicht minder Jerusalem, Bethlehem, Nazareth, Berg Sinai, etc. etc. und andere heilige Oerter des gelobten Landes angestellte And\u00e4chtige Pilgerfahrt. 1 (1727). <<Die>> Reise von M\u00fcnchen durch gantz Welschland und wieder zuruck"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "M\u00fcnchen"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "verlegts Georg Christoph Weber"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1727"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[8] Bl., 787 S., [10]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4027833-5'>Italien</a>, <a href='http://d-nb.info/gnd/4064460-1'>Wallfahrt</a>, Reisebericht"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC03288379'>Kar 361902-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z45404502"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC03288379"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2018-02-16T03:09:00"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2018-02-16T07:48:40"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2033-04-16T03:09"
+    }
+]

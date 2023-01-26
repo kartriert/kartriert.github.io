@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118806580'>Wekhrlin, Wilhelm Ludwig, 1739-1792</a> - Anselmus Rabiosus"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Reise durch Ober-Deutschland"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Leipzig [d.i. N\u00f6rdlingen]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "[Beck]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1778"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[3] Bl., 152 S."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/4078022-3'>S\u00fcddeutschland</a>, <a href='http://d-nb.info/gnd/4049275-8'>Reise</a>, Geschichte 1778, Quelle, <a href='http://d-nb.info/gnd/4043271-3'>\u00d6sterreich</a>, <a href='http://d-nb.info/gnd/4049275-8'>Reise</a>, Geschichte 1778, Quelle, <a href='http://d-nb.info/gnd/4043271-3'>\u00d6sterreich</a>, <a href='http://d-nb.info/gnd/4056618-3'>Staat</a>, <a href='http://d-nb.info/gnd/4020588-5'>Gesellschaft</a>, <a href='http://d-nb.info/gnd/4033229-9'>Kritik</a>, Geschichte 1778, Quelle, <a href='http://d-nb.info/gnd/4005044-0'>Bayern</a>, <a href='http://d-nb.info/gnd/4056618-3'>Staat</a>, <a href='http://d-nb.info/gnd/4020588-5'>Gesellschaft</a>, <a href='http://d-nb.info/gnd/4033229-9'>Kritik</a>, Geschichte 1778, Quelle, <a href='http://d-nb.info/gnd/4078022-3'>S\u00fcddeutschland</a>, <a href='http://d-nb.info/gnd/4056618-3'>Staat</a>, <a href='http://d-nb.info/gnd/4020588-5'>Gesellschaft</a>, <a href='http://d-nb.info/gnd/4033229-9'>Kritik</a>, Geschichte 1778, Quelle"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC04500597'>Alt Mag 307366-B</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z43125907"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC04500597"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2013-10-14T03:58:20"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-03-04T20:36:58"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2028-12-14T03:58:20"
+    }
+]

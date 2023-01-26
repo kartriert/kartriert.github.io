@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "Mayer, ..., [Hrsg.] - herausgegeben vom Herrn Mayer. Aus dem Franz\u00f6s. \u00fcbersetzt"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Reisen Sr. Kais. Majest\u00e4t Josephs II. unter dem Namen des Herrn Grafen von Falkenstein, nach Italien, B\u00f6hmen und Frankreich: welche eine Beschreibung von verschiedenen n\u00fctzlichen und wichtigen Anstalten in den kaiserlichen L\u00e4ndern enthalten"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Leipzig"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "bey Carl Friederich Schneidern [Schneider]"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1778"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "182 S."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/118558404'>Joseph</a>, II., Heiliges R\u00f6misches Reich, Kaiser, 1741-1790, Joseph II., Heiliges R\u00f6misches Reich, Kaiser, 1741-1790, <a href='http://d-nb.info/gnd/4027833-5'>Italien</a>, <a href='http://d-nb.info/gnd/4049275-8'>Reise</a>, Geschichte 1769, <a href='http://d-nb.info/gnd/118558404'>Joseph</a>, II., Heiliges R\u00f6misches Reich, Kaiser, 1741-1790, Joseph II., Heiliges R\u00f6misches Reich, Kaiser, 1741-1790, <a href='http://d-nb.info/gnd/4007467-5'>B\u00f6hmen</a>, <a href='http://d-nb.info/gnd/4049275-8'>Reise</a>, Geschichte 1766, <a href='http://d-nb.info/gnd/118558404'>Joseph</a>, II., Heiliges R\u00f6misches Reich, Kaiser, 1741-1790, Joseph II., Heiliges R\u00f6misches Reich, Kaiser, 1741-1790, <a href='http://d-nb.info/gnd/4018145-5'>Frankreich</a>, <a href='http://d-nb.info/gnd/4049275-8'>Reise</a>, Geschichte 1777"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC01535778'>Alt Mag 303702-A</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z21339709"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC01535778"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2015-06-22T00:28:28"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-06-22T00:55:14"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2030-08-22T00:28:28"
+    }
+]

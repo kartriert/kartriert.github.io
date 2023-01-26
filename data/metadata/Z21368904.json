@@ -1,0 +1,179 @@
+[
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Contributor"
+            },
+            {
+                "@language": "ger",
+                "@value": "Mitwirkender"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/119455625'>Ferri\u00e8res-Sauveboeuf, Louis Fran\u00e7ois </a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Title"
+            },
+            {
+                "@language": "ger",
+                "@value": "Titel"
+            }
+        ],
+        "value": "Magazin von merkw\u00fcrdigen neuen Reisebeschreibungen ; 8. <<Des Grafen von Ferrieres-Sauveboeuf>> Reisen in der T\u00fcrkey, Persien und Arabien"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Place"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsort"
+            }
+        ],
+        "value": "Wien"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Publisher"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verlag"
+            }
+        ],
+        "value": "gedruckt und verlegt bey F. A. Schr\u00e4mbl"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Date Issued"
+            },
+            {
+                "@language": "ger",
+                "@value": "Erscheinungsdatum"
+            }
+        ],
+        "value": "1792"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Extent"
+            },
+            {
+                "@language": "ger",
+                "@value": "Umfang"
+            }
+        ],
+        "value": "[5] Bl., 410 S."
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Subject Heading"
+            },
+            {
+                "@language": "ger",
+                "@value": "Schlagworte"
+            }
+        ],
+        "value": "<a href='http://d-nb.info/gnd/119455625'>Ferri\u00e8res-Sauveboeuf, Louis Fran\u00e7ois </a>, <, <, de, >, >, 1762-1814, Ferri\u00e8res-Sauveboeuf, Louis Fran\u00e7ois , <, <, de, >, >, , 1762-1814, <a href='http://d-nb.info/gnd/4075720-1'>Osmanisches Reich</a>, Reisebericht 1782-1789, <a href='http://d-nb.info/gnd/119455625'>Ferri\u00e8res-Sauveboeuf, Louis Fran\u00e7ois </a>, <, <, de, >, >, 1762-1814, Ferri\u00e8res-Sauveboeuf, Louis Fran\u00e7ois , <, <, de, >, >, , 1762-1814, <a href='http://d-nb.info/gnd/4002529-9'>Arabien</a>, Reisebericht 1782-1789, <a href='http://d-nb.info/gnd/119455625'>Ferri\u00e8res-Sauveboeuf, Louis Fran\u00e7ois </a>, <, <, de, >, >, 1762-1814, Ferri\u00e8res-Sauveboeuf, Louis Fran\u00e7ois , <, <, de, >, >, , 1762-1814, <a href='http://d-nb.info/gnd/4027653-3'>Iran</a>, Reisebericht 1782-1789"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Location"
+            },
+            {
+                "@language": "ger",
+                "@value": "Ort"
+            }
+        ],
+        "value": "<a href='http://data.onb.ac.at/rec/AC01624340'>Alt Mag 303755-A.8</a> - \u00d6NB"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Disseminator"
+            },
+            {
+                "@language": "ger",
+                "@value": "Anbieter"
+            }
+        ],
+        "value": "<a href='http://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo/'>Austrian Books Online</a>"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Languages"
+            },
+            {
+                "@language": "ger",
+                "@value": "Sprachen"
+            }
+        ],
+        "value": "ger"
+    },
+    {
+        "label": "Barcode",
+        "value": "Z21368904"
+    },
+    {
+        "label": "IDNR",
+        "value": "AC01624340"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Scan Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Scandatum"
+            }
+        ],
+        "value": "2015-06-22T04:03:51"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Process Date"
+            },
+            {
+                "@language": "ger",
+                "@value": "Verarbeitungsdatum"
+            }
+        ],
+        "value": "2015-06-22T04:33:02"
+    },
+    {
+        "label": [
+            {
+                "@language": "en",
+                "@value": "Copyright Expires as of"
+            },
+            {
+                "@language": "ger",
+                "@value": "Urheberrechtlich Gesch\u00fctzt bis"
+            }
+        ],
+        "value": "2030-08-22T04:03:51"
+    }
+]
