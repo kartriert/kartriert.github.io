@@ -118,6 +118,9 @@
 				 if (t != sixteenthLayers[l-1].options.time){
 					 timeGroups.push (tempgroup);
 					 tempgroup = L.layerGroup([sixteenthLayers[l]], {time: t});
+					 if (l==sixteenthLayers.length-1){
+						timeGroups.push (tempgroup);
+					 }
 				 }  
 				 else {
 					 tempgroup.addLayer(sixteenthLayers[l]);
