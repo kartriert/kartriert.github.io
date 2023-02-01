@@ -858,15 +858,26 @@ details[open].styled summary {
   grid-template-columns: 1 fr 1 fr 1fr;
   grid-template-rows: 1700 px;
   grid-auto-flow: column;
-  column-gap: 10px;
+  column-gap: 50px;
 
 }
 
 .buttons button {
-  background-color: #c8e9e5;
-  color: #333333;
-  border-radius: 5px;
+  width: 350px;
+  height: 250px;
+  font-size: 20px;
+  color: #433d3d;
+  background: #e2dbd5;
+  border: 2px solid #016273;
+  border-radius: 10px;
+  transition: all 0.25s ease;
 }
+
+  .buttons button:hover {
+  color: #000000;
+  background: #d4ba95;
+  border-color: none;
+} 
 
 
 /*--------------------------------------------------------------
