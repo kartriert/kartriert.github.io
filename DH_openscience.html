@@ -45,12 +45,25 @@
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
+            <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a href="index.html">Homepage</a></li>
           <li><a href="karte.html">Karte</a></li>
-          <li><a href="ueber_projekt.html">Über das Projekt</a></li>
-          <li><a class="active" href="DH_openscience.html">DH & Open Science</a></li>
+          <li class="dropdown"><a href="ueber_projekt.html"><span>Über das Projekt</span></a>
+            <ul>
+              <li><a href="NER.html">NER</a></li>
+              <li><a href="clustering.html">Clustering</a></li>
+              <li><a href="karte_text.html">Karte</a></li>
+              <li><a href="website.html">Website</a></li>
+              <li><a href="travelogues.html">Travelogues-Projekt</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a class="active" href="DH_openscience.html"><span>DH & Open Science</span></a>
+            <ul>
+              <li><a href="dh-allgemein.html">DH</a></li>
+              <li><a href="openscience.html">Open Science</a></li>
+            </ul>
+          </li>
           <li><a href="kontakt.html">Kontakt</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -73,25 +86,24 @@
 
             <!-- ======= buttons ======= -->
         <section class="grid-container">
-            <div class="buttons">
+            <div class="buttons" style="display: flex; justify-content: right;">
               <a href="dh-allgemein.html">
-                <button>Open Science
+                <button>
+                  <h3>Digital Humanities</h3>
                   <p>Hallo</p>
                 </button>
               </a>
             </div>
 
-            <div class="buttons">
-              <a href="julesvernes.html">
-                <button>Über Jules Verne</button>
+            <div class="buttons" style="display: flex; justify-content: left;">
+              <a href="openscience.html">
+                <button>
+                  <h3>Open Science</h3>
+                  <p>Prinzipien</p>
+                </button>
               </a>
             </div>
 
-            <div class="buttons">
-              <a href="seiteleer.html">
-                <button>Travelogues Projekt</button>
-              </a>
-            </div>
         </section>
             <!-- ======= End buttons ======= -->
         
