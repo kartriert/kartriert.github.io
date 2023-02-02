@@ -629,7 +629,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akkordeon
+# Accordion
 --------------------------------------------------------------*/
 details.styled {
   padding: 1em;
@@ -647,7 +647,7 @@ details.styled summary {
 }
 
 details[open].styled{
-  background-color: rgba(0,0,0,0.1);
+  background-color: #d4ba95;
   /*max-height: 500px;*/
 }
 
@@ -656,40 +656,33 @@ details[open].styled summary {
 }
 
 /*--------------------------------------------------------------
-# Skills
+# Methods
 --------------------------------------------------------------*/
-.skills .progress {
-  height: 60px;
-  display: block;
-  background: none;
-  border-radius: 0;
+.grid-container {
+  display: grid;
+  grid-template-columns: 1 fr 1 fr 1fr;
+  grid-template-rows: 1700 px;
+  grid-auto-flow: column;
+  column-gap: 20px;
+
 }
 
-.skills .progress .skill {
-  padding: 10px 0;
-  margin: 0 0 6px 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #222222;
+.methods button {
+  width: 200px;
+  height: 100px;
+  font-size: 20px;
+  color: #433d3d;
+  background: #e2dbd5;
+  border: 2px solid #016273;
+  border-radius: 10px;
+  transition: all 0.25s ease;
 }
 
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-
-.skills .progress-bar-wrap {
-  background: #f3f3f3;
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #34b7a7;
-}
+.methods button:hover {
+  color: #000000;
+  background: #d4ba95;
+  border-color: none;
+} 
 
 /*--------------------------------------------------------------
 # Facts
@@ -697,7 +690,7 @@ details[open].styled summary {
 .facts .counters span {
   font-size: 48px;
   display: block;
-  color: #34b7a7;
+  color: #016273;
 }
 
 .facts .counters p {
