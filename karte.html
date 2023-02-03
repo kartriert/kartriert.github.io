@@ -93,7 +93,7 @@
         <div class="container" data-aos="fade-up">
             <div class="section-title">
                 <h2>Karte</h2>
-                <div id="map"></div>
+                <div id="map" style="text-align: left"></div>
             </div>
         </div>
     </section>
@@ -178,6 +178,21 @@
 		  return $.getJSON(path);
 	  }
 	  
+	  function getGeoLayer(path, t, tl, color) {
+		return new L.GeoJSON.AJAX(path, {
+				title : tl,
+				pointToLayer: function (feature, latlng) {
+					return L.circleMarker(latlng, {
+						radius: 8,
+						fillColor: color,
+						color: "#000",
+						weight: 1,
+						opacity: 1,
+						fillOpacity: 0.8	
+						});
+				}, time: t});
+	  }
+	  
 	  async function main() {
 		  // Initialisierung der Hintergrundkarte
 		  var map = L.map('map').setView([40, 0], 3);     
@@ -202,7 +217,7 @@
 		  //Import der GeoJson-Layer
 		  var t;
 		  var tl;
-		  var sixteenthLayers = [];
+		  var eighteenthLayers = [];
 		  for (let i=0; i < filenamelist.length; i++){
 			var meta = await getMetadata(metadatafiles[i]);
 			for (let g=0; g<meta.length; g++){
@@ -222,38 +237,28 @@
 			var b = Math.floor(Math.random() * 255);
 			color= "rgb("+r+" ,"+g+","+ b+")"; 
 			// Füge Layer zur Sammlung hinzu
-			sixteenthLayers.push ( new L.GeoJSON.AJAX("https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/"+filenamelist[i], {
-				title : tl,
-				pointToLayer: function (feature, latlng) {
-					return L.circleMarker(latlng, {
-						radius: 8,
-						fillColor: color,
-						color: "#000",
-						weight: 1,
-						opacity: 1,
-						fillOpacity: 0.8	
-						});
-				}, time: t}));
+			var p = "https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/"+filenamelist[i];
+			eighteenthLayers.push ( await getGeoLayer(p, t, tl, color));
 		  }
 		  // Sortiere und gruppiere Layer nach Datum
-		  sixteenthLayers.sort((a,b) => (a.options.time > b.options.time) ? 1 : ((b.options.time > a.options.time) ? -1 : 0))
+		  eighteenthLayers.sort((a,b) => (a.options.time > b.options.time) ? 1 : ((b.options.time > a.options.time) ? -1 : 0))
 		  var timeGroups = [];
 		  var tempgroup;
-		  for (let l=0; l < sixteenthLayers.length; l++){
-			  var t = sixteenthLayers[l].options.time;
+		  for (let l=0; l < eighteenthLayers.length; l++){
+			  var t = eighteenthLayers[l].options.time;
 			  if (l==0){
-			   tempgroup = L.layerGroup([sixteenthLayers[l]], {time: t});
+			   tempgroup = L.layerGroup([eighteenthLayers[l]], {time: t});
 				}
 			  else {
-				 if (t != sixteenthLayers[l-1].options.time){
+				 if (t != eighteenthLayers[l-1].options.time){
 					 timeGroups.push (tempgroup);
-					 tempgroup = L.layerGroup([sixteenthLayers[l]], {time: t});
-					 if (l==sixteenthLayers.length-1){
+					 tempgroup = L.layerGroup([eighteenthLayers[l]], {time: t});
+					 if (l==eighteenthLayers.length-1){
 						timeGroups.push (tempgroup);
 					 }
 				 }  
 				 else {
-					 tempgroup.addLayer(sixteenthLayers[l]);
+					 tempgroup.addLayer(eighteenthLayers[l]);
 				 }
 			   }
 		  }
@@ -261,8 +266,8 @@
 		  // Layerkontrolle
 		  var base = {}
 		  var titles = {};
-		  for (let k=0; k < sixteenthLayers.length; k++){
-				titles[sixteenthLayers[k].options.title] = sixteenthLayers[k];
+		  for (let k=0; k < eighteenthLayers.length; k++){
+				titles[eighteenthLayers[k].options.title] = eighteenthLayers[k];
 				}
 		  var overlays = titles;
 		  		  var sControl = L.control.sliderControl({position: "topleft", layer: testGroup, range: true, sameDate: true, alwaysShowDate: true, timeStrLength: 4});
@@ -274,7 +279,6 @@
 	  main();
 	  
     </script>
-
 </body>
 
 </html>
