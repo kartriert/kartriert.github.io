@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Leere Seite</title>
+  <title>Clustering</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -14,7 +14,9 @@
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -76,20 +78,71 @@
 
   <main id="main">
     <section id="services" class="services">
-        <div class="container" data-aos="fade-up">
-            <div class="section-title">
-                <h2>Clustering</h2>
-                <p>Platzfreihalter.</p>
-            </div>
-            <div>
-                <ul>
-                    <li><a href="NER.html">Text über NER</a></li>
-                    <li><a href="karte_text.html">Text über unsere Karte</a></li>
-                    <li><a href="travelogues.html">Text über Travelogues</a></li>
-                    <li><a href="Website.html">Text über die Website</a></li>
-                </ul>
-            </div>
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Clustering</h2>
+          <p>Unser Ziel war es, die im Laufe des Berichtes erwähnten Orte zu kartieren und eine mögliche Chronologie mit
+            abzubilden. Da es in den Geojsons zu Ungenauigkeiten kam, also manche Orte falsch oder gar nicht erkannt
+            wurden, und da auch im Text Orte genannt werden, die nicht mit dem Kontext des Gesamtberichts
+            zusammenhängen, haben wir über eine automatisierte Anpassung der Daten nachgedacht. Dabei gingen wir davon
+            aus, dass Handlungsstrang und Aufenthaltsort nicht nur die meisten Daten ausmachen, sondern sich auch am
+            meisten aufeinander beziehen. Daher kam schnell die Idee einer Clusterbildung auf. So sollten Hotspots an
+            geografischen Daten ausfindig gemacht werden und Orte, die nur vereinzelt auftreten, herausgefiltert werden.
+            Als sogenanntes Rauschen sollten dann zum Beispiel die Metaangaben des Buches (Publikationsort, etc.) oder
+            vereinzelte Herkunftsnennungen von weiteren Personen ("Ich reiste nach Peru und traf dort Peter aus Berlin…"
+            -> Berlin ist nicht relevant für die Reiseroute) klassifiziert werden. </p>
+          <p>Da es im Vorhinein kaum Anhaltspunkte gab, wie viele Cluster gebildet werden müssten und ein Ausschluss von
+            einzelnen Punkten nicht nur erwünscht, sondern sogar das Ziel war, entschieden wir uns für ein
+            dichtebasiertes Clusteringverfahren: <a href="https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80">DBSCAN (Density-Based Spatial Clustering of Applications with Noise)</a>.
+            Hierbei werden Cluster gesucht, bei denen die Punkte in ihnen nur einen gewissen Abstand aufweisen und immer
+            eine gewisse Anzahl an Kernelementen auftreten. Wenn viele Punkte in geringem Abstand zueinander stehen,
+            gibt es dort eine hohe Dichte und ein Cluster kann erkannt werden. Darum nennt man dieses Verfahren auch
+            dichtebasierte Clusteranalyse. Der Nachteil ist hierbei, dass es bei unterschiedlichen Dichten zu Problemen
+            kommen kann.
+            Darauf aufbauend sind auch drei Sachen festzulegen, bevor das Clustering durchgeführt wird:</p>
+          <ul>
+            <li>Die <strong>Distanzberechnung</strong>: Wie wird die Distanz zwischen den Punkten berechnet? Häufig wird
+              als
+              <i>Distanzfunktion</i> die euklidische Distanz benutzt. In unserem Verfahren wird zu dieser eine
+              Gewichtung
+              hinzugefügt, weil sowohl mit der räumlichen Angabe (wo befindet sich der Ort auf der Karte -> Latitude und
+              Longitude), als auch eine zeitliche Komponente genutzt wird (in dem wievielten Satz wird dieser Ort
+              genannt). Ziel dessen ist es wirklich Hotspots zu finden, die dann auf Reiserouten hinweisen. Dafür ist
+              eben auch der zeitliche Rahmen relevant, der über den Ort der Nennung im Text implizit bestimmt wird. Die
+              zeitliche Angabe hat aber eine etwas andere Form, daher wird hier die Gewichtung zusätzlich zu der
+              maximalen Distanz benötigt.
+            </li>
+            <li>Die <strong>maximale Distanz</strong> &epsilon;: Sobald die Art der Distanzberechnung bestimmt wurde,
+              kann der Abstand
+              eines jeden Punktes zu jedem weiteren Punkt berechnet werden. Die maximale Distanz gibt nun an, welche
+              Punkte untereinander <i>dichteerreichbar</i> sind, ihnen also die Möglichkeit einer Aufnahme in das
+              Cluster
+              zugestanden wird.</li>
+            <li>Die minimale Anzahl an Kernpunkten minPts: Mit diesem Wert wird angegeben, wie viele Punkte ein
+              Cluster wenigstens als <i>Kernelemente</i> hat. Für einen Wert von 1 würde das Cluster einfach alle Punkte
+              umfassen, die sich innerhalb der maximalen Distanz befinden. Wird der Wert erhöht müssen minPts-Punkte
+              einen Punkt umgeben. dann kann von diesem Punkt ausgehend ein Cluster gebildet werden: alle
+              dichterreichbaren Punkte werden als dem Cluster zugehörig klassifiziert. Wenn einer der
+              dichteerreichbaren Punkte wiederum ein Kernelement ist, werden auch seine dichteerreichbaren Punkte
+              aufgenommen und so weiter. Dadurch können dichtere Cluster gesucht werden.</li>
+          </ul>
+          <p>Wenn diese drei Punkte geklärt sind, kann das Cluster gebildet werden. In unserem Fall wurde Python
+            benutzt, um die Daten einzulesen, zu verarbeiten und in geordnete GeoJSONs abzuspeichern. Die Clusterung
+            basiert dabei auf einem zweischichtigen Ansatz: sie werden einmal geclustert und dann werden die
+            resultierenden Cluster noch einmal geclustert mit einer geringeren Distanz. Darauf aufbauend könnte auch
+            eine mehrstufige Anzeigestruktur errichtet werden, sofern die Cluster auch in der entsprechenden Struktur
+            ausgegeben würden. Die Umsetzung erfolgte analog zu dem bei <a href="https://www.ijser.org/researchpaper/A-Technical-Survey-on-DBSCAN-Clustering-Algorithm.pdf">Suthar, Prof. Rajput und Prof. Gupta</a> bzw.
+            <a href="https://de.wikipedia.org/wiki/DBSCAN">Wikipedia</a> beschriebenen nicht rekursiven Verfahren (da Rekursionen bei Python aufwändiger sind).</p>
         </div>
+        <div>
+          <ul>
+            <li><a href="NER.html">Text über NER</a></li>
+            <li><a href="karte_text.html">Text über unsere Karte</a></li>
+            <li><a href="travelogues.html">Text über Travelogues</a></li>
+            <li><a href="Website.html">Text über die Website</a></li>
+          </ul>
+        </div>
+      </div>
     </section>
 
   </main><!-- End #main -->
@@ -129,7 +182,8 @@
   </footer><!-- End  Footer -->
 
   <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
