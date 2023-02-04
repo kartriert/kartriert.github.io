@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Leere Seite</title>
+  <title>Travelogues</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -132,6 +132,88 @@
             Sichtung – besser ein, als die der vorigen Jahrhunderte.</p>
           <p>Einen Überblick des gesamten Korpusaufbaus gibt es <a href="ueber_projekt.html">hier</a> unter "Korpus".
           </p>
+          <h3>Legacy featuring Forschungsdaten</h3>
+          <p>Natürlich war dieses Korpus nicht unser Schuh und wir nicht Aschenputtel: Es war kein perfekter Fit. Wie so
+            oft bei der Nachnutzung bestehender Korpora oder anderer Forschungsdaten, mussten einige Vorkehrungen
+            getroffen werden, um unsere geplanten Methoden einzusetzen. Da die Texte nicht manuell (oder automatisiert)
+            postkorrigiert oder überprüft wurden, mussten wir zunächst eine grobe Fehleranalyse des Korpus durchführen.
+            Des Weiteren überprüften wir die beigefügten Ergebnisse der NER auf systematische Fehler. Nach der Sichtung
+            erarbeiteten wir einen Workflow, der von der Textkorrektur bis zum Erstellen der NER-Ergebnisse für die
+            einzelnen Reiseberichte einige Stationen durchläuft. Außerdem wollten wir ein NER-Modell testen, das für
+            historische Texte entwickelt wurde. Beim Querlesen der NER-Ergebnisse fiel uns außerdem auf, dass das
+            automatische Mapping der erkannten Orts-Eigennamen mit der Geonames-Datenbasis nicht gut funktioniert hat.
+            Dies liegt daran, dass die historischen Orte ambig sind. Zum Beispiel ist der erste Treffer für die Entität
+            “Memphis” in Geonames der Ort in den USA. In dem betroffenen Reisebericht kann jedoch aus dem Kontext
+            erschlossen werden, dass es sich hier um eine Erwähnung des Ortes “Memphis” in Ägypten handelt.
+          </p>
+          <p>Die Nachnutzbarkeit von Daten ist ein wiederkehrendes, heiß diskutiertes Thema in den Digital Humanities
+            und findet in vielen Forschungsprojekten, auf Konferenzen oder Tagungen seinen Stammplatz in der Menge.
+            Diese Tatsache fällt einem erst dann so richtig auf, wenn man selbst in einem Projekt arbeitet, in dem
+            bestehende Forschungsdaten-Sammlungen nachgenutzt werden.</p>
+          <h3>Post-Hoc Correction</h3>
+          <p>Im <a href="https://github.com/travelogues/travelogues-corpus">Travelogues-GitHub Repository</a>, sowie auf
+            der Projektwebsite, wird bereits angekündigt, dass die
+            OCRisierten Texte nicht manuell nachbearbeitet wurden. Das Travelogues-Team entwickelte indessen ein
+            neuronales Netz für die automatische Postkorrektur, also ein eigens trainiertes <a
+              href="https://doi.org/10.48550/ARXIV.2102.00583">Sprachmodell</a>. Es eignet sich
+            vor allem für die Korrektur von OCR-Transkriptionsfehlern in historischen Texten. Das Trainingskorpus
+            beinhaltet fast ausschließlich Texte aus dem 17. Jahrhundert., da hier bereits manuelle Transkriptionen der
+            Texte vorlagen, die für das Training genutzt werden konnten.
+          <p>Da wir uns jedoch für das umfangreichere Korpus des 18. Jahrhunderts entschieden hatten, eignete sich das
+            Modell nur teilweise für die Nachkorrektur. Die Transkriptionsfehler in diesen Reiseberichten betreffen
+            nämlich primär Sonderzeichen; unter anderem gehören dazu Zeilenumbrüche (Hyphenations), Schrägstriche im
+            Fließtext oder Umlaute. Auch fehlende Zeichen in Wörtern kommen häufig vor.</p>
+          <p> In einem Testlauf, bei dem wir die Texte aus dem 18. Jahrhundert mit Hilfe des Sprachmodells korrigierten,
+            wurden richtig geschriebene Wörter "verschlimmbessert" (bspw. wurde aus "bulgaria" -> "bvlgaria" oder aus
+            "vber-\nſchreiten" -> "vberſthſehſenſt"). Bedingt sind solche Fehler zumeist durch die starke Variation in
+            der geschriebenen deutschen Sprache der Zeit. Da es sich grundsätzlich um Zeichenfehler handelt, die durch
+            reguläre Ausdrücke verbessert werden können, haben wir uns dazu entschieden, ein eigenes, kurzes Skript
+            dafür zu schreiben. Andere systematische Fehler, wie die Verwechslung von "u" und "v", sind jedoch kaum mit
+            regulären Ausdrücken abzudecken.</p>
+          <p> Die breite Fehlervarianz in der Schreibweise der Wörter ist bereits beim Sprachmodell von Lyu et. al.
+            festgestellt worden, eine Korrektur ist jedoch schwierig, da eine strikte Normung ggf. zu kontextuellen
+            Fehlern führen kann.</p>
+          <p>Die Resultate unserer halb-automatischen Nachkorrektur sind, wie wir bereits erwarteten, gleichwertig
+            fehlerbelastet. Da wir in dieser ersten Projektphase jedoch primär auf einer <i>oberflächlichen</i> Ebene
+            mit den
+            Texten arbeiteten <!--Es ging um das Erkennen von Ortsnamen, die auch bei Texten mit relativ hoher Fehlerrate
+            sehr gut erkannt werden konnten (bspw. anhand der Syntax im Wort-Kontext, mehr Infos folgen im
+            nächsten Kapitel). Bei inhaltlichen Fragen, zum Beispiel einem Topic Modelling-Ansatz, wäre eine
+            dezidierte Korrektur der Dateien womöglich empfehlenswert.-->, entschieden wir uns gegen eine umfangreiche,
+            close-reading Nachkorrektur. Stattdessen speisten wir alle Reiseberichte in das NER-Modell und korrigierten
+            anschließend die Ergebnisdateien.</p>
+          <h3>Named Entity Recognition bei historischen Texten</h3>
+          <p>Bei der Named Entity Recognition (NER), einem Teilgebiet der Text-basierten Informationsextraktion, werden
+            anhand bestimmter Merkmale Textstellen erschlossen, die Eigennamen enthalten. Eigennamen können
+            beispielsweise Personen, Organisationen oder Ortsangaben betreffen. Zur Extraktion dienen überwachte
+            Lernverfahren, die, basierend auf Beispielen dieser Merkmale, eine Klassifikation und Einordnung neuer
+            Eigennamen-Vorkommen vornehmen können. Auch kontextuelle Informationen der Named Entitities, wie
+            syntaktische Strukturen, können zur Erkennung genutzt werden. Diese haben wir – für jeden Reisebericht des
+            18. Jahrhunderts in unserem Korpus – zusammen mit der Satznummer im Dokument und der Position der Worte
+            innerhalb des Satzes extrahiert und als JSON Einträge <!--JSON-Dateien werden verwendet, um einfache
+            Datenstrukturen und Objekte im JSON-Format (JavaScript Object Notation) abzuspeichern. Sie bilden ein
+            Standardformat für den Datenaustausch.-->gespeichert. Entsprechend der Entstehungszeit der Reiseberichte,
+            wählten wir ein Modell für NER in historischen Dokumenten. Jede Datei hat somit eine ihr entsprechende
+            JSON-Datei mit den ermittelten Ortserwähnungen.</p>
+          <p>Daraufhin erfolgte ein automatisierter Abgleich der erkannten Orte mit der GEO-Normdatenbank <a
+              href="https://www.geonames.org/">GeoNames</a>;
+            Identifier und Koordinaten des wahrscheinlichsten Suchtreffers wurden dem Datensatz hinzugefügt.</p>
+          <p>Wie bereits oben erwähnt, war eine (zumindest stichprobenartige) Überprüfung und Postkorrektur der
+            Ergebnisse für uns bedauernswert, aber unumgänglich. Ein zweischneidiges Schwert: Auf der einen Seite hatten
+            wir weder genug Zeit (noch Personalressourcen), um ein umfassendes Textkorpus manuell zu korrigieren. Auf
+            der anderen Seite stimmte uns die Aussicht auf eine so stark verfälschte Kartierung der Reiseberichte
+            missmutig.</p>
+          <p> Der gewählte Kompromiss umfasst zwei Komponenten. Zunächst brachen wir das "Korrekturkorpus" auf sechs
+            Reiseberichte herunter, die unter uns Studis aufgeteilt und überprüft wurden. Auch hier wählten wir einen
+            halbautomatischen Ansatz, bei dem falsche Einträge aus der GeoNames-Datenbank teils manuell, teils durch ein
+            einfaches Python-Skript überarbeitet wurden. Der Fokus lag auf dem Ortskontext der Reiseberichte
+            <!--Beispielsweise kontextualisierten wir den Reisebericht "Reisebeschreibung nach Arabien und anderen
+            umliegenden Laendern" eindeutig in den arabischen Bereich und korrigierten insbesondere die Orte, die nicht
+            in dieses Schema passen. Schwierigkeiten gab es in solchen Fällen vor allem mit Orten, die heutzutage nicht
+            mehr den gleichen Namen haben, zu archäologischen Stätten geworden sind oder gleichnamige Vertreter in
+            anderen Regionen haben. Auch die Erkennung von Personen mit Ortsbezeichnung in ihren Namen machten
+            Schwierigkeiten.-->Die zweite Komponente umfasst ein Clusteringverfahren, das die computergestützte
+            Bearbeitung großer Datenmengen zulässt, aber eine Unschärfe bei den einzelnen Datenpunkten eliminiert.</p>
         </div>
         <div>
           <ul>
