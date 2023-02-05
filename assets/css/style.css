@@ -1074,11 +1074,11 @@ details[open].styled summary {
 
 .contact .info i {
   font-size: 20px;
-  color: #34b7a7;
+  color: #0890a7;
   float: left;
   width: 44px;
   height: 44px;
-  background: #effbf9;
+  background: #e2dbd5;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1091,7 +1091,7 @@ details[open].styled summary {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #222222;
+  color: #433d3d;
 }
 
 .contact .info p {
@@ -1109,7 +1109,7 @@ details[open].styled summary {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #34b7a7;
+  background: #70d7e8;
   color: #fff;
 }
 
