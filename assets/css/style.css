@@ -6,7 +6,7 @@
 */
 
 /*--------------------------------------------------------------
-# General
+# Hover Text
 --------------------------------------------------------------*/
 [data-tooltip] {
   position: relative;
@@ -40,6 +40,9 @@
         transform: translateY(0);
       }
 
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #433d3d;
@@ -556,7 +559,7 @@ section {
 }
 
 .section-title {
-  text-align: left;
+  text-align: center;
   padding-bottom: 30px;
 }
 
