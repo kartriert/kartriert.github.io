@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/logo/Logo_weißerRand_transparent.PNG" rel="icon">
+  <link href="assets/img/logo/Logo_weißerRand_transparent.PNG" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link
@@ -80,6 +80,8 @@
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Clustering</h2>
+        </div>
+        <div>
           <p>Unser Ziel war es, die im Laufe des Berichtes erwähnten Orte zu kartieren und eine mögliche Chronologie mit
             abzubilden. Da es in den Geojsons zu Ungenauigkeiten kam, also manche Orte falsch oder gar nicht erkannt
             wurden, und da auch im Text Orte genannt werden, die nicht mit dem Kontext des Gesamtberichts
@@ -101,6 +103,8 @@
             dichtebasierte Clusteranalyse. Der Nachteil ist hierbei, dass es bei unterschiedlichen Dichten zu Problemen
             kommen kann.
             Darauf aufbauend sind auch drei Sachen festzulegen, bevor das Clustering durchgeführt wird:</p>
+        </div>
+        <div>
           <ul>
             <li>Die <strong>Distanzberechnung</strong>: Wie wird die Distanz zwischen den Punkten berechnet? Häufig wird
               als
@@ -128,6 +132,8 @@
               dichteerreichbaren Punkte wiederum ein Kernelement ist, werden auch seine dichteerreichbaren Punkte
               aufgenommen und so weiter. Dadurch können dichtere Cluster gesucht werden.</li>
           </ul>
+        </div>
+        <div>
           <p>Wenn diese drei Punkte geklärt sind, kann das Cluster gebildet werden. In unserem Fall wurde Python
             benutzt, um die Daten einzulesen, zu verarbeiten und in geordnete GeoJSONs abzuspeichern. Die Clusterung
             basiert dabei auf einem zweischichtigen Ansatz: sie werden einmal geclustert und dann werden die
@@ -141,7 +147,7 @@
           </p>
           <p>Im Endergebnis täte den Clustern noch etwas Feintuning gut, trotzdem konnten schon erste Ergebnisse erzielt
             werden. Die Daten wurden nicht stark verfälscht, konnten jedoch auf das Wesentliche eingeschränkt werden.
-            Diese Verdichtung der Informationen kommt der Übersichtlichkeit zu Nutze und kann das Kartenmaterial <a href="karte_text.html"
+            Diese Verdichtung der Informationen kommt der Übersichtlichkeit zu Nutze und kann das <a href="karte_text.html">Kartenmaterial </a>
             bereichern. Es zeigt sich, dass verschiedene Clustermethoden mit verschiedenen Schreibstilen unterschiedlich
             harmonieren. Zum Beispiel zeigt sich das anfangs verwendete Verfahren – zuerst im Text zu clustern, so dass
             Orte zusammengefasst werden, die sich an konkreten Textstellen befinden – als vielversprechend. Es konnte
