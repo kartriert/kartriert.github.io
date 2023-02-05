@@ -23,8 +23,8 @@
   box-sizing: border-box;
   
   content:attr(data-tooltip);
-  color:#ffffff;
-  background: black;
+  color:#e2dbd5;
+  background:#433d3d ;
   padding: 8px;
   border-radius: 10px;
   font-size: 0.9em;
@@ -62,6 +62,7 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+  text-align: center;
 }
 
 #main {

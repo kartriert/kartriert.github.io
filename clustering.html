@@ -43,7 +43,8 @@
   <header id="header" class="fixed-top">
     <div class="container-fluid d-flex justify-content-between align-items-center">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Reiseberichte kar<span style= "color: #0890a7">trier</span>t</a></h1> 
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">Reiseberichte kar<span
+            style="color: #0890a7">trier</span>t</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -91,7 +92,9 @@
             -> Berlin ist nicht relevant für die Reiseroute) klassifiziert werden. </p>
           <p>Da es im Vorhinein kaum Anhaltspunkte gab, wie viele Cluster gebildet werden müssten und ein Ausschluss von
             einzelnen Punkten nicht nur erwünscht, sondern sogar das Ziel war, entschieden wir uns für ein
-            dichtebasiertes Clusteringverfahren: <a href="https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80">DBSCAN (Density-Based Spatial Clustering of Applications with Noise)</a>.
+            dichtebasiertes Clusteringverfahren: <a
+              href="https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80">DBSCAN
+              (Density-Based Spatial Clustering of Applications with Noise)</a>.
             Hierbei werden Cluster gesucht, bei denen die Punkte in ihnen nur einen gewissen Abstand aufweisen und immer
             eine gewisse Anzahl an Kernelementen auftreten. Wenn viele Punkte in geringem Abstand zueinander stehen,
             gibt es dort eine hohe Dichte und ein Cluster kann erkannt werden. Darum nennt man dieses Verfahren auch
@@ -116,7 +119,8 @@
               Punkte untereinander <i>dichteerreichbar</i> sind, ihnen also die Möglichkeit einer Aufnahme in das
               Cluster
               zugestanden wird.</li>
-            <li>Die <strong>minimale Anzahl an Kernpunkten</strong> minPts: Mit diesem Wert wird angegeben, wie viele Punkte ein
+            <li>Die <strong>minimale Anzahl an Kernpunkten</strong> <i>minPts</i>: Mit diesem Wert wird angegeben, wie viele
+              Punkte ein
               Cluster wenigstens als <i>Kernelemente</i> hat. Für einen Wert von 1 würde das Cluster einfach alle Punkte
               umfassen, die sich innerhalb der maximalen Distanz befinden. Wird der Wert erhöht müssen minPts-Punkte
               einen Punkt umgeben. dann kann von diesem Punkt ausgehend ein Cluster gebildet werden: alle
@@ -129,8 +133,22 @@
             basiert dabei auf einem zweischichtigen Ansatz: sie werden einmal geclustert und dann werden die
             resultierenden Cluster noch einmal geclustert mit einer geringeren Distanz. Darauf aufbauend könnte auch
             eine mehrstufige Anzeigestruktur errichtet werden, sofern die Cluster auch in der entsprechenden Struktur
-            ausgegeben würden. Die Umsetzung erfolgte analog zu dem bei <a href="https://www.ijser.org/researchpaper/A-Technical-Survey-on-DBSCAN-Clustering-Algorithm.pdf">Suthar, Prof. Rajput und Prof. Gupta</a> bzw.
-            <a href="https://de.wikipedia.org/wiki/DBSCAN">Wikipedia</a> beschriebenen nicht rekursiven Verfahren (da Rekursionen bei Python aufwändiger sind).</p>
+            ausgegeben würden. Die Umsetzung erfolgte analog zu dem bei <a
+              href="https://www.ijser.org/researchpaper/A-Technical-Survey-on-DBSCAN-Clustering-Algorithm.pdf">Suthar,
+              Prof. Rajput und Prof. Gupta</a> bzw.
+            <a href="https://de.wikipedia.org/wiki/DBSCAN">Wikipedia</a> beschriebenen nicht rekursiven Verfahren (da
+            Rekursionen bei Python aufwändiger sind).
+          </p>
+          <p>Im Endergebnis täte den Clustern noch etwas Feintuning gut, trotzdem konnten schon erste Ergebnisse erzielt
+            werden. Die Daten wurden nicht stark verfälscht, konnten jedoch auf das Wesentliche eingeschränkt werden.
+            Diese Verdichtung der Informationen kommt der Übersichtlichkeit zu Nutze und kann das Kartenmaterial <a href="karte_text.html"
+            bereichern. Es zeigt sich, dass verschiedene Clustermethoden mit verschiedenen Schreibstilen unterschiedlich
+            harmonieren. Zum Beispiel zeigt sich das anfangs verwendete Verfahren – zuerst im Text zu clustern, so dass
+            Orte zusammengefasst werden, die sich an konkreten Textstellen befinden – als vielversprechend. Es konnte
+            jedoch nicht auf alle Texte angewandt werden, da manche Autoren mit recht ähnlichem Abstand Ortsnamen
+            nennen. Dadurch wird hier das Clustern auf die Sentence_Idx hinfällig. Daher wurden folgend alle drei Werte
+            mit unterschiedlicher Gewichtung geclustert (wie oben beschrieben). Dieses Verfahren war teilweise nicht
+            ganz so präzise, aber allgemeingültiger und darum vorzuziehen.</p>
         </div>
         <div>
           <ul>
