@@ -376,7 +376,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #34b7a7;
+  color: #0890a7;
 }
 
 .navbar-mobile .getstarted,
@@ -411,7 +411,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #34b7a7;
+  color: #0890a7;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -542,7 +542,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #34b7a7;
+  background: #0890a7;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -586,8 +586,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #34b7a7;
-  border: 2px solid #34b7a7;
+  background: #0890a7;
+  border: 2px solid #0890a7;
 }
 
 @media (max-width: 1024px) {
@@ -625,7 +625,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #34b7a7;
+  color: #0890a7;
 }
 
 .about .content p:last-child {
@@ -637,7 +637,7 @@ section {
 --------------------------------------------------------------*/
 details.styled {
   padding: 1em;
-  border: 1px solid #121212;
+  border: 1px solid #433d3d;
   border-radius: 4px;
   margin-bottom: 1em;
   transition: all 0.4s ease-in-out;
@@ -651,7 +651,7 @@ details.styled summary {
 }
 
 details[open].styled{
-  background-color: #d4ba95;
+  background-color: #e2dbd5;
   /*max-height: 500px;*/
 }
 
@@ -799,7 +799,7 @@ details[open].styled summary {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #34b7a7;
+  border-left: 2px solid #0890a7;
   position: relative;
 }
 
@@ -819,7 +819,7 @@ details[open].styled summary {
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
-  color: #34b7a7;
+  color: #0890a7;
 }
 
 .resume .resume-item ul {
@@ -843,7 +843,7 @@ details[open].styled summary {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #34b7a7;
+  border: 2px solid #0890a7;
 }
 /*--------------------------------------------------------------
 # DH buttons
@@ -907,7 +907,7 @@ details[open].styled summary {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #34b7a7;
+  background: #0890a7;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1020,11 +1020,11 @@ details[open].styled summary {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #34b7a7;
+  border: 1px solid #0890a7;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #34b7a7;
+  background-color: #0890a7;
 }
 
 .portfolio-details .portfolio-info {
