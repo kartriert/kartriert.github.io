@@ -91,16 +91,10 @@
           <p>So wussten wir also ungefähr, wie unser Projektziel aussieht. Doch die Findungsphase unserer Studi-Gruppe
             war noch längst nicht abgeschlossen: Welche Werke eignen sich für ein Multiversum? Können wir Terry
             Pratchetts Werke verwenden und wenn ja, wo finden wir die Digitalisate? Wollen wir in dieser kurzen Zeit ein
-            eigenes
-          <p class="tooltip">Optical Character Recognition (OCR)-Projekt
-            <span class="tooltiptext">Optical Character Recognition, sehr häufig als Akronym
-              “OCR” anzutreffen, bezeichnet als Sammelbegriff Verfahren der digitalen, automatisierten Zeichenerkennung,
-              bei denen Bilddateien in Textdateien umgewandelt werden. (Springmann, 2016, S. 1)</span>
-          </p>Projekt <!--Optical Character Recognition, sehr häufig als Akronym
+            eigenes <span data-tooltip="Optical Character Recognition, sehr häufig als Akronym
             “OCR” anzutreffen, bezeichnet als Sammelbegriff Verfahren der digitalen, automatisierten Zeichenerkennung,
-            bei denen Bilddateien in Textdateien umgewandelt werden. (Springmann, 2016, S. 1)--> aufsetzen? Und vor
-          allem:
-          Verletzen wir damit womöglich Urheberrechte?
+            bei denen Bilddateien in Textdateien umgewandelt werden. (Springmann, 2016, S. 1)">Optical Character
+              Recognition (OCR)</span>-Projekt aufsetzen? Und vor allem: Verletzen wir damit womöglich Urheberrechte?
           </p>
           <h3>Wem das Korpus passt, der nutzt es nach</h3>
           <p>Doch die Rettung nahte. Nachdem wir somit einige Zeit über den womöglich anstehenden Korpusaufbau
@@ -120,16 +114,17 @@
             Berichten datiert von 1500–1876) aus ursprünglich knapp 600.000 deutschsprachigen Büchern, die im Rahmen des
             Projektes <i>Austrian Books Online</i>der Österreichischen Nationalbibliothek digitalisiert wurden. Die
             Digitalisate wurden anschließend mit OCR in Volltexte umgewandelt und mit diversen computergestützten
-            Methoden automatisch ausgewertet. Dazu gehört unter anderem auch eine automatisierte Klassifikation
-            <!--Klassifikationsalgorithmen bilden einen Teil der Machine Learning Verfahren. Modelle dieser Art erlernen anhand von Trainingsdaten, Muster  der Gruppen in den Daten zu erkennen und neue Datenpunkte in solche bestehenden Gruppen einzusortieren.-->der
-            Texte bezüglich ihrer "Reisebericht"-izität, um festzustellen, ob sie dem Korpus beigefügt werden sollen
+            Methoden automatisch ausgewertet. Dazu gehört unter anderem auch eine automatisierte <span
+              data-tooltip="Klassifikationsalgorithmen bilden einen Teil der Machine Learning Verfahren. Modelle dieser Art erlernen anhand von Trainingsdaten, Muster  der Gruppen in den Daten zu erkennen und neue Datenpunkte in solche bestehenden Gruppen einzusortieren.">Klassifikation</span>
+            der Texte bezüglich ihrer "Reisebericht"-izität, um festzustellen, ob sie dem Korpus beigefügt werden sollen
             oder nicht.
           </p>
           <p>Das Korpus steht als Volltext-Sammlung auf <a href="https://github.com/travelogues">Github</a> zur
             Verfügung. Insgesamt 1.219 Reiseberichte können dort
             in Form von TXT-Dateien heruntergeladen werden. Des Weiteren wurden der Sammlung entsprechende Metadaten und
-            Ergebnisse einer Named Entity Recognition (NER) <!--Named Entitity Recognition, kurz NER, bezeichnet den
-            computergestützten Prozess der Ermittlung von Eigennamen in digitalen Textdateien.--> verfügbar gemacht.
+            Ergebnisse einer <span data-tooltip="Named Entitity Recognition, kurz NER, bezeichnet den
+            computergestützten Prozess der Ermittlung von Eigennamen in digitalen Textdateien.">Named Entity
+              Recognition (NER)</span> verfügbar gemacht.
           </p>
           <p>Wir entschieden uns für die Reiseberichte des 18. Jahrhunderts, da dies die umfangreichste verfügbare
             Volltextsammlung ist. Zudem schätzten wir die Qualität der Volltextdateien – nach stichprobenartiger
@@ -178,12 +173,12 @@
             festgestellt worden, eine Korrektur ist jedoch schwierig, da eine strikte Normung ggf. zu kontextuellen
             Fehlern führen kann.</p>
           <p>Die Resultate unserer halb-automatischen Nachkorrektur sind, wie wir bereits erwarteten, gleichwertig
-            fehlerbelastet. Da wir in dieser ersten Projektphase jedoch primär auf einer <i>oberflächlichen</i> Ebene
-            mit den
-            Texten arbeiteten <!--Es ging um das Erkennen von Ortsnamen, die auch bei Texten mit relativ hoher Fehlerrate
+            fehlerbelastet. Da wir in dieser ersten Projektphase jedoch primär auf einer <span data-tooltip="Es ging um das Erkennen von Ortsnamen, die auch bei Texten mit relativ hoher Fehlerrate
             sehr gut erkannt werden konnten (bspw. anhand der Syntax im Wort-Kontext, mehr Infos folgen im
             nächsten Kapitel). Bei inhaltlichen Fragen, zum Beispiel einem Topic Modelling-Ansatz, wäre eine
-            dezidierte Korrektur der Dateien womöglich empfehlenswert.-->, entschieden wir uns gegen eine umfangreiche,
+            dezidierte Korrektur der Dateien womöglich empfehlenswert."><i>oberflächlichen</i> Ebene
+              mit den
+              Texten arbeiteten</span>, entschieden wir uns gegen eine umfangreiche,
             close-reading Nachkorrektur. Stattdessen speisten wir alle Reiseberichte in das NER-Modell und korrigierten
             anschließend die Ergebnisdateien.</p>
           <h3>Named Entity Recognition bei historischen Texten</h3>
@@ -194,9 +189,9 @@
             Eigennamen-Vorkommen vornehmen können. Auch kontextuelle Informationen der Named Entitities, wie
             syntaktische Strukturen, können zur Erkennung genutzt werden. Diese haben wir – für jeden Reisebericht des
             18. Jahrhunderts in unserem Korpus – zusammen mit der Satznummer im Dokument und der Position der Worte
-            innerhalb des Satzes extrahiert und als JSON Einträge <!--JSON-Dateien werden verwendet, um einfache
+            innerhalb des Satzes extrahiert und als <span data-tooltip="JSON-Dateien werden verwendet, um einfache
             Datenstrukturen und Objekte im JSON-Format (JavaScript Object Notation) abzuspeichern. Sie bilden ein
-            Standardformat für den Datenaustausch.-->gespeichert. Entsprechend der Entstehungszeit der Reiseberichte,
+            Standardformat für den Datenaustausch.">JSON Einträge</span> gespeichert. Entsprechend der Entstehungszeit der Reiseberichte,
             wählten wir ein Modell für NER in historischen Dokumenten. Jede Datei hat somit eine ihr entsprechende
             JSON-Datei mit den ermittelten Ortserwähnungen.</p>
           <p>Daraufhin erfolgte ein automatisierter Abgleich der erkannten Orte mit der GEO-Normdatenbank <a
@@ -210,13 +205,12 @@
           <p> Der gewählte Kompromiss umfasst zwei Komponenten. Zunächst brachen wir das "Korrekturkorpus" auf sechs
             Reiseberichte herunter, die unter uns Studis aufgeteilt und überprüft wurden. Auch hier wählten wir einen
             halbautomatischen Ansatz, bei dem falsche Einträge aus der GeoNames-Datenbank teils manuell, teils durch ein
-            einfaches Python-Skript überarbeitet wurden. Der Fokus lag auf dem Ortskontext der Reiseberichte
-            <!--Beispielsweise kontextualisierten wir den Reisebericht "Reisebeschreibung nach Arabien und anderen
+            einfaches Python-Skript überarbeitet wurden. Der Fokus lag auf dem <span data-tooltip='Beispielsweise kontextualisierten wir den Reisebericht "Reisebeschreibung nach Arabien und anderen
             umliegenden Laendern" eindeutig in den arabischen Bereich und korrigierten insbesondere die Orte, die nicht
             in dieses Schema passen. Schwierigkeiten gab es in solchen Fällen vor allem mit Orten, die heutzutage nicht
             mehr den gleichen Namen haben, zu archäologischen Stätten geworden sind oder gleichnamige Vertreter in
             anderen Regionen haben. Auch die Erkennung von Personen mit Ortsbezeichnung in ihren Namen machten
-            Schwierigkeiten.-->Die zweite Komponente umfasst ein Clusteringverfahren, das die computergestützte
+            Schwierigkeiten.'>Ortskontext der Reiseberichte.</span> Die zweite Komponente umfasst ein Clusteringverfahren, das die computergestützte
             Bearbeitung großer Datenmengen zulässt, aber eine Unschärfe bei den einzelnen Datenpunkten eliminiert.
           </p>
         </div>

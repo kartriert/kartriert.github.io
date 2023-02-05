@@ -8,29 +8,37 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-.tooltip {
+[data-tooltip] {
   position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-
-  /* Position the tooltip */
+  cursor: default;
+  border-bottom: 1px dotted black
+      }
+  
+      [data-tooltip]::after {
   position: absolute;
-  z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
+  width: 350px;
+  left: calc(50% - 70px);
+  bottom: 125%;
+  text-align: center;
+  box-sizing: border-box;
+  
+  content:attr(data-tooltip);
+  color:#ffffff;
+  background: black;
+  padding: 8px;
+  border-radius: 10px;
+  font-size: 0.9em;
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s, transform 0.2s;
+      }
+  
+      [data-tooltip]:hover::after {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+      }
 
 body {
   font-family: "Open Sans", sans-serif;
