@@ -1198,14 +1198,16 @@ details[open].styled summary {
   text-align: center;
 }
 
-#footer .credits {
+#footer .referenzen .container {
   padding-top: 5px;
-  font-size: 13px;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 #footer .credits a {
   color: #0890a7;
 }
-#footer.footer-transparent {
-  background: transparent;
+
+#footer .container {
+  font-size: 11px;
 }
