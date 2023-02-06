@@ -183,7 +183,7 @@
 		  return $.getJSON(path);
 	  }
 	  
-	  function getGeoLayer(path, t, tl, color, map) {
+	  function getGeoLayer(path, t, tl, color, map, eo, aut) {
 		return new L.GeoJSON.AJAX(path, {
 			title : tl,
             pointToLayer: function (feature, latlng) {
@@ -206,15 +206,25 @@
               });
               layer.on('mouseout', function(e){ map.closePopup() });
               layer.on('click', function(e){ 
+                var contents = [
+                  "<b>Ort: </b><a href=\""+feature.properties.url+"\" target=\"_blank\">"+feature.properties.source_label+"</a>&emsp;",
+                  "<b>Breite: </b>"+feature.geometry.coordinates[0]+"&emsp;",
+                  "<b>Länge: </b>"+feature.geometry.coordinates[1],
+                  "<hr style=\"margin-top:0.4em;margin-bottom:0.4em\">",
+                  "<b>Autor: </b>"+aut+"<br>",
+                  "<b>Titel: </b>"+tl+"<br>",
+                  "<b>Erscheinungsort: </b>"+eo+"<br>",
+                  "<b>Erscheinungsjahr: </b>"+t
+                ].join('');
                 var dialog = L.control.dialog({
-                  size: [ 200, 100 ],
+                  size: [ 350, 200 ],
                   minSize: [ 100, 100 ],
-                  maxSize: [ 350, 350 ],
+                  maxSize: [ 400, 400 ],
                   anchor:  [ e.containerPoint.y, e.containerPoint.x ],
                   position: "topleft",
                   initOpen: true
                 });
-                dialog.setContent("Hier kommen Infos rein...");
+                dialog.setContent(contents);
                 dialog.addTo(map);
               });
             }
@@ -246,6 +256,8 @@
 		  //Import der GeoJson-Layer
 		  var t;
 		  var tl;
+		  var eo;
+		  var aut;
 		  var eighteenthLayers = [];
 		  for (let i=0; i < filenamelist.length; i++){
 			var meta = await getMetadata(metadatafiles[i]);
@@ -257,8 +269,16 @@
 					if (meta[g].label[0]["@value"]=="Title"){
 						tl = meta[g].value;
 					}
+					if (meta[g].label[0]["@value"]=="Place"){
+						eo = meta[g].value;
+					}
+					if (meta[g].label[0]["@value"]=="Contributor"){
+						aut = meta[g].value;
+					}
 				}
 			}
+			if (aut === null) {aut="Unbekannt";}
+			if (eo === null) {eo="Unbekannt";}
 			//Generiere Markefarbe für Layer
 			var color;
 			var r = Math.floor(Math.random() * 255);
@@ -267,7 +287,7 @@
 			color= "rgb("+r+" ,"+g+","+ b+")"; 
 			// Füge Layer zur Sammlung hinzu
 			var p = "https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/"+filenamelist[i];
-			eighteenthLayers.push ( await getGeoLayer(p, t, tl, color, map));
+			eighteenthLayers.push ( await getGeoLayer(p, t, tl, color, map, eo, aut));
 		  }
 		  // Sortiere und gruppiere Layer nach Datum
 		  eighteenthLayers.sort((a,b) => (a.options.time > b.options.time) ? 1 : ((b.options.time > a.options.time) ? -1 : 0))
