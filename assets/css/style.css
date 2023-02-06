@@ -912,3 +912,44 @@ details[open].styled summary {
 #footer .container {
   font-size: 11px;
 }
+
+/**
+* Navi-Buttons
+*/
+
+.nav-bottom button {
+  width: 44px;
+  height: 44px;
+  font-size: 20px;
+  color: #0890a7;
+  margin: 20px;
+  border: none;
+  background: #e2dbd5;
+  border-radius: 50px;
+  transition: all 0.25s ease;
+  
+}
+
+.nav-bottom button:hover {
+  color: #fff;
+  background: #70d7e8;
+  border: none;
+} 
+
+.nav-bottom button.test {
+  width: 100px;
+  height: 100px;
+  font-size: 16px;
+  color: #0890a7;
+  margin: 20px;
+  border: none;
+  background: #e2dbd5;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+  
+}
+.nav-bottom button.test:hover {
+  color: #fff;
+  background: #0890a7;
+  border: none;
+} 
