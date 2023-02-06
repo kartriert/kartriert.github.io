@@ -196,11 +196,17 @@ p {
 }
 @media (max-width: 992px) {
   #header .logo .mobile {
+    
     display: block;
-    max-height: 100px;
+    max-height: 50px;
   }
   .logo .desktop {
     display: none;
+  }
+  #header .logo {
+    text-align: left;
+    margin-inline: 20px;
+    position: relative;
   }
 }
 
@@ -351,12 +357,13 @@ p {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #222222;
+  color: #d4ba95;
   font-size: 28px;
   cursor: pointer;
   display: none;
   line-height: 0;
   transition: 0.5s;
+  margin-left: 20px;
 }
 
 .mobile-nav-toggle.bi-x {
@@ -380,7 +387,6 @@ p {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(9, 9, 9, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
@@ -393,6 +399,7 @@ p {
 
 .navbar-mobile ul {
   display: block;
+  height: max-content;
   position: absolute;
   top: 55px;
   right: 15px;
@@ -400,7 +407,7 @@ p {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #b4753f;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -409,13 +416,13 @@ p {
 .navbar-mobile a:focus {
   font-size: 15px;
   padding-right: 15px;
-  color: #222222;
+  color: #433d3d;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0890a7;
+  color: #433d3d;
 }
 
 .navbar-mobile .getstarted,
@@ -431,7 +438,7 @@ p {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #fff;
+  background: #d4ba95;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -484,8 +491,15 @@ p {
 }
 
 @media (max-width: 992px) {
+  
   #hero .container {
     padding-top: 58px;
+    justify-content: left;
+    background-color: #e2dbd581;
+    backdrop-filter: blur(5px);
+    border-top: 1px solid rgba(255, 255, 255, 0.164);
+    border-left: 1px solid rgba(255, 255, 255, 0.281);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.315);
   }
 }
 
@@ -531,7 +545,6 @@ p {
 @media (max-width: 992px) {
   #hero:before {
     content: "";
-    background: url(../img/logo/bg_withCart.png) top right;
     position: absolute;
     bottom: 0;
     top: 0;
@@ -542,11 +555,13 @@ p {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
+    color: #433d3d;
   }
 
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
+    color: #b4753f;
   }
 }
 
