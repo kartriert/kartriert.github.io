@@ -681,14 +681,13 @@ details.styled {
   border-radius: 4px;
   margin-bottom: 1em;
   transition: all 0.4s ease-in-out;
-  /*max-height: 20px;*/
   overflow: hidden;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.315);
 }
 
 details.styled:hover {
-  color: #fff;
-  background: #70d7e8;
+  
+  background: #e2dbd5;
   border: none;
 }
 
@@ -699,7 +698,6 @@ details.styled summary {
 
 details[open].styled{
   background-color: #e2dbd5;
-  /*max-height: 500px;*/
 }
 
 details[open].styled summary {
