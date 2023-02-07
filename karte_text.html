@@ -6,15 +6,17 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Karte</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Detaillierte Beschreibung der Methodologie zum Erstellen und Einbinden einer interaktiven Karte, die historische Reiseberichte aus dem 18. Jahrhundert anzeigt." name="description">
+  <meta content="Methodologie, Karte, Leaflet, historische Reiseberichte, Universität Trier, Digital Humanities" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/logo/Logo_weißerRand_transparent.PNG" rel="icon">
   <link href="assets/img/logo/Logo_weißerRand_transparent.PNG" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -41,7 +43,8 @@
   <header id="header" class="fixed-top">
     <div class="container-fluid d-flex justify-content-between align-items-center">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Reiseberichte kar<span style= "color: #0890a7">trier</span>t</a></h1> 
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">Reiseberichte kar<span
+            style="color: #0890a7">trier</span>t</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -74,45 +77,93 @@
 
   <main id="main">
     <section id="services" class="services">
-        <div class="container" data-aos="fade-up">
-            <div class="section-title">
-                <h2>Karte</h2>
-                <p>Platzfreihalter.</p>
-            </div>
-            
-        
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Karte</h2>
+        </div>
+        <div>
+          <p>Die Karte haben wir mit <span data-tooltip="Eine Bibliothek bzw. Erweiterung für Javascript, mit der beispielsweise
+            Karten dargestellt werden können">Leaflet</span> geschrieben, um sie anschließend in unsere statische
+            Webseite einzubinden.
+            Sie wurde möglichst <span data-tooltip="Das bezeichnet die Eigenschaft, dass ein Programm auf mehreren
+            Plattformen laufen kann. In unserem Fall geht es darum, dass die Karte mit jedem Server-Backend
+            funktioniert"> plattformneutral</span> gehalten, da die Form, in der die Webseite gehostet werden würde,
+            lange unbestimmt war.
+            Sämtliche Daten werden aus den von uns erstellten <span data-tooltip="JSON-Datei, die im GeoJSON-Format
+            erstellt wurde, ein Format, das für den Geodatenaustausch verwendet wird. Es unterstützt Punkte, Linien,
+            Polygone und andere ähnliche Grundelemente; Wird zur Definition von Objekten wie Straßen, Gewässern,
+            Gebäuden und Sehenswürdigkeiten verwendet."><a
+                href="https://www.google.com/url?q=https://datei.wiki/extension/geojson&sa=D&source=docs&ust=1675794023125113&usg=AOvVaw3U3TUNo0EuPaggR_LA067I">(Geo)JSON-Dateien</a></span>
+            oder aus den Metadaten der
+            Travelogues-Texte gelesen. Ein
+            <span
+              data-tooltip="Das Datenbanksystem strukturiert und speichert die Informationen in einer Datenbank ab."><strong>Datenbanksystem</strong></span>
+            wird dabei nicht verwendet. Um die Daten auszulesen, muss eine serverseitige Anfrage durchgeführt werden,
+            die allerdings auf statischen Webseiten nicht ohne weiteres möglich ist. Diese musste über die <span
+              data-tooltip="Das ist eine Schnittstelle, über die der Browser direkte Anfragen an den GitHub-Server stellen kann. In
+            unserem Fall stellt es die Anfrage, welche Dateien sich in einem bestimmten Ordner befinden.">GitHub-API</span>
+            umgesetzt
+            werden, was allerdings zur Folge hat, dass nur 5000 Zugriffe pro Stunde möglich sind. Bei allen weiteren
+            Zugriffen würde die Karte nicht mehr ordentlich laden und die Marker nicht mehr angezeigt werden. Eine
+            alternative Variante per CGI-Handler wurde zu einem früheren Zeitpunkt ebenfalls implementiert. Sie wurde
+            aber letztendlich nicht umgesetzt, da sie für Github Pages ungeeignet ist, da sie eine dynamische Webseite
+            benötigt.
+          </p>
+          <p>Die Karte wurde darauf ausgelegt, eine unbestimmte, potentiell sehr große Menge an Daten darstellen zu
+            können. Grund dafür ist, dass der Entstehungsprozess der Karte lange von der Problematik begleitet war, dass
+            die Form der finalen Daten und ihre Menge unbestimmt waren. Dies führte dazu, dass die Karte nun eine
+            beliebige Zahl an Datensätzen automatisch direkt aus den <span data-tooltip="Ein Repository ist ein verwaltetes
+            Verzeichnis zur Speicherung und Beschreibung digitaler Objekte für ein digitales Archiv."><a
+                href="https://www.google.com/url?q=https://de.wikipedia.org/wiki/Repository&sa=D&source=docs&ust=1675794023126366&usg=AOvVaw3XG0JRBc5HjZx_rFzTN8ZF">Repositorien</a></span>
+            importieren und in
+            sämtliche Bedienelemente eingliedern kann. Die Farben der Marker auf der Karte werden dabei zufällig
+            gewählt. Auch wenn das eine große Stärke der Karte ist, können wir diesen Vorteil nicht nutzen, da unsere
+            Daten sich auf sehr viel weniger Dateien als ursprünglich gedacht beschränken.</p>
+          <p>Auch die Textauswahl wurde auf die Erwartung einer potentiell sehr großen Menge an Ebenen bzw. Texten
+            ausgelegt. In der Auswahl erscheinen nur diejenigen Reiseberichte, die in den aktuell ausgewählten Jahren
+            erschienen sind, sodass die Lesbarkeit erhalten bleibt. Dadurch ist das Projekt auch in Zukunft beliebig und
+            leicht erweiterbar, ohne dass Anpassungen am Quelltext vorgenommen werden müssen.
+          </p>
+
+        </div>
+
+
 
         <div class="section-title">
           <h3>Über unsere Methoden weiterlesen:</h3>
           <div class="nav-bottom">
             <a href="ueber_projekt.html">
               <button class="test">
-                <i class=" bi bi-arrow-left-circle" style="justify-content: center; text-align: center; font-size: 20px;"></i> <br>Über Uns
+                <i class=" bi bi-arrow-left-circle"
+                  style="justify-content: center; text-align: center; font-size: 20px;"></i> <br>Über Uns
               </button>
             </a>
 
             <a href=" travelogues.html">
-            <button class="test">
-              <i class="bi bi-compass" style="justify-content: center; text-align: center; font-size: 20px;"></i> <br>Travelogues
-            </button>
+              <button class="test">
+                <i class="bi bi-compass" style="justify-content: center; text-align: center; font-size: 20px;"></i>
+                <br>Travelogues
+              </button>
             </a>
-            
+
             <a href=" clustering.html">
-            <button class="test">
-              <i class="bi bi-code-slash" style="justify-content: center; text-align: center; font-size: 20px;"></i> <br>Clustering
-            </button>
+              <button class="test">
+                <i class="bi bi-code-slash" style="justify-content: center; text-align: center; font-size: 20px;"></i>
+                <br>Clustering
+              </button>
             </a>
-          
+
             <a href=" website.html">
-            <button class="test">
-                <i class="bi bi-globe" style="justify-content: center; text-align: center; font-size: 20px;"></i> <br>Website
-            </button>
-            
+              <button class="test">
+                <i class="bi bi-globe" style="justify-content: center; text-align: center; font-size: 20px;"></i>
+                <br>Website
+              </button>
+
             </a>
           </div>
 
-          </div>
         </div>
+      </div>
     </section>
 
   </main><!-- End #main -->
@@ -152,7 +203,8 @@
   </footer><!-- End  Footer -->
 
   <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>

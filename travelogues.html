@@ -6,8 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Travelogues</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Überblick und Beschreibung des Projekts Travelogues, welches als Inspiration für unsere eigenes Studienprojekt gedient hat. In unserem Projekt werden die Daten des Travelogues-Projektes verwendet, um die in Reiseberichten des 18. Jahrhunderts erwähnten Orte auf einer interaktiven Karte zu visualisieren." name="description">
+  <meta content="Travelogues, ÖNB, ÖAW, Reiseberichte, Projekt, Universität Trier, Digital Humanities" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/logo/Logo_weißerRand_transparent.PNG" rel="icon">
@@ -96,7 +96,8 @@
             eigenes <span data-tooltip='Optical Character Recognition, sehr häufig als Akronym
             "OCR" anzutreffen, bezeichnet als Sammelbegriff Verfahren der digitalen, automatisierten Zeichenerkennung,
             bei denen Bilddateien in Textdateien umgewandelt werden.'>Optical Character
-              Recognition (OCR)</span>-Projekt [1, S. 459–462] aufsetzen? Und vor allem: Verletzen wir damit womöglich Urheberrechte?
+              Recognition (OCR)</span>-Projekt [1, S. 459–462] aufsetzen? Und vor allem: Verletzen wir damit womöglich
+            Urheberrechte?
           </p>
         </div>
         <div>
@@ -130,8 +131,9 @@
             Die Digitalisate wurden anschließend mit OCR in Volltexte umgewandelt und mit diversen computergestützten
             Methoden automatisch ausgewertet. Dazu gehört unter anderem auch eine automatisierte <span
               data-tooltip="Klassifikationsalgorithmen bilden einen Teil der Machine Learning Verfahren. Modelle dieser Art erlernen anhand von Trainingsdaten, Muster  der Gruppen in den Daten zu erkennen und neue Datenpunkte in solche bestehenden Gruppen einzusortieren.">Klassifikation</span>
-              [2, S. 13–103] der Texte bezüglich ihrer "Reisebericht"-izität, um festzustellen, ob sie dem Korpus beigefügt werden sollen
-            oder nicht.
+            [2, S. 13–103] der Texte bezüglich ihrer "Reisebericht"-izität, um festzustellen, ob sie dem Korpus
+            beigefügt werden sollen
+            oder nicht.<a href="#one">&#185</a>
           </p>
           <p>Das Korpus steht als Volltext-Sammlung auf <a href="https://github.com/travelogues">Github</a> zur
             Verfügung. Insgesamt 1.219 Reiseberichte können dort
@@ -140,7 +142,7 @@
             computergestützten Prozess der Ermittlung von Eigennamen in digitalen Textdateien.">Named Entity
               Recognition (NER)</span> [3, S. 596–599] verfügbar gemacht.
           </p>
-          <p>Wir entschieden uns für die Reiseberichte des 18. Jahrhunderts, da dies die umfangreichste verfügbare
+          <p>Wir entschieden uns für die Reiseberichte des 18. Jahrhunderts<a href="#two">&#178</a>, da dies die umfangreichste verfügbare
             Volltextsammlung ist. Zudem schätzten wir die Qualität der Volltextdateien – nach stichprobenartiger
             Sichtung – besser ein, als die der vorigen Jahrhunderte.</p>
           <p>Einen Überblick des gesamten Korpusaufbaus gibt es <a href="ueber_projekt.html">hier</a> unter "Korpus".
@@ -160,7 +162,7 @@
             automatische Mapping der erkannten Orts-Eigennamen mit der Geonames-Datenbasis nicht gut funktioniert hat.
             Dies liegt daran, dass die historischen Orte ambig sind. Zum Beispiel ist der erste Treffer für die Entität
             "Memphis" in Geonames der Ort in den USA. In dem betroffenen Reisebericht kann jedoch aus dem Kontext
-            erschlossen werden, dass es sich hier um eine Erwähnung des Ortes "Memphis" in Ägypten handelt.
+            erschlossen werden, dass es sich hier um eine Erwähnung des Ortes "Memphis" in Ägypten handelt.<a href="#three">&#179</a>
           </p>
           <p>Die Nachnutzbarkeit von Daten ist ein wiederkehrendes, heiß diskutiertes Thema in den Digital Humanities
             und findet in vielen Forschungsprojekten, auf Konferenzen oder Tagungen seinen Stammplatz in der Menge.
@@ -185,13 +187,13 @@
           <p> In einem Testlauf, bei dem wir die Texte aus dem 18. Jahrhundert mit Hilfe des Sprachmodells korrigierten,
             wurden richtig geschriebene Wörter "verschlimmbessert" (bspw. wurde aus "bulgaria" -> "bvlgaria" oder aus
             "vber-\nſchreiten" -> "vberſthſehſenſt"). Bedingt sind solche Fehler zumeist durch die starke Variation in
-            der geschriebenen deutschen Sprache der Zeit. Da es sich grundsätzlich um Zeichenfehler handelt, die durch
+            der geschriebenen deutschen Sprache der Zeit.<a href="#four">&#8308</a> Da es sich grundsätzlich um Zeichenfehler handelt, die durch
             reguläre Ausdrücke verbessert werden können, haben wir uns dazu entschieden, ein eigenes, kurzes Skript
             dafür zu schreiben. Andere systematische Fehler, wie die Verwechslung von "u" und "v", sind jedoch kaum mit
             regulären Ausdrücken abzudecken.</p>
           <p> Die breite Fehlervarianz in der Schreibweise der Wörter ist bereits beim Sprachmodell von Lyu et. al.
             festgestellt worden, eine Korrektur ist jedoch schwierig, da eine strikte Normung ggf. zu kontextuellen
-            Fehlern führen kann.</p>
+            Fehlern führen kann.<a href="#five">&#8309</a></p>
           <p>Die Resultate unserer halb-automatischen Nachkorrektur sind, wie wir bereits erwarteten, gleichwertig
             fehlerbelastet. Da wir in dieser ersten Projektphase jedoch primär auf einer <span data-tooltip="Es ging um das Erkennen von Ortsnamen, die auch bei Texten mit relativ hoher Fehlerrate
             sehr gut erkannt werden konnten (bspw. anhand der Syntax im Wort-Kontext, mehr Infos folgen im
@@ -238,6 +240,15 @@
             Clusteringverfahren, das die computergestützte
             Bearbeitung großer Datenmengen zulässt, aber eine Unschärfe bei den einzelnen Datenpunkten eliminiert.
           </p>
+          <p id="one">&#185 Das <a href="https://www.travelogues-project.info/about_de/#:~:text=Reiseberichte%20enthalten%20Informationen,und%20Texterkennung%20(OCR).">Team spricht hierbei von</a> einem <a href="https://www.travelogues-project.info/about_de/#:~:text=Semi%2Dautomatisierte%20Erstellung%20eines%20Textkorpus.%20Ausarbeitung%20charakteristischer%20Elemente%20von%20Reiseberichten%20und%20M%C3%B6glichkeiten%20zu%20ihrer%20automatisierten%20Sammlung%20innerhalb%20des%20digitalisierten%20Bestands%20der%20%C3%96sterreichischen%20Nationalbibliothek%20(ca.%20600.000%20B%C3%BCcher).">"semi-automatisierten"</a> Ansatz, bei dem <a href="https://dh2020.adho.org/wp-content/uploads/2020/07/503_SemiAutomaticIdentificationofTravelogues.html#:~:text=As%20the%20intellectual,and%20a%20librarian.">charakterisierende Elemente von Reiseberichten zu ihrer Identifikation genutzt wurden</a>.</p>
+<p id="two">&#178 Die Reiseberichte haben als Erscheinungsdatum ein Datum des 18. Jahrhunderts. Einige wenige Werke entstanden in einer Zeitspanne, die bis ins 19. Jahrhundert reichte.
+</p>
+<p id="three">&#179 Solche Fehler automatisiert zu filtern ist aufwändig, wenn nicht gar unmöglich. Diese Korrekturen mussten dementsprechend durch eine manuelle Überprüfung erfolgen, bei der wir einzelne Entitäten im Kontext des Gesamttextes nachkorrigierten.
+</p>
+<p id="four">&#8308 Erklärt wird das auch im Paper: "One explanation is due to the word spelling variations across centuries. Some examples include the substitution of single characters in words [...]."  [4, 491]
+</p>
+<p id="five"> &#8309 "Other possible issues include competing spellings for the same word, which may cause the models to encode conflicting information, yet, for transcribing historical texts, language normalization (i.e., opting for one spelling) is not recommended, as the meaning of the texts may change." [4, 490–491]
+</p>
           <p><strong>Bibliographie</strong><br>
             [1] U. Springmann, "OCR für alte Drucke", Inform.-Spektrum, Bd. 39, Nr. 6, S. 459–462, Dez. 2016, <a
               href="https://doi.org/10.1007/s00287-016-1004-3">doi:
