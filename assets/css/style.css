@@ -52,8 +52,10 @@ p {
 */
 [data-tooltip] {
   position: relative;
-  cursor: default;
-  border-bottom: 1px dotted #0890a7
+  cursor: default;  
+  background:#e2dbd5;
+  padding: 2px;
+  border-radius: 5px;
       }
   
       [data-tooltip]::after {
