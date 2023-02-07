@@ -183,7 +183,10 @@
 		  return $.getJSON(path);
 	  }
 	  
-	  function getGeoLayer(path, t, tl, color, map, eo, aut) {
+	  function getGeoLayer(file, t, tl, color, map, eo, aut) {
+        var path = "https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/"+file;
+        var sig = file.replace("travelogues/data/output/text_ner/with_url/finished/", "");
+        sig = sig.replace (".json", "");
 		return new L.GeoJSON.AJAX(path, {
 			title : tl,
             pointToLayer: function (feature, latlng) {
@@ -214,7 +217,8 @@
                   "<b>Autor: </b>"+aut+"<br>",
                   "<b>Titel: </b>"+tl+"<br>",
                   "<b>Erscheinungsort: </b>"+eo+"<br>",
-                  "<b>Erscheinungsjahr: </b>"+t
+                  "<b>Erscheinungsjahr: </b>"+t+"<br>",
+                  "<b>Signatur: </b><a href=\"http://data.onb.ac.at/ABO/+"+sig+"\" target=\"_blank\">"+sig+"</a>"
                 ].join('');
                 var dialog = L.control.dialog({
                   size: [ 350, 200 ],
@@ -286,8 +290,7 @@
 			var b = Math.floor(Math.random() * 255);
 			color= "rgb("+r+" ,"+g+","+ b+")"; 
 			// Füge Layer zur Sammlung hinzu
-			var p = "https://cdn.jsdelivr.net/gh/kartriert/reiseberichte-kartriert@main/"+filenamelist[i];
-			eighteenthLayers.push ( await getGeoLayer(p, t, tl, color, map, eo, aut));
+			eighteenthLayers.push ( await getGeoLayer(filenamelist[i], t, tl, color, map, eo, aut));
 		  }
 		  // Sortiere und gruppiere Layer nach Datum
 		  eighteenthLayers.sort((a,b) => (a.options.time > b.options.time) ? 1 : ((b.options.time > a.options.time) ? -1 : 0))
