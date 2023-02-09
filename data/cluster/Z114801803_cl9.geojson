@@ -14,7 +14,7 @@
                 "source_label": "abu",
                 "geonames_label": "Abu Dhabi",
                 "url": "https://www.geonames.org/292968",
-                "sentence_idx": 713
+                "sentence_idx": "713"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Farsistan",
                 "geonames_label": "F\u0101rs",
                 "url": "https://www.geonames.org/134767",
-                "sentence_idx": 721
+                "sentence_idx": "721"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 722
+                "sentence_idx": "722"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 725
+                "sentence_idx": "725"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 726
+                "sentence_idx": "726"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 729
+                "sentence_idx": "729"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 732
+                "sentence_idx": "732"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "yezd",
                 "geonames_label": "Yazd",
                 "url": "https://www.geonames.org/111822",
-                "sentence_idx": 733
+                "sentence_idx": "733"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Carmania",
                 "geonames_label": "Kerm\u0101n",
                 "url": "https://www.geonames.org/128233",
-                "sentence_idx": 733
+                "sentence_idx": "733"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "tauris",
                 "geonames_label": "Tabriz",
                 "url": "https://www.geonames.org/113646",
-                "sentence_idx": 734
+                "sentence_idx": "734"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 749
+                "sentence_idx": "749"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "ispahan",
                 "geonames_label": "Isfahan",
                 "url": "https://www.geonames.org/418863",
-                "sentence_idx": 752
+                "sentence_idx": "752"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 752
+                "sentence_idx": "752"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 755
+                "sentence_idx": "755"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 762
+                "sentence_idx": "762"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 773
+                "sentence_idx": "773"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "buffora",
                 "geonames_label": "Basra",
                 "url": "https://www.geonames.org/99532",
-                "sentence_idx": 777
+                "sentence_idx": "777"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 788
+                "sentence_idx": "788"
             }
         },
         {
@@ -302,7 +302,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 795
+                "sentence_idx": "795"
             }
         },
         {
@@ -318,7 +318,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 807
+                "sentence_idx": "807"
             }
         }
     ]

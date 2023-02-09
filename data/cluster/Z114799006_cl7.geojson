@@ -14,7 +14,7 @@
                 "source_label": "neu schottland",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 1314
+                "sentence_idx": "1314"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "neu england",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 1315
+                "sentence_idx": "1315"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "pensylvanien",
                 "geonames_label": "Pennsylvania",
                 "url": "https://www.geonames.org/6254927",
-                "sentence_idx": 1316
+                "sentence_idx": "1316"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "neu foundland",
                 "geonames_label": "Newfoundland and Labrador",
                 "url": "https://www.geonames.org/6354959",
-                "sentence_idx": 1320
+                "sentence_idx": "1320"
             }
         }
     ]

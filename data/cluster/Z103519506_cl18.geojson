@@ -14,7 +14,7 @@
                 "source_label": "potsdam",
                 "geonames_label": "Potsdam",
                 "url": "https://www.geonames.org/2852458",
-                "sentence_idx": 431
+                "sentence_idx": "431"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 438
+                "sentence_idx": "438"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "sanssouci",
                 "geonames_label": "Sanssouci",
                 "url": "https://www.geonames.org/6295638",
-                "sentence_idx": 453
+                "sentence_idx": "453"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 453
+                "sentence_idx": "453"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 454
+                "sentence_idx": "454"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "sanssouci",
                 "geonames_label": "Sanssouci",
                 "url": "https://www.geonames.org/6295638",
-                "sentence_idx": 459
+                "sentence_idx": "459"
             }
         }
     ]

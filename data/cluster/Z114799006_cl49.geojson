@@ -14,7 +14,7 @@
                 "source_label": "canada",
                 "geonames_label": "Canada",
                 "url": "https://www.geonames.org/6251999",
-                "sentence_idx": 350
+                "sentence_idx": "350"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "canada",
                 "geonames_label": "Canada",
                 "url": "https://www.geonames.org/6251999",
-                "sentence_idx": 352
+                "sentence_idx": "352"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "canada",
                 "geonames_label": "Canada",
                 "url": "https://www.geonames.org/6251999",
-                "sentence_idx": 359
+                "sentence_idx": "359"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "canada",
                 "geonames_label": "Canada",
                 "url": "https://www.geonames.org/6251999",
-                "sentence_idx": 361
+                "sentence_idx": "361"
             }
         }
     ]

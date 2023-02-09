@@ -14,7 +14,7 @@
                 "source_label": "piesenberg",
                 "geonames_label": "Piesenberg",
                 "url": "https://www.geonames.org/2853792",
-                "sentence_idx": 2213
+                "sentence_idx": "2213"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "traun",
                 "geonames_label": "Traun",
                 "url": "https://www.geonames.org/7872061",
-                "sentence_idx": 2213
+                "sentence_idx": "2213"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2213
+                "sentence_idx": "2213"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "g\u00f6llersdorf",
                 "geonames_label": "G\u00f6llersdorf",
                 "url": "https://www.geonames.org/2778367",
-                "sentence_idx": 2221
+                "sentence_idx": "2221"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2221
+                "sentence_idx": "2221"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "hadersdorf",
                 "geonames_label": "Hadersdorf am Kamp",
                 "url": "https://www.geonames.org/2777093",
-                "sentence_idx": 2226
+                "sentence_idx": "2226"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2226
+                "sentence_idx": "2226"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "belgrad",
                 "geonames_label": "Belgrade",
                 "url": "https://www.geonames.org/792680",
-                "sentence_idx": 2229
+                "sentence_idx": "2229"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 2237
+                "sentence_idx": "2237"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "bayern",
                 "geonames_label": "Bavaria",
                 "url": "https://www.geonames.org/2951839",
-                "sentence_idx": 2237
+                "sentence_idx": "2237"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "libochowitz",
                 "geonames_label": "Libochovice",
                 "url": "https://www.geonames.org/3071911",
-                "sentence_idx": 2244
+                "sentence_idx": "2244"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "beraun",
                 "geonames_label": "Beroun",
                 "url": "https://www.geonames.org/3079467",
-                "sentence_idx": 2244
+                "sentence_idx": "2244"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "burgstein",
                 "geonames_label": "Burgstein",
                 "url": "https://www.geonames.org/6548530",
-                "sentence_idx": 2244
+                "sentence_idx": "2244"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "oberleutensdorf",
                 "geonames_label": "Litv\u00ednov",
                 "url": "https://www.geonames.org/3071665",
-                "sentence_idx": 2253
+                "sentence_idx": "2253"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "prag",
                 "geonames_label": "Prague",
                 "url": "https://www.geonames.org/3067696",
-                "sentence_idx": 2257
+                "sentence_idx": "2257"
             }
         }
     ]

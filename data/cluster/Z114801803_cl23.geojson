@@ -14,7 +14,7 @@
                 "source_label": "moldau",
                 "geonames_label": "Moldavia",
                 "url": "https://www.geonames.org/672915",
-                "sentence_idx": 1678
+                "sentence_idx": "1678"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "tschuka",
                 "geonames_label": "Vrashka Chuka",
                 "url": "https://www.geonames.org/725704",
-                "sentence_idx": 1682
+                "sentence_idx": "1682"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "tschuka",
                 "geonames_label": "Vrashka Chuka",
                 "url": "https://www.geonames.org/725704",
-                "sentence_idx": 1683
+                "sentence_idx": "1683"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "tschuka",
                 "geonames_label": "Vrashka Chuka",
                 "url": "https://www.geonames.org/725704",
-                "sentence_idx": 1695
+                "sentence_idx": "1695"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "tschuka",
                 "geonames_label": "Vrashka Chuka",
                 "url": "https://www.geonames.org/725704",
-                "sentence_idx": 1697
+                "sentence_idx": "1697"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1700
+                "sentence_idx": "1700"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "schweiz",
                 "geonames_label": "Switzerland",
                 "url": "https://www.geonames.org/2658434",
-                "sentence_idx": 1701
+                "sentence_idx": "1701"
             }
         }
     ]

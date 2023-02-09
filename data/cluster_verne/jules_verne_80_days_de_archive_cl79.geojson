@@ -14,7 +14,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 3347
+                "sentence_idx": "3347"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Auburn",
                 "geonames_label": "Auburn",
                 "url": "https://www.geonames.org/4830796",
-                "sentence_idx": 3350
+                "sentence_idx": "3350"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Colfax",
                 "geonames_label": "Colfax",
                 "url": "https://www.geonames.org/5065953",
-                "sentence_idx": 3350
+                "sentence_idx": "3350"
             }
         }
     ]

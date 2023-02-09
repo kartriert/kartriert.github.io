@@ -14,7 +14,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 5389
+                "sentence_idx": "5389"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5393
+                "sentence_idx": "5393"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5399
+                "sentence_idx": "5399"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5400
+                "sentence_idx": "5400"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "England",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 3431
+                "sentence_idx": "3431"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Skandinavien",
                 "geonames_label": "Scandinavia",
                 "url": "https://www.geonames.org/2614165",
-                "sentence_idx": 3431
+                "sentence_idx": "3431"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Deutschland",
                 "geonames_label": "Germany",
                 "url": "https://www.geonames.org/2921044",
-                "sentence_idx": 3431
+                "sentence_idx": "3431"
             }
         }
     ]

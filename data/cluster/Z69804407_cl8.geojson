@@ -14,7 +14,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2431
+                "sentence_idx": "2431"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "cairo",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360631",
-                "sentence_idx": 2434
+                "sentence_idx": "2434"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "jordan",
                 "geonames_label": "Jordan",
                 "url": "https://www.geonames.org/294624",
-                "sentence_idx": 2434
+                "sentence_idx": "2434"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2434
+                "sentence_idx": "2434"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2442
+                "sentence_idx": "2442"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "israel",
                 "geonames_label": "Israel",
                 "url": "https://www.geonames.org/294640",
-                "sentence_idx": 2447
+                "sentence_idx": "2447"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "porta di damasco",
                 "geonames_label": "Damascus Gate",
                 "url": "https://www.geonames.org/6957220",
-                "sentence_idx": 2447
+                "sentence_idx": "2447"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2448
+                "sentence_idx": "2448"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2450
+                "sentence_idx": "2450"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "aegypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 2450
+                "sentence_idx": "2450"
             }
         },
         {
@@ -172,9 +172,9 @@
             },
             "properties": {
                 "source_label": "gaza",
-                "geonames_label": null,
+                "geonames_label": "None",
                 "url": "https://www.geonames.org/111184609",
-                "sentence_idx": 2457
+                "sentence_idx": "2457"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "jaffa",
                 "geonames_label": "Tel Aviv",
                 "url": "https://www.geonames.org/293396",
-                "sentence_idx": 2458
+                "sentence_idx": "2458"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "jaffa",
                 "geonames_label": "Tel Aviv",
                 "url": "https://www.geonames.org/293396",
-                "sentence_idx": 2460
+                "sentence_idx": "2460"
             }
         },
         {
@@ -220,9 +220,9 @@
             },
             "properties": {
                 "source_label": "gaza",
-                "geonames_label": null,
+                "geonames_label": "None",
                 "url": "https://www.geonames.org/111184609",
-                "sentence_idx": 2461
+                "sentence_idx": "2461"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "damiata",
                 "geonames_label": "Damietta",
                 "url": "https://www.geonames.org/358048",
-                "sentence_idx": 2467
+                "sentence_idx": "2467"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "damiata",
                 "geonames_label": "Damietta",
                 "url": "https://www.geonames.org/358048",
-                "sentence_idx": 2467
+                "sentence_idx": "2467"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "aegypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 2469
+                "sentence_idx": "2469"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "aegypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 2469
+                "sentence_idx": "2469"
             }
         },
         {
@@ -302,7 +302,7 @@
                 "source_label": "mansura",
                 "geonames_label": "Al Mansura",
                 "url": "https://www.geonames.org/6940818",
-                "sentence_idx": 2472
+                "sentence_idx": "2472"
             }
         },
         {
@@ -318,7 +318,7 @@
                 "source_label": "cairo",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360631",
-                "sentence_idx": 2472
+                "sentence_idx": "2472"
             }
         },
         {
@@ -334,7 +334,7 @@
                 "source_label": "cairo",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360631",
-                "sentence_idx": 2476
+                "sentence_idx": "2476"
             }
         },
         {
@@ -350,7 +350,7 @@
                 "source_label": "damiata",
                 "geonames_label": "Damietta",
                 "url": "https://www.geonames.org/358048",
-                "sentence_idx": 2477
+                "sentence_idx": "2477"
             }
         },
         {
@@ -366,7 +366,7 @@
                 "source_label": "cairo",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360631",
-                "sentence_idx": 2477
+                "sentence_idx": "2477"
             }
         },
         {
@@ -382,7 +382,7 @@
                 "source_label": "cairo",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360631",
-                "sentence_idx": 2481
+                "sentence_idx": "2481"
             }
         }
     ]

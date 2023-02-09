@@ -14,7 +14,7 @@
                 "source_label": "niederweiden",
                 "geonames_label": "Schloss Niederweiden",
                 "url": "https://www.geonames.org/2770504",
-                "sentence_idx": 1945
+                "sentence_idx": "1945"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "dornbach",
                 "geonames_label": "Dornbach",
                 "url": "https://www.geonames.org/2601015",
-                "sentence_idx": 1955
+                "sentence_idx": "1955"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1955
+                "sentence_idx": "1955"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1955
+                "sentence_idx": "1955"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2467
+                "sentence_idx": "2467"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "bocca",
                 "geonames_label": "Castelnuovo Bocca d'Adda",
                 "url": "https://www.geonames.org/6541387",
-                "sentence_idx": 2468
+                "sentence_idx": "2468"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2482
+                "sentence_idx": "2482"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "deutschland",
                 "geonames_label": "Germany",
                 "url": "https://www.geonames.org/2921044",
-                "sentence_idx": 2494
+                "sentence_idx": "2494"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761367",
-                "sentence_idx": 2507
+                "sentence_idx": "2507"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "vecchio",
                 "geonames_label": "Lodi Vecchio",
                 "url": "https://www.geonames.org/6541391",
-                "sentence_idx": 2507
+                "sentence_idx": "2507"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2508
+                "sentence_idx": "2508"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2517
+                "sentence_idx": "2517"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2530
+                "sentence_idx": "2530"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2542
+                "sentence_idx": "2542"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2552
+                "sentence_idx": "2552"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 2559
+                "sentence_idx": "2559"
             }
         }
     ]

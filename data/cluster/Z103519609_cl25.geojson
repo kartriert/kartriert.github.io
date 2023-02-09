@@ -14,7 +14,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 682
+                "sentence_idx": "682"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "bayern",
                 "geonames_label": "Munich",
                 "url": "https://www.geonames.org/2867714",
-                "sentence_idx": 689
+                "sentence_idx": "689"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "parma",
                 "geonames_label": "Parma",
                 "url": "https://www.geonames.org/3171457",
-                "sentence_idx": 695
+                "sentence_idx": "695"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "florenz",
                 "geonames_label": "Florence",
                 "url": "https://www.geonames.org/3176959",
-                "sentence_idx": 695
+                "sentence_idx": "695"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "parma",
                 "geonames_label": "Parma",
                 "url": "https://www.geonames.org/3171457",
-                "sentence_idx": 704
+                "sentence_idx": "704"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 706
+                "sentence_idx": "706"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 708
+                "sentence_idx": "708"
             }
         }
     ]

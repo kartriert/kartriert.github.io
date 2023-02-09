@@ -14,7 +14,7 @@
                 "source_label": "grossbritannien",
                 "geonames_label": "Great Britain",
                 "url": "https://www.geonames.org/2648147",
-                "sentence_idx": 706
+                "sentence_idx": "706"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "birmingham",
                 "geonames_label": "Birmingham",
                 "url": "https://www.geonames.org/2655603",
-                "sentence_idx": 706
+                "sentence_idx": "706"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "grossbritannien",
                 "geonames_label": "Great Britain",
                 "url": "https://www.geonames.org/2648147",
-                "sentence_idx": 707
+                "sentence_idx": "707"
             }
         }
     ]

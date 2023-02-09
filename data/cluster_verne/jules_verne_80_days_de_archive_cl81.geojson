@@ -14,7 +14,7 @@
                 "source_label": "Europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 4118
+                "sentence_idx": "4118"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "England",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 4123
+                "sentence_idx": "4123"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "England",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 4124
+                "sentence_idx": "4124"
             }
         }
     ]

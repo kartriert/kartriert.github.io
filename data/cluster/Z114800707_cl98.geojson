@@ -14,7 +14,7 @@
                 "source_label": "indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 3076
+                "sentence_idx": "3076"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 3076
+                "sentence_idx": "3076"
             }
         },
         {
@@ -44,9 +44,9 @@
             },
             "properties": {
                 "source_label": "ostindien",
-                "geonames_label": null,
+                "geonames_label": "None",
                 "url": "https://www.wikidata.org/wiki/Q1151572",
-                "sentence_idx": 3086
+                "sentence_idx": "3086"
             }
         },
         {
@@ -60,9 +60,9 @@
             },
             "properties": {
                 "source_label": "ostindien",
-                "geonames_label": null,
+                "geonames_label": "None",
                 "url": "https://www.wikidata.org/wiki/Q1151572",
-                "sentence_idx": 3086
+                "sentence_idx": "3086"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 3089
+                "sentence_idx": "3089"
             }
         }
     ]

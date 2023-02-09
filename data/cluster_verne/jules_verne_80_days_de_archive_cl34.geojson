@@ -14,7 +14,7 @@
                 "source_label": "Vindhiagebirges",
                 "geonames_label": "Vindhya Range",
                 "url": "https://www.geonames.org/1253158",
-                "sentence_idx": 1258
+                "sentence_idx": "1258"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Allahabad",
                 "geonames_label": "Prayagraj",
                 "url": "https://www.geonames.org/1278994",
-                "sentence_idx": 1262
+                "sentence_idx": "1262"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Vindhia",
                 "geonames_label": "Vindhya Range",
                 "url": "https://www.geonames.org/1253158",
-                "sentence_idx": 1270
+                "sentence_idx": "1270"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Allahabad",
                 "geonames_label": "Prayagraj",
                 "url": "https://www.geonames.org/1278994",
-                "sentence_idx": 1271
+                "sentence_idx": "1271"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Allahabad",
                 "geonames_label": "Prayagraj",
                 "url": "https://www.geonames.org/1278994",
-                "sentence_idx": 1284
+                "sentence_idx": "1284"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Vindhia",
                 "geonames_label": "Vindhya Range",
                 "url": "https://www.geonames.org/1253158",
-                "sentence_idx": 1285
+                "sentence_idx": "1285"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Allahabad",
                 "geonames_label": "Prayagraj",
                 "url": "https://www.geonames.org/1278994",
-                "sentence_idx": 1288
+                "sentence_idx": "1288"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Pisang",
                 "geonames_label": "Pisang Peak",
                 "url": "https://www.geonames.org/6941682",
-                "sentence_idx": 1289
+                "sentence_idx": "1289"
             }
         }
     ]

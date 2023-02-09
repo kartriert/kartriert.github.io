@@ -14,7 +14,7 @@
                 "source_label": "piazza",
                 "geonames_label": "Piazza al Serchio",
                 "url": "https://www.geonames.org/3170896",
-                "sentence_idx": 346
+                "sentence_idx": "346"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "covent garden",
                 "geonames_label": "Covent Garden",
                 "url": "https://www.geonames.org/2652222",
-                "sentence_idx": 346
+                "sentence_idx": "346"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "covent garden",
                 "geonames_label": "Covent Garden",
                 "url": "https://www.geonames.org/2652222",
-                "sentence_idx": 349
+                "sentence_idx": "349"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "london",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 349
+                "sentence_idx": "349"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "piazza",
                 "geonames_label": "Piazza al Serchio",
                 "url": "https://www.geonames.org/3170896",
-                "sentence_idx": 351
+                "sentence_idx": "351"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "piazza",
                 "geonames_label": "Piazza al Serchio",
                 "url": "https://www.geonames.org/3170896",
-                "sentence_idx": 351
+                "sentence_idx": "351"
             }
         }
     ]

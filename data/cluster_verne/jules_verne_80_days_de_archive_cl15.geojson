@@ -14,7 +14,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2508
+                "sentence_idx": "2508"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 2508
+                "sentence_idx": "2508"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Nangasaki",
                 "geonames_label": "Nagasaki",
                 "url": "https://www.geonames.org/1856177",
-                "sentence_idx": 2517
+                "sentence_idx": "2517"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Japans",
                 "geonames_label": "Japan",
                 "url": "https://www.geonames.org/1861060",
-                "sentence_idx": 2517
+                "sentence_idx": "2517"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Schangai",
                 "geonames_label": "Shanghai",
                 "url": "https://www.geonames.org/1796236",
-                "sentence_idx": 2517
+                "sentence_idx": "2517"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2517
+                "sentence_idx": "2517"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Yokohoma",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 2519
+                "sentence_idx": "2519"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Schangai",
                 "geonames_label": "Shanghai",
                 "url": "https://www.geonames.org/1796236",
-                "sentence_idx": 2519
+                "sentence_idx": "2519"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Nangasaki",
                 "geonames_label": "Nagasaki",
                 "url": "https://www.geonames.org/1856177",
-                "sentence_idx": 2519
+                "sentence_idx": "2519"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 2521
+                "sentence_idx": "2521"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "Schangai",
                 "geonames_label": "Shanghai",
                 "url": "https://www.geonames.org/1796236",
-                "sentence_idx": 2521
+                "sentence_idx": "2521"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 2521
+                "sentence_idx": "2521"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "Nangasaki",
                 "geonames_label": "Nagasaki",
                 "url": "https://www.geonames.org/1856177",
-                "sentence_idx": 2521
+                "sentence_idx": "2521"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "Schangai",
                 "geonames_label": "Shanghai",
                 "url": "https://www.geonames.org/1796236",
-                "sentence_idx": 2524
+                "sentence_idx": "2524"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "Schangai",
                 "geonames_label": "Shanghai",
                 "url": "https://www.geonames.org/1796236",
-                "sentence_idx": 2527
+                "sentence_idx": "2527"
             }
         }
     ]

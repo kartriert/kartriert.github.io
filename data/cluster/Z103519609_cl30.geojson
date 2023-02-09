@@ -14,7 +14,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 198
+                "sentence_idx": "198"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "feldsberg",
                 "geonames_label": "Valtice",
                 "url": "https://www.geonames.org/3063409",
-                "sentence_idx": 199
+                "sentence_idx": "199"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 204
+                "sentence_idx": "204"
             }
         }
     ]

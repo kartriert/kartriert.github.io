@@ -14,7 +14,7 @@
                 "source_label": "parma",
                 "geonames_label": "Parma",
                 "url": "https://www.geonames.org/3171457",
-                "sentence_idx": 1715
+                "sentence_idx": "1715"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "augustinerkirche",
                 "geonames_label": "St. Augustin",
                 "url": "https://www.geonames.org/12500515",
-                "sentence_idx": 1717
+                "sentence_idx": "1717"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "florenz",
                 "geonames_label": "Florence",
                 "url": "https://www.geonames.org/3176959",
-                "sentence_idx": 1724
+                "sentence_idx": "1724"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1730
+                "sentence_idx": "1730"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 1731
+                "sentence_idx": "1731"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "sachsen",
                 "geonames_label": "Saxony",
                 "url": "https://www.geonames.org/2842566",
-                "sentence_idx": 1742
+                "sentence_idx": "1742"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "teschen",
                 "geonames_label": "Cieszyn",
                 "url": "https://www.geonames.org/3101321",
-                "sentence_idx": 1742
+                "sentence_idx": "1742"
             }
         }
     ]

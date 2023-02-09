@@ -14,7 +14,7 @@
                 "source_label": "Kearney",
                 "geonames_label": "Kearney",
                 "url": "https://www.geonames.org/5071364",
-                "sentence_idx": 4104
+                "sentence_idx": "4104"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 4113
+                "sentence_idx": "4113"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Chicago",
                 "geonames_label": "Chicago",
                 "url": "https://www.geonames.org/4887398",
-                "sentence_idx": 4114
+                "sentence_idx": "4114"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "New-York",
                 "geonames_label": "New York",
                 "url": "https://www.geonames.org/5128581",
-                "sentence_idx": 4114
+                "sentence_idx": "4114"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Kearney",
                 "geonames_label": "Kearney",
                 "url": "https://www.geonames.org/5071364",
-                "sentence_idx": 4117
+                "sentence_idx": "4117"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 4129
+                "sentence_idx": "4129"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Grand-Island",
                 "geonames_label": "Grand Island",
                 "url": "https://www.geonames.org/5069297",
-                "sentence_idx": 4143
+                "sentence_idx": "4143"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Columbus",
                 "geonames_label": "Columbus",
                 "url": "https://www.geonames.org/4509177",
-                "sentence_idx": 4143
+                "sentence_idx": "4143"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Nebraska",
                 "geonames_label": "Nebraska",
                 "url": "https://www.geonames.org/5073708",
-                "sentence_idx": 4143
+                "sentence_idx": "4143"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Schuyler",
                 "geonames_label": "Schuyler",
                 "url": "https://www.geonames.org/4910877",
-                "sentence_idx": 4143
+                "sentence_idx": "4143"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 4143
+                "sentence_idx": "4143"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "Vermont",
                 "geonames_label": "Vermont",
                 "url": "https://www.geonames.org/5242283",
-                "sentence_idx": 4146
+                "sentence_idx": "4146"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "New-York",
                 "geonames_label": "New York",
                 "url": "https://www.geonames.org/5128581",
-                "sentence_idx": 4155
+                "sentence_idx": "4155"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 4157
+                "sentence_idx": "4157"
             }
         }
     ]

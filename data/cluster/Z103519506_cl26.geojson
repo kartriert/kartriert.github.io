@@ -14,7 +14,7 @@
                 "source_label": "griechenland",
                 "geonames_label": "Greece",
                 "url": "https://www.geonames.org/390903",
-                "sentence_idx": 1110
+                "sentence_idx": "1110"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1110
+                "sentence_idx": "1110"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "griechenland",
                 "geonames_label": "Greece",
                 "url": "https://www.geonames.org/390903",
-                "sentence_idx": 1118
+                "sentence_idx": "1118"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Sanha",
                 "geonames_label": "Sanha",
                 "url": "https://www.geonames.org/10898519",
-                "sentence_idx": 1832
+                "sentence_idx": "1832"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Sanha",
                 "geonames_label": "Sanha",
                 "url": "https://www.geonames.org/10898519",
-                "sentence_idx": 1837
+                "sentence_idx": "1837"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "butan",
                 "geonames_label": "Bhutan",
                 "url": "https://www.geonames.org/1252634",
-                "sentence_idx": 1838
+                "sentence_idx": "1838"
             }
         }
     ]

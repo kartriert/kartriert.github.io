@@ -14,7 +14,7 @@
                 "source_label": "daenemark",
                 "geonames_label": "Denmark",
                 "url": "https://www.geonames.org/2623032",
-                "sentence_idx": 8493
+                "sentence_idx": "8493"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pommern",
                 "geonames_label": "Pomerania",
                 "url": "https://www.geonames.org/3088388",
-                "sentence_idx": 8495
+                "sentence_idx": "8495"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "kopenhagen",
                 "geonames_label": "Copenhagen",
                 "url": "https://www.geonames.org/2618425",
-                "sentence_idx": 8496
+                "sentence_idx": "8496"
             }
         }
     ]

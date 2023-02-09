@@ -14,7 +14,7 @@
                 "source_label": "carolina",
                 "geonames_label": "North Carolina",
                 "url": "https://www.geonames.org/4482348",
-                "sentence_idx": 1051
+                "sentence_idx": "1051"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "florida",
                 "geonames_label": "Florida",
                 "url": "https://www.geonames.org/4155751",
-                "sentence_idx": 1064
+                "sentence_idx": "1064"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "bahama",
                 "geonames_label": "Bahamas",
                 "url": "https://www.geonames.org/3572887",
-                "sentence_idx": 1064
+                "sentence_idx": "1064"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "cuba havana",
                 "geonames_label": "Havana",
                 "url": "https://www.geonames.org/3553478",
-                "sentence_idx": 1079
+                "sentence_idx": "1079"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "san domingo",
                 "geonames_label": "Santo Domingo Oeste",
                 "url": "https://www.geonames.org/7874116",
-                "sentence_idx": 1080
+                "sentence_idx": "1080"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "domingo",
                 "geonames_label": "Dominican Republic",
                 "url": "https://www.geonames.org/3508796",
-                "sentence_idx": 1081
+                "sentence_idx": "1081"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "jamaika",
                 "geonames_label": "Jamaica",
                 "url": "https://www.geonames.org/3489940",
-                "sentence_idx": 1081
+                "sentence_idx": "1081"
             }
         }
     ]

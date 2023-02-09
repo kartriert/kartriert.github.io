@@ -14,7 +14,7 @@
                 "source_label": "hudsons bay",
                 "geonames_label": "Hudsons Bay",
                 "url": "https://www.geonames.org/5978180",
-                "sentence_idx": 926
+                "sentence_idx": "926"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "labrador",
                 "geonames_label": "Newfoundland and Labrador",
                 "url": "https://www.geonames.org/6354959",
-                "sentence_idx": 926
+                "sentence_idx": "926"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "neu schottland",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 926
+                "sentence_idx": "926"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "labrador",
                 "geonames_label": "Newfoundland and Labrador",
                 "url": "https://www.geonames.org/6354959",
-                "sentence_idx": 931
+                "sentence_idx": "931"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "neufoundland",
                 "geonames_label": "Newfoundland and Labrador",
                 "url": "https://www.geonames.org/6354959",
-                "sentence_idx": 931
+                "sentence_idx": "931"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "neu schottland",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 931
+                "sentence_idx": "931"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "neu england",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 931
+                "sentence_idx": "931"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "rhode island",
                 "geonames_label": "Rhode Island",
                 "url": "https://www.geonames.org/5224323",
-                "sentence_idx": 931
+                "sentence_idx": "931"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "neu york",
                 "geonames_label": "New York",
                 "url": "https://www.geonames.org/5128638",
-                "sentence_idx": 931
+                "sentence_idx": "931"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "virginien",
                 "geonames_label": "Virginia",
                 "url": "https://www.geonames.org/6254928",
-                "sentence_idx": 933
+                "sentence_idx": "933"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "nord carolina",
                 "geonames_label": "North Carolina",
                 "url": "https://www.geonames.org/4482348",
-                "sentence_idx": 933
+                "sentence_idx": "933"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "sued carolina",
                 "geonames_label": "South Carolina",
                 "url": "https://www.geonames.org/4597040",
-                "sentence_idx": 933
+                "sentence_idx": "933"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "georgien",
                 "geonames_label": "Georgia",
                 "url": "https://www.geonames.org/4197000",
-                "sentence_idx": 933
+                "sentence_idx": "933"
             }
         }
     ]

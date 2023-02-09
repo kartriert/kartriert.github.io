@@ -14,7 +14,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3034
+                "sentence_idx": "3034"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3048
+                "sentence_idx": "3048"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3052
+                "sentence_idx": "3052"
             }
         }
     ]

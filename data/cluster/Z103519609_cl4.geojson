@@ -14,7 +14,7 @@
                 "source_label": "nikolsburg",
                 "geonames_label": "Mikulov",
                 "url": "https://www.geonames.org/3070720",
-                "sentence_idx": 91
+                "sentence_idx": "91"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "nikolsburg",
                 "geonames_label": "Mikulov",
                 "url": "https://www.geonames.org/3070720",
-                "sentence_idx": 93
+                "sentence_idx": "93"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "feldsberg",
                 "geonames_label": "Valtice",
                 "url": "https://www.geonames.org/3063409",
-                "sentence_idx": 97
+                "sentence_idx": "97"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 97
+                "sentence_idx": "97"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "nikolsburg",
                 "geonames_label": "Mikulov",
                 "url": "https://www.geonames.org/3070720",
-                "sentence_idx": 98
+                "sentence_idx": "98"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "liechtenstein",
                 "geonames_label": "Liechtenstein",
                 "url": "https://www.geonames.org/3042058",
-                "sentence_idx": 99
+                "sentence_idx": "99"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "linz",
                 "geonames_label": "Linz",
                 "url": "https://www.geonames.org/2772400",
-                "sentence_idx": 109
+                "sentence_idx": "109"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "feldsberg",
                 "geonames_label": "Valtice",
                 "url": "https://www.geonames.org/3063409",
-                "sentence_idx": 109
+                "sentence_idx": "109"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 109
+                "sentence_idx": "109"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "feldsberg",
                 "geonames_label": "Valtice",
                 "url": "https://www.geonames.org/3063409",
-                "sentence_idx": 114
+                "sentence_idx": "114"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "liechtenstein",
                 "geonames_label": "Liechtenstein",
                 "url": "https://www.geonames.org/3042058",
-                "sentence_idx": 115
+                "sentence_idx": "115"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "schlesien",
                 "geonames_label": "Silesia",
                 "url": "https://www.geonames.org/3066138",
-                "sentence_idx": 116
+                "sentence_idx": "116"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 116
+                "sentence_idx": "116"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "liechtenstein",
                 "geonames_label": "Liechtenstein",
                 "url": "https://www.geonames.org/3042058",
-                "sentence_idx": 116
+                "sentence_idx": "116"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "feldsberg",
                 "geonames_label": "Valtice",
                 "url": "https://www.geonames.org/3063409",
-                "sentence_idx": 117
+                "sentence_idx": "117"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 127
+                "sentence_idx": "127"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "nikolsburg",
                 "geonames_label": "Mikulov",
                 "url": "https://www.geonames.org/3070720",
-                "sentence_idx": 129
+                "sentence_idx": "129"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Allahabad",
                 "geonames_label": "Prayagraj",
                 "url": "https://www.geonames.org/1278994",
-                "sentence_idx": 279
+                "sentence_idx": "279"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 282
+                "sentence_idx": "282"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 283
+                "sentence_idx": "283"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 283
+                "sentence_idx": "283"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 284
+                "sentence_idx": "284"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "brandenburg",
                 "geonames_label": "Brandenburg",
                 "url": "https://www.geonames.org/2945356",
-                "sentence_idx": 2501
+                "sentence_idx": "2501"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "mittenwalde",
                 "geonames_label": "Mittenwalde",
                 "url": "https://www.geonames.org/2870481",
-                "sentence_idx": 2501
+                "sentence_idx": "2501"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "berlin",
                 "geonames_label": "Berlin",
                 "url": "https://www.geonames.org/2950159",
-                "sentence_idx": 2501
+                "sentence_idx": "2501"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "potsdam",
                 "geonames_label": "Potsdam",
                 "url": "https://www.geonames.org/2852458",
-                "sentence_idx": 2507
+                "sentence_idx": "2507"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "sanssouci",
                 "geonames_label": "Sanssouci",
                 "url": "https://www.geonames.org/6295638",
-                "sentence_idx": 2507
+                "sentence_idx": "2507"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 2508
+                "sentence_idx": "2508"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "hainburg",
                 "geonames_label": "Hainburg",
                 "url": "https://www.geonames.org/2911859",
-                "sentence_idx": 2509
+                "sentence_idx": "2509"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2509
+                "sentence_idx": "2509"
             }
         }
     ]

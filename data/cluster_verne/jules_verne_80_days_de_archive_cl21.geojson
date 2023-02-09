@@ -14,7 +14,7 @@
                 "source_label": "Malacca",
                 "geonames_label": "Malacca",
                 "url": "https://www.geonames.org/1734759",
-                "sentence_idx": 2011
+                "sentence_idx": "2011"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2012
+                "sentence_idx": "2012"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Rangoon",
                 "geonames_label": "Yangon",
                 "url": "https://www.geonames.org/1298824",
-                "sentence_idx": 2014
+                "sentence_idx": "2014"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Singapore",
                 "geonames_label": "Singapore",
                 "url": "https://www.geonames.org/1880251",
-                "sentence_idx": 2015
+                "sentence_idx": "2015"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Annam",
                 "geonames_label": "Annam",
                 "url": "https://www.geonames.org/1594320",
-                "sentence_idx": 2020
+                "sentence_idx": "2020"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Cochinchina",
                 "geonames_label": "Cochin China",
                 "url": "https://www.geonames.org/1573261",
-                "sentence_idx": 2020
+                "sentence_idx": "2020"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Rangoon",
                 "geonames_label": "Yangon",
                 "url": "https://www.geonames.org/1298824",
-                "sentence_idx": 2021
+                "sentence_idx": "2021"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2030
+                "sentence_idx": "2030"
             }
         }
     ]

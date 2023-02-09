@@ -14,7 +14,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 656
+                "sentence_idx": "656"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 658
+                "sentence_idx": "658"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 659
+                "sentence_idx": "659"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 660
+                "sentence_idx": "660"
             }
         }
     ]

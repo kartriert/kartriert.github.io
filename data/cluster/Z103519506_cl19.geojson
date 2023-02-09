@@ -14,7 +14,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1138
+                "sentence_idx": "1138"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1151
+                "sentence_idx": "1151"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "kaunitz",
                 "geonames_label": "Kaunitz",
                 "url": "https://www.geonames.org/2892046",
-                "sentence_idx": 1153
+                "sentence_idx": "1153"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1156
+                "sentence_idx": "1156"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "italien",
                 "geonames_label": "Italy",
                 "url": "https://www.geonames.org/3175395",
-                "sentence_idx": 1166
+                "sentence_idx": "1166"
             }
         }
     ]

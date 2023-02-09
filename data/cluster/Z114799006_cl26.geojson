@@ -14,7 +14,7 @@
                 "source_label": "florida",
                 "geonames_label": "Florida",
                 "url": "https://www.geonames.org/4155751",
-                "sentence_idx": 91
+                "sentence_idx": "91"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "hudsons bay",
                 "geonames_label": "Hudsons Bay",
                 "url": "https://www.geonames.org/5978180",
-                "sentence_idx": 92
+                "sentence_idx": "92"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "quebek",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 93
+                "sentence_idx": "93"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "pensylvanien",
                 "geonames_label": "Pennsylvania",
                 "url": "https://www.geonames.org/6254927",
-                "sentence_idx": 93
+                "sentence_idx": "93"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "virginien",
                 "geonames_label": "Virginia",
                 "url": "https://www.geonames.org/6254928",
-                "sentence_idx": 93
+                "sentence_idx": "93"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "georgien",
                 "geonames_label": "Georgia",
                 "url": "https://www.geonames.org/4197000",
-                "sentence_idx": 93
+                "sentence_idx": "93"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "jamaika",
                 "geonames_label": "Jamaica",
                 "url": "https://www.geonames.org/3489940",
-                "sentence_idx": 93
+                "sentence_idx": "93"
             }
         }
     ]

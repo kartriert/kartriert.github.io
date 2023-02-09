@@ -14,7 +14,7 @@
                 "source_label": "London",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 4563
+                "sentence_idx": "4563"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "London",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 4569
+                "sentence_idx": "4569"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Liverpool",
                 "geonames_label": "Liverpool",
                 "url": "https://www.geonames.org/2644210",
-                "sentence_idx": 4570
+                "sentence_idx": "4570"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "London",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 4570
+                "sentence_idx": "4570"
             }
         }
     ]

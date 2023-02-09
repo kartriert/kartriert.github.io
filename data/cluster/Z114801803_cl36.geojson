@@ -14,7 +14,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1807
+                "sentence_idx": "1807"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "aldersbach",
                 "geonames_label": "Aldersbach",
                 "url": "https://www.geonames.org/2958577",
-                "sentence_idx": 1816
+                "sentence_idx": "1816"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "landshut",
                 "geonames_label": "Landshut",
                 "url": "https://www.geonames.org/2881485",
-                "sentence_idx": 1816
+                "sentence_idx": "1816"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "breslau",
                 "geonames_label": "Wroclaw",
                 "url": "https://www.geonames.org/3081368",
-                "sentence_idx": 1819
+                "sentence_idx": "1819"
             }
         }
     ]

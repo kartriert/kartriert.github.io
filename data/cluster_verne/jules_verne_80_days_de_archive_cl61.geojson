@@ -14,7 +14,7 @@
                 "source_label": "Suez",
                 "geonames_label": "Suez",
                 "url": "https://www.geonames.org/359796",
-                "sentence_idx": 834
+                "sentence_idx": "834"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Rothen Meeres",
                 "geonames_label": "Red Sea",
                 "url": "https://www.geonames.org/350155",
-                "sentence_idx": 845
+                "sentence_idx": "845"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Suez",
                 "geonames_label": "Suez",
                 "url": "https://www.geonames.org/359796",
-                "sentence_idx": 848
+                "sentence_idx": "848"
             }
         }
     ]

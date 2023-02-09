@@ -14,7 +14,7 @@
                 "source_label": "Victoria",
                 "geonames_label": "Victoria",
                 "url": "https://www.geonames.org/241131",
-                "sentence_idx": 2204
+                "sentence_idx": "2204"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Victoria",
                 "geonames_label": "Victoria",
                 "url": "https://www.geonames.org/241131",
-                "sentence_idx": 2208
+                "sentence_idx": "2208"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Victoria",
                 "geonames_label": "Victoria",
                 "url": "https://www.geonames.org/241131",
-                "sentence_idx": 2211
+                "sentence_idx": "2211"
             }
         }
     ]

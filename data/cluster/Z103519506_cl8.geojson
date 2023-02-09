@@ -14,7 +14,7 @@
                 "source_label": "leopoldstadt",
                 "geonames_label": "Leopoldstadt",
                 "url": "https://www.geonames.org/2772614",
-                "sentence_idx": 1636
+                "sentence_idx": "1636"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 1644
+                "sentence_idx": "1644"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "prater",
                 "geonames_label": "Prater",
                 "url": "https://www.geonames.org/3322725",
-                "sentence_idx": 1647
+                "sentence_idx": "1647"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "prater",
                 "geonames_label": "Prater",
                 "url": "https://www.geonames.org/3322725",
-                "sentence_idx": 1650
+                "sentence_idx": "1650"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 1660
+                "sentence_idx": "1660"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "bayern",
                 "geonames_label": "Bavaria",
                 "url": "https://www.geonames.org/2951840",
-                "sentence_idx": 1665
+                "sentence_idx": "1665"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "hetzendorf",
                 "geonames_label": "Hetzendorf",
                 "url": "https://www.geonames.org/2776461",
-                "sentence_idx": 1665
+                "sentence_idx": "1665"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "laxenburg",
                 "geonames_label": "Laxenburg",
                 "url": "https://www.geonames.org/2772810",
-                "sentence_idx": 1665
+                "sentence_idx": "1665"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "ebersdorf",
                 "geonames_label": "Ebersdorf bei Coburg",
                 "url": "https://www.geonames.org/2933915",
-                "sentence_idx": 1665
+                "sentence_idx": "1665"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "piesenberg",
                 "geonames_label": "Piesenberg",
                 "url": "https://www.geonames.org/2853792",
-                "sentence_idx": 1665
+                "sentence_idx": "1665"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "hadersdorf",
                 "geonames_label": "Hadersdorf am Kamp",
                 "url": "https://www.geonames.org/2777093",
-                "sentence_idx": 1665
+                "sentence_idx": "1665"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "sch\u00f6nbrunn",
                 "geonames_label": "Schonbrunn Palace",
                 "url": "https://www.geonames.org/6354998",
-                "sentence_idx": 1666
+                "sentence_idx": "1666"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1666
+                "sentence_idx": "1666"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 4553
+                "sentence_idx": "4553"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 4562
+                "sentence_idx": "4562"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 4575
+                "sentence_idx": "4575"
             }
         }
     ]

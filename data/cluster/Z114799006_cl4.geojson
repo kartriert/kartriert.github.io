@@ -14,7 +14,7 @@
                 "source_label": "quebeck",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 1424
+                "sentence_idx": "1424"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "neufoundland",
                 "geonames_label": "Newfoundland and Labrador",
                 "url": "https://www.geonames.org/6354959",
-                "sentence_idx": 1434
+                "sentence_idx": "1434"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "akadien",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 1434
+                "sentence_idx": "1434"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "quebeck",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 1437
+                "sentence_idx": "1437"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "quebeck",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 1438
+                "sentence_idx": "1438"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "quebeck",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 1444
+                "sentence_idx": "1444"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "mont real",
                 "geonames_label": "Montreal",
                 "url": "https://www.geonames.org/6077243",
-                "sentence_idx": 1445
+                "sentence_idx": "1445"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "laurenzfluss",
                 "geonames_label": "Saint Lawrence River",
                 "url": "https://www.geonames.org/7315779",
-                "sentence_idx": 1446
+                "sentence_idx": "1446"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "laurenzstrom",
                 "geonames_label": "Saint Lawrence River",
                 "url": "https://www.geonames.org/7315779",
-                "sentence_idx": 1448
+                "sentence_idx": "1448"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "st laurenz",
                 "geonames_label": "St. Lawrence",
                 "url": "https://www.geonames.org/6156979",
-                "sentence_idx": 1450
+                "sentence_idx": "1450"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 126
+                "sentence_idx": "126"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 135
+                "sentence_idx": "135"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 143
+                "sentence_idx": "143"
             }
         }
     ]

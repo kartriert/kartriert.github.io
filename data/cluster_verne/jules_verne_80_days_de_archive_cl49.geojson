@@ -14,7 +14,7 @@
                 "source_label": "London",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 2170
+                "sentence_idx": "2170"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 2182
+                "sentence_idx": "2182"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Holland",
                 "geonames_label": "Netherlands",
                 "url": "https://www.geonames.org/2750405",
-                "sentence_idx": 2182
+                "sentence_idx": "2182"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Holland",
                 "geonames_label": "Netherlands",
                 "url": "https://www.geonames.org/2750405",
-                "sentence_idx": 2184
+                "sentence_idx": "2184"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 2192
+                "sentence_idx": "2192"
             }
         }
     ]

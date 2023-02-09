@@ -14,7 +14,7 @@
                 "source_label": "medina",
                 "geonames_label": "Medina",
                 "url": "https://www.geonames.org/109223",
-                "sentence_idx": 1153
+                "sentence_idx": "1153"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "kufa",
                 "geonames_label": "Kufa",
                 "url": "https://www.geonames.org/99135",
-                "sentence_idx": 1154
+                "sentence_idx": "1154"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "kufa",
                 "geonames_label": "Kufa",
                 "url": "https://www.geonames.org/99135",
-                "sentence_idx": 1156
+                "sentence_idx": "1156"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "medina",
                 "geonames_label": "Medina",
                 "url": "https://www.geonames.org/109223",
-                "sentence_idx": 1156
+                "sentence_idx": "1156"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "kufa",
                 "geonames_label": "Kufa",
                 "url": "https://www.geonames.org/99135",
-                "sentence_idx": 1158
+                "sentence_idx": "1158"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "damaskus",
                 "geonames_label": "Damascus",
                 "url": "https://www.geonames.org/170654",
-                "sentence_idx": 1159
+                "sentence_idx": "1159"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Kufa",
                 "geonames_label": "Kufa",
                 "url": "https://www.geonames.org/99135",
-                "sentence_idx": 1159
+                "sentence_idx": "1159"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "kufa",
                 "geonames_label": "Kufa",
                 "url": "https://www.geonames.org/99135",
-                "sentence_idx": 1163
+                "sentence_idx": "1163"
             }
         }
     ]

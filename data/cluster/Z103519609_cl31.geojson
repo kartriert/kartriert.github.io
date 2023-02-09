@@ -14,7 +14,7 @@
                 "source_label": "potsdam",
                 "geonames_label": "Potsdam",
                 "url": "https://www.geonames.org/2852458",
-                "sentence_idx": 618
+                "sentence_idx": "618"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 619
+                "sentence_idx": "619"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 622
+                "sentence_idx": "622"
             }
         }
     ]

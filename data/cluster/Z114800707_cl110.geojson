@@ -14,7 +14,7 @@
                 "source_label": "rras",
                 "geonames_label": "Rras",
                 "url": "https://www.geonames.org/3184329",
-                "sentence_idx": 7520
+                "sentence_idx": "7520"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 7521
+                "sentence_idx": "7521"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "rras",
                 "geonames_label": "Rras",
                 "url": "https://www.geonames.org/3184329",
-                "sentence_idx": 7526
+                "sentence_idx": "7526"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 7534
+                "sentence_idx": "7534"
             }
         }
     ]

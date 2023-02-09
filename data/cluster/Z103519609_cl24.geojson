@@ -14,7 +14,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 479
+                "sentence_idx": "479"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "sachsen",
                 "geonames_label": "Saxony",
                 "url": "https://www.geonames.org/2842566",
-                "sentence_idx": 483
+                "sentence_idx": "483"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 496
+                "sentence_idx": "496"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 500
+                "sentence_idx": "500"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 510
+                "sentence_idx": "510"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 510
+                "sentence_idx": "510"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "leipzig",
                 "geonames_label": "Leipzig",
                 "url": "https://www.geonames.org/2879139",
-                "sentence_idx": 516
+                "sentence_idx": "516"
             }
         }
     ]

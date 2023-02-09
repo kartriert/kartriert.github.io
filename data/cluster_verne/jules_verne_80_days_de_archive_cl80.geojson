@@ -14,7 +14,7 @@
                 "source_label": "Utah",
                 "geonames_label": "Utah",
                 "url": "https://www.geonames.org/5549030",
-                "sentence_idx": 3394
+                "sentence_idx": "3394"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Salzsee",
                 "geonames_label": "Great Salt Lake",
                 "url": "https://www.geonames.org/5775376",
-                "sentence_idx": 3394
+                "sentence_idx": "3394"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Elko",
                 "geonames_label": "Elko",
                 "url": "https://www.geonames.org/5703670",
-                "sentence_idx": 3404
+                "sentence_idx": "3404"
             }
         }
     ]

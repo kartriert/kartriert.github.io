@@ -14,8 +14,8 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2034,
-                "cluster_total": 26
+                "sentence_idx": "2034",
+                "cluster_total": "26"
             }
         },
         {
@@ -31,7 +31,7 @@
                 "source_label": "paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 2040
+                "sentence_idx": "2040"
             }
         },
         {
@@ -47,7 +47,7 @@
                 "source_label": "london",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 2040
+                "sentence_idx": "2040"
             }
         },
         {
@@ -63,7 +63,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 2040
+                "sentence_idx": "2040"
             }
         },
         {
@@ -79,7 +79,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2040
+                "sentence_idx": "2040"
             }
         },
         {
@@ -95,7 +95,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 2051
+                "sentence_idx": "2051"
             }
         },
         {
@@ -111,7 +111,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2057
+                "sentence_idx": "2057"
             }
         },
         {
@@ -127,7 +127,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2059
+                "sentence_idx": "2059"
             }
         },
         {
@@ -143,7 +143,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2059
+                "sentence_idx": "2059"
             }
         },
         {
@@ -159,7 +159,7 @@
                 "source_label": "dornbach",
                 "geonames_label": "Dornbach",
                 "url": "https://www.geonames.org/2601015",
-                "sentence_idx": 2063
+                "sentence_idx": "2063"
             }
         },
         {
@@ -175,7 +175,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 2065
+                "sentence_idx": "2065"
             }
         },
         {
@@ -191,7 +191,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2068
+                "sentence_idx": "2068"
             }
         },
         {
@@ -207,7 +207,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2071
+                "sentence_idx": "2071"
             }
         },
         {
@@ -223,7 +223,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2085
+                "sentence_idx": "2085"
             }
         },
         {
@@ -239,7 +239,7 @@
                 "source_label": "sch\u00f6nbrunn",
                 "geonames_label": "Schonbrunn Palace",
                 "url": "https://www.geonames.org/6354998",
-                "sentence_idx": 2085
+                "sentence_idx": "2085"
             }
         },
         {
@@ -255,7 +255,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2088
+                "sentence_idx": "2088"
             }
         },
         {
@@ -271,7 +271,7 @@
                 "source_label": "sch\u00f6nbrunn",
                 "geonames_label": "Schonbrunn Palace",
                 "url": "https://www.geonames.org/6354998",
-                "sentence_idx": 2088
+                "sentence_idx": "2088"
             }
         },
         {
@@ -287,7 +287,7 @@
                 "source_label": "stahrenberg",
                 "geonames_label": "Stahrenberg",
                 "url": "https://www.geonames.org/2829654",
-                "sentence_idx": 2088
+                "sentence_idx": "2088"
             }
         },
         {
@@ -303,7 +303,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2104
+                "sentence_idx": "2104"
             }
         },
         {
@@ -319,7 +319,7 @@
                 "source_label": "sch\u00f6nbrunn",
                 "geonames_label": "Schonbrunn Palace",
                 "url": "https://www.geonames.org/6354998",
-                "sentence_idx": 2104
+                "sentence_idx": "2104"
             }
         }
     ]

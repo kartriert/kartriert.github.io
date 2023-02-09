@@ -14,7 +14,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3159
+                "sentence_idx": "3159"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3165
+                "sentence_idx": "3165"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "oberegypten",
                 "geonames_label": "Upper Egypt",
                 "url": "https://www.geonames.org/359888",
-                "sentence_idx": 3169
+                "sentence_idx": "3169"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3176
+                "sentence_idx": "3176"
             }
         }
     ]

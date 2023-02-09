@@ -14,7 +14,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 962
+                "sentence_idx": "962"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pavia",
                 "geonames_label": "Pavia",
                 "url": "https://www.geonames.org/3171366",
-                "sentence_idx": 962
+                "sentence_idx": "962"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "n\u00fcrnberg",
                 "geonames_label": "Nuremberg",
                 "url": "https://www.geonames.org/2861650",
-                "sentence_idx": 963
+                "sentence_idx": "963"
             }
         }
     ]

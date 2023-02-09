@@ -14,7 +14,7 @@
                 "source_label": "prag",
                 "geonames_label": "Prague",
                 "url": "https://www.geonames.org/3067696",
-                "sentence_idx": 2290
+                "sentence_idx": "2290"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "osnabr\u00fcck",
                 "geonames_label": "Osnabr\u00fcck",
                 "url": "https://www.geonames.org/2856883",
-                "sentence_idx": 2290
+                "sentence_idx": "2290"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2298
+                "sentence_idx": "2298"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 3996
+                "sentence_idx": "3996"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Kearney",
                 "geonames_label": "Kearney",
                 "url": "https://www.geonames.org/5071364",
-                "sentence_idx": 4001
+                "sentence_idx": "4001"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 4005
+                "sentence_idx": "4005"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Kearney",
                 "geonames_label": "Kearney",
                 "url": "https://www.geonames.org/5071364",
-                "sentence_idx": 4008
+                "sentence_idx": "4008"
             }
         }
     ]

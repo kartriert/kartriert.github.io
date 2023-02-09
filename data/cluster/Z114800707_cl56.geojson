@@ -14,7 +14,7 @@
                 "source_label": "sardinien",
                 "geonames_label": "Sardinia",
                 "url": "https://www.geonames.org/2523227",
-                "sentence_idx": 8521
+                "sentence_idx": "8521"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 8521
+                "sentence_idx": "8521"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "turin",
                 "geonames_label": "Turin",
                 "url": "https://www.geonames.org/3165524",
-                "sentence_idx": 8522
+                "sentence_idx": "8522"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "italien",
                 "geonames_label": "Italy",
                 "url": "https://www.geonames.org/3175395",
-                "sentence_idx": 8537
+                "sentence_idx": "8537"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "italien",
                 "geonames_label": "Italy",
                 "url": "https://www.geonames.org/3175395",
-                "sentence_idx": 8541
+                "sentence_idx": "8541"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "schwaben",
                 "geonames_label": "Swabia",
                 "url": "https://www.geonames.org/2824481",
-                "sentence_idx": 8543
+                "sentence_idx": "8543"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "turin",
                 "geonames_label": "Turin",
                 "url": "https://www.geonames.org/3165524",
-                "sentence_idx": 8543
+                "sentence_idx": "8543"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "italien",
                 "geonames_label": "Italy",
                 "url": "https://www.geonames.org/3175395",
-                "sentence_idx": 8543
+                "sentence_idx": "8543"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "sardinien",
                 "geonames_label": "Sardinia",
                 "url": "https://www.geonames.org/2523227",
-                "sentence_idx": 8545
+                "sentence_idx": "8545"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "daenemark",
                 "geonames_label": "Denmark",
                 "url": "https://www.geonames.org/2623032",
-                "sentence_idx": 8548
+                "sentence_idx": "8548"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 8550
+                "sentence_idx": "8550"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 8553
+                "sentence_idx": "8553"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 8553
+                "sentence_idx": "8553"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 8555
+                "sentence_idx": "8555"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 8556
+                "sentence_idx": "8556"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 3074
+                "sentence_idx": "3074"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 3090
+                "sentence_idx": "3090"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Carnatic",
                 "geonames_label": "Tamil Nadu",
                 "url": "https://www.geonames.org/1255053",
-                "sentence_idx": 3090
+                "sentence_idx": "3090"
             }
         }
     ]

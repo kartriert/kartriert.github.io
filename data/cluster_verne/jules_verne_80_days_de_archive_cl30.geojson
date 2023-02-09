@@ -14,7 +14,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3070
+                "sentence_idx": "3070"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3074
+                "sentence_idx": "3074"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3090
+                "sentence_idx": "3090"
             }
         }
     ]

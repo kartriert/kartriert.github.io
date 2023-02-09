@@ -14,7 +14,7 @@
                 "source_label": "rhode island",
                 "geonames_label": "Rhode Island",
                 "url": "https://www.geonames.org/5224323",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "neu hampshire",
                 "geonames_label": "New Hampshire",
                 "url": "https://www.geonames.org/5090174",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "neu york",
                 "geonames_label": "New York",
                 "url": "https://www.geonames.org/5128638",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "pensylvanien",
                 "geonames_label": "Pennsylvania",
                 "url": "https://www.geonames.org/6254927",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "virginien",
                 "geonames_label": "Virginia",
                 "url": "https://www.geonames.org/6254928",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "maryland",
                 "geonames_label": "Maryland",
                 "url": "https://www.geonames.org/4361885",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "nord carolina",
                 "geonames_label": "North Carolina",
                 "url": "https://www.geonames.org/4482348",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "georgien",
                 "geonames_label": "Georgia",
                 "url": "https://www.geonames.org/4197000",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "neu england",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 27
+                "sentence_idx": "27"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "maryland",
                 "geonames_label": "Maryland",
                 "url": "https://www.geonames.org/4361885",
-                "sentence_idx": 28
+                "sentence_idx": "28"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "virginien",
                 "geonames_label": "Virginia",
                 "url": "https://www.geonames.org/6254928",
-                "sentence_idx": 28
+                "sentence_idx": "28"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "nord carolina",
                 "geonames_label": "North Carolina",
                 "url": "https://www.geonames.org/4482348",
-                "sentence_idx": 28
+                "sentence_idx": "28"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "sued carolina",
                 "geonames_label": "South Carolina",
                 "url": "https://www.geonames.org/4597040",
-                "sentence_idx": 28
+                "sentence_idx": "28"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "tripoli",
                 "geonames_label": "Tripoli",
                 "url": "https://www.geonames.org/2210245",
-                "sentence_idx": 2346
+                "sentence_idx": "2346"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2357
+                "sentence_idx": "2357"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "tripoli",
                 "geonames_label": "Tripoli",
                 "url": "https://www.geonames.org/2210245",
-                "sentence_idx": 2357
+                "sentence_idx": "2357"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2367
+                "sentence_idx": "2367"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "napolos",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172391",
-                "sentence_idx": 2376
+                "sentence_idx": "2376"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2376
+                "sentence_idx": "2376"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "muenchen",
                 "geonames_label": "Munich",
                 "url": "https://www.geonames.org/3220838",
-                "sentence_idx": 2380
+                "sentence_idx": "2380"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "pharo",
                 "geonames_label": "Le Pharo",
                 "url": "https://www.geonames.org/11919756",
-                "sentence_idx": 2381
+                "sentence_idx": "2381"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2387
+                "sentence_idx": "2387"
             }
         }
     ]

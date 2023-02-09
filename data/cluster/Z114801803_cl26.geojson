@@ -14,7 +14,7 @@
                 "source_label": "tibet",
                 "geonames_label": "Tibet",
                 "url": "https://www.geonames.org/1279685",
-                "sentence_idx": 1854
+                "sentence_idx": "1854"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "duina",
                 "geonames_label": "Duina",
                 "url": "https://www.geonames.org/8746052",
-                "sentence_idx": 1861
+                "sentence_idx": "1861"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "duina",
                 "geonames_label": "Duina",
                 "url": "https://www.geonames.org/8746052",
-                "sentence_idx": 1862
+                "sentence_idx": "1862"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "duina",
                 "geonames_label": "Duina",
                 "url": "https://www.geonames.org/8746052",
-                "sentence_idx": 1872
+                "sentence_idx": "1872"
             }
         }
     ]

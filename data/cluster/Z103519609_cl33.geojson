@@ -14,7 +14,7 @@
                 "source_label": "monbijou",
                 "geonames_label": "Monbijou Park",
                 "url": "https://www.geonames.org/12061014",
-                "sentence_idx": 2159
+                "sentence_idx": "2159"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "monbijou",
                 "geonames_label": "Monbijou Park",
                 "url": "https://www.geonames.org/12061014",
-                "sentence_idx": 2160
+                "sentence_idx": "2160"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "zinkendorf",
                 "geonames_label": "Nagycenk",
                 "url": "https://www.geonames.org/3047781",
-                "sentence_idx": 2175
+                "sentence_idx": "2175"
             }
         }
     ]

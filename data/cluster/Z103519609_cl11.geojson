@@ -14,7 +14,7 @@
                 "source_label": "bulgarien",
                 "geonames_label": "Bulgaria",
                 "url": "https://www.geonames.org/732800",
-                "sentence_idx": 944
+                "sentence_idx": "944"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "gallizien",
                 "geonames_label": "Gallizien",
                 "url": "https://www.geonames.org/7871674",
-                "sentence_idx": 944
+                "sentence_idx": "944"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "serbien",
                 "geonames_label": "Serbia",
                 "url": "https://www.geonames.org/6290252",
-                "sentence_idx": 944
+                "sentence_idx": "944"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "dalmatien",
                 "geonames_label": "Split-Dalmatia",
                 "url": "https://www.geonames.org/3337527",
-                "sentence_idx": 944
+                "sentence_idx": "944"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "kroatien",
                 "geonames_label": "Croatia",
                 "url": "https://www.geonames.org/3202326",
-                "sentence_idx": 944
+                "sentence_idx": "944"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "kroatien",
                 "geonames_label": "Croatia",
                 "url": "https://www.geonames.org/3202326",
-                "sentence_idx": 945
+                "sentence_idx": "945"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "bosnien",
                 "geonames_label": "Bosnia and Herzegovina",
                 "url": "https://www.geonames.org/3277605",
-                "sentence_idx": 948
+                "sentence_idx": "948"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "bosnien",
                 "geonames_label": "Bosnia and Herzegovina",
                 "url": "https://www.geonames.org/3277605",
-                "sentence_idx": 956
+                "sentence_idx": "956"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "rosenberg",
                 "geonames_label": "Sulzbach-Rosenberg",
                 "url": "https://www.geonames.org/2824801",
-                "sentence_idx": 966
+                "sentence_idx": "966"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 970
+                "sentence_idx": "970"
             }
         }
     ]

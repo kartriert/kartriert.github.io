@@ -14,7 +14,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 989
+                "sentence_idx": "989"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "kroatien",
                 "geonames_label": "Croatia",
                 "url": "https://www.geonames.org/3202326",
-                "sentence_idx": 989
+                "sentence_idx": "989"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "liechtenstein",
                 "geonames_label": "Liechtenstein",
                 "url": "https://www.geonames.org/3042058",
-                "sentence_idx": 1002
+                "sentence_idx": "1002"
             }
         }
     ]

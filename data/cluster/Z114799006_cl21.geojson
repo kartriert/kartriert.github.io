@@ -14,7 +14,7 @@
                 "source_label": "amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 4
+                "sentence_idx": "4"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "nord amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 9
+                "sentence_idx": "9"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "vereinigte staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 9
+                "sentence_idx": "9"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "nord amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 27
+                "sentence_idx": "27"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 27
+                "sentence_idx": "27"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "vereinigten staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 28
+                "sentence_idx": "28"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 29
+                "sentence_idx": "29"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3146
+                "sentence_idx": "3146"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3150
+                "sentence_idx": "3150"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Kaliforniens",
                 "geonames_label": "California",
                 "url": "https://www.geonames.org/5332921",
-                "sentence_idx": 3162
+                "sentence_idx": "3162"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3171
+                "sentence_idx": "3171"
             }
         }
     ]

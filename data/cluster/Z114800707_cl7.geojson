@@ -14,7 +14,7 @@
                 "source_label": "s dost",
                 "geonames_label": "Jan Dost Reg",
                 "url": "https://www.geonames.org/1374687",
-                "sentence_idx": 8153
+                "sentence_idx": "8153"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 8160
+                "sentence_idx": "8160"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 8175
+                "sentence_idx": "8175"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 8191
+                "sentence_idx": "8191"
             }
         }
     ]

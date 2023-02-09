@@ -14,7 +14,7 @@
                 "source_label": "hadie",
                 "geonames_label": "Al Hadie",
                 "url": "https://www.geonames.org/79633",
-                "sentence_idx": 8231
+                "sentence_idx": "8231"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "zebid",
                 "geonames_label": "Zab\u012bd",
                 "url": "https://www.geonames.org/69500",
-                "sentence_idx": 8246
+                "sentence_idx": "8246"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 8255
+                "sentence_idx": "8255"
             }
         }
     ]

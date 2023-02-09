@@ -14,7 +14,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 1295
+                "sentence_idx": "1295"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1301
+                "sentence_idx": "1301"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "niederlande",
                 "geonames_label": "Netherlands",
                 "url": "https://www.geonames.org/2750405",
-                "sentence_idx": 1303
+                "sentence_idx": "1303"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 1308
+                "sentence_idx": "1308"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1313
+                "sentence_idx": "1313"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1314
+                "sentence_idx": "1314"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "ivanka",
                 "geonames_label": "Ivanka pri Dunaji",
                 "url": "https://www.geonames.org/3059767",
-                "sentence_idx": 1315
+                "sentence_idx": "1315"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 1315
+                "sentence_idx": "1315"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 1327
+                "sentence_idx": "1327"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Chayenne",
                 "geonames_label": "Cheyenne River",
                 "url": "https://www.geonames.org/5763551",
-                "sentence_idx": 3720
+                "sentence_idx": "3720"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Denver-City",
                 "geonames_label": "Denver",
                 "url": "https://www.geonames.org/5419384",
-                "sentence_idx": 3723
+                "sentence_idx": "3723"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Colorado",
                 "geonames_label": "Colorado",
                 "url": "https://www.geonames.org/5417618",
-                "sentence_idx": 3723
+                "sentence_idx": "3723"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Wyoming",
                 "geonames_label": "Wyoming",
                 "url": "https://www.geonames.org/5843591",
-                "sentence_idx": 3729
+                "sentence_idx": "3729"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Colorado",
                 "geonames_label": "Colorado",
                 "url": "https://www.geonames.org/5417618",
-                "sentence_idx": 3729
+                "sentence_idx": "3729"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Nebraska",
                 "geonames_label": "Nebraska",
                 "url": "https://www.geonames.org/5073708",
-                "sentence_idx": 3730
+                "sentence_idx": "3730"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Julesburgh",
                 "geonames_label": "Julesburg",
                 "url": "https://www.geonames.org/5578567",
-                "sentence_idx": 3730
+                "sentence_idx": "3730"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 3739
+                "sentence_idx": "3739"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "North-Platte",
                 "geonames_label": "North Platte, NE",
                 "url": "https://www.geonames.org/12213780",
-                "sentence_idx": 3741
+                "sentence_idx": "3741"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Missouri",
                 "geonames_label": "Missouri",
                 "url": "https://www.geonames.org/4398678",
-                "sentence_idx": 3741
+                "sentence_idx": "3741"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 3741
+                "sentence_idx": "3741"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "Meridian",
                 "geonames_label": "Meridian",
                 "url": "https://www.geonames.org/4435764",
-                "sentence_idx": 3742
+                "sentence_idx": "3742"
             }
         }
     ]

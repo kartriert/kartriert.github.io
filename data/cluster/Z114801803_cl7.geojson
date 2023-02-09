@@ -14,7 +14,7 @@
                 "source_label": "goa",
                 "geonames_label": "Goa",
                 "url": "https://www.geonames.org/1271157",
-                "sentence_idx": 140
+                "sentence_idx": "140"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "goa",
                 "geonames_label": "Goa",
                 "url": "https://www.geonames.org/1271157",
-                "sentence_idx": 146
+                "sentence_idx": "146"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 161
+                "sentence_idx": "161"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 162
+                "sentence_idx": "162"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "malabar",
                 "geonames_label": "Malab\u0101r Coast",
                 "url": "https://www.geonames.org/1264188",
-                "sentence_idx": 172
+                "sentence_idx": "172"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "guzerat",
                 "geonames_label": "Gujarat",
                 "url": "https://www.geonames.org/1270770",
-                "sentence_idx": 172
+                "sentence_idx": "172"
             }
         }
     ]

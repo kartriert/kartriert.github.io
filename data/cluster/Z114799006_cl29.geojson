@@ -14,7 +14,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 2001
+                "sentence_idx": "2001"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 2005
+                "sentence_idx": "2005"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 2016
+                "sentence_idx": "2016"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 2024
+                "sentence_idx": "2024"
             }
         }
     ]

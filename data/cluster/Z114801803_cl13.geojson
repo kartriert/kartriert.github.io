@@ -14,7 +14,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 922
+                "sentence_idx": "922"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 936
+                "sentence_idx": "936"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 937
+                "sentence_idx": "937"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "zarkan",
                 "geonames_label": "Salaf az Zark\u0101n al Kab\u012br",
                 "url": "https://www.geonames.org/89500",
-                "sentence_idx": 939
+                "sentence_idx": "939"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 939
+                "sentence_idx": "939"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "zarkan",
                 "geonames_label": "Salaf az Zark\u0101n al Kab\u012br",
                 "url": "https://www.geonames.org/89500",
-                "sentence_idx": 940
+                "sentence_idx": "940"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 941
+                "sentence_idx": "941"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 944
+                "sentence_idx": "944"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "zarkan",
                 "geonames_label": "Salaf az Zark\u0101n al Kab\u012br",
                 "url": "https://www.geonames.org/89500",
-                "sentence_idx": 950
+                "sentence_idx": "950"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 950
+                "sentence_idx": "950"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 954
+                "sentence_idx": "954"
             }
         }
     ]

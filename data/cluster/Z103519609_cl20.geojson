@@ -14,7 +14,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 853
+                "sentence_idx": "853"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 854
+                "sentence_idx": "854"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 856
+                "sentence_idx": "856"
             }
         }
     ]

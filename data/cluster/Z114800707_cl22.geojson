@@ -14,7 +14,7 @@
                 "source_label": "london",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 607
+                "sentence_idx": "607"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 607
+                "sentence_idx": "607"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 617
+                "sentence_idx": "617"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 625
+                "sentence_idx": "625"
             }
         }
     ]

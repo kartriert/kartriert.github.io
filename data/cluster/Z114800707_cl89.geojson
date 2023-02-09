@@ -14,7 +14,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 9602
+                "sentence_idx": "9602"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 9605
+                "sentence_idx": "9605"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 9610
+                "sentence_idx": "9610"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 9625
+                "sentence_idx": "9625"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 9628
+                "sentence_idx": "9628"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 9628
+                "sentence_idx": "9628"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 9629
+                "sentence_idx": "9629"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 2076
+                "sentence_idx": "2076"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 2084
+                "sentence_idx": "2084"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "rosette",
                 "geonames_label": "Rosetta",
                 "url": "https://www.geonames.org/350203",
-                "sentence_idx": 2084
+                "sentence_idx": "2084"
             }
         }
     ]

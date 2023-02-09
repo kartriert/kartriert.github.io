@@ -14,7 +14,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 2021
+                "sentence_idx": "2021"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 2027
+                "sentence_idx": "2027"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2029
+                "sentence_idx": "2029"
             }
         }
     ]

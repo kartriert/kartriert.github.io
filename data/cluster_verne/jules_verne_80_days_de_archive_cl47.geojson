@@ -14,7 +14,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 840
+                "sentence_idx": "840"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 841
+                "sentence_idx": "841"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 851
+                "sentence_idx": "851"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 851
+                "sentence_idx": "851"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 851
+                "sentence_idx": "851"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Ceylon",
                 "geonames_label": "Sri Lanka",
                 "url": "https://www.geonames.org/1227604",
-                "sentence_idx": 852
+                "sentence_idx": "852"
             }
         }
     ]

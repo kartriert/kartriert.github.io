@@ -14,7 +14,7 @@
                 "source_label": "anspach",
                 "geonames_label": "Neu-Anspach",
                 "url": "https://www.geonames.org/2866280",
-                "sentence_idx": 1476
+                "sentence_idx": "1476"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "schweden",
                 "geonames_label": "Sweden",
                 "url": "https://www.geonames.org/2661886",
-                "sentence_idx": 1477
+                "sentence_idx": "1477"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "sachsen",
                 "geonames_label": "Saxony",
                 "url": "https://www.geonames.org/2842566",
-                "sentence_idx": 1487
+                "sentence_idx": "1487"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "florenz",
                 "geonames_label": "Florence",
                 "url": "https://www.geonames.org/3176959",
-                "sentence_idx": 1491
+                "sentence_idx": "1491"
             }
         }
     ]

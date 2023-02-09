@@ -14,7 +14,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 3467
+                "sentence_idx": "3467"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3468
+                "sentence_idx": "3468"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3469
+                "sentence_idx": "3469"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 3481
+                "sentence_idx": "3481"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 3488
+                "sentence_idx": "3488"
             }
         }
     ]

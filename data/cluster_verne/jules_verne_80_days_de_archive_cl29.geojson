@@ -14,7 +14,7 @@
                 "source_label": "Schangais",
                 "geonames_label": "Shanghai",
                 "url": "https://www.geonames.org/1796236",
-                "sentence_idx": 3027
+                "sentence_idx": "3027"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3028
+                "sentence_idx": "3028"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Nangasaki",
                 "geonames_label": "Nagasaki",
                 "url": "https://www.geonames.org/1856177",
-                "sentence_idx": 3031
+                "sentence_idx": "3031"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3031
+                "sentence_idx": "3031"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3033
+                "sentence_idx": "3033"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Yokohamas",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3036
+                "sentence_idx": "3036"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3040
+                "sentence_idx": "3040"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3044
+                "sentence_idx": "3044"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Yokohama",
                 "geonames_label": "Yokohama",
                 "url": "https://www.geonames.org/1848354",
-                "sentence_idx": 3048
+                "sentence_idx": "3048"
             }
         }
     ]

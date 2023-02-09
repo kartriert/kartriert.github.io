@@ -14,7 +14,7 @@
                 "source_label": "Suez",
                 "geonames_label": "Suez",
                 "url": "https://www.geonames.org/359796",
-                "sentence_idx": 888
+                "sentence_idx": "888"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Aegypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 888
+                "sentence_idx": "888"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Suez",
                 "geonames_label": "Suez",
                 "url": "https://www.geonames.org/359796",
-                "sentence_idx": 889
+                "sentence_idx": "889"
             }
         }
     ]

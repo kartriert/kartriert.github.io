@@ -14,7 +14,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5897
+                "sentence_idx": "5897"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "loheia",
                 "geonames_label": "Al Lu\u1e29ayyah",
                 "url": "https://www.geonames.org/79050",
-                "sentence_idx": 5897
+                "sentence_idx": "5897"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5912
+                "sentence_idx": "5912"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "loheia",
                 "geonames_label": "Al Lu\u1e29ayyah",
                 "url": "https://www.geonames.org/79050",
-                "sentence_idx": 5912
+                "sentence_idx": "5912"
             }
         }
     ]

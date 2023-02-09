@@ -14,7 +14,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 964
+                "sentence_idx": "964"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 967
+                "sentence_idx": "967"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "holland",
                 "geonames_label": "Netherlands",
                 "url": "https://www.geonames.org/2750405",
-                "sentence_idx": 969
+                "sentence_idx": "969"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "vereinigten niederlanden",
                 "geonames_label": "Netherlands",
                 "url": "https://www.geonames.org/2750405",
-                "sentence_idx": 972
+                "sentence_idx": "972"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "amsterdam",
                 "geonames_label": "Amsterdam",
                 "url": "https://www.geonames.org/2759794",
-                "sentence_idx": 980
+                "sentence_idx": "980"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "holland",
                 "geonames_label": "Netherlands",
                 "url": "https://www.geonames.org/2750405",
-                "sentence_idx": 985
+                "sentence_idx": "985"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 985
+                "sentence_idx": "985"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 985
+                "sentence_idx": "985"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "grossbritannien",
                 "geonames_label": "Great Britain",
                 "url": "https://www.geonames.org/2648147",
-                "sentence_idx": 994
+                "sentence_idx": "994"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 994
+                "sentence_idx": "994"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 994
+                "sentence_idx": "994"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 995
+                "sentence_idx": "995"
             }
         }
     ]

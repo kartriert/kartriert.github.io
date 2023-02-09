@@ -14,7 +14,7 @@
                 "source_label": "palaestina",
                 "geonames_label": "Palestine",
                 "url": "https://www.geonames.org/6254930",
-                "sentence_idx": 1215
+                "sentence_idx": "1215"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "aleppo",
                 "geonames_label": "Aleppo",
                 "url": "https://www.geonames.org/170062",
-                "sentence_idx": 1218
+                "sentence_idx": "1218"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 1227
+                "sentence_idx": "1227"
             }
         }
     ]

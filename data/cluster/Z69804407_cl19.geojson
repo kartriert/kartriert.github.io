@@ -14,7 +14,7 @@
                 "source_label": "aleppo",
                 "geonames_label": "Aleppo",
                 "url": "https://www.geonames.org/170062",
-                "sentence_idx": 1870
+                "sentence_idx": "1870"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "damasco",
                 "geonames_label": "Dimashq",
                 "url": "https://www.geonames.org/167541",
-                "sentence_idx": 1878
+                "sentence_idx": "1878"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "sidonaija",
                 "geonames_label": "Sidon\u00eda",
                 "url": "https://www.geonames.org/8608549",
-                "sentence_idx": 1883
+                "sentence_idx": "1883"
             }
         }
     ]

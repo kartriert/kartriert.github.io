@@ -14,7 +14,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1478
+                "sentence_idx": "1478"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1482
+                "sentence_idx": "1482"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1482
+                "sentence_idx": "1482"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1482
+                "sentence_idx": "1482"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "trentschin",
                 "geonames_label": "Tren\u010d\u00edn",
                 "url": "https://www.geonames.org/3057140",
-                "sentence_idx": 1490
+                "sentence_idx": "1490"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1497
+                "sentence_idx": "1497"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "polen",
                 "geonames_label": "Poland",
                 "url": "https://www.geonames.org/798544",
-                "sentence_idx": 1497
+                "sentence_idx": "1497"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "trentschin",
                 "geonames_label": "Tren\u010d\u00edn",
                 "url": "https://www.geonames.org/3057140",
-                "sentence_idx": 1509
+                "sentence_idx": "1509"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1512
+                "sentence_idx": "1512"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1512
+                "sentence_idx": "1512"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "deutschland",
                 "geonames_label": "Germany",
                 "url": "https://www.geonames.org/2921044",
-                "sentence_idx": 1525
+                "sentence_idx": "1525"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1528
+                "sentence_idx": "1528"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "nitra",
                 "geonames_label": "Nitra",
                 "url": "https://www.geonames.org/3058531",
-                "sentence_idx": 1529
+                "sentence_idx": "1529"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1531
+                "sentence_idx": "1531"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "schemnitz",
                 "geonames_label": "Bansk\u00e1 \u0160tiavnica",
                 "url": "https://www.geonames.org/3061184",
-                "sentence_idx": 1536
+                "sentence_idx": "1536"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "schemnitz",
                 "geonames_label": "Bansk\u00e1 \u0160tiavnica",
                 "url": "https://www.geonames.org/3061184",
-                "sentence_idx": 1537
+                "sentence_idx": "1537"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "sachsen",
                 "geonames_label": "Saxony",
                 "url": "https://www.geonames.org/2842566",
-                "sentence_idx": 1539
+                "sentence_idx": "1539"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "schemnitz",
                 "geonames_label": "Bansk\u00e1 \u0160tiavnica",
                 "url": "https://www.geonames.org/3061184",
-                "sentence_idx": 1547
+                "sentence_idx": "1547"
             }
         },
         {
@@ -302,7 +302,7 @@
                 "source_label": "schemnitz",
                 "geonames_label": "Bansk\u00e1 \u0160tiavnica",
                 "url": "https://www.geonames.org/3061184",
-                "sentence_idx": 1556
+                "sentence_idx": "1556"
             }
         }
     ]

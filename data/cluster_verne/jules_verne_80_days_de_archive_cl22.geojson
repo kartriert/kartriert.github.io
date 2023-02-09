@@ -14,7 +14,7 @@
                 "source_label": "Malacca",
                 "geonames_label": "Malacca",
                 "url": "https://www.geonames.org/1734759",
-                "sentence_idx": 1985
+                "sentence_idx": "1985"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Sumatra",
                 "geonames_label": "Sumatra",
                 "url": "https://www.geonames.org/1626198",
-                "sentence_idx": 1985
+                "sentence_idx": "1985"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Singapore",
                 "geonames_label": "Singapore",
                 "url": "https://www.geonames.org/1880251",
-                "sentence_idx": 1987
+                "sentence_idx": "1987"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Singapore",
                 "geonames_label": "Singapore",
                 "url": "https://www.geonames.org/1880251",
-                "sentence_idx": 1992
+                "sentence_idx": "1992"
             }
         }
     ]

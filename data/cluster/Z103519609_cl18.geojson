@@ -14,7 +14,7 @@
                 "source_label": "pest",
                 "geonames_label": "Pest megye",
                 "url": "https://www.geonames.org/3046431",
-                "sentence_idx": 1713
+                "sentence_idx": "1713"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "raab",
                 "geonames_label": "Raab",
                 "url": "https://www.geonames.org/2768180",
-                "sentence_idx": 1722
+                "sentence_idx": "1722"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 1722
+                "sentence_idx": "1722"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "salzburg",
                 "geonames_label": "Salzburg",
                 "url": "https://www.geonames.org/2766824",
-                "sentence_idx": 1726
+                "sentence_idx": "1726"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "zschorna",
                 "geonames_label": "Zschorna",
                 "url": "https://www.geonames.org/2803784",
-                "sentence_idx": 1727
+                "sentence_idx": "1727"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1729
+                "sentence_idx": "1729"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1729
+                "sentence_idx": "1729"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "neusiedler see",
                 "geonames_label": "Lake Neusiedl",
                 "url": "https://www.geonames.org/3052649",
-                "sentence_idx": 1729
+                "sentence_idx": "1729"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1730
+                "sentence_idx": "1730"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "oedenburg",
                 "geonames_label": "Sopron",
                 "url": "https://www.geonames.org/3045190",
-                "sentence_idx": 1731
+                "sentence_idx": "1731"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Vereinigten Staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 3421
+                "sentence_idx": "3421"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 3431
+                "sentence_idx": "3431"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Ohio",
                 "geonames_label": "Ohio",
                 "url": "https://www.geonames.org/5165418",
-                "sentence_idx": 3432
+                "sentence_idx": "3432"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Kirkland",
                 "geonames_label": "Kirkland",
                 "url": "https://www.geonames.org/5992830",
-                "sentence_idx": 3432
+                "sentence_idx": "3432"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Missouri",
                 "geonames_label": "Missouri",
                 "url": "https://www.geonames.org/4398678",
-                "sentence_idx": 3439
+                "sentence_idx": "3439"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Westland",
                 "geonames_label": "Westland",
                 "url": "https://www.geonames.org/5014681",
-                "sentence_idx": 3439
+                "sentence_idx": "3439"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Illinois",
                 "geonames_label": "Illinois",
                 "url": "https://www.geonames.org/4896861",
-                "sentence_idx": 3442
+                "sentence_idx": "3442"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Mississippi Nauvoo la Belle",
                 "geonames_label": "Nauvoo",
                 "url": "https://www.geonames.org/4903330",
-                "sentence_idx": 3442
+                "sentence_idx": "3442"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Vereinigten Staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 3444
+                "sentence_idx": "3444"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Smyth",
                 "geonames_label": "Smyth",
                 "url": "https://www.geonames.org/4786352",
-                "sentence_idx": 3447
+                "sentence_idx": "3447"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "Salzsee",
                 "geonames_label": "Great Salt Lake",
                 "url": "https://www.geonames.org/5775376",
-                "sentence_idx": 3447
+                "sentence_idx": "3447"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "Kalifornien",
                 "geonames_label": "Southern California",
                 "url": "https://www.geonames.org/11071615",
-                "sentence_idx": 3447
+                "sentence_idx": "3447"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "Utahs",
                 "geonames_label": "Utah",
                 "url": "https://www.geonames.org/5549030",
-                "sentence_idx": 3449
+                "sentence_idx": "3449"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "Vermont",
                 "geonames_label": "Vermont",
                 "url": "https://www.geonames.org/5242283",
-                "sentence_idx": 3453
+                "sentence_idx": "3453"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "Illinois",
                 "geonames_label": "Illinois",
                 "url": "https://www.geonames.org/4896861",
-                "sentence_idx": 3453
+                "sentence_idx": "3453"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "Ohio",
                 "geonames_label": "Ohio",
                 "url": "https://www.geonames.org/5165418",
-                "sentence_idx": 3453
+                "sentence_idx": "3453"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "Missouri",
                 "geonames_label": "Missouri",
                 "url": "https://www.geonames.org/4398678",
-                "sentence_idx": 3453
+                "sentence_idx": "3453"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "Utah",
                 "geonames_label": "Provo",
                 "url": "https://www.geonames.org/5780026",
-                "sentence_idx": 3453
+                "sentence_idx": "3453"
             }
         },
         {
@@ -302,7 +302,7 @@
                 "source_label": "Salzsee",
                 "geonames_label": "Great Salt Lake",
                 "url": "https://www.geonames.org/5775376",
-                "sentence_idx": 3456
+                "sentence_idx": "3456"
             }
         },
         {
@@ -318,7 +318,7 @@
                 "source_label": "Ogden",
                 "geonames_label": "Ogden",
                 "url": "https://www.geonames.org/5779206",
-                "sentence_idx": 3470
+                "sentence_idx": "3470"
             }
         },
         {
@@ -334,7 +334,7 @@
                 "source_label": "Utah",
                 "geonames_label": "Provo",
                 "url": "https://www.geonames.org/5780026",
-                "sentence_idx": 3486
+                "sentence_idx": "3486"
             }
         }
     ]

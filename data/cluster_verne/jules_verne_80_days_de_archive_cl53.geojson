@@ -14,7 +14,7 @@
                 "source_label": "Schangai",
                 "geonames_label": "Shanghai",
                 "url": "https://www.geonames.org/1796236",
-                "sentence_idx": 2658
+                "sentence_idx": "2658"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2662
+                "sentence_idx": "2662"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Fo-Kien",
                 "geonames_label": "Fujian",
                 "url": "https://www.geonames.org/1811017",
-                "sentence_idx": 2664
+                "sentence_idx": "2664"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Formosa",
                 "geonames_label": "Taiwan",
                 "url": "https://www.geonames.org/1668284",
-                "sentence_idx": 2664
+                "sentence_idx": "2664"
             }
         }
     ]

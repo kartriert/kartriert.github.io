@@ -14,7 +14,7 @@
                 "source_label": "aleppo",
                 "geonames_label": "Aleppo",
                 "url": "https://www.geonames.org/170062",
-                "sentence_idx": 3
+                "sentence_idx": "3"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "cairo",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360630",
-                "sentence_idx": 5
+                "sentence_idx": "5"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "aegypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 5
+                "sentence_idx": "5"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 5
+                "sentence_idx": "5"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "hamburg",
                 "geonames_label": "Hamburg",
                 "url": "https://www.geonames.org/2911298",
-                "sentence_idx": 6
+                "sentence_idx": "6"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "deutschland",
                 "geonames_label": "Germany",
                 "url": "https://www.geonames.org/2921044",
-                "sentence_idx": 12
+                "sentence_idx": "12"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "cairo",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360630",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "aegypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "adrianopel",
                 "geonames_label": "Edirne",
                 "url": "https://www.geonames.org/747712",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "philippopel",
                 "geonames_label": "Plovdiv",
                 "url": "https://www.geonames.org/728193",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "belgrad",
                 "geonames_label": "Belgrade",
                 "url": "https://www.geonames.org/792680",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "dalmatien",
                 "geonames_label": "Split-Dalmatia",
                 "url": "https://www.geonames.org/3337527",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 17
+                "sentence_idx": "17"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "hamburg",
                 "geonames_label": "Hamburg",
                 "url": "https://www.geonames.org/2911298",
-                "sentence_idx": 20
+                "sentence_idx": "20"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "aleppo",
                 "geonames_label": "Aleppo",
                 "url": "https://www.geonames.org/170062",
-                "sentence_idx": 21
+                "sentence_idx": "21"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 22
+                "sentence_idx": "22"
             }
         },
         {
@@ -302,7 +302,7 @@
                 "source_label": "aleppo",
                 "geonames_label": "Aleppo",
                 "url": "https://www.geonames.org/170062",
-                "sentence_idx": 23
+                "sentence_idx": "23"
             }
         },
         {
@@ -318,7 +318,7 @@
                 "source_label": "aleppo",
                 "geonames_label": "Aleppo",
                 "url": "https://www.geonames.org/170062",
-                "sentence_idx": 23
+                "sentence_idx": "23"
             }
         },
         {
@@ -334,7 +334,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 24
+                "sentence_idx": "24"
             }
         }
     ]
