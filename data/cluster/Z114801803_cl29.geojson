@@ -1,1 +1,101 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.29689, 44.18455]}, "properties": {"source_label": "piazza", "geonames_label": "Piazza al Serchio", "url": "https://www.geonames.org/3170896", "sentence_idx": 346}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12471, 51.51424]}, "properties": {"source_label": "covent garden", "geonames_label": "Covent Garden", "url": "https://www.geonames.org/2652222", "sentence_idx": 346}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12471, 51.51424]}, "properties": {"source_label": "covent garden", "geonames_label": "Covent Garden", "url": "https://www.geonames.org/2652222", "sentence_idx": 349}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "london", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 349}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.29689, 44.18455]}, "properties": {"source_label": "piazza", "geonames_label": "Piazza al Serchio", "url": "https://www.geonames.org/3170896", "sentence_idx": 351}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.29689, 44.18455]}, "properties": {"source_label": "piazza", "geonames_label": "Piazza al Serchio", "url": "https://www.geonames.org/3170896", "sentence_idx": 351}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.29689,
+                    44.18455
+                ]
+            },
+            "properties": {
+                "source_label": "piazza",
+                "geonames_label": "Piazza al Serchio",
+                "url": "https://www.geonames.org/3170896",
+                "sentence_idx": 346
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12471,
+                    51.51424
+                ]
+            },
+            "properties": {
+                "source_label": "covent garden",
+                "geonames_label": "Covent Garden",
+                "url": "https://www.geonames.org/2652222",
+                "sentence_idx": 346
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12471,
+                    51.51424
+                ]
+            },
+            "properties": {
+                "source_label": "covent garden",
+                "geonames_label": "Covent Garden",
+                "url": "https://www.geonames.org/2652222",
+                "sentence_idx": 349
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "london",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": 349
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.29689,
+                    44.18455
+                ]
+            },
+            "properties": {
+                "source_label": "piazza",
+                "geonames_label": "Piazza al Serchio",
+                "url": "https://www.geonames.org/3170896",
+                "sentence_idx": 351
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.29689,
+                    44.18455
+                ]
+            },
+            "properties": {
+                "source_label": "piazza",
+                "geonames_label": "Piazza al Serchio",
+                "url": "https://www.geonames.org/3170896",
+                "sentence_idx": 351
+            }
+        }
+    ]
+}

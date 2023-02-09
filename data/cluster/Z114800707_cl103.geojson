@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 1168}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 1173}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.0, 56.0]}, "properties": {"source_label": "daenemark", "geonames_label": "Denmark", "url": "https://www.geonames.org/2623032", "sentence_idx": 1173}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.0, 62.0]}, "properties": {"source_label": "schweden", "geonames_label": "Sweden", "url": "https://www.geonames.org/2661886", "sentence_idx": 1173}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": 1168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": 1173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0,
+                    56.0
+                ]
+            },
+            "properties": {
+                "source_label": "daenemark",
+                "geonames_label": "Denmark",
+                "url": "https://www.geonames.org/2623032",
+                "sentence_idx": 1173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0,
+                    62.0
+                ]
+            },
+            "properties": {
+                "source_label": "schweden",
+                "geonames_label": "Sweden",
+                "url": "https://www.geonames.org/2661886",
+                "sentence_idx": 1173
+            }
+        }
+    ]
+}

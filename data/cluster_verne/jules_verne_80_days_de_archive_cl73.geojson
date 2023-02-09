@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.31257, 51.12598]}, "properties": {"source_label": "Dover", "geonames_label": "Dover", "url": "https://www.geonames.org/2651048", "sentence_idx": 415}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.85635, 50.95194]}, "properties": {"source_label": "Calais", "geonames_label": "Calais", "url": "https://www.geonames.org/3029162", "sentence_idx": 416}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3486, 48.8534]}, "properties": {"source_label": "Paris", "geonames_label": "Paris", "url": "https://www.geonames.org/2988507", "sentence_idx": 418}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.31257,
+                    51.12598
+                ]
+            },
+            "properties": {
+                "source_label": "Dover",
+                "geonames_label": "Dover",
+                "url": "https://www.geonames.org/2651048",
+                "sentence_idx": 415
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.85635,
+                    50.95194
+                ]
+            },
+            "properties": {
+                "source_label": "Calais",
+                "geonames_label": "Calais",
+                "url": "https://www.geonames.org/3029162",
+                "sentence_idx": 416
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3486,
+                    48.8534
+                ]
+            },
+            "properties": {
+                "source_label": "Paris",
+                "geonames_label": "Paris",
+                "url": "https://www.geonames.org/2988507",
+                "sentence_idx": 418
+            }
+        }
+    ]
+}

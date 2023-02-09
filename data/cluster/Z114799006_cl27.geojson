@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.86215, 45.6234]}, "properties": {"source_label": "hudsons bay", "geonames_label": "Hudsons Bay", "url": "https://www.geonames.org/5978180", "sentence_idx": 110}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.86215, 45.6234]}, "properties": {"source_label": "hudsons bay", "geonames_label": "Hudsons Bay", "url": "https://www.geonames.org/5978180", "sentence_idx": 126}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.86215, 45.6234]}, "properties": {"source_label": "hudsons bay", "geonames_label": "Hudsons Bay", "url": "https://www.geonames.org/5978180", "sentence_idx": 129}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 134}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 138}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.86215, 45.6234]}, "properties": {"source_label": "hudsons bay", "geonames_label": "Hudsons Bay", "url": "https://www.geonames.org/5978180", "sentence_idx": 148}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.86215, 45.6234]}, "properties": {"source_label": "hudsons bay", "geonames_label": "Hudsons Bay", "url": "https://www.geonames.org/5978180", "sentence_idx": 154}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.86215,
+                    45.6234
+                ]
+            },
+            "properties": {
+                "source_label": "hudsons bay",
+                "geonames_label": "Hudsons Bay",
+                "url": "https://www.geonames.org/5978180",
+                "sentence_idx": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.86215,
+                    45.6234
+                ]
+            },
+            "properties": {
+                "source_label": "hudsons bay",
+                "geonames_label": "Hudsons Bay",
+                "url": "https://www.geonames.org/5978180",
+                "sentence_idx": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.86215,
+                    45.6234
+                ]
+            },
+            "properties": {
+                "source_label": "hudsons bay",
+                "geonames_label": "Hudsons Bay",
+                "url": "https://www.geonames.org/5978180",
+                "sentence_idx": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.86215,
+                    45.6234
+                ]
+            },
+            "properties": {
+                "source_label": "hudsons bay",
+                "geonames_label": "Hudsons Bay",
+                "url": "https://www.geonames.org/5978180",
+                "sentence_idx": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.86215,
+                    45.6234
+                ]
+            },
+            "properties": {
+                "source_label": "hudsons bay",
+                "geonames_label": "Hudsons Bay",
+                "url": "https://www.geonames.org/5978180",
+                "sentence_idx": 154
+            }
+        }
+    ]
+}

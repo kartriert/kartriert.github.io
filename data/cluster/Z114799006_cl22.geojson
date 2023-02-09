@@ -1,1 +1,245 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 307}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-8.0, 53.0]}, "properties": {"source_label": "irland", "geonames_label": "Ireland", "url": "https://www.geonames.org/2963597", "sentence_idx": 307}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "london", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.96667, 50.73333]}, "properties": {"source_label": "pool", "geonames_label": "Poole", "url": "https://www.geonames.org/3333182", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.45991, 50.61448]}, "properties": {"source_label": "weymouth", "geonames_label": "Weymouth", "url": "https://www.geonames.org/2634202", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.59236, 50.34689]}, "properties": {"source_label": "dartmouth", "geonames_label": "Dartmouth", "url": "https://www.geonames.org/7293331", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.42559, 55.01788]}, "properties": {"source_label": "tynemouth", "geonames_label": "Tynemouth", "url": "https://www.geonames.org/2635269", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.46696, 50.68596]}, "properties": {"source_label": "topsham", "geonames_label": "Topsham", "url": "https://www.geonames.org/2635680", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.59665, 51.45523]}, "properties": {"source_label": "bristol", "geonames_label": "Bristol", "url": "https://www.geonames.org/2654675", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-8.0, 53.0]}, "properties": {"source_label": "irlands", "geonames_label": "Ireland", "url": "https://www.geonames.org/2963597", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-8.13057, 39.6945]}, "properties": {"source_label": "portugal", "geonames_label": "Portugal", "url": "https://www.geonames.org/2264397", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-4.0, 40.0]}, "properties": {"source_label": "spanien", "geonames_label": "Spain", "url": "https://www.geonames.org/2510769", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbrittanien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 309}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 323}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0,
+                    53.0
+                ]
+            },
+            "properties": {
+                "source_label": "irland",
+                "geonames_label": "Ireland",
+                "url": "https://www.geonames.org/2963597",
+                "sentence_idx": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "london",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.96667,
+                    50.73333
+                ]
+            },
+            "properties": {
+                "source_label": "pool",
+                "geonames_label": "Poole",
+                "url": "https://www.geonames.org/3333182",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.45991,
+                    50.61448
+                ]
+            },
+            "properties": {
+                "source_label": "weymouth",
+                "geonames_label": "Weymouth",
+                "url": "https://www.geonames.org/2634202",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.59236,
+                    50.34689
+                ]
+            },
+            "properties": {
+                "source_label": "dartmouth",
+                "geonames_label": "Dartmouth",
+                "url": "https://www.geonames.org/7293331",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.42559,
+                    55.01788
+                ]
+            },
+            "properties": {
+                "source_label": "tynemouth",
+                "geonames_label": "Tynemouth",
+                "url": "https://www.geonames.org/2635269",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.46696,
+                    50.68596
+                ]
+            },
+            "properties": {
+                "source_label": "topsham",
+                "geonames_label": "Topsham",
+                "url": "https://www.geonames.org/2635680",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.59665,
+                    51.45523
+                ]
+            },
+            "properties": {
+                "source_label": "bristol",
+                "geonames_label": "Bristol",
+                "url": "https://www.geonames.org/2654675",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0,
+                    53.0
+                ]
+            },
+            "properties": {
+                "source_label": "irlands",
+                "geonames_label": "Ireland",
+                "url": "https://www.geonames.org/2963597",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.13057,
+                    39.6945
+                ]
+            },
+            "properties": {
+                "source_label": "portugal",
+                "geonames_label": "Portugal",
+                "url": "https://www.geonames.org/2264397",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0,
+                    40.0
+                ]
+            },
+            "properties": {
+                "source_label": "spanien",
+                "geonames_label": "Spain",
+                "url": "https://www.geonames.org/2510769",
+                "sentence_idx": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbrittanien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": 309
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": 323
+            }
+        }
+    ]
+}

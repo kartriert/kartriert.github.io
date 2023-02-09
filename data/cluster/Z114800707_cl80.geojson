@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 2076}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 2084}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.41718, 31.39951]}, "properties": {"source_label": "rosette", "geonames_label": "Rosetta", "url": "https://www.geonames.org/350203", "sentence_idx": 2084}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": 2076
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": 2084
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.41718,
+                    31.39951
+                ]
+            },
+            "properties": {
+                "source_label": "rosette",
+                "geonames_label": "Rosetta",
+                "url": "https://www.geonames.org/350203",
+                "sentence_idx": 2084
+            }
+        }
+    ]
+}

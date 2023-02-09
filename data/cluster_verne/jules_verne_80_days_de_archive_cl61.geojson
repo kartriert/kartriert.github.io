@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 834}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [38.53455, 20.26735]}, "properties": {"source_label": "Rothen Meeres", "geonames_label": "Red Sea", "url": "https://www.geonames.org/350155", "sentence_idx": 845}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 848}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 834
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.53455,
+                    20.26735
+                ]
+            },
+            "properties": {
+                "source_label": "Rothen Meeres",
+                "geonames_label": "Red Sea",
+                "url": "https://www.geonames.org/350155",
+                "sentence_idx": 845
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 848
+            }
+        }
+    ]
+}

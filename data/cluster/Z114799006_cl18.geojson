@@ -1,1 +1,293 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-60.80521, 46.0332]}, "properties": {"source_label": "cap breton", "geonames_label": "Cape Breton Island", "url": "https://www.geonames.org/5915569", "sentence_idx": 1510}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-55.39832, 46.91664]}, "properties": {"source_label": "st laurenz", "geonames_label": "St. Lawrence", "url": "https://www.geonames.org/6156979", "sentence_idx": 1510}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 1511}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-59.96513, 45.91684]}, "properties": {"source_label": "ludwigsburg", "geonames_label": "Louisbourg", "url": "https://www.geonames.org/6060789", "sentence_idx": 1517}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-59.96513, 45.91684]}, "properties": {"source_label": "ludwigsburg", "geonames_label": "Louisbourg", "url": "https://www.geonames.org/6060789", "sentence_idx": 1522}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-59.96513, 45.91684]}, "properties": {"source_label": "ludwigsburg", "geonames_label": "Louisbourg", "url": "https://www.geonames.org/6060789", "sentence_idx": 1523}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-55.39832, 46.91664]}, "properties": {"source_label": "st. laurenz", "geonames_label": "St. Lawrence", "url": "https://www.geonames.org/6156979", "sentence_idx": 1527}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "akadien", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 1529}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 1529}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-59.96513, 45.91684]}, "properties": {"source_label": "ludwigsburg", "geonames_label": "Louisbourg", "url": "https://www.geonames.org/6060789", "sentence_idx": 1537}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 1541}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 1542}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 1544}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 1545}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu englands", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 1545}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-64.50056, 49.66667]}, "properties": {"source_label": "laurenzflusses", "geonames_label": "Saint Lawrence River", "url": "https://www.geonames.org/7315779", "sentence_idx": 1545}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.49184, 38.97859]}, "properties": {"source_label": "annapolis", "geonames_label": "Annapolis", "url": "https://www.geonames.org/4347242", "sentence_idx": 1549}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "akadien", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 1550}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.80521,
+                    46.0332
+                ]
+            },
+            "properties": {
+                "source_label": "cap breton",
+                "geonames_label": "Cape Breton Island",
+                "url": "https://www.geonames.org/5915569",
+                "sentence_idx": 1510
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.39832,
+                    46.91664
+                ]
+            },
+            "properties": {
+                "source_label": "st laurenz",
+                "geonames_label": "St. Lawrence",
+                "url": "https://www.geonames.org/6156979",
+                "sentence_idx": 1510
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": 1511
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.96513,
+                    45.91684
+                ]
+            },
+            "properties": {
+                "source_label": "ludwigsburg",
+                "geonames_label": "Louisbourg",
+                "url": "https://www.geonames.org/6060789",
+                "sentence_idx": 1517
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.96513,
+                    45.91684
+                ]
+            },
+            "properties": {
+                "source_label": "ludwigsburg",
+                "geonames_label": "Louisbourg",
+                "url": "https://www.geonames.org/6060789",
+                "sentence_idx": 1522
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.96513,
+                    45.91684
+                ]
+            },
+            "properties": {
+                "source_label": "ludwigsburg",
+                "geonames_label": "Louisbourg",
+                "url": "https://www.geonames.org/6060789",
+                "sentence_idx": 1523
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.39832,
+                    46.91664
+                ]
+            },
+            "properties": {
+                "source_label": "st. laurenz",
+                "geonames_label": "St. Lawrence",
+                "url": "https://www.geonames.org/6156979",
+                "sentence_idx": 1527
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "akadien",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": 1529
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": 1529
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.96513,
+                    45.91684
+                ]
+            },
+            "properties": {
+                "source_label": "ludwigsburg",
+                "geonames_label": "Louisbourg",
+                "url": "https://www.geonames.org/6060789",
+                "sentence_idx": 1537
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": 1541
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": 1542
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": 1544
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": 1545
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu englands",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": 1545
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.50056,
+                    49.66667
+                ]
+            },
+            "properties": {
+                "source_label": "laurenzflusses",
+                "geonames_label": "Saint Lawrence River",
+                "url": "https://www.geonames.org/7315779",
+                "sentence_idx": 1545
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.49184,
+                    38.97859
+                ]
+            },
+            "properties": {
+                "source_label": "annapolis",
+                "geonames_label": "Annapolis",
+                "url": "https://www.geonames.org/4347242",
+                "sentence_idx": 1549
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "akadien",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": 1550
+            }
+        }
+    ]
+}

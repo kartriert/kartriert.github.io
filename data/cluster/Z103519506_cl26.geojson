@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [22.0, 39.0]}, "properties": {"source_label": "griechenland", "geonames_label": "Greece", "url": "https://www.geonames.org/390903", "sentence_idx": 1110}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1110}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [22.0, 39.0]}, "properties": {"source_label": "griechenland", "geonames_label": "Greece", "url": "https://www.geonames.org/390903", "sentence_idx": 1118}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0,
+                    39.0
+                ]
+            },
+            "properties": {
+                "source_label": "griechenland",
+                "geonames_label": "Greece",
+                "url": "https://www.geonames.org/390903",
+                "sentence_idx": 1110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": 1110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0,
+                    39.0
+                ]
+            },
+            "properties": {
+                "source_label": "griechenland",
+                "geonames_label": "Greece",
+                "url": "https://www.geonames.org/390903",
+                "sentence_idx": 1118
+            }
+        }
+    ]
+}

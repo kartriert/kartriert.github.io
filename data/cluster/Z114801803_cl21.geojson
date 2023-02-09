@@ -1,1 +1,133 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.61417, 24.46861]}, "properties": {"source_label": "medina", "geonames_label": "Medina", "url": "https://www.geonames.org/109223", "sentence_idx": 1153}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.44017, 32.05114]}, "properties": {"source_label": "kufa", "geonames_label": "Kufa", "url": "https://www.geonames.org/99135", "sentence_idx": 1154}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.44017, 32.05114]}, "properties": {"source_label": "kufa", "geonames_label": "Kufa", "url": "https://www.geonames.org/99135", "sentence_idx": 1156}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.61417, 24.46861]}, "properties": {"source_label": "medina", "geonames_label": "Medina", "url": "https://www.geonames.org/109223", "sentence_idx": 1156}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.44017, 32.05114]}, "properties": {"source_label": "kufa", "geonames_label": "Kufa", "url": "https://www.geonames.org/99135", "sentence_idx": 1158}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [36.29128, 33.5102]}, "properties": {"source_label": "damaskus", "geonames_label": "Damascus", "url": "https://www.geonames.org/170654", "sentence_idx": 1159}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.44017, 32.05114]}, "properties": {"source_label": "Kufa", "geonames_label": "Kufa", "url": "https://www.geonames.org/99135", "sentence_idx": 1159}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.44017, 32.05114]}, "properties": {"source_label": "kufa", "geonames_label": "Kufa", "url": "https://www.geonames.org/99135", "sentence_idx": 1163}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.61417,
+                    24.46861
+                ]
+            },
+            "properties": {
+                "source_label": "medina",
+                "geonames_label": "Medina",
+                "url": "https://www.geonames.org/109223",
+                "sentence_idx": 1153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.44017,
+                    32.05114
+                ]
+            },
+            "properties": {
+                "source_label": "kufa",
+                "geonames_label": "Kufa",
+                "url": "https://www.geonames.org/99135",
+                "sentence_idx": 1154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.44017,
+                    32.05114
+                ]
+            },
+            "properties": {
+                "source_label": "kufa",
+                "geonames_label": "Kufa",
+                "url": "https://www.geonames.org/99135",
+                "sentence_idx": 1156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.61417,
+                    24.46861
+                ]
+            },
+            "properties": {
+                "source_label": "medina",
+                "geonames_label": "Medina",
+                "url": "https://www.geonames.org/109223",
+                "sentence_idx": 1156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.44017,
+                    32.05114
+                ]
+            },
+            "properties": {
+                "source_label": "kufa",
+                "geonames_label": "Kufa",
+                "url": "https://www.geonames.org/99135",
+                "sentence_idx": 1158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.29128,
+                    33.5102
+                ]
+            },
+            "properties": {
+                "source_label": "damaskus",
+                "geonames_label": "Damascus",
+                "url": "https://www.geonames.org/170654",
+                "sentence_idx": 1159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.44017,
+                    32.05114
+                ]
+            },
+            "properties": {
+                "source_label": "Kufa",
+                "geonames_label": "Kufa",
+                "url": "https://www.geonames.org/99135",
+                "sentence_idx": 1159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.44017,
+                    32.05114
+                ]
+            },
+            "properties": {
+                "source_label": "kufa",
+                "geonames_label": "Kufa",
+                "url": "https://www.geonames.org/99135",
+                "sentence_idx": 1163
+            }
+        }
+    ]
+}

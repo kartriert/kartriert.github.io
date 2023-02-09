@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 1138}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 1151}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.56468, 51.85616]}, "properties": {"source_label": "kaunitz", "geonames_label": "Kaunitz", "url": "https://www.geonames.org/2892046", "sentence_idx": 1153}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 1156}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.83333, 42.83333]}, "properties": {"source_label": "italien", "geonames_label": "Italy", "url": "https://www.geonames.org/3175395", "sentence_idx": 1166}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": 1138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": 1151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.56468,
+                    51.85616
+                ]
+            },
+            "properties": {
+                "source_label": "kaunitz",
+                "geonames_label": "Kaunitz",
+                "url": "https://www.geonames.org/2892046",
+                "sentence_idx": 1153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": 1156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83333,
+                    42.83333
+                ]
+            },
+            "properties": {
+                "source_label": "italien",
+                "geonames_label": "Italy",
+                "url": "https://www.geonames.org/3175395",
+                "sentence_idx": 1166
+            }
+        }
+    ]
+}

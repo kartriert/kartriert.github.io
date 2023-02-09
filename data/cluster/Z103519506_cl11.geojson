@@ -1,1 +1,229 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.41169, 48.20609]}, "properties": {"source_label": "prater", "geonames_label": "Prater", "url": "https://www.geonames.org/3322725", "sentence_idx": 1346}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 1358}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.75, 52.25]}, "properties": {"source_label": "niederlanden", "geonames_label": "Netherlands", "url": "https://www.geonames.org/2750405", "sentence_idx": 1364}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 1373}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.37607, 51.33064]}, "properties": {"source_label": "peterskirche", "geonames_label": "Old St. Peter's Church", "url": "https://www.geonames.org/11395635", "sentence_idx": 1377}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.60464, 53.12505]}, "properties": {"source_label": "engelsburg", "geonames_label": "Engelsburg", "url": "https://www.geonames.org/2930240", "sentence_idx": 1377}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1380}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.40026, 51.22047]}, "properties": {"source_label": "antwerpen", "geonames_label": "Antwerp", "url": "https://www.geonames.org/2803138", "sentence_idx": 1386}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.82046, 53.42885]}, "properties": {"source_label": "carlstein", "geonames_label": "Carlstein", "url": "https://www.geonames.org/2940281", "sentence_idx": 1390}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.47917, 51.9225]}, "properties": {"source_label": "rotterdam", "geonames_label": "Rotterdam", "url": "https://www.geonames.org/2747891", "sentence_idx": 1391}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 1391}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 1394}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 1395}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.32618, 44.79935]}, "properties": {"source_label": "parma", "geonames_label": "Parma", "url": "https://www.geonames.org/3171457", "sentence_idx": 1396}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41169,
+                    48.20609
+                ]
+            },
+            "properties": {
+                "source_label": "prater",
+                "geonames_label": "Prater",
+                "url": "https://www.geonames.org/3322725",
+                "sentence_idx": 1346
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": 1358
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75,
+                    52.25
+                ]
+            },
+            "properties": {
+                "source_label": "niederlanden",
+                "geonames_label": "Netherlands",
+                "url": "https://www.geonames.org/2750405",
+                "sentence_idx": 1364
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": 1373
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37607,
+                    51.33064
+                ]
+            },
+            "properties": {
+                "source_label": "peterskirche",
+                "geonames_label": "Old St. Peter's Church",
+                "url": "https://www.geonames.org/11395635",
+                "sentence_idx": 1377
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60464,
+                    53.12505
+                ]
+            },
+            "properties": {
+                "source_label": "engelsburg",
+                "geonames_label": "Engelsburg",
+                "url": "https://www.geonames.org/2930240",
+                "sentence_idx": 1377
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 1380
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40026,
+                    51.22047
+                ]
+            },
+            "properties": {
+                "source_label": "antwerpen",
+                "geonames_label": "Antwerp",
+                "url": "https://www.geonames.org/2803138",
+                "sentence_idx": 1386
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82046,
+                    53.42885
+                ]
+            },
+            "properties": {
+                "source_label": "carlstein",
+                "geonames_label": "Carlstein",
+                "url": "https://www.geonames.org/2940281",
+                "sentence_idx": 1390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47917,
+                    51.9225
+                ]
+            },
+            "properties": {
+                "source_label": "rotterdam",
+                "geonames_label": "Rotterdam",
+                "url": "https://www.geonames.org/2747891",
+                "sentence_idx": 1391
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": 1391
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": 1394
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": 1395
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32618,
+                    44.79935
+                ]
+            },
+            "properties": {
+                "source_label": "parma",
+                "geonames_label": "Parma",
+                "url": "https://www.geonames.org/3171457",
+                "sentence_idx": 1396
+            }
+        }
+    ]
+}

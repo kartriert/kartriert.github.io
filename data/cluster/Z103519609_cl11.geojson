@@ -1,1 +1,165 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [25.25, 42.66667]}, "properties": {"source_label": "bulgarien", "geonames_label": "Bulgaria", "url": "https://www.geonames.org/732800", "sentence_idx": 944}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.50446, 46.5471]}, "properties": {"source_label": "gallizien", "geonames_label": "Gallizien", "url": "https://www.geonames.org/7871674", "sentence_idx": 944}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.45998, 44.81892]}, "properties": {"source_label": "serbien", "geonames_label": "Serbia", "url": "https://www.geonames.org/6290252", "sentence_idx": 944}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.5, 43.16667]}, "properties": {"source_label": "dalmatien", "geonames_label": "Split-Dalmatia", "url": "https://www.geonames.org/3337527", "sentence_idx": 944}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.5, 45.16667]}, "properties": {"source_label": "kroatien", "geonames_label": "Croatia", "url": "https://www.geonames.org/3202326", "sentence_idx": 944}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.5, 45.16667]}, "properties": {"source_label": "kroatien", "geonames_label": "Croatia", "url": "https://www.geonames.org/3202326", "sentence_idx": 945}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.83333, 44.25]}, "properties": {"source_label": "bosnien", "geonames_label": "Bosnia and Herzegovina", "url": "https://www.geonames.org/3277605", "sentence_idx": 948}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.83333, 44.25]}, "properties": {"source_label": "bosnien", "geonames_label": "Bosnia and Herzegovina", "url": "https://www.geonames.org/3277605", "sentence_idx": 956}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.74598, 49.50126]}, "properties": {"source_label": "rosenberg", "geonames_label": "Sulzbach-Rosenberg", "url": "https://www.geonames.org/2824801", "sentence_idx": 966}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 970}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.25,
+                    42.66667
+                ]
+            },
+            "properties": {
+                "source_label": "bulgarien",
+                "geonames_label": "Bulgaria",
+                "url": "https://www.geonames.org/732800",
+                "sentence_idx": 944
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50446,
+                    46.5471
+                ]
+            },
+            "properties": {
+                "source_label": "gallizien",
+                "geonames_label": "Gallizien",
+                "url": "https://www.geonames.org/7871674",
+                "sentence_idx": 944
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.45998,
+                    44.81892
+                ]
+            },
+            "properties": {
+                "source_label": "serbien",
+                "geonames_label": "Serbia",
+                "url": "https://www.geonames.org/6290252",
+                "sentence_idx": 944
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5,
+                    43.16667
+                ]
+            },
+            "properties": {
+                "source_label": "dalmatien",
+                "geonames_label": "Split-Dalmatia",
+                "url": "https://www.geonames.org/3337527",
+                "sentence_idx": 944
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5,
+                    45.16667
+                ]
+            },
+            "properties": {
+                "source_label": "kroatien",
+                "geonames_label": "Croatia",
+                "url": "https://www.geonames.org/3202326",
+                "sentence_idx": 944
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5,
+                    45.16667
+                ]
+            },
+            "properties": {
+                "source_label": "kroatien",
+                "geonames_label": "Croatia",
+                "url": "https://www.geonames.org/3202326",
+                "sentence_idx": 945
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83333,
+                    44.25
+                ]
+            },
+            "properties": {
+                "source_label": "bosnien",
+                "geonames_label": "Bosnia and Herzegovina",
+                "url": "https://www.geonames.org/3277605",
+                "sentence_idx": 948
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83333,
+                    44.25
+                ]
+            },
+            "properties": {
+                "source_label": "bosnien",
+                "geonames_label": "Bosnia and Herzegovina",
+                "url": "https://www.geonames.org/3277605",
+                "sentence_idx": 956
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.74598,
+                    49.50126
+                ]
+            },
+            "properties": {
+                "source_label": "rosenberg",
+                "geonames_label": "Sulzbach-Rosenberg",
+                "url": "https://www.geonames.org/2824801",
+                "sentence_idx": 966
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": 970
+            }
+        }
+    ]
+}

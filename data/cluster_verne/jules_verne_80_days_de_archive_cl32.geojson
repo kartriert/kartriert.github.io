@@ -1,1 +1,133 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 529}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 545}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 546}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 546}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 547}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 550}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 555}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.41926, 31.12339]}, "properties": {"source_label": "Port-Said", "geonames_label": "Port Said", "url": "https://www.geonames.org/358619", "sentence_idx": 560}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 529
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 545
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 546
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 546
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 547
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 550
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 555
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.41926,
+                    31.12339
+                ]
+            },
+            "properties": {
+                "source_label": "Port-Said",
+                "geonames_label": "Port Said",
+                "url": "https://www.geonames.org/358619",
+                "sentence_idx": 560
+            }
+        }
+    ]
+}

@@ -1,1 +1,101 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.06566, 52.39886]}, "properties": {"source_label": "potsdam", "geonames_label": "Potsdam", "url": "https://www.geonames.org/2852458", "sentence_idx": 431}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 438}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.0385, 52.40416]}, "properties": {"source_label": "sanssouci", "geonames_label": "Sanssouci", "url": "https://www.geonames.org/6295638", "sentence_idx": 453}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 453}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 454}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.0385, 52.40416]}, "properties": {"source_label": "sanssouci", "geonames_label": "Sanssouci", "url": "https://www.geonames.org/6295638", "sentence_idx": 459}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06566,
+                    52.39886
+                ]
+            },
+            "properties": {
+                "source_label": "potsdam",
+                "geonames_label": "Potsdam",
+                "url": "https://www.geonames.org/2852458",
+                "sentence_idx": 431
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": 438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0385,
+                    52.40416
+                ]
+            },
+            "properties": {
+                "source_label": "sanssouci",
+                "geonames_label": "Sanssouci",
+                "url": "https://www.geonames.org/6295638",
+                "sentence_idx": 453
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": 453
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": 454
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0385,
+                    52.40416
+                ]
+            },
+            "properties": {
+                "source_label": "sanssouci",
+                "geonames_label": "Sanssouci",
+                "url": "https://www.geonames.org/6295638",
+                "sentence_idx": 459
+            }
+        }
+    ]
+}

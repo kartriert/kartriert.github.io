@@ -1,1 +1,229 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.94802, 40.50671]}, "properties": {"source_label": "Kearney", "geonames_label": "Kearney", "url": "https://www.geonames.org/5071364", "sentence_idx": 4104}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4113}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.07332, 41.50884]}, "properties": {"source_label": "Chicago", "geonames_label": "Chicago", "url": "https://www.geonames.org/4887398", "sentence_idx": 4114}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 4114}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.94802, 40.50671]}, "properties": {"source_label": "Kearney", "geonames_label": "Kearney", "url": "https://www.geonames.org/5071364", "sentence_idx": 4117}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4129}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.03765, 41.16982]}, "properties": {"source_label": "Grand-Island", "geonames_label": "Grand Island", "url": "https://www.geonames.org/5069297", "sentence_idx": 4143}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.99879, 39.96118]}, "properties": {"source_label": "Columbus", "geonames_label": "Columbus", "url": "https://www.geonames.org/4509177", "sentence_idx": 4143}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.75067, 41.50028]}, "properties": {"source_label": "Nebraska", "geonames_label": "Nebraska", "url": "https://www.geonames.org/5073708", "sentence_idx": 4143}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.61507, 40.15803]}, "properties": {"source_label": "Schuyler", "geonames_label": "Schuyler", "url": "https://www.geonames.org/4910877", "sentence_idx": 4143}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4143}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.74983, 44.00034]}, "properties": {"source_label": "Vermont", "geonames_label": "Vermont", "url": "https://www.geonames.org/5242283", "sentence_idx": 4146}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 4155}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4157}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.94802,
+                    40.50671
+                ]
+            },
+            "properties": {
+                "source_label": "Kearney",
+                "geonames_label": "Kearney",
+                "url": "https://www.geonames.org/5071364",
+                "sentence_idx": 4104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": 4113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.07332,
+                    41.50884
+                ]
+            },
+            "properties": {
+                "source_label": "Chicago",
+                "geonames_label": "Chicago",
+                "url": "https://www.geonames.org/4887398",
+                "sentence_idx": 4114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": 4114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.94802,
+                    40.50671
+                ]
+            },
+            "properties": {
+                "source_label": "Kearney",
+                "geonames_label": "Kearney",
+                "url": "https://www.geonames.org/5071364",
+                "sentence_idx": 4117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": 4129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.03765,
+                    41.16982
+                ]
+            },
+            "properties": {
+                "source_label": "Grand-Island",
+                "geonames_label": "Grand Island",
+                "url": "https://www.geonames.org/5069297",
+                "sentence_idx": 4143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.99879,
+                    39.96118
+                ]
+            },
+            "properties": {
+                "source_label": "Columbus",
+                "geonames_label": "Columbus",
+                "url": "https://www.geonames.org/4509177",
+                "sentence_idx": 4143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.75067,
+                    41.50028
+                ]
+            },
+            "properties": {
+                "source_label": "Nebraska",
+                "geonames_label": "Nebraska",
+                "url": "https://www.geonames.org/5073708",
+                "sentence_idx": 4143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.61507,
+                    40.15803
+                ]
+            },
+            "properties": {
+                "source_label": "Schuyler",
+                "geonames_label": "Schuyler",
+                "url": "https://www.geonames.org/4910877",
+                "sentence_idx": 4143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": 4143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.74983,
+                    44.00034
+                ]
+            },
+            "properties": {
+                "source_label": "Vermont",
+                "geonames_label": "Vermont",
+                "url": "https://www.geonames.org/5242283",
+                "sentence_idx": 4146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": 4155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": 4157
+            }
+        }
+    ]
+}

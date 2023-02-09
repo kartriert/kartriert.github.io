@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.0, 39.0]}, "properties": {"source_label": "anatolien", "geonames_label": "Anatolia", "url": "https://www.geonames.org/323835", "sentence_idx": 3427}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.0, 39.0]}, "properties": {"source_label": "anatolien", "geonames_label": "Anatolia", "url": "https://www.geonames.org/323835", "sentence_idx": 3430}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.0, 39.0]}, "properties": {"source_label": "anatolien", "geonames_label": "Anatolia", "url": "https://www.geonames.org/323835", "sentence_idx": 3433}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.0, 39.0]}, "properties": {"source_label": "anatolien", "geonames_label": "Anatolia", "url": "https://www.geonames.org/323835", "sentence_idx": 3437}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0,
+                    39.0
+                ]
+            },
+            "properties": {
+                "source_label": "anatolien",
+                "geonames_label": "Anatolia",
+                "url": "https://www.geonames.org/323835",
+                "sentence_idx": 3427
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0,
+                    39.0
+                ]
+            },
+            "properties": {
+                "source_label": "anatolien",
+                "geonames_label": "Anatolia",
+                "url": "https://www.geonames.org/323835",
+                "sentence_idx": 3430
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0,
+                    39.0
+                ]
+            },
+            "properties": {
+                "source_label": "anatolien",
+                "geonames_label": "Anatolia",
+                "url": "https://www.geonames.org/323835",
+                "sentence_idx": 3433
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0,
+                    39.0
+                ]
+            },
+            "properties": {
+                "source_label": "anatolien",
+                "geonames_label": "Anatolia",
+                "url": "https://www.geonames.org/323835",
+                "sentence_idx": 3437
+            }
+        }
+    ]
+}

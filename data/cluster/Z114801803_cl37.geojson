@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [96.89497, -12.11645]}, "properties": {"source_label": "bantam", "geonames_label": "Bantam Village", "url": "https://www.geonames.org/1547382", "sentence_idx": 33}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.84513, -6.21462]}, "properties": {"source_label": "batavia", "geonames_label": "Jakarta", "url": "https://www.geonames.org/1642911", "sentence_idx": 34}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [102.2405, 2.196]}, "properties": {"source_label": "malakka", "geonames_label": "Malacca", "url": "https://www.geonames.org/1734759", "sentence_idx": 40}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.89497,
+                    -12.11645
+                ]
+            },
+            "properties": {
+                "source_label": "bantam",
+                "geonames_label": "Bantam Village",
+                "url": "https://www.geonames.org/1547382",
+                "sentence_idx": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.84513,
+                    -6.21462
+                ]
+            },
+            "properties": {
+                "source_label": "batavia",
+                "geonames_label": "Jakarta",
+                "url": "https://www.geonames.org/1642911",
+                "sentence_idx": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2405,
+                    2.196
+                ]
+            },
+            "properties": {
+                "source_label": "malakka",
+                "geonames_label": "Malacca",
+                "url": "https://www.geonames.org/1734759",
+                "sentence_idx": 40
+            }
+        }
+    ]
+}

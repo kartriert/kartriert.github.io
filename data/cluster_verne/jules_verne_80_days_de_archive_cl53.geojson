@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.45806, 31.22222]}, "properties": {"source_label": "Schangai", "geonames_label": "Shanghai", "url": "https://www.geonames.org/1796236", "sentence_idx": 2658}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [114.16667, 22.25]}, "properties": {"source_label": "Hongkong", "geonames_label": "Hong Kong", "url": "https://www.geonames.org/1819729", "sentence_idx": 2662}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [118.0, 26.25]}, "properties": {"source_label": "Fo-Kien", "geonames_label": "Fujian", "url": "https://www.geonames.org/1811017", "sentence_idx": 2664}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.0, 24.0]}, "properties": {"source_label": "Formosa", "geonames_label": "Taiwan", "url": "https://www.geonames.org/1668284", "sentence_idx": 2664}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45806,
+                    31.22222
+                ]
+            },
+            "properties": {
+                "source_label": "Schangai",
+                "geonames_label": "Shanghai",
+                "url": "https://www.geonames.org/1796236",
+                "sentence_idx": 2658
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.16667,
+                    22.25
+                ]
+            },
+            "properties": {
+                "source_label": "Hongkong",
+                "geonames_label": "Hong Kong",
+                "url": "https://www.geonames.org/1819729",
+                "sentence_idx": 2662
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.0,
+                    26.25
+                ]
+            },
+            "properties": {
+                "source_label": "Fo-Kien",
+                "geonames_label": "Fujian",
+                "url": "https://www.geonames.org/1811017",
+                "sentence_idx": 2664
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0,
+                    24.0
+                ]
+            },
+            "properties": {
+                "source_label": "Formosa",
+                "geonames_label": "Taiwan",
+                "url": "https://www.geonames.org/1668284",
+                "sentence_idx": 2664
+            }
+        }
+    ]
+}

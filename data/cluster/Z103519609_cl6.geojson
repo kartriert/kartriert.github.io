@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.26811, 40.85216]}, "properties": {"source_label": "neapel", "geonames_label": "Naples", "url": "https://www.geonames.org/3172394", "sentence_idx": 144}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 146}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.26811, 40.85216]}, "properties": {"source_label": "neapel", "geonames_label": "Naples", "url": "https://www.geonames.org/3172394", "sentence_idx": 149}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.78763, 43.84732]}, "properties": {"source_label": "montelabbate", "geonames_label": "Montelabbate", "url": "https://www.geonames.org/3172883", "sentence_idx": 163}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.78522, 50.53791]}, "properties": {"source_label": "schwarzenberg", "geonames_label": "Schwarzenberg", "url": "https://www.geonames.org/2834978", "sentence_idx": 163}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.75499, 48.74069]}, "properties": {"source_label": "feldsberg", "geonames_label": "Valtice", "url": "https://www.geonames.org/3063409", "sentence_idx": 170}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.80339, 48.79992]}, "properties": {"source_label": "eisgrub", "geonames_label": "Lednice", "url": "https://www.geonames.org/3072232", "sentence_idx": 173}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26811,
+                    40.85216
+                ]
+            },
+            "properties": {
+                "source_label": "neapel",
+                "geonames_label": "Naples",
+                "url": "https://www.geonames.org/3172394",
+                "sentence_idx": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26811,
+                    40.85216
+                ]
+            },
+            "properties": {
+                "source_label": "neapel",
+                "geonames_label": "Naples",
+                "url": "https://www.geonames.org/3172394",
+                "sentence_idx": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78763,
+                    43.84732
+                ]
+            },
+            "properties": {
+                "source_label": "montelabbate",
+                "geonames_label": "Montelabbate",
+                "url": "https://www.geonames.org/3172883",
+                "sentence_idx": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78522,
+                    50.53791
+                ]
+            },
+            "properties": {
+                "source_label": "schwarzenberg",
+                "geonames_label": "Schwarzenberg",
+                "url": "https://www.geonames.org/2834978",
+                "sentence_idx": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75499,
+                    48.74069
+                ]
+            },
+            "properties": {
+                "source_label": "feldsberg",
+                "geonames_label": "Valtice",
+                "url": "https://www.geonames.org/3063409",
+                "sentence_idx": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80339,
+                    48.79992
+                ]
+            },
+            "properties": {
+                "source_label": "eisgrub",
+                "geonames_label": "Lednice",
+                "url": "https://www.geonames.org/3072232",
+                "sentence_idx": 173
+            }
+        }
+    ]
+}

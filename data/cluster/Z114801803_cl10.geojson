@@ -1,1 +1,149 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [80.75, 7.75]}, "properties": {"source_label": "ceilan", "geonames_label": "Sri Lanka", "url": "https://www.geonames.org/1227603", "sentence_idx": 27}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [80.75, 7.75]}, "properties": {"source_label": "ceilan", "geonames_label": "Sri Lanka", "url": "https://www.geonames.org/1227603", "sentence_idx": 35}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [76.75783, 8.67478]}, "properties": {"source_label": "anjengo", "geonames_label": "Anjengo", "url": "https://www.geonames.org/1278571", "sentence_idx": 50}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 54}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [76.75783, 8.67478]}, "properties": {"source_label": "anjengo", "geonames_label": "Anjengo", "url": "https://www.geonames.org/1278571", "sentence_idx": 56}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 56}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [76.26022, 9.93988]}, "properties": {"source_label": "Cochin", "geonames_label": "Ernakulam", "url": "https://www.geonames.org/1273874", "sentence_idx": 58}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [76.26022, 9.93988]}, "properties": {"source_label": "Cochin", "geonames_label": "Ernakulam", "url": "https://www.geonames.org/1273874", "sentence_idx": 62}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [76.26022, 9.93988]}, "properties": {"source_label": "Cochin", "geonames_label": "Ernakulam", "url": "https://www.geonames.org/1273874", "sentence_idx": 75}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.75,
+                    7.75
+                ]
+            },
+            "properties": {
+                "source_label": "ceilan",
+                "geonames_label": "Sri Lanka",
+                "url": "https://www.geonames.org/1227603",
+                "sentence_idx": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.75,
+                    7.75
+                ]
+            },
+            "properties": {
+                "source_label": "ceilan",
+                "geonames_label": "Sri Lanka",
+                "url": "https://www.geonames.org/1227603",
+                "sentence_idx": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.75783,
+                    8.67478
+                ]
+            },
+            "properties": {
+                "source_label": "anjengo",
+                "geonames_label": "Anjengo",
+                "url": "https://www.geonames.org/1278571",
+                "sentence_idx": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.75783,
+                    8.67478
+                ]
+            },
+            "properties": {
+                "source_label": "anjengo",
+                "geonames_label": "Anjengo",
+                "url": "https://www.geonames.org/1278571",
+                "sentence_idx": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.26022,
+                    9.93988
+                ]
+            },
+            "properties": {
+                "source_label": "Cochin",
+                "geonames_label": "Ernakulam",
+                "url": "https://www.geonames.org/1273874",
+                "sentence_idx": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.26022,
+                    9.93988
+                ]
+            },
+            "properties": {
+                "source_label": "Cochin",
+                "geonames_label": "Ernakulam",
+                "url": "https://www.geonames.org/1273874",
+                "sentence_idx": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.26022,
+                    9.93988
+                ]
+            },
+            "properties": {
+                "source_label": "Cochin",
+                "geonames_label": "Ernakulam",
+                "url": "https://www.geonames.org/1273874",
+                "sentence_idx": 75
+            }
+        }
+    ]
+}

@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 1704}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 1718}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 1732}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": 1704
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": 1718
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": 1732
+            }
+        }
+    ]
+}

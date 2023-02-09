@@ -1,1 +1,101 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 1634}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.10832, 42.36565]}, "properties": {"source_label": "massachuset", "geonames_label": "Massachusetts", "url": "https://www.geonames.org/6254926", "sentence_idx": 1634}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.71193, 38.73074]}, "properties": {"source_label": "nord virginien", "geonames_label": "Northern Virginia", "url": "https://www.geonames.org/12216875", "sentence_idx": 1634}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.45479, 42.99564]}, "properties": {"source_label": "hampshire", "geonames_label": "Manchester", "url": "https://www.geonames.org/5089178", "sentence_idx": 1635}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.66648, 41.66704]}, "properties": {"source_label": "vereinigten colonien", "geonames_label": "Connecticut", "url": "https://www.geonames.org/4831725", "sentence_idx": 1635}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu englands", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 1636}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": 1634
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10832,
+                    42.36565
+                ]
+            },
+            "properties": {
+                "source_label": "massachuset",
+                "geonames_label": "Massachusetts",
+                "url": "https://www.geonames.org/6254926",
+                "sentence_idx": 1634
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.71193,
+                    38.73074
+                ]
+            },
+            "properties": {
+                "source_label": "nord virginien",
+                "geonames_label": "Northern Virginia",
+                "url": "https://www.geonames.org/12216875",
+                "sentence_idx": 1634
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.45479,
+                    42.99564
+                ]
+            },
+            "properties": {
+                "source_label": "hampshire",
+                "geonames_label": "Manchester",
+                "url": "https://www.geonames.org/5089178",
+                "sentence_idx": 1635
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.66648,
+                    41.66704
+                ]
+            },
+            "properties": {
+                "source_label": "vereinigten colonien",
+                "geonames_label": "Connecticut",
+                "url": "https://www.geonames.org/4831725",
+                "sentence_idx": 1635
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu englands",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": 1636
+            }
+        }
+    ]
+}
