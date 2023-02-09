@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.57645, 35.46225]}, "properties": {"source_label": "Yokohama", "geonames_label": "Yokohama", "url": "https://www.geonames.org/1848354", "sentence_idx": 3070}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.57645, 35.46225]}, "properties": {"source_label": "Yokohama", "geonames_label": "Yokohama", "url": "https://www.geonames.org/1848354", "sentence_idx": 3074}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.57645, 35.46225]}, "properties": {"source_label": "Yokohama", "geonames_label": "Yokohama", "url": "https://www.geonames.org/1848354", "sentence_idx": 3090}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57645,
+                    35.46225
+                ]
+            },
+            "properties": {
+                "source_label": "Yokohama",
+                "geonames_label": "Yokohama",
+                "url": "https://www.geonames.org/1848354",
+                "sentence_idx": 3070
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57645,
+                    35.46225
+                ]
+            },
+            "properties": {
+                "source_label": "Yokohama",
+                "geonames_label": "Yokohama",
+                "url": "https://www.geonames.org/1848354",
+                "sentence_idx": 3074
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57645,
+                    35.46225
+                ]
+            },
+            "properties": {
+                "source_label": "Yokohama",
+                "geonames_label": "Yokohama",
+                "url": "https://www.geonames.org/1848354",
+                "sentence_idx": 3090
+            }
+        }
+    ]
+}

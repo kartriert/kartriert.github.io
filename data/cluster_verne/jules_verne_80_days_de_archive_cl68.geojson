@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "Amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 3777}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 3786}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.83981, 42.5728]}, "properties": {"source_label": "Chicago", "geonames_label": "Chicago", "url": "https://www.geonames.org/4887398", "sentence_idx": 3788}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3790}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "Amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": 3777
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": 3786
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.83981,
+                    42.5728
+                ]
+            },
+            "properties": {
+                "source_label": "Chicago",
+                "geonames_label": "Chicago",
+                "url": "https://www.geonames.org/4887398",
+                "sentence_idx": 3788
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": 3790
+            }
+        }
+    ]
+}

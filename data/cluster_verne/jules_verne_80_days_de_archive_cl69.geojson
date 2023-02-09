@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.11199, 41.11293]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3996}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.94802, 40.50671]}, "properties": {"source_label": "Kearney", "geonames_label": "Kearney", "url": "https://www.geonames.org/5071364", "sentence_idx": 4001}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4005}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.94802, 40.50671]}, "properties": {"source_label": "Kearney", "geonames_label": "Kearney", "url": "https://www.geonames.org/5071364", "sentence_idx": 4008}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.11199,
+                    41.11293
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": 3996
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.94802,
+                    40.50671
+                ]
+            },
+            "properties": {
+                "source_label": "Kearney",
+                "geonames_label": "Kearney",
+                "url": "https://www.geonames.org/5071364",
+                "sentence_idx": 4001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": 4005
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.94802,
+                    40.50671
+                ]
+            },
+            "properties": {
+                "source_label": "Kearney",
+                "geonames_label": "Kearney",
+                "url": "https://www.geonames.org/5071364",
+                "sentence_idx": 4008
+            }
+        }
+    ]
+}

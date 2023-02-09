@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.92539, 44.64783]}, "properties": {"source_label": "modena", "geonames_label": "Modena", "url": "https://www.geonames.org/3173331", "sentence_idx": 2084}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.50835, 52.49718]}, "properties": {"source_label": "stahrenberg", "geonames_label": "Stahrenberg", "url": "https://www.geonames.org/2829654", "sentence_idx": 2090}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2101}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.59049, 47.68501]}, "properties": {"source_label": "oedenburg", "geonames_label": "Sopron", "url": "https://www.geonames.org/3045190", "sentence_idx": 2103}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92539,
+                    44.64783
+                ]
+            },
+            "properties": {
+                "source_label": "modena",
+                "geonames_label": "Modena",
+                "url": "https://www.geonames.org/3173331",
+                "sentence_idx": 2084
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.50835,
+                    52.49718
+                ]
+            },
+            "properties": {
+                "source_label": "stahrenberg",
+                "geonames_label": "Stahrenberg",
+                "url": "https://www.geonames.org/2829654",
+                "sentence_idx": 2090
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 2101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59049,
+                    47.68501
+                ]
+            },
+            "properties": {
+                "source_label": "oedenburg",
+                "geonames_label": "Sopron",
+                "url": "https://www.geonames.org/3045190",
+                "sentence_idx": 2103
+            }
+        }
+    ]
+}

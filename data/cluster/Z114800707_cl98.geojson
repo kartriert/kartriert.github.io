@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 3076}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 3076}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [86.0, 23.25]}, "properties": {"source_label": "ostindien", "geonames_label": null, "url": "https://www.wikidata.org/wiki/Q1151572", "sentence_idx": 3086}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [86.0, 23.25]}, "properties": {"source_label": "ostindien", "geonames_label": null, "url": "https://www.wikidata.org/wiki/Q1151572", "sentence_idx": 3086}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 3089}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 3076
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 3076
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.0,
+                    23.25
+                ]
+            },
+            "properties": {
+                "source_label": "ostindien",
+                "geonames_label": null,
+                "url": "https://www.wikidata.org/wiki/Q1151572",
+                "sentence_idx": 3086
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.0,
+                    23.25
+                ]
+            },
+            "properties": {
+                "source_label": "ostindien",
+                "geonames_label": null,
+                "url": "https://www.wikidata.org/wiki/Q1151572",
+                "sentence_idx": 3086
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 3089
+            }
+        }
+    ]
+}

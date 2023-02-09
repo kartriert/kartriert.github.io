@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.66667, 40.58333]}, "properties": {"source_label": "Brindisi", "geonames_label": "Brindisi", "url": "https://www.geonames.org/3181528", "sentence_idx": 546}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.66667, 40.58333]}, "properties": {"source_label": "Brindisi", "geonames_label": "Brindisi", "url": "https://www.geonames.org/3181528", "sentence_idx": 546}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.66667, 40.58333]}, "properties": {"source_label": "Brindisi", "geonames_label": "Brindisi", "url": "https://www.geonames.org/3181528", "sentence_idx": 562}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.66667, 40.58333]}, "properties": {"source_label": "Brindisi", "geonames_label": "Brindisi", "url": "https://www.geonames.org/3181528", "sentence_idx": 564}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66667,
+                    40.58333
+                ]
+            },
+            "properties": {
+                "source_label": "Brindisi",
+                "geonames_label": "Brindisi",
+                "url": "https://www.geonames.org/3181528",
+                "sentence_idx": 546
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66667,
+                    40.58333
+                ]
+            },
+            "properties": {
+                "source_label": "Brindisi",
+                "geonames_label": "Brindisi",
+                "url": "https://www.geonames.org/3181528",
+                "sentence_idx": 546
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66667,
+                    40.58333
+                ]
+            },
+            "properties": {
+                "source_label": "Brindisi",
+                "geonames_label": "Brindisi",
+                "url": "https://www.geonames.org/3181528",
+                "sentence_idx": 562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66667,
+                    40.58333
+                ]
+            },
+            "properties": {
+                "source_label": "Brindisi",
+                "geonames_label": "Brindisi",
+                "url": "https://www.geonames.org/3181528",
+                "sentence_idx": 564
+            }
+        }
+    ]
+}

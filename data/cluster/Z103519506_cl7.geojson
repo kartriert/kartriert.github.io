@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.9, 48.2]}, "properties": {"source_label": "niederweiden", "geonames_label": "Schloss Niederweiden", "url": "https://www.geonames.org/2770504", "sentence_idx": 1945}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [7.97938, 50.11908]}, "properties": {"source_label": "dornbach", "geonames_label": "Dornbach", "url": "https://www.geonames.org/2601015", "sentence_idx": 1955}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 1955}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1955}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9,
+                    48.2
+                ]
+            },
+            "properties": {
+                "source_label": "niederweiden",
+                "geonames_label": "Schloss Niederweiden",
+                "url": "https://www.geonames.org/2770504",
+                "sentence_idx": 1945
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.97938,
+                    50.11908
+                ]
+            },
+            "properties": {
+                "source_label": "dornbach",
+                "geonames_label": "Dornbach",
+                "url": "https://www.geonames.org/2601015",
+                "sentence_idx": 1955
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": 1955
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 1955
+            }
+        }
+    ]
+}

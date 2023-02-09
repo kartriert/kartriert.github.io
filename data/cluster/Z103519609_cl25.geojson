@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 682}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.57549, 48.13743]}, "properties": {"source_label": "bayern", "geonames_label": "Munich", "url": "https://www.geonames.org/2867714", "sentence_idx": 689}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.32618, 44.79935]}, "properties": {"source_label": "parma", "geonames_label": "Parma", "url": "https://www.geonames.org/3171457", "sentence_idx": 695}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 695}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.32618, 44.79935]}, "properties": {"source_label": "parma", "geonames_label": "Parma", "url": "https://www.geonames.org/3171457", "sentence_idx": 704}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 706}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 708}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": 682
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57549,
+                    48.13743
+                ]
+            },
+            "properties": {
+                "source_label": "bayern",
+                "geonames_label": "Munich",
+                "url": "https://www.geonames.org/2867714",
+                "sentence_idx": 689
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32618,
+                    44.79935
+                ]
+            },
+            "properties": {
+                "source_label": "parma",
+                "geonames_label": "Parma",
+                "url": "https://www.geonames.org/3171457",
+                "sentence_idx": 695
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": 695
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32618,
+                    44.79935
+                ]
+            },
+            "properties": {
+                "source_label": "parma",
+                "geonames_label": "Parma",
+                "url": "https://www.geonames.org/3171457",
+                "sentence_idx": 704
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": 706
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": 708
+            }
+        }
+    ]
+}

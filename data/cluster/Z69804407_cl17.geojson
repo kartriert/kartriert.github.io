@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.16667, 32.25]}, "properties": {"source_label": "samaria", "geonames_label": "Judea and Samaria Area", "url": "https://www.geonames.org/11821181", "sentence_idx": 1566}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.29722, 32.70056]}, "properties": {"source_label": "nazaret", "geonames_label": "Nazareth", "url": "https://www.geonames.org/294098", "sentence_idx": 1577}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.29722, 32.70056]}, "properties": {"source_label": "nazareti", "geonames_label": "Nazareth", "url": "https://www.geonames.org/294098", "sentence_idx": 1578}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.29722, 32.70056]}, "properties": {"source_label": "nazaret", "geonames_label": "Nazaret", "url": "https://www.geonames.org/11851168", "sentence_idx": 1594}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.16667,
+                    32.25
+                ]
+            },
+            "properties": {
+                "source_label": "samaria",
+                "geonames_label": "Judea and Samaria Area",
+                "url": "https://www.geonames.org/11821181",
+                "sentence_idx": 1566
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.29722,
+                    32.70056
+                ]
+            },
+            "properties": {
+                "source_label": "nazaret",
+                "geonames_label": "Nazareth",
+                "url": "https://www.geonames.org/294098",
+                "sentence_idx": 1577
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.29722,
+                    32.70056
+                ]
+            },
+            "properties": {
+                "source_label": "nazareti",
+                "geonames_label": "Nazareth",
+                "url": "https://www.geonames.org/294098",
+                "sentence_idx": 1578
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.29722,
+                    32.70056
+                ]
+            },
+            "properties": {
+                "source_label": "nazaret",
+                "geonames_label": "Nazaret",
+                "url": "https://www.geonames.org/11851168",
+                "sentence_idx": 1594
+            }
+        }
+    ]
+}

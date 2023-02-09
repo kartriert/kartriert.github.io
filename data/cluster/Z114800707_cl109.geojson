@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 6991}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.69093, 15.70309]}, "properties": {"source_label": "loheia", "geonames_label": "Al Lu\u1e29ayyah", "url": "https://www.geonames.org/79050", "sentence_idx": 6991}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.69093, 15.70309]}, "properties": {"source_label": "loheia", "geonames_label": "Al Lu\u1e29ayyah", "url": "https://www.geonames.org/79050", "sentence_idx": 7001}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.69093, 15.70309]}, "properties": {"source_label": "loheia", "geonames_label": "Al Lu\u1e29ayyah", "url": "https://www.geonames.org/79050", "sentence_idx": 7005}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": 6991
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69093,
+                    15.70309
+                ]
+            },
+            "properties": {
+                "source_label": "loheia",
+                "geonames_label": "Al Lu\u1e29ayyah",
+                "url": "https://www.geonames.org/79050",
+                "sentence_idx": 6991
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69093,
+                    15.70309
+                ]
+            },
+            "properties": {
+                "source_label": "loheia",
+                "geonames_label": "Al Lu\u1e29ayyah",
+                "url": "https://www.geonames.org/79050",
+                "sentence_idx": 7001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69093,
+                    15.70309
+                ]
+            },
+            "properties": {
+                "source_label": "loheia",
+                "geonames_label": "Al Lu\u1e29ayyah",
+                "url": "https://www.geonames.org/79050",
+                "sentence_idx": 7005
+            }
+        }
+    ]
+}

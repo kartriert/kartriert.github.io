@@ -1,1 +1,277 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1238}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1239}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [53.0, 32.0]}, "properties": {"source_label": "persien", "geonames_label": "Iran", "url": "https://www.geonames.org/130758", "sentence_idx": 1245}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [37.16117, 36.20124]}, "properties": {"source_label": "aleppo", "geonames_label": "Aleppo", "url": "https://www.geonames.org/170063", "sentence_idx": 1249}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 1251}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1253}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1255}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 1265}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1265}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1267}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 1271}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 1272}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1276}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 1283}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.76572, 30.57889]}, "properties": {"source_label": "Euphrat", "geonames_label": "Euphrates River", "url": "https://www.geonames.org/315147", "sentence_idx": 1287}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 1291}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "Bussora", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 1293}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.0,
+                    32.0
+                ]
+            },
+            "properties": {
+                "source_label": "persien",
+                "geonames_label": "Iran",
+                "url": "https://www.geonames.org/130758",
+                "sentence_idx": 1245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.16117,
+                    36.20124
+                ]
+            },
+            "properties": {
+                "source_label": "aleppo",
+                "geonames_label": "Aleppo",
+                "url": "https://www.geonames.org/170063",
+                "sentence_idx": 1249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": 1251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": 1265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": 1271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": 1272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": 1283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.76572,
+                    30.57889
+                ]
+            },
+            "properties": {
+                "source_label": "Euphrat",
+                "geonames_label": "Euphrates River",
+                "url": "https://www.geonames.org/315147",
+                "sentence_idx": 1287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": 1291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "Bussora",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": 1293
+            }
+        }
+    ]
+}

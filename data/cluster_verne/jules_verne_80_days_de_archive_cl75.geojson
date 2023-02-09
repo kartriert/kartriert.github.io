@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 888}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "Aegypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 888}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.3, 29.7]}, "properties": {"source_label": "Suez", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 889}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 888
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "Aegypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": 888
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3,
+                    29.7
+                ]
+            },
+            "properties": {
+                "source_label": "Suez",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": 889
+            }
+        }
+    ]
+}

@@ -1,1 +1,133 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.59398, 26.75865]}, "properties": {"source_label": "Buxa Du\u0101r", "geonames_label": "Buxa Du\u0101r", "url": "https://www.geonames.org/1275020", "sentence_idx": 1632}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.59398, 26.75865]}, "properties": {"source_label": "Buxa Du\u0101r", "geonames_label": "Buxa Du\u0101r", "url": "https://www.geonames.org/1275020", "sentence_idx": 1639}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [90.5, 27.5]}, "properties": {"source_label": "butan", "geonames_label": "Bhutan", "url": "https://www.geonames.org/1252634", "sentence_idx": 1648}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [82.81323, 22.01171]}, "properties": {"source_label": "Baraduar", "geonames_label": "Bar\u0101dw\u0101r", "url": "https://www.geonames.org/1277139", "sentence_idx": 1657}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.59398, 26.75865]}, "properties": {"source_label": "Buxa Du\u0101r", "geonames_label": "Buxa Du\u0101r", "url": "https://www.geonames.org/1275020", "sentence_idx": 1662}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.59398, 26.75865]}, "properties": {"source_label": "Buxa Du\u0101r", "geonames_label": "Buxa Du\u0101r", "url": "https://www.geonames.org/1275020", "sentence_idx": 1663}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [90.5, 27.5]}, "properties": {"source_label": "butan", "geonames_label": "Bhutan", "url": "https://www.geonames.org/1252634", "sentence_idx": 1670}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.29688, 29.84064]}, "properties": {"source_label": "asien", "geonames_label": "Asia", "url": "https://www.geonames.org/6255147", "sentence_idx": 1675}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.59398,
+                    26.75865
+                ]
+            },
+            "properties": {
+                "source_label": "Buxa Du\u0101r",
+                "geonames_label": "Buxa Du\u0101r",
+                "url": "https://www.geonames.org/1275020",
+                "sentence_idx": 1632
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.59398,
+                    26.75865
+                ]
+            },
+            "properties": {
+                "source_label": "Buxa Du\u0101r",
+                "geonames_label": "Buxa Du\u0101r",
+                "url": "https://www.geonames.org/1275020",
+                "sentence_idx": 1639
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.5,
+                    27.5
+                ]
+            },
+            "properties": {
+                "source_label": "butan",
+                "geonames_label": "Bhutan",
+                "url": "https://www.geonames.org/1252634",
+                "sentence_idx": 1648
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.81323,
+                    22.01171
+                ]
+            },
+            "properties": {
+                "source_label": "Baraduar",
+                "geonames_label": "Bar\u0101dw\u0101r",
+                "url": "https://www.geonames.org/1277139",
+                "sentence_idx": 1657
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.59398,
+                    26.75865
+                ]
+            },
+            "properties": {
+                "source_label": "Buxa Du\u0101r",
+                "geonames_label": "Buxa Du\u0101r",
+                "url": "https://www.geonames.org/1275020",
+                "sentence_idx": 1662
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.59398,
+                    26.75865
+                ]
+            },
+            "properties": {
+                "source_label": "Buxa Du\u0101r",
+                "geonames_label": "Buxa Du\u0101r",
+                "url": "https://www.geonames.org/1275020",
+                "sentence_idx": 1663
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.5,
+                    27.5
+                ]
+            },
+            "properties": {
+                "source_label": "butan",
+                "geonames_label": "Bhutan",
+                "url": "https://www.geonames.org/1252634",
+                "sentence_idx": 1670
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.29688,
+                    29.84064
+                ]
+            },
+            "properties": {
+                "source_label": "asien",
+                "geonames_label": "Asia",
+                "url": "https://www.geonames.org/6255147",
+                "sentence_idx": 1675
+            }
+        }
+    ]
+}

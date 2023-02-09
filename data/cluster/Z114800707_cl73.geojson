@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 5781}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.69093, 15.70309]}, "properties": {"source_label": "loheia", "geonames_label": "Al Lu\u1e29ayyah", "url": "https://www.geonames.org/79050", "sentence_idx": 5781}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 5782}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": 5781
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69093,
+                    15.70309
+                ]
+            },
+            "properties": {
+                "source_label": "loheia",
+                "geonames_label": "Al Lu\u1e29ayyah",
+                "url": "https://www.geonames.org/79050",
+                "sentence_idx": 5781
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": 5782
+            }
+        }
+    ]
+}

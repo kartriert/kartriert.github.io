@@ -1,1 +1,245 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.78122, 48.03118]}, "properties": {"source_label": "piesenberg", "geonames_label": "Piesenberg", "url": "https://www.geonames.org/2853792", "sentence_idx": 2213}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.23833, 48.22086]}, "properties": {"source_label": "traun", "geonames_label": "Traun", "url": "https://www.geonames.org/7872061", "sentence_idx": 2213}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2213}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.16667, 48.5]}, "properties": {"source_label": "g\u00f6llersdorf", "geonames_label": "G\u00f6llersdorf", "url": "https://www.geonames.org/2778367", "sentence_idx": 2221}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2221}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.72051, 48.45848]}, "properties": {"source_label": "hadersdorf", "geonames_label": "Hadersdorf am Kamp", "url": "https://www.geonames.org/2777093", "sentence_idx": 2226}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2226}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.46513, 44.80401]}, "properties": {"source_label": "belgrad", "geonames_label": "Belgrade", "url": "https://www.geonames.org/792680", "sentence_idx": 2229}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 2237}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.5, 49.0]}, "properties": {"source_label": "bayern", "geonames_label": "Bavaria", "url": "https://www.geonames.org/2951839", "sentence_idx": 2237}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.04439, 50.40626]}, "properties": {"source_label": "libochowitz", "geonames_label": "Libochovice", "url": "https://www.geonames.org/3071911", "sentence_idx": 2244}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.072, 49.96382]}, "properties": {"source_label": "beraun", "geonames_label": "Beroun", "url": "https://www.geonames.org/3079467", "sentence_idx": 2244}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.0167, 50.4167]}, "properties": {"source_label": "burgstein", "geonames_label": "Burgstein", "url": "https://www.geonames.org/6548530", "sentence_idx": 2244}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.61812, 50.6042]}, "properties": {"source_label": "oberleutensdorf", "geonames_label": "Litv\u00ednov", "url": "https://www.geonames.org/3071665", "sentence_idx": 2253}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.42076, 50.08804]}, "properties": {"source_label": "prag", "geonames_label": "Prague", "url": "https://www.geonames.org/3067696", "sentence_idx": 2257}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78122,
+                    48.03118
+                ]
+            },
+            "properties": {
+                "source_label": "piesenberg",
+                "geonames_label": "Piesenberg",
+                "url": "https://www.geonames.org/2853792",
+                "sentence_idx": 2213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23833,
+                    48.22086
+                ]
+            },
+            "properties": {
+                "source_label": "traun",
+                "geonames_label": "Traun",
+                "url": "https://www.geonames.org/7872061",
+                "sentence_idx": 2213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 2213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16667,
+                    48.5
+                ]
+            },
+            "properties": {
+                "source_label": "g\u00f6llersdorf",
+                "geonames_label": "G\u00f6llersdorf",
+                "url": "https://www.geonames.org/2778367",
+                "sentence_idx": 2221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 2221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.72051,
+                    48.45848
+                ]
+            },
+            "properties": {
+                "source_label": "hadersdorf",
+                "geonames_label": "Hadersdorf am Kamp",
+                "url": "https://www.geonames.org/2777093",
+                "sentence_idx": 2226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 2226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46513,
+                    44.80401
+                ]
+            },
+            "properties": {
+                "source_label": "belgrad",
+                "geonames_label": "Belgrade",
+                "url": "https://www.geonames.org/792680",
+                "sentence_idx": 2229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": 2237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5,
+                    49.0
+                ]
+            },
+            "properties": {
+                "source_label": "bayern",
+                "geonames_label": "Bavaria",
+                "url": "https://www.geonames.org/2951839",
+                "sentence_idx": 2237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04439,
+                    50.40626
+                ]
+            },
+            "properties": {
+                "source_label": "libochowitz",
+                "geonames_label": "Libochovice",
+                "url": "https://www.geonames.org/3071911",
+                "sentence_idx": 2244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.072,
+                    49.96382
+                ]
+            },
+            "properties": {
+                "source_label": "beraun",
+                "geonames_label": "Beroun",
+                "url": "https://www.geonames.org/3079467",
+                "sentence_idx": 2244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0167,
+                    50.4167
+                ]
+            },
+            "properties": {
+                "source_label": "burgstein",
+                "geonames_label": "Burgstein",
+                "url": "https://www.geonames.org/6548530",
+                "sentence_idx": 2244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61812,
+                    50.6042
+                ]
+            },
+            "properties": {
+                "source_label": "oberleutensdorf",
+                "geonames_label": "Litv\u00ednov",
+                "url": "https://www.geonames.org/3071665",
+                "sentence_idx": 2253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42076,
+                    50.08804
+                ]
+            },
+            "properties": {
+                "source_label": "prag",
+                "geonames_label": "Prague",
+                "url": "https://www.geonames.org/3067696",
+                "sentence_idx": 2257
+            }
+        }
+    ]
+}

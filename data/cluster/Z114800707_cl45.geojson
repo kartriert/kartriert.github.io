@@ -1,1 +1,213 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 9531}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [31.81332, 31.41648]}, "properties": {"source_label": "damietta", "geonames_label": "Damietta", "url": "https://www.geonames.org/358048", "sentence_idx": 9536}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 9551}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 9556}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 9560}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [45.0, 25.0]}, "properties": {"source_label": "arabien", "geonames_label": "Saudi Arabia", "url": "https://www.geonames.org/102358", "sentence_idx": 9561}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "susund dsjidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 9562}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 9569}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 9574}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 9577}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 9579}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.69093, 15.70309]}, "properties": {"source_label": "loheia", "geonames_label": "Al Lu\u1e29ayyah", "url": "https://www.geonames.org/79050", "sentence_idx": 9579}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.69093, 15.70309]}, "properties": {"source_label": "loheia", "geonames_label": "Al Lu\u1e29ayyah", "url": "https://www.geonames.org/79050", "sentence_idx": 9583}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": 9531
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.81332,
+                    31.41648
+                ]
+            },
+            "properties": {
+                "source_label": "damietta",
+                "geonames_label": "Damietta",
+                "url": "https://www.geonames.org/358048",
+                "sentence_idx": 9536
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": 9551
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": 9556
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": 9560
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.0,
+                    25.0
+                ]
+            },
+            "properties": {
+                "source_label": "arabien",
+                "geonames_label": "Saudi Arabia",
+                "url": "https://www.geonames.org/102358",
+                "sentence_idx": 9561
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "susund dsjidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": 9562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": 9569
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": 9574
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": 9577
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": 9579
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69093,
+                    15.70309
+                ]
+            },
+            "properties": {
+                "source_label": "loheia",
+                "geonames_label": "Al Lu\u1e29ayyah",
+                "url": "https://www.geonames.org/79050",
+                "sentence_idx": 9579
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69093,
+                    15.70309
+                ]
+            },
+            "properties": {
+                "source_label": "loheia",
+                "geonames_label": "Al Lu\u1e29ayyah",
+                "url": "https://www.geonames.org/79050",
+                "sentence_idx": 9583
+            }
+        }
+    ]
+}

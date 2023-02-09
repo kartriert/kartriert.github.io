@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.17738, 49.09027]}, "properties": {"source_label": "bibersburg", "geonames_label": "\u010cerven\u00fd Kame\u0148", "url": "https://www.geonames.org/3060750", "sentence_idx": 1118}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 1122}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.50453, 48.51103]}, "properties": {"source_label": "freistadt", "geonames_label": "Freistadt", "url": "https://www.geonames.org/2779275", "sentence_idx": 1129}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1139}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.53333, 48.61667]}, "properties": {"source_label": "thyrnau", "geonames_label": "Thyrnau", "url": "https://www.geonames.org/2822484", "sentence_idx": 1144}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.17738, 49.09027]}, "properties": {"source_label": "bibersburg", "geonames_label": "\u010cerven\u00fd Kame\u0148", "url": "https://www.geonames.org/3060750", "sentence_idx": 1157}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.5, 51.5]}, "properties": {"source_label": "deutschland", "geonames_label": "Germany", "url": "https://www.geonames.org/2921044", "sentence_idx": 1158}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17738,
+                    49.09027
+                ]
+            },
+            "properties": {
+                "source_label": "bibersburg",
+                "geonames_label": "\u010cerven\u00fd Kame\u0148",
+                "url": "https://www.geonames.org/3060750",
+                "sentence_idx": 1118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": 1122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50453,
+                    48.51103
+                ]
+            },
+            "properties": {
+                "source_label": "freistadt",
+                "geonames_label": "Freistadt",
+                "url": "https://www.geonames.org/2779275",
+                "sentence_idx": 1129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 1139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53333,
+                    48.61667
+                ]
+            },
+            "properties": {
+                "source_label": "thyrnau",
+                "geonames_label": "Thyrnau",
+                "url": "https://www.geonames.org/2822484",
+                "sentence_idx": 1144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17738,
+                    49.09027
+                ]
+            },
+            "properties": {
+                "source_label": "bibersburg",
+                "geonames_label": "\u010cerven\u00fd Kame\u0148",
+                "url": "https://www.geonames.org/3060750",
+                "sentence_idx": 1157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5,
+                    51.5
+                ]
+            },
+            "properties": {
+                "source_label": "deutschland",
+                "geonames_label": "Germany",
+                "url": "https://www.geonames.org/2921044",
+                "sentence_idx": 1158
+            }
+        }
+    ]
+}

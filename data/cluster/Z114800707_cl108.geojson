@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.69093, 15.70309]}, "properties": {"source_label": "loheia", "geonames_label": "Al Lu\u1e29ayyah", "url": "https://www.geonames.org/79050", "sentence_idx": 6282}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.5, 15.5]}, "properties": {"source_label": "jemen", "geonames_label": "Yemen", "url": "https://www.geonames.org/69543", "sentence_idx": 6286}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [45.0, 25.0]}, "properties": {"source_label": "arabien", "geonames_label": "Saudi Arabia", "url": "https://www.geonames.org/102358", "sentence_idx": 6289}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [42.95452, 14.79781]}, "properties": {"source_label": "hodeida", "geonames_label": "Al Hudaydah", "url": "https://www.geonames.org/79415", "sentence_idx": 6290}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.69093,
+                    15.70309
+                ]
+            },
+            "properties": {
+                "source_label": "loheia",
+                "geonames_label": "Al Lu\u1e29ayyah",
+                "url": "https://www.geonames.org/79050",
+                "sentence_idx": 6282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.5,
+                    15.5
+                ]
+            },
+            "properties": {
+                "source_label": "jemen",
+                "geonames_label": "Yemen",
+                "url": "https://www.geonames.org/69543",
+                "sentence_idx": 6286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.0,
+                    25.0
+                ]
+            },
+            "properties": {
+                "source_label": "arabien",
+                "geonames_label": "Saudi Arabia",
+                "url": "https://www.geonames.org/102358",
+                "sentence_idx": 6289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.95452,
+                    14.79781
+                ]
+            },
+            "properties": {
+                "source_label": "hodeida",
+                "geonames_label": "Al Hudaydah",
+                "url": "https://www.geonames.org/79415",
+                "sentence_idx": 6290
+            }
+        }
+    ]
+}

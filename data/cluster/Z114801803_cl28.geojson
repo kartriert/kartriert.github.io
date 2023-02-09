@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 1966}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.0, 46.41667]}, "properties": {"source_label": "alpen", "geonames_label": "Alps", "url": "https://www.geonames.org/2661786", "sentence_idx": 1967}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "England", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 1969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-4.0, 56.0]}, "properties": {"source_label": "schottland", "geonames_label": "Scotland", "url": "https://www.geonames.org/2638360", "sentence_idx": 1969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.61125, 53.13543]}, "properties": {"source_label": "derbyshire", "geonames_label": "Derbyshire", "url": "https://www.geonames.org/11609031", "sentence_idx": 1969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "England", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 1969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.27857, 53.18439]}, "properties": {"source_label": "lincolnshire", "geonames_label": "Lincolnshire", "url": "https://www.geonames.org/11609040", "sentence_idx": 1976}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": 1966
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0,
+                    46.41667
+                ]
+            },
+            "properties": {
+                "source_label": "alpen",
+                "geonames_label": "Alps",
+                "url": "https://www.geonames.org/2661786",
+                "sentence_idx": 1967
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "England",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": 1969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0,
+                    56.0
+                ]
+            },
+            "properties": {
+                "source_label": "schottland",
+                "geonames_label": "Scotland",
+                "url": "https://www.geonames.org/2638360",
+                "sentence_idx": 1969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.61125,
+                    53.13543
+                ]
+            },
+            "properties": {
+                "source_label": "derbyshire",
+                "geonames_label": "Derbyshire",
+                "url": "https://www.geonames.org/11609031",
+                "sentence_idx": 1969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "England",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": 1969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.27857,
+                    53.18439
+                ]
+            },
+            "properties": {
+                "source_label": "lincolnshire",
+                "geonames_label": "Lincolnshire",
+                "url": "https://www.geonames.org/11609040",
+                "sentence_idx": 1976
+            }
+        }
+    ]
+}

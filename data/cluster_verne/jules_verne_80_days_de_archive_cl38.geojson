@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.43089, 41.55052]}, "properties": {"source_label": "Passe-Bridger", "geonames_label": "Bridger Pass", "url": "https://www.geonames.org/5819595", "sentence_idx": 3594}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.44193, 42.26775]}, "properties": {"source_label": "Pic Laramie", "geonames_label": "Laramie Peak", "url": "https://www.geonames.org/5830055", "sentence_idx": 3597}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.50044, 34.75037]}, "properties": {"source_label": "Arkansas", "geonames_label": "Arkansas", "url": "https://www.geonames.org/4099753", "sentence_idx": 3599}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.50046, 38.25031]}, "properties": {"source_label": "Missouri", "geonames_label": "Missouri", "url": "https://www.geonames.org/4398678", "sentence_idx": 3599}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.8208, 39.57805]}, "properties": {"source_label": "Halleck", "geonames_label": "Halleck", "url": "https://www.geonames.org/4048954", "sentence_idx": 3600}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.43089,
+                    41.55052
+                ]
+            },
+            "properties": {
+                "source_label": "Passe-Bridger",
+                "geonames_label": "Bridger Pass",
+                "url": "https://www.geonames.org/5819595",
+                "sentence_idx": 3594
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.44193,
+                    42.26775
+                ]
+            },
+            "properties": {
+                "source_label": "Pic Laramie",
+                "geonames_label": "Laramie Peak",
+                "url": "https://www.geonames.org/5830055",
+                "sentence_idx": 3597
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.50044,
+                    34.75037
+                ]
+            },
+            "properties": {
+                "source_label": "Arkansas",
+                "geonames_label": "Arkansas",
+                "url": "https://www.geonames.org/4099753",
+                "sentence_idx": 3599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.50046,
+                    38.25031
+                ]
+            },
+            "properties": {
+                "source_label": "Missouri",
+                "geonames_label": "Missouri",
+                "url": "https://www.geonames.org/4398678",
+                "sentence_idx": 3599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.8208,
+                    39.57805
+                ]
+            },
+            "properties": {
+                "source_label": "Halleck",
+                "geonames_label": "Halleck",
+                "url": "https://www.geonames.org/4048954",
+                "sentence_idx": 3600
+            }
+        }
+    ]
+}

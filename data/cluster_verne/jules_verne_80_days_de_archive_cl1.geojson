@@ -1,1 +1,774 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 944, "cluster_total": 81}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 958}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indiens", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 965}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.9, 19.2]}, "properties": {"source_label": "Salsette", "geonames_label": "Salsette Island", "url": "https://www.geonames.org/1257592", "sentence_idx": 969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.81056, 18.90694]}, "properties": {"source_label": "Colaba", "geonames_label": "Col\u0101ba", "url": "https://www.geonames.org/1273862", "sentence_idx": 969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.93402, 18.96237]}, "properties": {"source_label": "Elephanta", "geonames_label": "Elephanta", "url": "https://www.geonames.org/1272073", "sentence_idx": 969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 971}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 976}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 977}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [80.27847, 13.08784]}, "properties": {"source_label": "Madras", "geonames_label": "Chennai", "url": "https://www.geonames.org/1264527", "sentence_idx": 977}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 977}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.0, 24.0]}, "properties": {"source_label": "Bengalen", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 977}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [77.96667, 27.08333]}, "properties": {"source_label": "Agra", "geonames_label": "Agra", "url": "https://www.geonames.org/1279259", "sentence_idx": 977}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 978}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [80.27847, 13.08784]}, "properties": {"source_label": "Madras", "geonames_label": "Chennai", "url": "https://www.geonames.org/1264527", "sentence_idx": 981}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 984}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [71.0, 29.0]}, "properties": {"source_label": "Indus", "geonames_label": "Indus Valley", "url": "https://www.geonames.org/1269728", "sentence_idx": 987}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 987}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 987}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 987}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 988}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [81.88385, 25.42012]}, "properties": {"source_label": "Allahabad", "geonames_label": "Prayagraj", "url": "https://www.geonames.org/1278994", "sentence_idx": 990}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.9, 19.2]}, "properties": {"source_label": "Salsette", "geonames_label": "Salsette Island", "url": "https://www.geonames.org/1257592", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.94782, 27.4967]}, "properties": {"source_label": "Burhampur", "geonames_label": "Burh\u0101npur", "url": "https://www.geonames.org/10477575", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [81.88385, 25.42012]}, "properties": {"source_label": "Allahabad", "geonames_label": "Prayagraj", "url": "https://www.geonames.org/1278994", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [83.01041, 25.31668]}, "properties": {"source_label": "Benares", "geonames_label": "Varanasi", "url": "https://www.geonames.org/1253405", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [87.85691, 23.25572]}, "properties": {"source_label": "Burdivan", "geonames_label": "Bardhaman", "url": "https://www.geonames.org/1277029", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36796, 22.86225]}, "properties": {"source_label": "Chandernagor", "geonames_label": "Chandannagar", "url": "https://www.geonames.org/1274784", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 992}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 993}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 993}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.9, 19.2]}, "properties": {"source_label": "Salsette", "geonames_label": "Salsette Island", "url": "https://www.geonames.org/1257592", "sentence_idx": 996}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1010}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1016}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1027}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1029}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1032}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1047}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1063}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [83.01041, 25.31668]}, "properties": {"source_label": "Benares", "geonames_label": "Varanasi", "url": "https://www.geonames.org/1253405", "sentence_idx": 1064}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1066}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1081}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.9, 19.2]}, "properties": {"source_label": "Salsette", "geonames_label": "Salsette Island", "url": "https://www.geonames.org/1257592", "sentence_idx": 1081}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [77.27101, 29.32104]}, "properties": {"source_label": "Kandallah", "geonames_label": "K\u0101ndhla", "url": "https://www.geonames.org/1268138", "sentence_idx": 1082}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1082}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [77.27101, 29.32104]}, "properties": {"source_label": "Kandallah", "geonames_label": "K\u0101ndhla", "url": "https://www.geonames.org/1268138", "sentence_idx": 1087}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 944,
+                "cluster_total": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 958
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indiens",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 965
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9,
+                    19.2
+                ]
+            },
+            "properties": {
+                "source_label": "Salsette",
+                "geonames_label": "Salsette Island",
+                "url": "https://www.geonames.org/1257592",
+                "sentence_idx": 969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.81056,
+                    18.90694
+                ]
+            },
+            "properties": {
+                "source_label": "Colaba",
+                "geonames_label": "Col\u0101ba",
+                "url": "https://www.geonames.org/1273862",
+                "sentence_idx": 969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.93402,
+                    18.96237
+                ]
+            },
+            "properties": {
+                "source_label": "Elephanta",
+                "geonames_label": "Elephanta",
+                "url": "https://www.geonames.org/1272073",
+                "sentence_idx": 969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 969
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 971
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 976
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": 977
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27847,
+                    13.08784
+                ]
+            },
+            "properties": {
+                "source_label": "Madras",
+                "geonames_label": "Chennai",
+                "url": "https://www.geonames.org/1264527",
+                "sentence_idx": 977
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 977
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.0,
+                    24.0
+                ]
+            },
+            "properties": {
+                "source_label": "Bengalen",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": 977
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96667,
+                    27.08333
+                ]
+            },
+            "properties": {
+                "source_label": "Agra",
+                "geonames_label": "Agra",
+                "url": "https://www.geonames.org/1279259",
+                "sentence_idx": 977
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 978
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27847,
+                    13.08784
+                ]
+            },
+            "properties": {
+                "source_label": "Madras",
+                "geonames_label": "Chennai",
+                "url": "https://www.geonames.org/1264527",
+                "sentence_idx": 981
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 984
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.0,
+                    29.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indus",
+                "geonames_label": "Indus Valley",
+                "url": "https://www.geonames.org/1269728",
+                "sentence_idx": 987
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 987
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 987
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": 987
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 988
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.88385,
+                    25.42012
+                ]
+            },
+            "properties": {
+                "source_label": "Allahabad",
+                "geonames_label": "Prayagraj",
+                "url": "https://www.geonames.org/1278994",
+                "sentence_idx": 990
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9,
+                    19.2
+                ]
+            },
+            "properties": {
+                "source_label": "Salsette",
+                "geonames_label": "Salsette Island",
+                "url": "https://www.geonames.org/1257592",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94782,
+                    27.4967
+                ]
+            },
+            "properties": {
+                "source_label": "Burhampur",
+                "geonames_label": "Burh\u0101npur",
+                "url": "https://www.geonames.org/10477575",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.88385,
+                    25.42012
+                ]
+            },
+            "properties": {
+                "source_label": "Allahabad",
+                "geonames_label": "Prayagraj",
+                "url": "https://www.geonames.org/1278994",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.01041,
+                    25.31668
+                ]
+            },
+            "properties": {
+                "source_label": "Benares",
+                "geonames_label": "Varanasi",
+                "url": "https://www.geonames.org/1253405",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.85691,
+                    23.25572
+                ]
+            },
+            "properties": {
+                "source_label": "Burdivan",
+                "geonames_label": "Bardhaman",
+                "url": "https://www.geonames.org/1277029",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36796,
+                    22.86225
+                ]
+            },
+            "properties": {
+                "source_label": "Chandernagor",
+                "geonames_label": "Chandannagar",
+                "url": "https://www.geonames.org/1274784",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": 992
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 993
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": 993
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9,
+                    19.2
+                ]
+            },
+            "properties": {
+                "source_label": "Salsette",
+                "geonames_label": "Salsette Island",
+                "url": "https://www.geonames.org/1257592",
+                "sentence_idx": 996
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 1010
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 1016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 1027
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 1029
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 1032
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 1047
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 1063
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.01041,
+                    25.31668
+                ]
+            },
+            "properties": {
+                "source_label": "Benares",
+                "geonames_label": "Varanasi",
+                "url": "https://www.geonames.org/1253405",
+                "sentence_idx": 1064
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 1066
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": 1081
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9,
+                    19.2
+                ]
+            },
+            "properties": {
+                "source_label": "Salsette",
+                "geonames_label": "Salsette Island",
+                "url": "https://www.geonames.org/1257592",
+                "sentence_idx": 1081
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.27101,
+                    29.32104
+                ]
+            },
+            "properties": {
+                "source_label": "Kandallah",
+                "geonames_label": "K\u0101ndhla",
+                "url": "https://www.geonames.org/1268138",
+                "sentence_idx": 1082
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": 1082
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.27101,
+                    29.32104
+                ]
+            },
+            "properties": {
+                "source_label": "Kandallah",
+                "geonames_label": "K\u0101ndhla",
+                "url": "https://www.geonames.org/1268138",
+                "sentence_idx": 1087
+            }
+        }
+    ]
+}

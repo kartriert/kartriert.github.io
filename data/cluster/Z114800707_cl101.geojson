@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [45.0, 25.0]}, "properties": {"source_label": "arabien", "geonames_label": "Saudi Arabia", "url": "https://www.geonames.org/102358", "sentence_idx": 4553}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [45.0, 25.0]}, "properties": {"source_label": "arabien", "geonames_label": "Saudi Arabia", "url": "https://www.geonames.org/102358", "sentence_idx": 4562}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [45.0, 25.0]}, "properties": {"source_label": "arabien", "geonames_label": "Saudi Arabia", "url": "https://www.geonames.org/102358", "sentence_idx": 4575}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.0,
+                    25.0
+                ]
+            },
+            "properties": {
+                "source_label": "arabien",
+                "geonames_label": "Saudi Arabia",
+                "url": "https://www.geonames.org/102358",
+                "sentence_idx": 4553
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.0,
+                    25.0
+                ]
+            },
+            "properties": {
+                "source_label": "arabien",
+                "geonames_label": "Saudi Arabia",
+                "url": "https://www.geonames.org/102358",
+                "sentence_idx": 4562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.0,
+                    25.0
+                ]
+            },
+            "properties": {
+                "source_label": "arabien",
+                "geonames_label": "Saudi Arabia",
+                "url": "https://www.geonames.org/102358",
+                "sentence_idx": 4575
+            }
+        }
+    ]
+}

@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.42076, 50.08804]}, "properties": {"source_label": "prag", "geonames_label": "Prague", "url": "https://www.geonames.org/3067696", "sentence_idx": 2290}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.0498, 52.27264]}, "properties": {"source_label": "osnabr\u00fcck", "geonames_label": "Osnabr\u00fcck", "url": "https://www.geonames.org/2856883", "sentence_idx": 2290}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2298}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42076,
+                    50.08804
+                ]
+            },
+            "properties": {
+                "source_label": "prag",
+                "geonames_label": "Prague",
+                "url": "https://www.geonames.org/3067696",
+                "sentence_idx": 2290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0498,
+                    52.27264
+                ]
+            },
+            "properties": {
+                "source_label": "osnabr\u00fcck",
+                "geonames_label": "Osnabr\u00fcck",
+                "url": "https://www.geonames.org/2856883",
+                "sentence_idx": 2290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 2298
+            }
+        }
+    ]
+}

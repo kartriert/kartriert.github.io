@@ -1,1 +1,101 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.93534, 43.58196]}, "properties": {"source_label": "jerim", "geonames_label": "Tongliao Shi", "url": "https://www.geonames.org/2036421", "sentence_idx": 7629}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.93534, 43.58196]}, "properties": {"source_label": "jerim", "geonames_label": "Tongliao Shi", "url": "https://www.geonames.org/2036421", "sentence_idx": 7629}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.93534, 43.58196]}, "properties": {"source_label": "jerim", "geonames_label": "Tongliao Shi", "url": "https://www.geonames.org/2036421", "sentence_idx": 7640}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.93534, 43.58196]}, "properties": {"source_label": "jerim", "geonames_label": "Tongliao Shi", "url": "https://www.geonames.org/2036421", "sentence_idx": 7648}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.93534, 43.58196]}, "properties": {"source_label": "jerim", "geonames_label": "Tongliao Shi", "url": "https://www.geonames.org/2036421", "sentence_idx": 7656}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [121.93534, 43.58196]}, "properties": {"source_label": "jerim", "geonames_label": "Tongliao Shi", "url": "https://www.geonames.org/2036421", "sentence_idx": 7661}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.93534,
+                    43.58196
+                ]
+            },
+            "properties": {
+                "source_label": "jerim",
+                "geonames_label": "Tongliao Shi",
+                "url": "https://www.geonames.org/2036421",
+                "sentence_idx": 7629
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.93534,
+                    43.58196
+                ]
+            },
+            "properties": {
+                "source_label": "jerim",
+                "geonames_label": "Tongliao Shi",
+                "url": "https://www.geonames.org/2036421",
+                "sentence_idx": 7629
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.93534,
+                    43.58196
+                ]
+            },
+            "properties": {
+                "source_label": "jerim",
+                "geonames_label": "Tongliao Shi",
+                "url": "https://www.geonames.org/2036421",
+                "sentence_idx": 7640
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.93534,
+                    43.58196
+                ]
+            },
+            "properties": {
+                "source_label": "jerim",
+                "geonames_label": "Tongliao Shi",
+                "url": "https://www.geonames.org/2036421",
+                "sentence_idx": 7648
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.93534,
+                    43.58196
+                ]
+            },
+            "properties": {
+                "source_label": "jerim",
+                "geonames_label": "Tongliao Shi",
+                "url": "https://www.geonames.org/2036421",
+                "sentence_idx": 7656
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.93534,
+                    43.58196
+                ]
+            },
+            "properties": {
+                "source_label": "jerim",
+                "geonames_label": "Tongliao Shi",
+                "url": "https://www.geonames.org/2036421",
+                "sentence_idx": 7661
+            }
+        }
+    ]
+}

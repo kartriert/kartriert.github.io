@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.0, 31.66667]}, "properties": {"source_label": "tibet", "geonames_label": "Tibet", "url": "https://www.geonames.org/1279685", "sentence_idx": 1854}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.2311, 27.9789]}, "properties": {"source_label": "duina", "geonames_label": "Duina", "url": "https://www.geonames.org/8746052", "sentence_idx": 1861}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.2311, 27.9789]}, "properties": {"source_label": "duina", "geonames_label": "Duina", "url": "https://www.geonames.org/8746052", "sentence_idx": 1862}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.2311, 27.9789]}, "properties": {"source_label": "duina", "geonames_label": "Duina", "url": "https://www.geonames.org/8746052", "sentence_idx": 1872}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.0,
+                    31.66667
+                ]
+            },
+            "properties": {
+                "source_label": "tibet",
+                "geonames_label": "Tibet",
+                "url": "https://www.geonames.org/1279685",
+                "sentence_idx": 1854
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.2311,
+                    27.9789
+                ]
+            },
+            "properties": {
+                "source_label": "duina",
+                "geonames_label": "Duina",
+                "url": "https://www.geonames.org/8746052",
+                "sentence_idx": 1861
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.2311,
+                    27.9789
+                ]
+            },
+            "properties": {
+                "source_label": "duina",
+                "geonames_label": "Duina",
+                "url": "https://www.geonames.org/8746052",
+                "sentence_idx": 1862
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.2311,
+                    27.9789
+                ]
+            },
+            "properties": {
+                "source_label": "duina",
+                "geonames_label": "Duina",
+                "url": "https://www.geonames.org/8746052",
+                "sentence_idx": 1872
+            }
+        }
+    ]
+}

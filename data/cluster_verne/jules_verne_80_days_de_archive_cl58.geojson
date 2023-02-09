@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "England", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 509}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "London", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 514}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "London", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 529}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "England",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": 509
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "London",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": 514
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "London",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": 529
+            }
+        }
+    ]
+}

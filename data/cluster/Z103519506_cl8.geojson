@@ -1,1 +1,213 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.4, 48.21667]}, "properties": {"source_label": "leopoldstadt", "geonames_label": "Leopoldstadt", "url": "https://www.geonames.org/2772614", "sentence_idx": 1636}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 1644}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.41169, 48.20609]}, "properties": {"source_label": "prater", "geonames_label": "Prater", "url": "https://www.geonames.org/3322725", "sentence_idx": 1647}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.41169, 48.20609]}, "properties": {"source_label": "prater", "geonames_label": "Prater", "url": "https://www.geonames.org/3322725", "sentence_idx": 1650}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.26811, 40.85216]}, "properties": {"source_label": "neapel", "geonames_label": "Naples", "url": "https://www.geonames.org/3172394", "sentence_idx": 1660}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.5, 48.5]}, "properties": {"source_label": "bayern", "geonames_label": "Bavaria", "url": "https://www.geonames.org/2951840", "sentence_idx": 1665}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.68333, 47.18333]}, "properties": {"source_label": "hetzendorf", "geonames_label": "Hetzendorf", "url": "https://www.geonames.org/2776461", "sentence_idx": 1665}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.35607, 48.06833]}, "properties": {"source_label": "laxenburg", "geonames_label": "Laxenburg", "url": "https://www.geonames.org/2772810", "sentence_idx": 1665}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.06857, 50.21973]}, "properties": {"source_label": "ebersdorf", "geonames_label": "Ebersdorf bei Coburg", "url": "https://www.geonames.org/2933915", "sentence_idx": 1665}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.78122, 48.03118]}, "properties": {"source_label": "piesenberg", "geonames_label": "Piesenberg", "url": "https://www.geonames.org/2853792", "sentence_idx": 1665}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.72051, 48.45848]}, "properties": {"source_label": "hadersdorf", "geonames_label": "Hadersdorf am Kamp", "url": "https://www.geonames.org/2777093", "sentence_idx": 1665}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.31229, 48.18494]}, "properties": {"source_label": "sch\u00f6nbrunn", "geonames_label": "Schonbrunn Palace", "url": "https://www.geonames.org/6354998", "sentence_idx": 1666}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1666}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4,
+                    48.21667
+                ]
+            },
+            "properties": {
+                "source_label": "leopoldstadt",
+                "geonames_label": "Leopoldstadt",
+                "url": "https://www.geonames.org/2772614",
+                "sentence_idx": 1636
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": 1644
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41169,
+                    48.20609
+                ]
+            },
+            "properties": {
+                "source_label": "prater",
+                "geonames_label": "Prater",
+                "url": "https://www.geonames.org/3322725",
+                "sentence_idx": 1647
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41169,
+                    48.20609
+                ]
+            },
+            "properties": {
+                "source_label": "prater",
+                "geonames_label": "Prater",
+                "url": "https://www.geonames.org/3322725",
+                "sentence_idx": 1650
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26811,
+                    40.85216
+                ]
+            },
+            "properties": {
+                "source_label": "neapel",
+                "geonames_label": "Naples",
+                "url": "https://www.geonames.org/3172394",
+                "sentence_idx": 1660
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5,
+                    48.5
+                ]
+            },
+            "properties": {
+                "source_label": "bayern",
+                "geonames_label": "Bavaria",
+                "url": "https://www.geonames.org/2951840",
+                "sentence_idx": 1665
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68333,
+                    47.18333
+                ]
+            },
+            "properties": {
+                "source_label": "hetzendorf",
+                "geonames_label": "Hetzendorf",
+                "url": "https://www.geonames.org/2776461",
+                "sentence_idx": 1665
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35607,
+                    48.06833
+                ]
+            },
+            "properties": {
+                "source_label": "laxenburg",
+                "geonames_label": "Laxenburg",
+                "url": "https://www.geonames.org/2772810",
+                "sentence_idx": 1665
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06857,
+                    50.21973
+                ]
+            },
+            "properties": {
+                "source_label": "ebersdorf",
+                "geonames_label": "Ebersdorf bei Coburg",
+                "url": "https://www.geonames.org/2933915",
+                "sentence_idx": 1665
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78122,
+                    48.03118
+                ]
+            },
+            "properties": {
+                "source_label": "piesenberg",
+                "geonames_label": "Piesenberg",
+                "url": "https://www.geonames.org/2853792",
+                "sentence_idx": 1665
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.72051,
+                    48.45848
+                ]
+            },
+            "properties": {
+                "source_label": "hadersdorf",
+                "geonames_label": "Hadersdorf am Kamp",
+                "url": "https://www.geonames.org/2777093",
+                "sentence_idx": 1665
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31229,
+                    48.18494
+                ]
+            },
+            "properties": {
+                "source_label": "sch\u00f6nbrunn",
+                "geonames_label": "Schonbrunn Palace",
+                "url": "https://www.geonames.org/6354998",
+                "sentence_idx": 1666
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": 1666
+            }
+        }
+    ]
+}

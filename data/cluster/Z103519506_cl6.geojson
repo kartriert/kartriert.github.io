@@ -1,1 +1,101 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.5, 48.5]}, "properties": {"source_label": "bayern", "geonames_label": "Bavaria", "url": "https://www.geonames.org/2951840", "sentence_idx": 1868}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.5, 51.5]}, "properties": {"source_label": "deutschland", "geonames_label": "Germany", "url": "https://www.geonames.org/2921044", "sentence_idx": 1884}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 1885}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.55083, 48.20278]}, "properties": {"source_label": "enzersdorf", "geonames_label": "Gro\u00df-Enzersdorf", "url": "https://www.geonames.org/2777836", "sentence_idx": 1893}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.35607, 48.06833]}, "properties": {"source_label": "laxenburg", "geonames_label": "Laxenburg", "url": "https://www.geonames.org/2772810", "sentence_idx": 1894}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 1898}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5,
+                    48.5
+                ]
+            },
+            "properties": {
+                "source_label": "bayern",
+                "geonames_label": "Bavaria",
+                "url": "https://www.geonames.org/2951840",
+                "sentence_idx": 1868
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5,
+                    51.5
+                ]
+            },
+            "properties": {
+                "source_label": "deutschland",
+                "geonames_label": "Germany",
+                "url": "https://www.geonames.org/2921044",
+                "sentence_idx": 1884
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": 1885
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55083,
+                    48.20278
+                ]
+            },
+            "properties": {
+                "source_label": "enzersdorf",
+                "geonames_label": "Gro\u00df-Enzersdorf",
+                "url": "https://www.geonames.org/2777836",
+                "sentence_idx": 1893
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35607,
+                    48.06833
+                ]
+            },
+            "properties": {
+                "source_label": "laxenburg",
+                "geonames_label": "Laxenburg",
+                "url": "https://www.geonames.org/2772810",
+                "sentence_idx": 1894
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": 1898
+            }
+        }
+    ]
+}

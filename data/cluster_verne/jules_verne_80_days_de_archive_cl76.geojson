@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [103.8, 1.36667]}, "properties": {"source_label": "Singapore", "geonames_label": "Singapore", "url": "https://www.geonames.org/1880251", "sentence_idx": 1921}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [103.8, 1.36667]}, "properties": {"source_label": "Singapore", "geonames_label": "Singapore", "url": "https://www.geonames.org/1880251", "sentence_idx": 1921}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [103.8, 1.36667]}, "properties": {"source_label": "Singapore", "geonames_label": "Singapore", "url": "https://www.geonames.org/1880251", "sentence_idx": 1925}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8,
+                    1.36667
+                ]
+            },
+            "properties": {
+                "source_label": "Singapore",
+                "geonames_label": "Singapore",
+                "url": "https://www.geonames.org/1880251",
+                "sentence_idx": 1921
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8,
+                    1.36667
+                ]
+            },
+            "properties": {
+                "source_label": "Singapore",
+                "geonames_label": "Singapore",
+                "url": "https://www.geonames.org/1880251",
+                "sentence_idx": 1921
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8,
+                    1.36667
+                ]
+            },
+            "properties": {
+                "source_label": "Singapore",
+                "geonames_label": "Singapore",
+                "url": "https://www.geonames.org/1880251",
+                "sentence_idx": 1925
+            }
+        }
+    ]
+}

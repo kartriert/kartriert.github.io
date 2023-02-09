@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "England", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 3431}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.0, 63.0]}, "properties": {"source_label": "Skandinavien", "geonames_label": "Scandinavia", "url": "https://www.geonames.org/2614165", "sentence_idx": 3431}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.5, 51.5]}, "properties": {"source_label": "Deutschland", "geonames_label": "Germany", "url": "https://www.geonames.org/2921044", "sentence_idx": 3431}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "England",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": 3431
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    63.0
+                ]
+            },
+            "properties": {
+                "source_label": "Skandinavien",
+                "geonames_label": "Scandinavia",
+                "url": "https://www.geonames.org/2614165",
+                "sentence_idx": 3431
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5,
+                    51.5
+                ]
+            },
+            "properties": {
+                "source_label": "Deutschland",
+                "geonames_label": "Germany",
+                "url": "https://www.geonames.org/2921044",
+                "sentence_idx": 3431
+            }
+        }
+    ]
+}

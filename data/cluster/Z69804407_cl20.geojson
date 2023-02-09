@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.4, 32.56667]}, "properties": {"source_label": "tripoli", "geonames_label": "Tripoli", "url": "https://www.geonames.org/2210245", "sentence_idx": 2109}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.4, 32.56667]}, "properties": {"source_label": "tripoli", "geonames_label": "Tripoli", "url": "https://www.geonames.org/2210245", "sentence_idx": 2110}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.4, 32.56667]}, "properties": {"source_label": "tripoli", "geonames_label": "Tripoli", "url": "https://www.geonames.org/2210245", "sentence_idx": 2111}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4,
+                    32.56667
+                ]
+            },
+            "properties": {
+                "source_label": "tripoli",
+                "geonames_label": "Tripoli",
+                "url": "https://www.geonames.org/2210245",
+                "sentence_idx": 2109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4,
+                    32.56667
+                ]
+            },
+            "properties": {
+                "source_label": "tripoli",
+                "geonames_label": "Tripoli",
+                "url": "https://www.geonames.org/2210245",
+                "sentence_idx": 2110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4,
+                    32.56667
+                ]
+            },
+            "properties": {
+                "source_label": "tripoli",
+                "geonames_label": "Tripoli",
+                "url": "https://www.geonames.org/2210245",
+                "sentence_idx": 2111
+            }
+        }
+    ]
+}
