@@ -84,29 +84,29 @@
         <div>
           <p>Die Karte haben wir mit <span data-tooltip="Eine Bibliothek bzw. Erweiterung für Javascript, mit der beispielsweise
             Karten dargestellt werden können">Leaflet</span> geschrieben, um sie anschließend in unsere statische
-            Webseite einzubinden.
-            Sie wurde möglichst <span data-tooltip="Das bezeichnet die Eigenschaft, dass ein Programm auf mehreren
+            Website einzubinden.
+            Sie wurde möglichst <span data-tooltip="Plattformneutralität bezeichnet die Eigenschaft, dass ein Programm auf mehreren
             Plattformen laufen kann. In unserem Fall geht es darum, dass die Karte mit jedem Server-Backend
-            funktioniert"> plattformneutral</span> gehalten, da die Form, in der die Webseite gehostet werden würde,
+            funktioniert."> plattformneutral</span> gehalten, da die Form, in der die Website gehostet werden würde,
             lange unbestimmt war.
             Sämtliche Daten werden aus den von uns erstellten <span data-tooltip="JSON-Datei, die im GeoJSON-Format
             erstellt wurde, ein Format, das für den Geodatenaustausch verwendet wird. Es unterstützt Punkte, Linien,
             Polygone und andere ähnliche Grundelemente; Wird zur Definition von Objekten wie Straßen, Gewässern,
             Gebäuden und Sehenswürdigkeiten verwendet."><a
-                href="https://www.google.com/url?q=https://datei.wiki/extension/geojson&sa=D&source=docs&ust=1675794023125113&usg=AOvVaw3U3TUNo0EuPaggR_LA067I">(Geo)JSON-Dateien</a></span>
+                href="https://www.google.com/url?q=https://datei.wiki/extension/geojson&sa=D&source=docs&ust=1675794023125113&usg=AOvVaw3U3TUNo0EuPaggR_LA067I">GeoJSON-Dateien</a></span>
             oder aus den Metadaten der
             Travelogues-Texte gelesen. Ein
             <span
-              data-tooltip="Das Datenbanksystem strukturiert und speichert die Informationen in einer Datenbank ab."><strong>Datenbanksystem</strong></span>
+              data-tooltip="Das Datenbanksystem strukturiert und speichert die Informationen in einer Datenbank ab.">Datenbanksystem</span>
             wird dabei nicht verwendet. Um die Daten auszulesen, muss eine serverseitige Anfrage durchgeführt werden,
-            die allerdings auf statischen Webseiten nicht ohne weiteres möglich ist. Diese musste über die <span
+            die allerdings auf statischen Websites nicht ohne weiteres möglich ist. Diese musste über die <span
               data-tooltip="Das ist eine Schnittstelle, über die der Browser direkte Anfragen an den GitHub-Server stellen kann. In
             unserem Fall stellt es die Anfrage, welche Dateien sich in einem bestimmten Ordner befinden.">GitHub-API</span>
             umgesetzt
             werden, was allerdings zur Folge hat, dass nur 5000 Zugriffe pro Stunde möglich sind. Bei allen weiteren
             Zugriffen würde die Karte nicht mehr ordentlich laden und die Marker nicht mehr angezeigt werden. Eine
             alternative Variante per CGI-Handler wurde zu einem früheren Zeitpunkt ebenfalls implementiert. Sie wurde
-            aber letztendlich nicht umgesetzt, da sie für Github Pages ungeeignet ist, da sie eine dynamische Webseite
+            aber letztendlich nicht umgesetzt, da sie für GitHub Pages ungeeignet ist, da sie eine dynamische Website
             benötigt.
           </p>
           <p>Die Karte wurde darauf ausgelegt, eine unbestimmte, potentiell sehr große Menge an Daten darstellen zu
@@ -116,8 +116,8 @@
             Verzeichnis zur Speicherung und Beschreibung digitaler Objekte für ein digitales Archiv."><a
                 href="https://www.google.com/url?q=https://de.wikipedia.org/wiki/Repository&sa=D&source=docs&ust=1675794023126366&usg=AOvVaw3XG0JRBc5HjZx_rFzTN8ZF">Repositorien</a></span>
             importieren und in
-            sämtliche Bedienelemente eingliedern kann. Die Farben der Marker auf der Karte werden dabei zufällig
-            gewählt. Auch wenn das eine große Stärke der Karte ist, können wir diesen Vorteil nicht nutzen, da unsere
+            sämtliche Bedienelemente eingliedern kann. Die Farben der Marker sind aktuell manuell gewählt, können aber auch zufällig
+            vergeben werden. Auch wenn diese Offenheit nach oben eine große Stärke der Karte ist, können wir diesen Vorteil nicht nutzen, da unsere
             Daten sich auf sehr viel weniger Dateien als ursprünglich gedacht beschränken.</p>
           <p>Auch die Textauswahl wurde auf die Erwartung einer potentiell sehr großen Menge an Ebenen bzw. Texten
             ausgelegt. In der Auswahl erscheinen nur diejenigen Reiseberichte, die in den aktuell ausgewählten Jahren

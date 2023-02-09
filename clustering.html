@@ -82,27 +82,27 @@
           <h2>Clustering</h2>
         </div>
         <div>
-          <p>Unser Ziel war es, die im Laufe des Berichtes erwähnten Orte zu kartieren und eine mögliche Chronologie mit
-            abzubilden. Da es in den Geojsons zu Ungenauigkeiten kam, also manche Orte falsch oder gar nicht erkannt
+          <p>Unser Ziel war es, die im Laufe der Reiseberichte erwähnten Orte zu kartieren und eine mögliche Chronologie mit
+            abzubilden. Da es in den GeoJSONs zu Ungenauigkeiten kam, also manche Orte falsch oder gar nicht erkannt
             wurden, und da auch im Text Orte genannt werden, die nicht mit dem Kontext des Gesamtberichts
             zusammenhängen, haben wir über eine automatisierte Anpassung der Daten nachgedacht. Dabei gingen wir davon
             aus, dass Handlungsstrang und Aufenthaltsort nicht nur die meisten Daten ausmachen, sondern sich auch am
             meisten aufeinander beziehen. Daher kam schnell die Idee einer Clusterbildung auf. So sollten Hotspots an
-            geografischen Daten ausfindig gemacht werden und Orte, die nur vereinzelt auftreten, herausgefiltert werden.
-            Als sogenanntes Rauschen sollten dann zum Beispiel die Metaangaben des Buches (Publikationsort, etc.) oder
-            vereinzelte Herkunftsnennungen von weiteren Personen ("Ich reiste nach Peru und traf dort Peter aus Berlin…"
+            geografischen Daten ausfindig gemacht werden und Orte, die nur vereinzelt auftreten, als „Rauschen“ herausgefiltert werden.
+            Als solches sollten beispielsweise die Metaangaben des Buches (Publikationsort, etc.) oder
+            vereinzelte Herkunftsnennungen von weiteren Personen („Ich reiste nach Peru und traf dort Peter aus Berlin…“
             -> Berlin ist nicht relevant für die Reiseroute) klassifiziert werden. </p>
           <p>Da es im Vorhinein kaum Anhaltspunkte gab, wie viele Cluster gebildet werden müssten und ein Ausschluss von
             einzelnen Punkten nicht nur erwünscht, sondern sogar das Ziel war, entschieden wir uns für ein
             dichtebasiertes Clusteringverfahren: <a
               href="https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80">DBSCAN
               (Density-Based Spatial Clustering of Applications with Noise)</a>.
-            Hierbei werden Cluster gesucht, bei denen die Punkte in ihnen nur einen gewissen Abstand aufweisen und immer
-            eine gewisse Anzahl an Kernelementen auftreten. Wenn viele Punkte in geringem Abstand zueinander stehen,
+            Hierbei werden Cluster gesucht, deren Punkte eine geringe Distanz aufweisen und immer
+            eine Mindestanzahl an Kernelementen beinhalten. Wenn viele Punkte in geringem Abstand zueinander stehen,
             gibt es dort eine hohe Dichte und ein Cluster kann erkannt werden. Darum nennt man dieses Verfahren auch
             dichtebasierte Clusteranalyse. Der Nachteil ist hierbei, dass es bei unterschiedlichen Dichten zu Problemen
             kommen kann.
-            Darauf aufbauend sind auch drei Sachen festzulegen, bevor das Clustering durchgeführt wird:</p>
+            Darauf aufbauend sind auch drei Aspekte zu berücksichtigen, bevor das Clustering durchgeführt wird:</p>
         </div>
         <div>
           <ul>
@@ -110,34 +110,32 @@
               als
               <i>Distanzfunktion</i> die euklidische Distanz benutzt. In unserem Verfahren wird zu dieser eine
               Gewichtung
-              hinzugefügt, weil sowohl mit der räumlichen Angabe (wo befindet sich der Ort auf der Karte -> Latitude und
+              hinzugefügt, weil sowohl eine räumliche Angabe (wo befindet sich der Ort auf der Karte -> Latitude und
               Longitude), als auch eine zeitliche Komponente genutzt wird (in dem wievielten Satz wird dieser Ort
-              genannt). Ziel dessen ist es wirklich Hotspots zu finden, die dann auf Reiserouten hinweisen. Dafür ist
-              eben auch der zeitliche Rahmen relevant, der über den Ort der Nennung im Text implizit bestimmt wird. Die
-              zeitliche Angabe hat aber eine etwas andere Form, daher wird hier die Gewichtung zusätzlich zu der
+              genannt). Ziel dessen ist es, Hotspots zu finden, die dann tatsächlich auf Reiserouten hinweisen. Dafür ist
+              eben auch der zeitliche Rahmen relevant, der über den Ort der Nennung im Text implizit bestimmt wird - so die Vermutung. Die
+              zeitliche Angabe hat aber eine andere Form als die Koordinaten, daher wird hier die Gewichtung zusätzlich zu der
               maximalen Distanz benötigt.
             </li>
             <li>Die <strong>maximale Distanz</strong> &epsilon;: Sobald die Art der Distanzberechnung bestimmt wurde,
               kann der Abstand
-              eines jeden Punktes zu jedem weiteren Punkt berechnet werden. Die maximale Distanz gibt nun an, welche
-              Punkte untereinander <i>dichteerreichbar</i> sind, ihnen also die Möglichkeit einer Aufnahme in das
-              Cluster
-              zugestanden wird.</li>
-            <li>Die <strong>minimale Anzahl an Kernpunkten</strong> <i>minPts</i>: Mit diesem Wert wird angegeben, wie viele
+              eines jeden Punktes zu jedem weiteren Punkt berechnet werden. Die maximale Distanz gibt nun an, welche Punkte untereinander
+              <i>dichteerreichbar</i> sind, und damit in das Cluster aufgenommen werden können.
+            <li>Die <strong>minimale Anzahl an Kernelementen</strong> <i>minPts</i>: Mit diesem Wert wird angegeben, wie viele
               Punkte ein
               Cluster wenigstens als <i>Kernelemente</i> hat. Für einen Wert von 1 würde das Cluster einfach alle Punkte
-              umfassen, die sich innerhalb der maximalen Distanz befinden. Wird der Wert erhöht müssen minPts-Punkte
-              einen Punkt umgeben. dann kann von diesem Punkt ausgehend ein Cluster gebildet werden: alle
-              dichterreichbaren Punkte werden als dem Cluster zugehörig klassifiziert. Wenn einer der
-              dichteerreichbaren Punkte wiederum ein Kernelement ist, werden auch seine dichteerreichbaren Punkte
+              umfassen, die sich innerhalb der maximalen Distanz befinden. Wird der Wert beispielsweise auf 3 erhöht, müssen mindestens 3 Punkte
+              einen Punkt umgeben. Dann kann von dort ausgehend ein Cluster gebildet werden: alle
+              <i>dichteerreichbaren</i> Punkte werden als dem Cluster zugehörig klassifiziert. Wenn einer der
+              dichteerreichbaren Punkte wiederum ein Kernelement ist, also auch eine Mindestanzahl an Punkten von ihm aus dichteerreichbar sind, werden auch diese dichteerreichbaren Punkte
               aufgenommen und so weiter. Dadurch können dichtere Cluster gesucht werden.</li>
           </ul>
         </div>
         <div>
-          <p>Wenn diese drei Punkte geklärt sind, kann das Cluster gebildet werden. In unserem Fall wurde Python
+          <p>Wenn diese drei Aspekte geklärt sind, kann das Cluster gebildet werden. Es zeigte sich, dass verschiedene Clustermethoden mit verschiedenen Schreibstilen unterschiedlich harmonieren. Der erste Ansatz war, nur anhand der Stelle im Text zu clustern, also nur anhand der zeitlichen Komponente. Das zeigte sich zwar vielversprechend, konnte aber nicht auf alle Texte angewendet werden, da manche Autor:innen in sehr regelmäßigen Abständen Ortsnamen nennen. Das Clustern wird hierbei hinfällig, da weniger Cluster entstehen, wenn die Distanzen sich stark ähneln. Daher wurden im finalen Clustering, wie oben beschrieben, drei Werte zur Berechnung herangezogen (Längengrad, Breitengrad und Satznummer im Text). Dieses Verfahren ist zwar nicht ganz so präzise, aber allgemeingültiger und darum vorzuziehen. In unserem Fall wurde Python
             benutzt, um die Daten einzulesen, zu verarbeiten und in geordnete GeoJSONs abzuspeichern. Die Clusterung
             basiert dabei auf einem zweischichtigen Ansatz: sie werden einmal geclustert und dann werden die
-            resultierenden Cluster noch einmal geclustert mit einer geringeren Distanz. Darauf aufbauend könnte auch
+            resultierenden Cluster noch einmal mit einer geringeren Distanz geclustert. Darauf aufbauend könnte auch
             eine mehrstufige Anzeigestruktur errichtet werden, sofern die Cluster auch in der entsprechenden Struktur
             ausgegeben würden. Die Umsetzung erfolgte analog zu dem bei <a
               href="https://www.ijser.org/researchpaper/A-Technical-Survey-on-DBSCAN-Clustering-Algorithm.pdf">Suthar,
@@ -147,17 +145,18 @@
           </p>
           <p>Im Endergebnis täte den Clustern noch etwas Feintuning gut, trotzdem konnten schon erste Ergebnisse erzielt
             werden. Die Daten wurden nicht stark verfälscht, konnten jedoch auf das Wesentliche eingeschränkt werden.
-            Diese Verdichtung der Informationen kommt der Übersichtlichkeit zu Nutze und kann das <a href="karte_text.html">Kartenmaterial </a>
-            bereichern. Es zeigt sich, dass verschiedene Clustermethoden mit verschiedenen Schreibstilen unterschiedlich
-            harmonieren. Zum Beispiel zeigt sich das anfangs verwendete Verfahren – zuerst im Text zu clustern, so dass
-            Orte zusammengefasst werden, die sich an konkreten Textstellen befinden – als vielversprechend. Es konnte
-            jedoch nicht auf alle Texte angewandt werden, da manche Autoren mit recht ähnlichem Abstand Ortsnamen
-            nennen. Dadurch wird hier das Clustern auf die Sentence_Idx hinfällig. Daher wurden folgend alle drei Werte
-            mit unterschiedlicher Gewichtung geclustert (wie oben beschrieben). Dieses Verfahren war teilweise nicht
-            ganz so präzise, aber allgemeingültiger und darum vorzuziehen.</p>
+            Diese Verdichtung der Informationen kommt der Übersichtlichkeit zugute und kann das <a href="karte_text.html">Kartenmaterial </a>
+            bereichern.
+            Es zeigte sich, dass verschiedene Clustermethoden mit verschiedenen Schreibstilen unterschiedlich harmonieren.
+            Der erste Ansatz war, nur anhand der Stelle im Text zu clustern, also nur anhand der zeitlichen Komponente.
+            Das zeigte sich zwar vielversprechend, konnte aber nicht auf alle Texte angewendet werden, da manche Autor:innen in sehr regelmäßigen Abständen Ortsnamen nennen.
+            Das Clustern wird hierbei hinfällig, da weniger Cluster entstehen, wenn die Distanzen sich stark ähneln.
+            Daher wurden im finalen Clustering, wie oben beschrieben, drei Werte zur Berechnung herangezogen (Längengrad, Breitengrad und Satznummer im Text).
+            Dieses Verfahren ist zwar nicht ganz so präzise, aber allgemeingültiger und darum vorzuziehen.
+          </p>
 <p>
           <strong>Bibliographie</strong><br>
-          [1]  N. Suthar, "A Technical Survey on DBSCAN Clustering Algorithm", Bd. 4, Nr. 5, 2013.</p>
+          [1]  N. Suthar, „A Technical Survey on DBSCAN Clustering Algorithm“, Bd. 4, Nr. 5, 2013.</p>
         </div>
       <div class="section-title">
         <h3>Über unsere Methoden weiterlesen:</h3>
