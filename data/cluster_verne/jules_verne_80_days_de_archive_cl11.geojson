@@ -1,1 +1,101 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "England", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 4302}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "Liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 4317}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.59763, 44.806]}, "properties": {"source_label": "Bordeaux", "geonames_label": "Bordeaux", "url": "https://www.geonames.org/3031582", "sentence_idx": 4318}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "Liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 4319}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "Liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 4327}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "Liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 4342}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "England",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "4302"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "Liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": "4317"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.59763,
+                    44.806
+                ]
+            },
+            "properties": {
+                "source_label": "Bordeaux",
+                "geonames_label": "Bordeaux",
+                "url": "https://www.geonames.org/3031582",
+                "sentence_idx": "4318"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "Liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": "4319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "Liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": "4327"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "Liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": "4342"
+            }
+        }
+    ]
+}

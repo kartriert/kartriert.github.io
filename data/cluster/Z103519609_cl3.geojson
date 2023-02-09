@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [19.33333, 47.41667]}, "properties": {"source_label": "pest", "geonames_label": "Pest megye", "url": "https://www.geonames.org/3046431", "sentence_idx": 1659}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.64691, 48.35243]}, "properties": {"source_label": "raab", "geonames_label": "Raab", "url": "https://www.geonames.org/2768180", "sentence_idx": 1660}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.69732, 47.60435]}, "properties": {"source_label": "zinkendorf", "geonames_label": "Nagycenk", "url": "https://www.geonames.org/3047781", "sentence_idx": 1666}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [19.33333, 47.41667]}, "properties": {"source_label": "pest", "geonames_label": "Pest megye", "url": "https://www.geonames.org/3046431", "sentence_idx": 1667}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 1668}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.33333,
+                    47.41667
+                ]
+            },
+            "properties": {
+                "source_label": "pest",
+                "geonames_label": "Pest megye",
+                "url": "https://www.geonames.org/3046431",
+                "sentence_idx": "1659"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64691,
+                    48.35243
+                ]
+            },
+            "properties": {
+                "source_label": "raab",
+                "geonames_label": "Raab",
+                "url": "https://www.geonames.org/2768180",
+                "sentence_idx": "1660"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69732,
+                    47.60435
+                ]
+            },
+            "properties": {
+                "source_label": "zinkendorf",
+                "geonames_label": "Nagycenk",
+                "url": "https://www.geonames.org/3047781",
+                "sentence_idx": "1666"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.33333,
+                    47.41667
+                ]
+            },
+            "properties": {
+                "source_label": "pest",
+                "geonames_label": "Pest megye",
+                "url": "https://www.geonames.org/3046431",
+                "sentence_idx": "1667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "1668"
+            }
+        }
+    ]
+}

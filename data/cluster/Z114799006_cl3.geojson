@@ -1,1 +1,501 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 1334}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.26422, 41.55566]}, "properties": {"source_label": "rhode island", "geonames_label": "Rhode Island", "url": "https://www.geonames.org/5224284", "sentence_idx": 1334}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.4998, 43.66702]}, "properties": {"source_label": "neu hampshire", "geonames_label": "New Hampshire", "url": "https://www.geonames.org/5090174", "sentence_idx": 1334}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.16362, 39.95238]}, "properties": {"source_label": "philadelphia", "geonames_label": "Philadelphia", "url": "https://www.geonames.org/4560349", "sentence_idx": 1350}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.05977, 42.35843]}, "properties": {"source_label": "boston", "geonames_label": "Boston", "url": "https://www.geonames.org/4930956", "sentence_idx": 1350}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.82559, 17.98438]}, "properties": {"source_label": "greenwich", "geonames_label": "Greenwich Town/ Newport West", "url": "https://www.geonames.org/11494920", "sentence_idx": 1354}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 1360}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 1360}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-63.57291, 44.6464]}, "properties": {"source_label": "halifax", "geonames_label": "Halifax", "url": "https://www.geonames.org/6324729", "sentence_idx": 1360}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.16362, 39.95238]}, "properties": {"source_label": "philadelphia", "geonames_label": "Philadelphia", "url": "https://www.geonames.org/4560349", "sentence_idx": 1360}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.0004, 31.00047]}, "properties": {"source_label": "west florida", "geonames_label": "Louisiana", "url": "https://www.geonames.org/4331987", "sentence_idx": 1360}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.5001, 28.75054]}, "properties": {"source_label": "ost florida", "geonames_label": "Florida", "url": "https://www.geonames.org/4155751", "sentence_idx": 1360}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.05977, 42.35843]}, "properties": {"source_label": "boston", "geonames_label": "Boston", "url": "https://www.geonames.org/4930956", "sentence_idx": 1371}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.16362, 39.95238]}, "properties": {"source_label": "philadelphia", "geonames_label": "Philadelphia", "url": "https://www.geonames.org/4560349", "sentence_idx": 1371}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.09983, 32.08354]}, "properties": {"source_label": "savannah", "geonames_label": "Savannah", "url": "https://www.geonames.org/4221552", "sentence_idx": 1371}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.41283, 41.82399]}, "properties": {"source_label": "rhode island", "geonames_label": "Providence", "url": "https://www.geonames.org/5224151", "sentence_idx": 1378}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.63861, 35.7721]}, "properties": {"source_label": "nord carolina", "geonames_label": "Raleigh", "url": "https://www.geonames.org/4487042", "sentence_idx": 1381}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 1381}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.00009, 34.00043]}, "properties": {"source_label": "sued carolina", "geonames_label": "South Carolina", "url": "https://www.geonames.org/4597040", "sentence_idx": 1382}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.74997, 39.00039]}, "properties": {"source_label": "maryland", "geonames_label": "Maryland", "url": "https://www.geonames.org/4361885", "sentence_idx": 1382}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.49992, 39.00039]}, "properties": {"source_label": "delaware", "geonames_label": "Delaware", "url": "https://www.geonames.org/4142224", "sentence_idx": 1382}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.7, 40.8]}, "properties": {"source_label": "pensylvanien", "geonames_label": "Pennsylvania", "url": "https://www.geonames.org/6254927", "sentence_idx": 1382}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.50018, 32.75042]}, "properties": {"source_label": "georgien", "geonames_label": "Georgia", "url": "https://www.geonames.org/4197000", "sentence_idx": 1384}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.44675, 37.54812]}, "properties": {"source_label": "virginien", "geonames_label": "Virginia", "url": "https://www.geonames.org/6254928", "sentence_idx": 1385}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.00032, 35.50069]}, "properties": {"source_label": "nord carolina", "geonames_label": "North Carolina", "url": "https://www.geonames.org/4482348", "sentence_idx": 1386}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 1392}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.16362, 39.95238]}, "properties": {"source_label": "philadelphia", "geonames_label": "Philadelphia", "url": "https://www.geonames.org/4560349", "sentence_idx": 1393}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.16362, 39.95238]}, "properties": {"source_label": "philadelphia", "geonames_label": "Philadelphia", "url": "https://www.geonames.org/4560349", "sentence_idx": 1396}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 1397}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.16362, 39.95238]}, "properties": {"source_label": "philadelphia", "geonames_label": "Philadelphia", "url": "https://www.geonames.org/4560349", "sentence_idx": 1397}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.63861, 35.7721]}, "properties": {"source_label": "nord carolina", "geonames_label": "Raleigh", "url": "https://www.geonames.org/4487042", "sentence_idx": 1398}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "1334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.26422,
+                    41.55566
+                ]
+            },
+            "properties": {
+                "source_label": "rhode island",
+                "geonames_label": "Rhode Island",
+                "url": "https://www.geonames.org/5224284",
+                "sentence_idx": "1334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4998,
+                    43.66702
+                ]
+            },
+            "properties": {
+                "source_label": "neu hampshire",
+                "geonames_label": "New Hampshire",
+                "url": "https://www.geonames.org/5090174",
+                "sentence_idx": "1334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16362,
+                    39.95238
+                ]
+            },
+            "properties": {
+                "source_label": "philadelphia",
+                "geonames_label": "Philadelphia",
+                "url": "https://www.geonames.org/4560349",
+                "sentence_idx": "1350"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05977,
+                    42.35843
+                ]
+            },
+            "properties": {
+                "source_label": "boston",
+                "geonames_label": "Boston",
+                "url": "https://www.geonames.org/4930956",
+                "sentence_idx": "1350"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.82559,
+                    17.98438
+                ]
+            },
+            "properties": {
+                "source_label": "greenwich",
+                "geonames_label": "Greenwich Town/ Newport West",
+                "url": "https://www.geonames.org/11494920",
+                "sentence_idx": "1354"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "1360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": "1360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.57291,
+                    44.6464
+                ]
+            },
+            "properties": {
+                "source_label": "halifax",
+                "geonames_label": "Halifax",
+                "url": "https://www.geonames.org/6324729",
+                "sentence_idx": "1360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16362,
+                    39.95238
+                ]
+            },
+            "properties": {
+                "source_label": "philadelphia",
+                "geonames_label": "Philadelphia",
+                "url": "https://www.geonames.org/4560349",
+                "sentence_idx": "1360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0004,
+                    31.00047
+                ]
+            },
+            "properties": {
+                "source_label": "west florida",
+                "geonames_label": "Louisiana",
+                "url": "https://www.geonames.org/4331987",
+                "sentence_idx": "1360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5001,
+                    28.75054
+                ]
+            },
+            "properties": {
+                "source_label": "ost florida",
+                "geonames_label": "Florida",
+                "url": "https://www.geonames.org/4155751",
+                "sentence_idx": "1360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05977,
+                    42.35843
+                ]
+            },
+            "properties": {
+                "source_label": "boston",
+                "geonames_label": "Boston",
+                "url": "https://www.geonames.org/4930956",
+                "sentence_idx": "1371"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16362,
+                    39.95238
+                ]
+            },
+            "properties": {
+                "source_label": "philadelphia",
+                "geonames_label": "Philadelphia",
+                "url": "https://www.geonames.org/4560349",
+                "sentence_idx": "1371"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.09983,
+                    32.08354
+                ]
+            },
+            "properties": {
+                "source_label": "savannah",
+                "geonames_label": "Savannah",
+                "url": "https://www.geonames.org/4221552",
+                "sentence_idx": "1371"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.41283,
+                    41.82399
+                ]
+            },
+            "properties": {
+                "source_label": "rhode island",
+                "geonames_label": "Providence",
+                "url": "https://www.geonames.org/5224151",
+                "sentence_idx": "1378"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.63861,
+                    35.7721
+                ]
+            },
+            "properties": {
+                "source_label": "nord carolina",
+                "geonames_label": "Raleigh",
+                "url": "https://www.geonames.org/4487042",
+                "sentence_idx": "1381"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "1381"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.00009,
+                    34.00043
+                ]
+            },
+            "properties": {
+                "source_label": "sued carolina",
+                "geonames_label": "South Carolina",
+                "url": "https://www.geonames.org/4597040",
+                "sentence_idx": "1382"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.74997,
+                    39.00039
+                ]
+            },
+            "properties": {
+                "source_label": "maryland",
+                "geonames_label": "Maryland",
+                "url": "https://www.geonames.org/4361885",
+                "sentence_idx": "1382"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49992,
+                    39.00039
+                ]
+            },
+            "properties": {
+                "source_label": "delaware",
+                "geonames_label": "Delaware",
+                "url": "https://www.geonames.org/4142224",
+                "sentence_idx": "1382"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7,
+                    40.8
+                ]
+            },
+            "properties": {
+                "source_label": "pensylvanien",
+                "geonames_label": "Pennsylvania",
+                "url": "https://www.geonames.org/6254927",
+                "sentence_idx": "1382"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50018,
+                    32.75042
+                ]
+            },
+            "properties": {
+                "source_label": "georgien",
+                "geonames_label": "Georgia",
+                "url": "https://www.geonames.org/4197000",
+                "sentence_idx": "1384"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44675,
+                    37.54812
+                ]
+            },
+            "properties": {
+                "source_label": "virginien",
+                "geonames_label": "Virginia",
+                "url": "https://www.geonames.org/6254928",
+                "sentence_idx": "1385"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.00032,
+                    35.50069
+                ]
+            },
+            "properties": {
+                "source_label": "nord carolina",
+                "geonames_label": "North Carolina",
+                "url": "https://www.geonames.org/4482348",
+                "sentence_idx": "1386"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "1392"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16362,
+                    39.95238
+                ]
+            },
+            "properties": {
+                "source_label": "philadelphia",
+                "geonames_label": "Philadelphia",
+                "url": "https://www.geonames.org/4560349",
+                "sentence_idx": "1393"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16362,
+                    39.95238
+                ]
+            },
+            "properties": {
+                "source_label": "philadelphia",
+                "geonames_label": "Philadelphia",
+                "url": "https://www.geonames.org/4560349",
+                "sentence_idx": "1396"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "1397"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16362,
+                    39.95238
+                ]
+            },
+            "properties": {
+                "source_label": "philadelphia",
+                "geonames_label": "Philadelphia",
+                "url": "https://www.geonames.org/4560349",
+                "sentence_idx": "1397"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.63861,
+                    35.7721
+                ]
+            },
+            "properties": {
+                "source_label": "nord carolina",
+                "geonames_label": "Raleigh",
+                "url": "https://www.geonames.org/4487042",
+                "sentence_idx": "1398"
+            }
+        }
+    ]
+}

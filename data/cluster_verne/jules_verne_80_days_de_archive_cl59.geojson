@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 533}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 546}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 547}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 550}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "533"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "546"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "547"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "550"
+            }
+        }
+    ]
+}

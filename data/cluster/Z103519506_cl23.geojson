@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.0, 62.0]}, "properties": {"source_label": "schweden", "geonames_label": "Sweden", "url": "https://www.geonames.org/2661886", "sentence_idx": 316}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.06566, 52.39886]}, "properties": {"source_label": "potsdam", "geonames_label": "Potsdam", "url": "https://www.geonames.org/2852458", "sentence_idx": 320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.41053, 52.52437]}, "properties": {"source_label": "berlin", "geonames_label": "Berlin", "url": "https://www.geonames.org/2950159", "sentence_idx": 328}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.41053, 52.52437]}, "properties": {"source_label": "berlin", "geonames_label": "Berlin", "url": "https://www.geonames.org/2950159", "sentence_idx": 335}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0,
+                    62.0
+                ]
+            },
+            "properties": {
+                "source_label": "schweden",
+                "geonames_label": "Sweden",
+                "url": "https://www.geonames.org/2661886",
+                "sentence_idx": "316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06566,
+                    52.39886
+                ]
+            },
+            "properties": {
+                "source_label": "potsdam",
+                "geonames_label": "Potsdam",
+                "url": "https://www.geonames.org/2852458",
+                "sentence_idx": "320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41053,
+                    52.52437
+                ]
+            },
+            "properties": {
+                "source_label": "berlin",
+                "geonames_label": "Berlin",
+                "url": "https://www.geonames.org/2950159",
+                "sentence_idx": "328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41053,
+                    52.52437
+                ]
+            },
+            "properties": {
+                "source_label": "berlin",
+                "geonames_label": "Berlin",
+                "url": "https://www.geonames.org/2950159",
+                "sentence_idx": "335"
+            }
+        }
+    ]
+}

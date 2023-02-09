@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbritannien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 615}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbritannien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 619}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbritannien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 624}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "englands", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 627}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbritannien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 629}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbritannien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 635}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 636}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbritannien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": "615"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbritannien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": "619"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbritannien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": "624"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "englands",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "627"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbritannien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": "629"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbritannien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": "635"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "636"
+            }
+        }
+    ]
+}

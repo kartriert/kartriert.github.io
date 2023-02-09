@@ -1,1 +1,213 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.86215, 45.6234]}, "properties": {"source_label": "hudsons bay", "geonames_label": "Hudsons Bay", "url": "https://www.geonames.org/5978180", "sentence_idx": 926}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "labrador", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 926}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 926}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "labrador", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 931}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 931}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 931}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 931}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.49978, 41.75038]}, "properties": {"source_label": "rhode island", "geonames_label": "Rhode Island", "url": "https://www.geonames.org/5224323", "sentence_idx": 931}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 931}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.44675, 37.54812]}, "properties": {"source_label": "virginien", "geonames_label": "Virginia", "url": "https://www.geonames.org/6254928", "sentence_idx": 933}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.00032, 35.50069]}, "properties": {"source_label": "nord carolina", "geonames_label": "North Carolina", "url": "https://www.geonames.org/4482348", "sentence_idx": 933}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.0009, 34.00043]}, "properties": {"source_label": "sued carolina", "geonames_label": "South Carolina", "url": "https://www.geonames.org/4597040", "sentence_idx": 933}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.50018, 32.75042]}, "properties": {"source_label": "georgien", "geonames_label": "Georgia", "url": "https://www.geonames.org/4197000", "sentence_idx": 933}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.86215,
+                    45.6234
+                ]
+            },
+            "properties": {
+                "source_label": "hudsons bay",
+                "geonames_label": "Hudsons Bay",
+                "url": "https://www.geonames.org/5978180",
+                "sentence_idx": "926"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "labrador",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "926"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "926"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "labrador",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.49978,
+                    41.75038
+                ]
+            },
+            "properties": {
+                "source_label": "rhode island",
+                "geonames_label": "Rhode Island",
+                "url": "https://www.geonames.org/5224323",
+                "sentence_idx": "931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44675,
+                    37.54812
+                ]
+            },
+            "properties": {
+                "source_label": "virginien",
+                "geonames_label": "Virginia",
+                "url": "https://www.geonames.org/6254928",
+                "sentence_idx": "933"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.00032,
+                    35.50069
+                ]
+            },
+            "properties": {
+                "source_label": "nord carolina",
+                "geonames_label": "North Carolina",
+                "url": "https://www.geonames.org/4482348",
+                "sentence_idx": "933"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0009,
+                    34.00043
+                ]
+            },
+            "properties": {
+                "source_label": "sued carolina",
+                "geonames_label": "South Carolina",
+                "url": "https://www.geonames.org/4597040",
+                "sentence_idx": "933"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50018,
+                    32.75042
+                ]
+            },
+            "properties": {
+                "source_label": "georgien",
+                "geonames_label": "Georgia",
+                "url": "https://www.geonames.org/4197000",
+                "sentence_idx": "933"
+            }
+        }
+    ]
+}

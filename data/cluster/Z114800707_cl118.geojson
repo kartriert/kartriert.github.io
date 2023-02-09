@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 8405}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 8406}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 8406}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "8405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "8406"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "8406"
+            }
+        }
+    ]
+}

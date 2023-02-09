@@ -1,1 +1,197 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.57549, 48.13743]}, "properties": {"source_label": "bayern", "geonames_label": "Munich", "url": "https://www.geonames.org/2867714", "sentence_idx": 0}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.2791, 49.98419]}, "properties": {"source_label": "pfalz", "geonames_label": "Mainz", "url": "https://www.geonames.org/2874225", "sentence_idx": 0}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.25, 51.0]}, "properties": {"source_label": "sachsen", "geonames_label": "Saxony", "url": "https://www.geonames.org/2842566", "sentence_idx": 0}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.01582, 52.45905]}, "properties": {"source_label": "brandenburg", "geonames_label": "Brandenburg", "url": "https://www.geonames.org/2945356", "sentence_idx": 0}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 0}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 0}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.78333, 47.21667]}, "properties": {"source_label": "spielberg", "geonames_label": "Spielberg bei Knittelfeld", "url": "https://www.geonames.org/2764812", "sentence_idx": 14}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.68417, 50.11552]}, "properties": {"source_label": "frankfurt am main", "geonames_label": "Frankfurt am Main", "url": "https://www.geonames.org/2925533", "sentence_idx": 25}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.78333, 47.21667]}, "properties": {"source_label": "spielberg", "geonames_label": "Spielberg bei Knittelfeld", "url": "https://www.geonames.org/2764812", "sentence_idx": 29}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.53333, 47.16667]}, "properties": {"source_label": "liechtenstein", "geonames_label": "Liechtenstein", "url": "https://www.geonames.org/3042058", "sentence_idx": 42}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.56468, 51.85616]}, "properties": {"source_label": "kaunitz", "geonames_label": "Kaunitz", "url": "https://www.geonames.org/2892046", "sentence_idx": 44}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 44}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57549,
+                    48.13743
+                ]
+            },
+            "properties": {
+                "source_label": "bayern",
+                "geonames_label": "Munich",
+                "url": "https://www.geonames.org/2867714",
+                "sentence_idx": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2791,
+                    49.98419
+                ]
+            },
+            "properties": {
+                "source_label": "pfalz",
+                "geonames_label": "Mainz",
+                "url": "https://www.geonames.org/2874225",
+                "sentence_idx": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25,
+                    51.0
+                ]
+            },
+            "properties": {
+                "source_label": "sachsen",
+                "geonames_label": "Saxony",
+                "url": "https://www.geonames.org/2842566",
+                "sentence_idx": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01582,
+                    52.45905
+                ]
+            },
+            "properties": {
+                "source_label": "brandenburg",
+                "geonames_label": "Brandenburg",
+                "url": "https://www.geonames.org/2945356",
+                "sentence_idx": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78333,
+                    47.21667
+                ]
+            },
+            "properties": {
+                "source_label": "spielberg",
+                "geonames_label": "Spielberg bei Knittelfeld",
+                "url": "https://www.geonames.org/2764812",
+                "sentence_idx": "14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68417,
+                    50.11552
+                ]
+            },
+            "properties": {
+                "source_label": "frankfurt am main",
+                "geonames_label": "Frankfurt am Main",
+                "url": "https://www.geonames.org/2925533",
+                "sentence_idx": "25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78333,
+                    47.21667
+                ]
+            },
+            "properties": {
+                "source_label": "spielberg",
+                "geonames_label": "Spielberg bei Knittelfeld",
+                "url": "https://www.geonames.org/2764812",
+                "sentence_idx": "29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53333,
+                    47.16667
+                ]
+            },
+            "properties": {
+                "source_label": "liechtenstein",
+                "geonames_label": "Liechtenstein",
+                "url": "https://www.geonames.org/3042058",
+                "sentence_idx": "42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.56468,
+                    51.85616
+                ]
+            },
+            "properties": {
+                "source_label": "kaunitz",
+                "geonames_label": "Kaunitz",
+                "url": "https://www.geonames.org/2892046",
+                "sentence_idx": "44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "44"
+            }
+        }
+    ]
+}

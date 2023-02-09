@@ -1,1 +1,469 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [31.24967, 30.06263]}, "properties": {"source_label": "kahira", "geonames_label": "Cairo", "url": "https://www.geonames.org/360630", "sentence_idx": 2867}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2875}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2878}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 2879}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 2879}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 2882}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2886}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 2893}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 2894}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2894}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2895}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 2896}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2898}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 2899}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2900}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2901}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [43.4999, 41.99998]}, "properties": {"source_label": "georgien", "geonames_label": "Georgia", "url": "https://www.geonames.org/614540", "sentence_idx": 2903}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [41.945, 42.53417]}, "properties": {"source_label": "mingrelien", "geonames_label": "Odishi", "url": "https://www.geonames.org/874261", "sentence_idx": 2903}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 2903}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2911}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2914}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2915}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2916}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2925}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 2937}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2938}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2952}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2956}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2969}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.24967,
+                    30.06263
+                ]
+            },
+            "properties": {
+                "source_label": "kahira",
+                "geonames_label": "Cairo",
+                "url": "https://www.geonames.org/360630",
+                "sentence_idx": "2867"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2875"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2878"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": "2879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "2879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": "2882"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2886"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": "2893"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "2894"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2894"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2895"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "2896"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2898"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "2899"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2900"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2901"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.4999,
+                    41.99998
+                ]
+            },
+            "properties": {
+                "source_label": "georgien",
+                "geonames_label": "Georgia",
+                "url": "https://www.geonames.org/614540",
+                "sentence_idx": "2903"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.945,
+                    42.53417
+                ]
+            },
+            "properties": {
+                "source_label": "mingrelien",
+                "geonames_label": "Odishi",
+                "url": "https://www.geonames.org/874261",
+                "sentence_idx": "2903"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "2903"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2911"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2914"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2915"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2916"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2925"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "2937"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2938"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2952"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2956"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2969"
+            }
+        }
+    ]
+}

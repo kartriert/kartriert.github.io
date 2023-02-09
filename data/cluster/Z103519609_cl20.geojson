@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.26811, 40.85216]}, "properties": {"source_label": "neapel", "geonames_label": "Naples", "url": "https://www.geonames.org/3172394", "sentence_idx": 853}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 854}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 856}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26811,
+                    40.85216
+                ]
+            },
+            "properties": {
+                "source_label": "neapel",
+                "geonames_label": "Naples",
+                "url": "https://www.geonames.org/3172394",
+                "sentence_idx": "853"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "854"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": "856"
+            }
+        }
+    ]
+}

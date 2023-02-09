@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.0, 5.5]}, "properties": {"source_label": "delta", "geonames_label": "Delta", "url": "https://www.geonames.org/2565341", "sentence_idx": 2332}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.0, 5.5]}, "properties": {"source_label": "delta", "geonames_label": "Delta", "url": "https://www.geonames.org/2565341", "sentence_idx": 2334}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.0, 5.5]}, "properties": {"source_label": "delta", "geonames_label": "Delta", "url": "https://www.geonames.org/2565341", "sentence_idx": 2336}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0,
+                    5.5
+                ]
+            },
+            "properties": {
+                "source_label": "delta",
+                "geonames_label": "Delta",
+                "url": "https://www.geonames.org/2565341",
+                "sentence_idx": "2332"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0,
+                    5.5
+                ]
+            },
+            "properties": {
+                "source_label": "delta",
+                "geonames_label": "Delta",
+                "url": "https://www.geonames.org/2565341",
+                "sentence_idx": "2334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0,
+                    5.5
+                ]
+            },
+            "properties": {
+                "source_label": "delta",
+                "geonames_label": "Delta",
+                "url": "https://www.geonames.org/2565341",
+                "sentence_idx": "2336"
+            }
+        }
+    ]
+}

@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 556}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 563}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 566}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "556"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "563"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "566"
+            }
+        }
+    ]
+}

@@ -1,1 +1,357 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.45479, 42.99564]}, "properties": {"source_label": "hampshire", "geonames_label": "Manchester", "url": "https://www.geonames.org/5089178", "sentence_idx": 1654}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.05977, 42.35843]}, "properties": {"source_label": "boston", "geonames_label": "Boston", "url": "https://www.geonames.org/4930956", "sentence_idx": 1669}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.05977, 42.35843]}, "properties": {"source_label": "boston", "geonames_label": "Boston", "url": "https://www.geonames.org/4930956", "sentence_idx": 1671}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.10832, 42.36565]}, "properties": {"source_label": "massachuset", "geonames_label": "Massachusetts", "url": "https://www.geonames.org/6254926", "sentence_idx": 1675}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.7, 40.8]}, "properties": {"source_label": "pensylvanien", "geonames_label": "Pennsylvania", "url": "https://www.geonames.org/6254927", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.74997, 39.00039]}, "properties": {"source_label": "maryland", "geonames_label": "Maryland", "url": "https://www.geonames.org/4361885", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.00009, 34.00043]}, "properties": {"source_label": "sued carolina", "geonames_label": "South Carolina", "url": "https://www.geonames.org/4597040", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.50018, 32.75042]}, "properties": {"source_label": "georgien", "geonames_label": "Georgia", "url": "https://www.geonames.org/4197000", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.75766, 43.07704]}, "properties": {"source_label": "portsmouth", "geonames_label": "Portsmouth", "url": "https://www.geonames.org/5091383", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.05977, 42.35843]}, "properties": {"source_label": "boston", "geonames_label": "Boston", "url": "https://www.geonames.org/4930956", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.31283, 41.4901]}, "properties": {"source_label": "new port", "geonames_label": "Newport", "url": "https://www.geonames.org/5223593", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.92816, 41.30815]}, "properties": {"source_label": "new haven", "geonames_label": "New Haven", "url": "https://www.geonames.org/4839366", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.00597, 40.71427]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.75623, 42.65258]}, "properties": {"source_label": "albany", "geonames_label": "Albany", "url": "https://www.geonames.org/5106834", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.26542, 40.50677]}, "properties": {"source_label": "amboy", "geonames_label": "Perth Amboy", "url": "https://www.geonames.org/5102578", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.16362, 39.95238]}, "properties": {"source_label": "philadelphia", "geonames_label": "Philadelphia", "url": "https://www.geonames.org/4560349", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.61219, 39.29038]}, "properties": {"source_label": "baltimore", "geonames_label": "Baltimore", "url": "https://www.geonames.org/4347778", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.49184, 38.97859]}, "properties": {"source_label": "annapolis", "geonames_label": "Annapolis", "url": "https://www.geonames.org/4347242", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.70746, 37.2707]}, "properties": {"source_label": "williamsburg", "geonames_label": "Williamsburg", "url": "https://www.geonames.org/4793846", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.27494, 36.81904]}, "properties": {"source_label": "chesapeack", "geonames_label": "Chesapeake", "url": "https://www.geonames.org/4752186", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.54659, 39.74595]}, "properties": {"source_label": "wilmington", "geonames_label": "Wilmington", "url": "https://www.geonames.org/4145381", "sentence_idx": 1679}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.85902, 36.76478]}, "properties": {"source_label": "brunswick", "geonames_label": "Brunswick", "url": "https://www.geonames.org/4749396", "sentence_idx": 1679}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.45479,
+                    42.99564
+                ]
+            },
+            "properties": {
+                "source_label": "hampshire",
+                "geonames_label": "Manchester",
+                "url": "https://www.geonames.org/5089178",
+                "sentence_idx": "1654"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05977,
+                    42.35843
+                ]
+            },
+            "properties": {
+                "source_label": "boston",
+                "geonames_label": "Boston",
+                "url": "https://www.geonames.org/4930956",
+                "sentence_idx": "1669"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05977,
+                    42.35843
+                ]
+            },
+            "properties": {
+                "source_label": "boston",
+                "geonames_label": "Boston",
+                "url": "https://www.geonames.org/4930956",
+                "sentence_idx": "1671"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10832,
+                    42.36565
+                ]
+            },
+            "properties": {
+                "source_label": "massachuset",
+                "geonames_label": "Massachusetts",
+                "url": "https://www.geonames.org/6254926",
+                "sentence_idx": "1675"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7,
+                    40.8
+                ]
+            },
+            "properties": {
+                "source_label": "pensylvanien",
+                "geonames_label": "Pennsylvania",
+                "url": "https://www.geonames.org/6254927",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.74997,
+                    39.00039
+                ]
+            },
+            "properties": {
+                "source_label": "maryland",
+                "geonames_label": "Maryland",
+                "url": "https://www.geonames.org/4361885",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.00009,
+                    34.00043
+                ]
+            },
+            "properties": {
+                "source_label": "sued carolina",
+                "geonames_label": "South Carolina",
+                "url": "https://www.geonames.org/4597040",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50018,
+                    32.75042
+                ]
+            },
+            "properties": {
+                "source_label": "georgien",
+                "geonames_label": "Georgia",
+                "url": "https://www.geonames.org/4197000",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.75766,
+                    43.07704
+                ]
+            },
+            "properties": {
+                "source_label": "portsmouth",
+                "geonames_label": "Portsmouth",
+                "url": "https://www.geonames.org/5091383",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05977,
+                    42.35843
+                ]
+            },
+            "properties": {
+                "source_label": "boston",
+                "geonames_label": "Boston",
+                "url": "https://www.geonames.org/4930956",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.31283,
+                    41.4901
+                ]
+            },
+            "properties": {
+                "source_label": "new port",
+                "geonames_label": "Newport",
+                "url": "https://www.geonames.org/5223593",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.92816,
+                    41.30815
+                ]
+            },
+            "properties": {
+                "source_label": "new haven",
+                "geonames_label": "New Haven",
+                "url": "https://www.geonames.org/4839366",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00597,
+                    40.71427
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75623,
+                    42.65258
+                ]
+            },
+            "properties": {
+                "source_label": "albany",
+                "geonames_label": "Albany",
+                "url": "https://www.geonames.org/5106834",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.26542,
+                    40.50677
+                ]
+            },
+            "properties": {
+                "source_label": "amboy",
+                "geonames_label": "Perth Amboy",
+                "url": "https://www.geonames.org/5102578",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16362,
+                    39.95238
+                ]
+            },
+            "properties": {
+                "source_label": "philadelphia",
+                "geonames_label": "Philadelphia",
+                "url": "https://www.geonames.org/4560349",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61219,
+                    39.29038
+                ]
+            },
+            "properties": {
+                "source_label": "baltimore",
+                "geonames_label": "Baltimore",
+                "url": "https://www.geonames.org/4347778",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.49184,
+                    38.97859
+                ]
+            },
+            "properties": {
+                "source_label": "annapolis",
+                "geonames_label": "Annapolis",
+                "url": "https://www.geonames.org/4347242",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70746,
+                    37.2707
+                ]
+            },
+            "properties": {
+                "source_label": "williamsburg",
+                "geonames_label": "Williamsburg",
+                "url": "https://www.geonames.org/4793846",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.27494,
+                    36.81904
+                ]
+            },
+            "properties": {
+                "source_label": "chesapeack",
+                "geonames_label": "Chesapeake",
+                "url": "https://www.geonames.org/4752186",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.54659,
+                    39.74595
+                ]
+            },
+            "properties": {
+                "source_label": "wilmington",
+                "geonames_label": "Wilmington",
+                "url": "https://www.geonames.org/4145381",
+                "sentence_idx": "1679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.85902,
+                    36.76478
+                ]
+            },
+            "properties": {
+                "source_label": "brunswick",
+                "geonames_label": "Brunswick",
+                "url": "https://www.geonames.org/4749396",
+                "sentence_idx": "1679"
+            }
+        }
+    ]
+}

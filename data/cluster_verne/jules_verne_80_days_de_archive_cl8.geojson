@@ -1,1 +1,197 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.75103, 39.25024]}, "properties": {"source_label": "Utah", "geonames_label": "Provo", "url": "https://www.geonames.org/5780026", "sentence_idx": 3506}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.97383, 41.223]}, "properties": {"source_label": "Ogden", "geonames_label": "Ogden", "url": "https://www.geonames.org/5779206", "sentence_idx": 3511}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3511}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-112.53491, 41.16266]}, "properties": {"source_label": "Salzsee", "geonames_label": "Great Salt Lake", "url": "https://www.geonames.org/5775376", "sentence_idx": 3518}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-109.45069, 41.51802]}, "properties": {"source_label": "Bitter-Creek", "geonames_label": "Bitter Creek", "url": "https://www.geonames.org/5818876", "sentence_idx": 3519}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.38433, 41.31662]}, "properties": {"source_label": "Fort-Bridger", "geonames_label": "Fort Bridger", "url": "https://www.geonames.org/5825393", "sentence_idx": 3525}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.5009, 43.00024]}, "properties": {"source_label": "Wyoming", "geonames_label": "Wyoming", "url": "https://www.geonames.org/5843591", "sentence_idx": 3525}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-109.45069, 41.51802]}, "properties": {"source_label": "Bitter-Creek", "geonames_label": "Bitter Creek", "url": "https://www.geonames.org/5818876", "sentence_idx": 3525}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.50083, 39.00027]}, "properties": {"source_label": "Colorado", "geonames_label": "Colorado", "url": "https://www.geonames.org/5417618", "sentence_idx": 3525}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-109.46625, 41.52858]}, "properties": {"source_label": "Green-River", "geonames_label": "Green River", "url": "https://www.geonames.org/5826559", "sentence_idx": 3526}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-109.46625, 41.52858]}, "properties": {"source_label": "Green-River", "geonames_label": "Green River", "url": "https://www.geonames.org/5826559", "sentence_idx": 3536}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3537}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.75103,
+                    39.25024
+                ]
+            },
+            "properties": {
+                "source_label": "Utah",
+                "geonames_label": "Provo",
+                "url": "https://www.geonames.org/5780026",
+                "sentence_idx": "3506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.97383,
+                    41.223
+                ]
+            },
+            "properties": {
+                "source_label": "Ogden",
+                "geonames_label": "Ogden",
+                "url": "https://www.geonames.org/5779206",
+                "sentence_idx": "3511"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3511"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.53491,
+                    41.16266
+                ]
+            },
+            "properties": {
+                "source_label": "Salzsee",
+                "geonames_label": "Great Salt Lake",
+                "url": "https://www.geonames.org/5775376",
+                "sentence_idx": "3518"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.45069,
+                    41.51802
+                ]
+            },
+            "properties": {
+                "source_label": "Bitter-Creek",
+                "geonames_label": "Bitter Creek",
+                "url": "https://www.geonames.org/5818876",
+                "sentence_idx": "3519"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.38433,
+                    41.31662
+                ]
+            },
+            "properties": {
+                "source_label": "Fort-Bridger",
+                "geonames_label": "Fort Bridger",
+                "url": "https://www.geonames.org/5825393",
+                "sentence_idx": "3525"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.5009,
+                    43.00024
+                ]
+            },
+            "properties": {
+                "source_label": "Wyoming",
+                "geonames_label": "Wyoming",
+                "url": "https://www.geonames.org/5843591",
+                "sentence_idx": "3525"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.45069,
+                    41.51802
+                ]
+            },
+            "properties": {
+                "source_label": "Bitter-Creek",
+                "geonames_label": "Bitter Creek",
+                "url": "https://www.geonames.org/5818876",
+                "sentence_idx": "3525"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.50083,
+                    39.00027
+                ]
+            },
+            "properties": {
+                "source_label": "Colorado",
+                "geonames_label": "Colorado",
+                "url": "https://www.geonames.org/5417618",
+                "sentence_idx": "3525"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.46625,
+                    41.52858
+                ]
+            },
+            "properties": {
+                "source_label": "Green-River",
+                "geonames_label": "Green River",
+                "url": "https://www.geonames.org/5826559",
+                "sentence_idx": "3526"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.46625,
+                    41.52858
+                ]
+            },
+            "properties": {
+                "source_label": "Green-River",
+                "geonames_label": "Green River",
+                "url": "https://www.geonames.org/5826559",
+                "sentence_idx": "3536"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3537"
+            }
+        }
+    ]
+}

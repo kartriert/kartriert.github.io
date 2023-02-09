@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [45.0, 25.0]}, "properties": {"source_label": "arabien", "geonames_label": "Saudi Arabia", "url": "https://www.geonames.org/102358", "sentence_idx": 8447}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [43.42013, 12.65692]}, "properties": {"source_label": "perim", "geonames_label": "Perim", "url": "https://www.geonames.org/77111", "sentence_idx": 8449}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.5, 9.0]}, "properties": {"source_label": "etiopien", "geonames_label": "Ethiopia", "url": "https://www.geonames.org/337996", "sentence_idx": 8463}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.0,
+                    25.0
+                ]
+            },
+            "properties": {
+                "source_label": "arabien",
+                "geonames_label": "Saudi Arabia",
+                "url": "https://www.geonames.org/102358",
+                "sentence_idx": "8447"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.42013,
+                    12.65692
+                ]
+            },
+            "properties": {
+                "source_label": "perim",
+                "geonames_label": "Perim",
+                "url": "https://www.geonames.org/77111",
+                "sentence_idx": "8449"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5,
+                    9.0
+                ]
+            },
+            "properties": {
+                "source_label": "etiopien",
+                "geonames_label": "Ethiopia",
+                "url": "https://www.geonames.org/337996",
+                "sentence_idx": "8463"
+            }
+        }
+    ]
+}

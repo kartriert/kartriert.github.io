@@ -1,1 +1,277 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.6378, 48.80556]}, "properties": {"source_label": "nikolsburg", "geonames_label": "Mikulov", "url": "https://www.geonames.org/3070720", "sentence_idx": 91}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.6378, 48.80556]}, "properties": {"source_label": "nikolsburg", "geonames_label": "Mikulov", "url": "https://www.geonames.org/3070720", "sentence_idx": 93}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.75499, 48.74069]}, "properties": {"source_label": "feldsberg", "geonames_label": "Valtice", "url": "https://www.geonames.org/3063409", "sentence_idx": 97}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.26811, 40.85216]}, "properties": {"source_label": "neapel", "geonames_label": "Naples", "url": "https://www.geonames.org/3172394", "sentence_idx": 97}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.6378, 48.80556]}, "properties": {"source_label": "nikolsburg", "geonames_label": "Mikulov", "url": "https://www.geonames.org/3070720", "sentence_idx": 98}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.53333, 47.16667]}, "properties": {"source_label": "liechtenstein", "geonames_label": "Liechtenstein", "url": "https://www.geonames.org/3042058", "sentence_idx": 99}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.28611, 48.30639]}, "properties": {"source_label": "linz", "geonames_label": "Linz", "url": "https://www.geonames.org/2772400", "sentence_idx": 109}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.75499, 48.74069]}, "properties": {"source_label": "feldsberg", "geonames_label": "Valtice", "url": "https://www.geonames.org/3063409", "sentence_idx": 109}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 109}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.75499, 48.74069]}, "properties": {"source_label": "feldsberg", "geonames_label": "Valtice", "url": "https://www.geonames.org/3063409", "sentence_idx": 114}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.53333, 47.16667]}, "properties": {"source_label": "liechtenstein", "geonames_label": "Liechtenstein", "url": "https://www.geonames.org/3042058", "sentence_idx": 115}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.0, 51.0]}, "properties": {"source_label": "schlesien", "geonames_label": "Silesia", "url": "https://www.geonames.org/3066138", "sentence_idx": 116}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 116}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.53333, 47.16667]}, "properties": {"source_label": "liechtenstein", "geonames_label": "Liechtenstein", "url": "https://www.geonames.org/3042058", "sentence_idx": 116}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.75499, 48.74069]}, "properties": {"source_label": "feldsberg", "geonames_label": "Valtice", "url": "https://www.geonames.org/3063409", "sentence_idx": 117}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3488, 48.85341]}, "properties": {"source_label": "paris", "geonames_label": "Paris", "url": "https://www.geonames.org/2988507", "sentence_idx": 127}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.6378, 48.80556]}, "properties": {"source_label": "nikolsburg", "geonames_label": "Mikulov", "url": "https://www.geonames.org/3070720", "sentence_idx": 129}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6378,
+                    48.80556
+                ]
+            },
+            "properties": {
+                "source_label": "nikolsburg",
+                "geonames_label": "Mikulov",
+                "url": "https://www.geonames.org/3070720",
+                "sentence_idx": "91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6378,
+                    48.80556
+                ]
+            },
+            "properties": {
+                "source_label": "nikolsburg",
+                "geonames_label": "Mikulov",
+                "url": "https://www.geonames.org/3070720",
+                "sentence_idx": "93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75499,
+                    48.74069
+                ]
+            },
+            "properties": {
+                "source_label": "feldsberg",
+                "geonames_label": "Valtice",
+                "url": "https://www.geonames.org/3063409",
+                "sentence_idx": "97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26811,
+                    40.85216
+                ]
+            },
+            "properties": {
+                "source_label": "neapel",
+                "geonames_label": "Naples",
+                "url": "https://www.geonames.org/3172394",
+                "sentence_idx": "97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6378,
+                    48.80556
+                ]
+            },
+            "properties": {
+                "source_label": "nikolsburg",
+                "geonames_label": "Mikulov",
+                "url": "https://www.geonames.org/3070720",
+                "sentence_idx": "98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53333,
+                    47.16667
+                ]
+            },
+            "properties": {
+                "source_label": "liechtenstein",
+                "geonames_label": "Liechtenstein",
+                "url": "https://www.geonames.org/3042058",
+                "sentence_idx": "99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28611,
+                    48.30639
+                ]
+            },
+            "properties": {
+                "source_label": "linz",
+                "geonames_label": "Linz",
+                "url": "https://www.geonames.org/2772400",
+                "sentence_idx": "109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75499,
+                    48.74069
+                ]
+            },
+            "properties": {
+                "source_label": "feldsberg",
+                "geonames_label": "Valtice",
+                "url": "https://www.geonames.org/3063409",
+                "sentence_idx": "109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75499,
+                    48.74069
+                ]
+            },
+            "properties": {
+                "source_label": "feldsberg",
+                "geonames_label": "Valtice",
+                "url": "https://www.geonames.org/3063409",
+                "sentence_idx": "114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53333,
+                    47.16667
+                ]
+            },
+            "properties": {
+                "source_label": "liechtenstein",
+                "geonames_label": "Liechtenstein",
+                "url": "https://www.geonames.org/3042058",
+                "sentence_idx": "115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0,
+                    51.0
+                ]
+            },
+            "properties": {
+                "source_label": "schlesien",
+                "geonames_label": "Silesia",
+                "url": "https://www.geonames.org/3066138",
+                "sentence_idx": "116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53333,
+                    47.16667
+                ]
+            },
+            "properties": {
+                "source_label": "liechtenstein",
+                "geonames_label": "Liechtenstein",
+                "url": "https://www.geonames.org/3042058",
+                "sentence_idx": "116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75499,
+                    48.74069
+                ]
+            },
+            "properties": {
+                "source_label": "feldsberg",
+                "geonames_label": "Valtice",
+                "url": "https://www.geonames.org/3063409",
+                "sentence_idx": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3488,
+                    48.85341
+                ]
+            },
+            "properties": {
+                "source_label": "paris",
+                "geonames_label": "Paris",
+                "url": "https://www.geonames.org/2988507",
+                "sentence_idx": "127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6378,
+                    48.80556
+                ]
+            },
+            "properties": {
+                "source_label": "nikolsburg",
+                "geonames_label": "Mikulov",
+                "url": "https://www.geonames.org/3070720",
+                "sentence_idx": "129"
+            }
+        }
+    ]
+}

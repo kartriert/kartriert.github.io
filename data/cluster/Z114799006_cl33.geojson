@@ -1,1 +1,197 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 964}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 967}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.75, 52.25]}, "properties": {"source_label": "holland", "geonames_label": "Netherlands", "url": "https://www.geonames.org/2750405", "sentence_idx": 969}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.75, 52.25]}, "properties": {"source_label": "vereinigten niederlanden", "geonames_label": "Netherlands", "url": "https://www.geonames.org/2750405", "sentence_idx": 972}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.88969, 52.37403]}, "properties": {"source_label": "amsterdam", "geonames_label": "Amsterdam", "url": "https://www.geonames.org/2759794", "sentence_idx": 980}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.75, 52.25]}, "properties": {"source_label": "holland", "geonames_label": "Netherlands", "url": "https://www.geonames.org/2750405", "sentence_idx": 985}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 985}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 985}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbritannien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 994}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 994}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 994}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 995}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "964"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": "967"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75,
+                    52.25
+                ]
+            },
+            "properties": {
+                "source_label": "holland",
+                "geonames_label": "Netherlands",
+                "url": "https://www.geonames.org/2750405",
+                "sentence_idx": "969"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75,
+                    52.25
+                ]
+            },
+            "properties": {
+                "source_label": "vereinigten niederlanden",
+                "geonames_label": "Netherlands",
+                "url": "https://www.geonames.org/2750405",
+                "sentence_idx": "972"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.88969,
+                    52.37403
+                ]
+            },
+            "properties": {
+                "source_label": "amsterdam",
+                "geonames_label": "Amsterdam",
+                "url": "https://www.geonames.org/2759794",
+                "sentence_idx": "980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75,
+                    52.25
+                ]
+            },
+            "properties": {
+                "source_label": "holland",
+                "geonames_label": "Netherlands",
+                "url": "https://www.geonames.org/2750405",
+                "sentence_idx": "985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbritannien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": "994"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "994"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "994"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "995"
+            }
+        }
+    ]
+}

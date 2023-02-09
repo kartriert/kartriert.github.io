@@ -1,1 +1,181 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.56553, 55.67594]}, "properties": {"source_label": "kopenhagen", "geonames_label": "Copenhagen", "url": "https://www.geonames.org/2618425", "sentence_idx": 15}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 52.0]}, "properties": {"source_label": "polen", "geonames_label": "Poland", "url": "https://www.geonames.org/798544", "sentence_idx": 16}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.0, 56.0]}, "properties": {"source_label": "daenemark", "geonames_label": "Denmark", "url": "https://www.geonames.org/2623032", "sentence_idx": 28}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.93228, 51.53443]}, "properties": {"source_label": "g\u00f6ttingen", "geonames_label": "G\u00f6ttingen", "url": "https://www.geonames.org/2918632", "sentence_idx": 33}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 34}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 34}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 41}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.56553, 55.67594]}, "properties": {"source_label": "kopenhagen", "geonames_label": "Copenhagen", "url": "https://www.geonames.org/2618425", "sentence_idx": 42}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.56553, 55.67594]}, "properties": {"source_label": "kopenhagen", "geonames_label": "Copenhagen", "url": "https://www.geonames.org/2618425", "sentence_idx": 51}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.56553, 55.67594]}, "properties": {"source_label": "kopenhagen", "geonames_label": "Copenhagen", "url": "https://www.geonames.org/2618425", "sentence_idx": 63}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 71}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56553,
+                    55.67594
+                ]
+            },
+            "properties": {
+                "source_label": "kopenhagen",
+                "geonames_label": "Copenhagen",
+                "url": "https://www.geonames.org/2618425",
+                "sentence_idx": "15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "polen",
+                "geonames_label": "Poland",
+                "url": "https://www.geonames.org/798544",
+                "sentence_idx": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0,
+                    56.0
+                ]
+            },
+            "properties": {
+                "source_label": "daenemark",
+                "geonames_label": "Denmark",
+                "url": "https://www.geonames.org/2623032",
+                "sentence_idx": "28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.93228,
+                    51.53443
+                ]
+            },
+            "properties": {
+                "source_label": "g\u00f6ttingen",
+                "geonames_label": "G\u00f6ttingen",
+                "url": "https://www.geonames.org/2918632",
+                "sentence_idx": "33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": "34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56553,
+                    55.67594
+                ]
+            },
+            "properties": {
+                "source_label": "kopenhagen",
+                "geonames_label": "Copenhagen",
+                "url": "https://www.geonames.org/2618425",
+                "sentence_idx": "42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56553,
+                    55.67594
+                ]
+            },
+            "properties": {
+                "source_label": "kopenhagen",
+                "geonames_label": "Copenhagen",
+                "url": "https://www.geonames.org/2618425",
+                "sentence_idx": "51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56553,
+                    55.67594
+                ]
+            },
+            "properties": {
+                "source_label": "kopenhagen",
+                "geonames_label": "Copenhagen",
+                "url": "https://www.geonames.org/2618425",
+                "sentence_idx": "63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "71"
+            }
+        }
+    ]
+}

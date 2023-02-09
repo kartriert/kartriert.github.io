@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 1722}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 1725}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.13424, 48.80359]}, "properties": {"source_label": "versailles", "geonames_label": "Versailles", "url": "https://www.geonames.org/2969679", "sentence_idx": 1725}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.75, 52.25]}, "properties": {"source_label": "vereinigten niederlande", "geonames_label": "Netherlands", "url": "https://www.geonames.org/2750405", "sentence_idx": 1726}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreichs", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 1726}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 1732}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "london", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 1734}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "1722"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": "1725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.13424,
+                    48.80359
+                ]
+            },
+            "properties": {
+                "source_label": "versailles",
+                "geonames_label": "Versailles",
+                "url": "https://www.geonames.org/2969679",
+                "sentence_idx": "1725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75,
+                    52.25
+                ]
+            },
+            "properties": {
+                "source_label": "vereinigten niederlande",
+                "geonames_label": "Netherlands",
+                "url": "https://www.geonames.org/2750405",
+                "sentence_idx": "1726"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreichs",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": "1726"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "1732"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "london",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": "1734"
+            }
+        }
+    ]
+}

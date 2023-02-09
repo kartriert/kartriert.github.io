@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.11199, 41.11293]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3347}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.48078, 32.60986]}, "properties": {"source_label": "Auburn", "geonames_label": "Auburn", "url": "https://www.geonames.org/4830796", "sentence_idx": 3350}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.08646, 41.57402]}, "properties": {"source_label": "Colfax", "geonames_label": "Colfax", "url": "https://www.geonames.org/5065953", "sentence_idx": 3350}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.11199,
+                    41.11293
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "3347"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.48078,
+                    32.60986
+                ]
+            },
+            "properties": {
+                "source_label": "Auburn",
+                "geonames_label": "Auburn",
+                "url": "https://www.geonames.org/4830796",
+                "sentence_idx": "3350"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.08646,
+                    41.57402
+                ]
+            },
+            "properties": {
+                "source_label": "Colfax",
+                "geonames_label": "Colfax",
+                "url": "https://www.geonames.org/5065953",
+                "sentence_idx": "3350"
+            }
+        }
+    ]
+}

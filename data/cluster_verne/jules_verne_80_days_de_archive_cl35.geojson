@@ -1,1 +1,197 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [83.01041, 25.31668]}, "properties": {"source_label": "Benares", "geonames_label": "Varanasi", "url": "https://www.geonames.org/1253405", "sentence_idx": 1630}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [83.01041, 25.31668]}, "properties": {"source_label": "Benares", "geonames_label": "Varanasi", "url": "https://www.geonames.org/1253405", "sentence_idx": 1641}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1646}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [82.8821, 25.12776]}, "properties": {"source_label": "Chunar", "geonames_label": "Chun\u0101r", "url": "https://www.geonames.org/1273923", "sentence_idx": 1648}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [83.01041, 25.31668]}, "properties": {"source_label": "Benares", "geonames_label": "Varanasi", "url": "https://www.geonames.org/1253405", "sentence_idx": 1648}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [85.75, 25.75]}, "properties": {"source_label": "Behar", "geonames_label": "Bihar", "url": "https://www.geonames.org/1275715", "sentence_idx": 1648}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [84.1, 25.5]}, "properties": {"source_label": "Buxar", "geonames_label": "Buxar", "url": "https://www.geonames.org/1275019", "sentence_idx": 1648}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [85.16667, 25.41667]}, "properties": {"source_label": "Patna", "geonames_label": "Patna", "url": "https://www.geonames.org/1260086", "sentence_idx": 1648}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [71.90175, 32.80953]}, "properties": {"source_label": "Murshedabad", "geonames_label": "Murshedabad", "url": "https://www.geonames.org/1335358", "sentence_idx": 1649}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 1650}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indiens", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1652}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1653}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.01041,
+                    25.31668
+                ]
+            },
+            "properties": {
+                "source_label": "Benares",
+                "geonames_label": "Varanasi",
+                "url": "https://www.geonames.org/1253405",
+                "sentence_idx": "1630"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.01041,
+                    25.31668
+                ]
+            },
+            "properties": {
+                "source_label": "Benares",
+                "geonames_label": "Varanasi",
+                "url": "https://www.geonames.org/1253405",
+                "sentence_idx": "1641"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "1646"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8821,
+                    25.12776
+                ]
+            },
+            "properties": {
+                "source_label": "Chunar",
+                "geonames_label": "Chun\u0101r",
+                "url": "https://www.geonames.org/1273923",
+                "sentence_idx": "1648"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.01041,
+                    25.31668
+                ]
+            },
+            "properties": {
+                "source_label": "Benares",
+                "geonames_label": "Varanasi",
+                "url": "https://www.geonames.org/1253405",
+                "sentence_idx": "1648"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.75,
+                    25.75
+                ]
+            },
+            "properties": {
+                "source_label": "Behar",
+                "geonames_label": "Bihar",
+                "url": "https://www.geonames.org/1275715",
+                "sentence_idx": "1648"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.1,
+                    25.5
+                ]
+            },
+            "properties": {
+                "source_label": "Buxar",
+                "geonames_label": "Buxar",
+                "url": "https://www.geonames.org/1275019",
+                "sentence_idx": "1648"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.16667,
+                    25.41667
+                ]
+            },
+            "properties": {
+                "source_label": "Patna",
+                "geonames_label": "Patna",
+                "url": "https://www.geonames.org/1260086",
+                "sentence_idx": "1648"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.90175,
+                    32.80953
+                ]
+            },
+            "properties": {
+                "source_label": "Murshedabad",
+                "geonames_label": "Murshedabad",
+                "url": "https://www.geonames.org/1335358",
+                "sentence_idx": "1649"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": "1650"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indiens",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "1652"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "1653"
+            }
+        }
+    ]
+}

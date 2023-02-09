@@ -1,1 +1,165 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 1424}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 1434}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "akadien", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 1434}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 1437}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 1438}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.99907, 52.00017]}, "properties": {"source_label": "quebeck", "geonames_label": "Quebec", "url": "https://www.geonames.org/6115047", "sentence_idx": 1444}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.58781, 45.50884]}, "properties": {"source_label": "mont real", "geonames_label": "Montreal", "url": "https://www.geonames.org/6077243", "sentence_idx": 1445}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-64.50056, 49.66667]}, "properties": {"source_label": "laurenzfluss", "geonames_label": "Saint Lawrence River", "url": "https://www.geonames.org/7315779", "sentence_idx": 1446}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-64.50056, 49.66667]}, "properties": {"source_label": "laurenzstrom", "geonames_label": "Saint Lawrence River", "url": "https://www.geonames.org/7315779", "sentence_idx": 1448}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-55.39832, 46.91664]}, "properties": {"source_label": "st laurenz", "geonames_label": "St. Lawrence", "url": "https://www.geonames.org/6156979", "sentence_idx": 1450}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": "1424"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "1434"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "akadien",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "1434"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": "1437"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": "1438"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99907,
+                    52.00017
+                ]
+            },
+            "properties": {
+                "source_label": "quebeck",
+                "geonames_label": "Quebec",
+                "url": "https://www.geonames.org/6115047",
+                "sentence_idx": "1444"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.58781,
+                    45.50884
+                ]
+            },
+            "properties": {
+                "source_label": "mont real",
+                "geonames_label": "Montreal",
+                "url": "https://www.geonames.org/6077243",
+                "sentence_idx": "1445"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.50056,
+                    49.66667
+                ]
+            },
+            "properties": {
+                "source_label": "laurenzfluss",
+                "geonames_label": "Saint Lawrence River",
+                "url": "https://www.geonames.org/7315779",
+                "sentence_idx": "1446"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.50056,
+                    49.66667
+                ]
+            },
+            "properties": {
+                "source_label": "laurenzstrom",
+                "geonames_label": "Saint Lawrence River",
+                "url": "https://www.geonames.org/7315779",
+                "sentence_idx": "1448"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.39832,
+                    46.91664
+                ]
+            },
+            "properties": {
+                "source_label": "st laurenz",
+                "geonames_label": "St. Lawrence",
+                "url": "https://www.geonames.org/6156979",
+                "sentence_idx": "1450"
+            }
+        }
+    ]
+}

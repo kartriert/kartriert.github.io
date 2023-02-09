@@ -1,1 +1,261 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2241}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2255}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2266}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2272}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2277}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [31.24967, 30.06263]}, "properties": {"source_label": "cairo", "geonames_label": "Cairo", "url": "https://www.geonames.org/360630", "sentence_idx": 2282}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2290}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [32.52627, 29.97371]}, "properties": {"source_label": "sues", "geonames_label": "Suez", "url": "https://www.geonames.org/359796", "sentence_idx": 2294}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [31.25, 29.86667]}, "properties": {"source_label": "memphis", "geonames_label": "Memphis", "url": "https://www.geonames.org/352547", "sentence_idx": 2295}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2296}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [31.24967, 30.06263]}, "properties": {"source_label": "masr el atik", "geonames_label": "Cairo", "url": "https://www.geonames.org/360630", "sentence_idx": 2298}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2298}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [31.25, 29.86667]}, "properties": {"source_label": "memphis", "geonames_label": "Memphis", "url": "https://www.geonames.org/352547", "sentence_idx": 2301}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [31.25, 29.86667]}, "properties": {"source_label": "memphis", "geonames_label": "Memphis", "url": "https://www.geonames.org/352547", "sentence_idx": 2301}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2303}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 2305}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2255"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2266"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2272"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2277"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.24967,
+                    30.06263
+                ]
+            },
+            "properties": {
+                "source_label": "cairo",
+                "geonames_label": "Cairo",
+                "url": "https://www.geonames.org/360630",
+                "sentence_idx": "2282"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2290"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.52627,
+                    29.97371
+                ]
+            },
+            "properties": {
+                "source_label": "sues",
+                "geonames_label": "Suez",
+                "url": "https://www.geonames.org/359796",
+                "sentence_idx": "2294"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25,
+                    29.86667
+                ]
+            },
+            "properties": {
+                "source_label": "memphis",
+                "geonames_label": "Memphis",
+                "url": "https://www.geonames.org/352547",
+                "sentence_idx": "2295"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2296"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.24967,
+                    30.06263
+                ]
+            },
+            "properties": {
+                "source_label": "masr el atik",
+                "geonames_label": "Cairo",
+                "url": "https://www.geonames.org/360630",
+                "sentence_idx": "2298"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2298"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25,
+                    29.86667
+                ]
+            },
+            "properties": {
+                "source_label": "memphis",
+                "geonames_label": "Memphis",
+                "url": "https://www.geonames.org/352547",
+                "sentence_idx": "2301"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25,
+                    29.86667
+                ]
+            },
+            "properties": {
+                "source_label": "memphis",
+                "geonames_label": "Memphis",
+                "url": "https://www.geonames.org/352547",
+                "sentence_idx": "2301"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2303"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "2305"
+            }
+        }
+    ]
+}

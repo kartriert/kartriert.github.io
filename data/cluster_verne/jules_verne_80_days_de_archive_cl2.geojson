@@ -1,1 +1,149 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.79096, 19.99727]}, "properties": {"source_label": "Nassik", "geonames_label": "Nashik", "url": "https://www.geonames.org/1261731", "sentence_idx": 1101}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [75.32, 19.88]}, "properties": {"source_label": "Aurungabad", "geonames_label": null, "url": "https://www.wikidata.org/wiki/Q200713", "sentence_idx": 1112}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [69.40917, 32.83111]}, "properties": {"source_label": "Nizam", "geonames_label": "Niz\u0327\u0101m Kh\u0113l", "url": "https://www.geonames.org/1452827", "sentence_idx": 1112}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [76.23026, 21.30868]}, "properties": {"source_label": "Burhampur", "geonames_label": "Burh\u0101npur", "url": "https://www.geonames.org/1275068", "sentence_idx": 1115}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.68311, 21.07194]}, "properties": {"source_label": "Tapty", "geonames_label": "T\u0101pti River", "url": "https://www.geonames.org/1254944", "sentence_idx": 1116}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.83023, 21.19594]}, "properties": {"source_label": "Surate", "geonames_label": "Surat", "url": "https://www.geonames.org/1255364", "sentence_idx": 1116}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.61916, 22.31744]}, "properties": {"source_label": "Cambaye", "geonames_label": "Khambh\u0101t", "url": "https://www.geonames.org/1267090", "sentence_idx": 1116}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1118}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1119}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.79096,
+                    19.99727
+                ]
+            },
+            "properties": {
+                "source_label": "Nassik",
+                "geonames_label": "Nashik",
+                "url": "https://www.geonames.org/1261731",
+                "sentence_idx": "1101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.32,
+                    19.88
+                ]
+            },
+            "properties": {
+                "source_label": "Aurungabad",
+                "geonames_label": "None",
+                "url": "https://www.wikidata.org/wiki/Q200713",
+                "sentence_idx": "1112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.40917,
+                    32.83111
+                ]
+            },
+            "properties": {
+                "source_label": "Nizam",
+                "geonames_label": "Niz\u0327\u0101m Kh\u0113l",
+                "url": "https://www.geonames.org/1452827",
+                "sentence_idx": "1112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.23026,
+                    21.30868
+                ]
+            },
+            "properties": {
+                "source_label": "Burhampur",
+                "geonames_label": "Burh\u0101npur",
+                "url": "https://www.geonames.org/1275068",
+                "sentence_idx": "1115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.68311,
+                    21.07194
+                ]
+            },
+            "properties": {
+                "source_label": "Tapty",
+                "geonames_label": "T\u0101pti River",
+                "url": "https://www.geonames.org/1254944",
+                "sentence_idx": "1116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.83023,
+                    21.19594
+                ]
+            },
+            "properties": {
+                "source_label": "Surate",
+                "geonames_label": "Surat",
+                "url": "https://www.geonames.org/1255364",
+                "sentence_idx": "1116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.61916,
+                    22.31744
+                ]
+            },
+            "properties": {
+                "source_label": "Cambaye",
+                "geonames_label": "Khambh\u0101t",
+                "url": "https://www.geonames.org/1267090",
+                "sentence_idx": "1116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "1118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "1119"
+            }
+        }
+    ]
+}

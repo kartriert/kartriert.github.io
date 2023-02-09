@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.5, 50.31667]}, "properties": {"source_label": "anspach", "geonames_label": "Neu-Anspach", "url": "https://www.geonames.org/2866280", "sentence_idx": 1476}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.0, 62.0]}, "properties": {"source_label": "schweden", "geonames_label": "Sweden", "url": "https://www.geonames.org/2661886", "sentence_idx": 1477}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.25, 51.0]}, "properties": {"source_label": "sachsen", "geonames_label": "Saxony", "url": "https://www.geonames.org/2842566", "sentence_idx": 1487}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 1491}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5,
+                    50.31667
+                ]
+            },
+            "properties": {
+                "source_label": "anspach",
+                "geonames_label": "Neu-Anspach",
+                "url": "https://www.geonames.org/2866280",
+                "sentence_idx": "1476"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0,
+                    62.0
+                ]
+            },
+            "properties": {
+                "source_label": "schweden",
+                "geonames_label": "Sweden",
+                "url": "https://www.geonames.org/2661886",
+                "sentence_idx": "1477"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25,
+                    51.0
+                ]
+            },
+            "properties": {
+                "source_label": "sachsen",
+                "geonames_label": "Saxony",
+                "url": "https://www.geonames.org/2842566",
+                "sentence_idx": "1487"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": "1491"
+            }
+        }
+    ]
+}

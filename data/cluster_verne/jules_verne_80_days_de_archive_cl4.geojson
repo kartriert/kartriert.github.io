@@ -1,1 +1,725 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3293}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.5, 39.76]}, "properties": {"source_label": "Vereinigten Staaten", "geonames_label": "United States", "url": "https://www.geonames.org/6252001", "sentence_idx": 3305}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "Amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 3305}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3307}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.97383, 41.223]}, "properties": {"source_label": "Ogden", "geonames_label": "Ogden", "url": "https://www.geonames.org/5779206", "sentence_idx": 3307}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.97383, 41.223]}, "properties": {"source_label": "Ogden", "geonames_label": "Ogden", "url": "https://www.geonames.org/5779206", "sentence_idx": 3307}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.11199, 41.11293]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3307}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.11199, 41.11293]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.00597, 40.71427]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 3308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 3309}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3309}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.11199, 41.11293]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3310}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.25037, 40.00032]}, "properties": {"source_label": "Illinois", "geonames_label": "Illinois", "url": "https://www.geonames.org/4896861", "sentence_idx": 3310}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 3311}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3311}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.11199, 41.11293]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3314}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.75067, 41.50028]}, "properties": {"source_label": "Nebraska", "geonames_label": "Nebraska", "url": "https://www.geonames.org/5073708", "sentence_idx": 3314}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.50049, 42.00027]}, "properties": {"source_label": "Iowa", "geonames_label": "Iowa", "url": "https://www.geonames.org/4862182", "sentence_idx": 3319}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-94.57857, 39.09973]}, "properties": {"source_label": "Kansas", "geonames_label": "Kansas City", "url": "https://www.geonames.org/4393217", "sentence_idx": 3319}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.50083, 39.00027]}, "properties": {"source_label": "Colorado", "geonames_label": "Colorado Springs", "url": "https://www.geonames.org/5417598", "sentence_idx": 3319}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-120.50139, 44.00013]}, "properties": {"source_label": "Oregon", "geonames_label": "Oregon", "url": "https://www.geonames.org/5744337", "sentence_idx": 3319}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.11199, 41.11293]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-104.68962, 41.30707]}, "properties": {"source_label": "Laramie-Landschaft", "geonames_label": "Laramie", "url": "https://www.geonames.org/5830051", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-112.53491, 41.16266]}, "properties": {"source_label": "Salzsee", "geonames_label": "Great Salt Lake", "url": "https://www.geonames.org/5775376", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.92403, 40.66758]}, "properties": {"source_label": "Lake-Salt-City", "geonames_label": "Salt Lake City", "url": "https://www.geonames.org/5780993", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-113.13106, 40.44875]}, "properties": {"source_label": "Tuilla", "geonames_label": "Tooele", "url": "https://www.geonames.org/5783699", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.36514, 40.05602]}, "properties": {"source_label": "Humboldtgebirge", "geonames_label": "West Humboldt Range", "url": "https://www.geonames.org/5710024", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.29342, 36.57855]}, "properties": {"source_label": "Sierra Nevada", "geonames_label": "Sierra Nevada", "url": "https://www.geonames.org/5395648", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.34424, 38.44932]}, "properties": {"source_label": "Sacramento", "geonames_label": "Sacramento", "url": "https://www.geonames.org/5389489", "sentence_idx": 3320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 3321}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.2708, 37.80437]}, "properties": {"source_label": "Oakland", "geonames_label": "Oakland", "url": "https://www.geonames.org/5378538", "sentence_idx": 3330}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-116.81183, 35.67543]}, "properties": {"source_label": "Californien", "geonames_label": "Southern California", "url": "https://www.geonames.org/11071615", "sentence_idx": 3345}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3346}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.34424, 38.44932]}, "properties": {"source_label": "Sacramento", "geonames_label": "Sacramento", "url": "https://www.geonames.org/5389489", "sentence_idx": 3346}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.34424, 38.44932]}, "properties": {"source_label": "Sacramento", "geonames_label": "Sacramento", "url": "https://www.geonames.org/5389489", "sentence_idx": 3347}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.41942, 37.77493]}, "properties": {"source_label": "San Francisco", "geonames_label": "San Francisco", "url": "https://www.geonames.org/5391959", "sentence_idx": 3348}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.75126, 37.25022]}, "properties": {"source_label": "Kaliforniens", "geonames_label": "California", "url": "https://www.geonames.org/5332921", "sentence_idx": 3348}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.4944, 38.58157]}, "properties": {"source_label": "American River", "geonames_label": "Sacramento", "url": "https://www.geonames.org/5389489", "sentence_idx": 3348}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.34424, 38.44932]}, "properties": {"source_label": "Sacramento", "geonames_label": "Sacramento", "url": "https://www.geonames.org/5389489", "sentence_idx": 3349}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-116.81183, 35.67543]}, "properties": {"source_label": "Californien", "geonames_label": "Southern California", "url": "https://www.geonames.org/11071615", "sentence_idx": 3349}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.34424, 38.44932]}, "properties": {"source_label": "Sacramento", "geonames_label": "Sacramento", "url": "https://www.geonames.org/5389489", "sentence_idx": 3350}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.91714, 39.3438]}, "properties": {"source_label": "Sierra Nevada-Gebirges", "geonames_label": "Carson Range", "url": "https://www.geonames.org/5501368", "sentence_idx": 3350}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.91714, 39.3438]}, "properties": {"source_label": "Carson-Thal", "geonames_label": "Carson Range", "url": "https://www.geonames.org/5501368", "sentence_idx": 3357}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-116.75119, 39.25021]}, "properties": {"source_label": "Nevada", "geonames_label": "Nevada", "url": "https://www.geonames.org/5509151", "sentence_idx": 3357}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-116.75119, 39.25021]}, "properties": {"source_label": "Nevadastaates", "geonames_label": "Nevada", "url": "https://www.geonames.org/5509151", "sentence_idx": 3360}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3293"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.5,
+                    39.76
+                ]
+            },
+            "properties": {
+                "source_label": "Vereinigten Staaten",
+                "geonames_label": "United States",
+                "url": "https://www.geonames.org/6252001",
+                "sentence_idx": "3305"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "Amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "3305"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.97383,
+                    41.223
+                ]
+            },
+            "properties": {
+                "source_label": "Ogden",
+                "geonames_label": "Ogden",
+                "url": "https://www.geonames.org/5779206",
+                "sentence_idx": "3307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.97383,
+                    41.223
+                ]
+            },
+            "properties": {
+                "source_label": "Ogden",
+                "geonames_label": "Ogden",
+                "url": "https://www.geonames.org/5779206",
+                "sentence_idx": "3307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.11199,
+                    41.11293
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "3307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.11199,
+                    41.11293
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "3308"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00597,
+                    40.71427
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": "3308"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": "3309"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3309"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.11199,
+                    41.11293
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "3310"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.25037,
+                    40.00032
+                ]
+            },
+            "properties": {
+                "source_label": "Illinois",
+                "geonames_label": "Illinois",
+                "url": "https://www.geonames.org/4896861",
+                "sentence_idx": "3310"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": "3311"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3311"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.11199,
+                    41.11293
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "3314"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.75067,
+                    41.50028
+                ]
+            },
+            "properties": {
+                "source_label": "Nebraska",
+                "geonames_label": "Nebraska",
+                "url": "https://www.geonames.org/5073708",
+                "sentence_idx": "3314"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.50049,
+                    42.00027
+                ]
+            },
+            "properties": {
+                "source_label": "Iowa",
+                "geonames_label": "Iowa",
+                "url": "https://www.geonames.org/4862182",
+                "sentence_idx": "3319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.57857,
+                    39.09973
+                ]
+            },
+            "properties": {
+                "source_label": "Kansas",
+                "geonames_label": "Kansas City",
+                "url": "https://www.geonames.org/4393217",
+                "sentence_idx": "3319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.50083,
+                    39.00027
+                ]
+            },
+            "properties": {
+                "source_label": "Colorado",
+                "geonames_label": "Colorado Springs",
+                "url": "https://www.geonames.org/5417598",
+                "sentence_idx": "3319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.50139,
+                    44.00013
+                ]
+            },
+            "properties": {
+                "source_label": "Oregon",
+                "geonames_label": "Oregon",
+                "url": "https://www.geonames.org/5744337",
+                "sentence_idx": "3319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.11199,
+                    41.11293
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.68962,
+                    41.30707
+                ]
+            },
+            "properties": {
+                "source_label": "Laramie-Landschaft",
+                "geonames_label": "Laramie",
+                "url": "https://www.geonames.org/5830051",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.53491,
+                    41.16266
+                ]
+            },
+            "properties": {
+                "source_label": "Salzsee",
+                "geonames_label": "Great Salt Lake",
+                "url": "https://www.geonames.org/5775376",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.92403,
+                    40.66758
+                ]
+            },
+            "properties": {
+                "source_label": "Lake-Salt-City",
+                "geonames_label": "Salt Lake City",
+                "url": "https://www.geonames.org/5780993",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.13106,
+                    40.44875
+                ]
+            },
+            "properties": {
+                "source_label": "Tuilla",
+                "geonames_label": "Tooele",
+                "url": "https://www.geonames.org/5783699",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.36514,
+                    40.05602
+                ]
+            },
+            "properties": {
+                "source_label": "Humboldtgebirge",
+                "geonames_label": "West Humboldt Range",
+                "url": "https://www.geonames.org/5710024",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.29342,
+                    36.57855
+                ]
+            },
+            "properties": {
+                "source_label": "Sierra Nevada",
+                "geonames_label": "Sierra Nevada",
+                "url": "https://www.geonames.org/5395648",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.34424,
+                    38.44932
+                ]
+            },
+            "properties": {
+                "source_label": "Sacramento",
+                "geonames_label": "Sacramento",
+                "url": "https://www.geonames.org/5389489",
+                "sentence_idx": "3320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": "3321"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2708,
+                    37.80437
+                ]
+            },
+            "properties": {
+                "source_label": "Oakland",
+                "geonames_label": "Oakland",
+                "url": "https://www.geonames.org/5378538",
+                "sentence_idx": "3330"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.81183,
+                    35.67543
+                ]
+            },
+            "properties": {
+                "source_label": "Californien",
+                "geonames_label": "Southern California",
+                "url": "https://www.geonames.org/11071615",
+                "sentence_idx": "3345"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3346"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.34424,
+                    38.44932
+                ]
+            },
+            "properties": {
+                "source_label": "Sacramento",
+                "geonames_label": "Sacramento",
+                "url": "https://www.geonames.org/5389489",
+                "sentence_idx": "3346"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.34424,
+                    38.44932
+                ]
+            },
+            "properties": {
+                "source_label": "Sacramento",
+                "geonames_label": "Sacramento",
+                "url": "https://www.geonames.org/5389489",
+                "sentence_idx": "3347"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41942,
+                    37.77493
+                ]
+            },
+            "properties": {
+                "source_label": "San Francisco",
+                "geonames_label": "San Francisco",
+                "url": "https://www.geonames.org/5391959",
+                "sentence_idx": "3348"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.75126,
+                    37.25022
+                ]
+            },
+            "properties": {
+                "source_label": "Kaliforniens",
+                "geonames_label": "California",
+                "url": "https://www.geonames.org/5332921",
+                "sentence_idx": "3348"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4944,
+                    38.58157
+                ]
+            },
+            "properties": {
+                "source_label": "American River",
+                "geonames_label": "Sacramento",
+                "url": "https://www.geonames.org/5389489",
+                "sentence_idx": "3348"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.34424,
+                    38.44932
+                ]
+            },
+            "properties": {
+                "source_label": "Sacramento",
+                "geonames_label": "Sacramento",
+                "url": "https://www.geonames.org/5389489",
+                "sentence_idx": "3349"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.81183,
+                    35.67543
+                ]
+            },
+            "properties": {
+                "source_label": "Californien",
+                "geonames_label": "Southern California",
+                "url": "https://www.geonames.org/11071615",
+                "sentence_idx": "3349"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.34424,
+                    38.44932
+                ]
+            },
+            "properties": {
+                "source_label": "Sacramento",
+                "geonames_label": "Sacramento",
+                "url": "https://www.geonames.org/5389489",
+                "sentence_idx": "3350"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.91714,
+                    39.3438
+                ]
+            },
+            "properties": {
+                "source_label": "Sierra Nevada-Gebirges",
+                "geonames_label": "Carson Range",
+                "url": "https://www.geonames.org/5501368",
+                "sentence_idx": "3350"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.91714,
+                    39.3438
+                ]
+            },
+            "properties": {
+                "source_label": "Carson-Thal",
+                "geonames_label": "Carson Range",
+                "url": "https://www.geonames.org/5501368",
+                "sentence_idx": "3357"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.75119,
+                    39.25021
+                ]
+            },
+            "properties": {
+                "source_label": "Nevada",
+                "geonames_label": "Nevada",
+                "url": "https://www.geonames.org/5509151",
+                "sentence_idx": "3357"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.75119,
+                    39.25021
+                ]
+            },
+            "properties": {
+                "source_label": "Nevadastaates",
+                "geonames_label": "Nevada",
+                "url": "https://www.geonames.org/5509151",
+                "sentence_idx": "3360"
+            }
+        }
+    ]
+}

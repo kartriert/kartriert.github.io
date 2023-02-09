@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1347}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indiens", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1348}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [81.43763, 26.38617]}, "properties": {"source_label": "Vindhia", "geonames_label": "Pura Vindhia Parash\u0101d", "url": "https://www.geonames.org/10575755", "sentence_idx": 1349}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1358}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "1347"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indiens",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "1348"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.43763,
+                    26.38617
+                ]
+            },
+            "properties": {
+                "source_label": "Vindhia",
+                "geonames_label": "Pura Vindhia Parash\u0101d",
+                "url": "https://www.geonames.org/10575755",
+                "sentence_idx": "1349"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "1358"
+            }
+        }
+    ]
+}

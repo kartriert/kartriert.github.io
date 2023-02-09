@@ -1,1 +1,133 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.00032, 35.50069]}, "properties": {"source_label": "nord carolina", "geonames_label": "North Carolina", "url": "https://www.geonames.org/4482348", "sentence_idx": 2115}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.50018, 32.75042]}, "properties": {"source_label": "georgien", "geonames_label": "Georgia", "url": "https://www.geonames.org/4197000", "sentence_idx": 2116}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.85902, 36.76478]}, "properties": {"source_label": "brunswick", "geonames_label": "Brunswick", "url": "https://www.geonames.org/4749396", "sentence_idx": 2130}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.85902, 36.76478]}, "properties": {"source_label": "brunswick", "geonames_label": "Brunswick", "url": "https://www.geonames.org/4749396", "sentence_idx": 2131}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.99706, 31.98188]}, "properties": {"source_label": "wilmington", "geonames_label": "Wilmington", "url": "https://www.geonames.org/4231352", "sentence_idx": 2132}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.99706, 31.98188]}, "properties": {"source_label": "wilmington", "geonames_label": "Wilmington", "url": "https://www.geonames.org/4231352", "sentence_idx": 2132}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.00009, 34.00043]}, "properties": {"source_label": "sued carolina", "geonames_label": "South Carolina", "url": "https://www.geonames.org/4597040", "sentence_idx": 2132}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.00032, 35.50069]}, "properties": {"source_label": "nord carolina", "geonames_label": "North Carolina", "url": "https://www.geonames.org/4482348", "sentence_idx": 2134}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.00032,
+                    35.50069
+                ]
+            },
+            "properties": {
+                "source_label": "nord carolina",
+                "geonames_label": "North Carolina",
+                "url": "https://www.geonames.org/4482348",
+                "sentence_idx": "2115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50018,
+                    32.75042
+                ]
+            },
+            "properties": {
+                "source_label": "georgien",
+                "geonames_label": "Georgia",
+                "url": "https://www.geonames.org/4197000",
+                "sentence_idx": "2116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.85902,
+                    36.76478
+                ]
+            },
+            "properties": {
+                "source_label": "brunswick",
+                "geonames_label": "Brunswick",
+                "url": "https://www.geonames.org/4749396",
+                "sentence_idx": "2130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.85902,
+                    36.76478
+                ]
+            },
+            "properties": {
+                "source_label": "brunswick",
+                "geonames_label": "Brunswick",
+                "url": "https://www.geonames.org/4749396",
+                "sentence_idx": "2131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.99706,
+                    31.98188
+                ]
+            },
+            "properties": {
+                "source_label": "wilmington",
+                "geonames_label": "Wilmington",
+                "url": "https://www.geonames.org/4231352",
+                "sentence_idx": "2132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.99706,
+                    31.98188
+                ]
+            },
+            "properties": {
+                "source_label": "wilmington",
+                "geonames_label": "Wilmington",
+                "url": "https://www.geonames.org/4231352",
+                "sentence_idx": "2132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.00009,
+                    34.00043
+                ]
+            },
+            "properties": {
+                "source_label": "sued carolina",
+                "geonames_label": "South Carolina",
+                "url": "https://www.geonames.org/4597040",
+                "sentence_idx": "2132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.00032,
+                    35.50069
+                ]
+            },
+            "properties": {
+                "source_label": "nord carolina",
+                "geonames_label": "North Carolina",
+                "url": "https://www.geonames.org/4482348",
+                "sentence_idx": "2134"
+            }
+        }
+    ]
+}

@@ -1,1 +1,421 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.41053, 52.52437]}, "properties": {"source_label": "berlin", "geonames_label": "Berlin", "url": "https://www.geonames.org/2950159", "sentence_idx": 693}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 705}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.6725, 46.695]}, "properties": {"source_label": "haimburg", "geonames_label": "Haimburg", "url": "https://www.geonames.org/2777003", "sentence_idx": 705}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 719}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 728}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 730}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 730}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.13886, 49.35009]}, "properties": {"source_label": "neustadt", "geonames_label": "Neustadt", "url": "https://www.geonames.org/2864054", "sentence_idx": 731}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.43333, 48.18333]}, "properties": {"source_label": "simmering", "geonames_label": "Simmering", "url": "https://www.geonames.org/2765028", "sentence_idx": 731}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 733}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.6725, 46.695]}, "properties": {"source_label": "haimburg", "geonames_label": "Haimburg", "url": "https://www.geonames.org/2777003", "sentence_idx": 736}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 737}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 741}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 741}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.6725, 46.695]}, "properties": {"source_label": "haimburg", "geonames_label": "Haimburg", "url": "https://www.geonames.org/2777003", "sentence_idx": 750}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.17738, 49.09027]}, "properties": {"source_label": "rotenstein", "geonames_label": "\u010cerven\u00fd Kame\u0148", "url": "https://www.geonames.org/3060750", "sentence_idx": 750}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 753}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 757}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 760}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 762}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 765}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wiens", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 772}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 787}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 798}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wieden", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 799}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 802}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41053,
+                    52.52437
+                ]
+            },
+            "properties": {
+                "source_label": "berlin",
+                "geonames_label": "Berlin",
+                "url": "https://www.geonames.org/2950159",
+                "sentence_idx": "693"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "705"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6725,
+                    46.695
+                ]
+            },
+            "properties": {
+                "source_label": "haimburg",
+                "geonames_label": "Haimburg",
+                "url": "https://www.geonames.org/2777003",
+                "sentence_idx": "705"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "719"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "728"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.13886,
+                    49.35009
+                ]
+            },
+            "properties": {
+                "source_label": "neustadt",
+                "geonames_label": "Neustadt",
+                "url": "https://www.geonames.org/2864054",
+                "sentence_idx": "731"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43333,
+                    48.18333
+                ]
+            },
+            "properties": {
+                "source_label": "simmering",
+                "geonames_label": "Simmering",
+                "url": "https://www.geonames.org/2765028",
+                "sentence_idx": "731"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "733"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6725,
+                    46.695
+                ]
+            },
+            "properties": {
+                "source_label": "haimburg",
+                "geonames_label": "Haimburg",
+                "url": "https://www.geonames.org/2777003",
+                "sentence_idx": "736"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "737"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "741"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "741"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6725,
+                    46.695
+                ]
+            },
+            "properties": {
+                "source_label": "haimburg",
+                "geonames_label": "Haimburg",
+                "url": "https://www.geonames.org/2777003",
+                "sentence_idx": "750"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17738,
+                    49.09027
+                ]
+            },
+            "properties": {
+                "source_label": "rotenstein",
+                "geonames_label": "\u010cerven\u00fd Kame\u0148",
+                "url": "https://www.geonames.org/3060750",
+                "sentence_idx": "750"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "753"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "757"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "760"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "762"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "765"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wiens",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "772"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "787"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "798"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wieden",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "799"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": "802"
+            }
+        }
+    ]
+}

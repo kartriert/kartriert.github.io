@@ -1,1 +1,197 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2467}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.86359, 45.11147]}, "properties": {"source_label": "bocca", "geonames_label": "Castelnuovo Bocca d'Adda", "url": "https://www.geonames.org/6541387", "sentence_idx": 2468}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2482}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.5, 51.5]}, "properties": {"source_label": "deutschland", "geonames_label": "Germany", "url": "https://www.geonames.org/2921044", "sentence_idx": 2494}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761367", "sentence_idx": 2507}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.27947, 41.59101]}, "properties": {"source_label": "vecchio", "geonames_label": "Lodi Vecchio", "url": "https://www.geonames.org/6541391", "sentence_idx": 2507}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2508}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2517}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2530}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2542}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2552}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 2559}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2467"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.86359,
+                    45.11147
+                ]
+            },
+            "properties": {
+                "source_label": "bocca",
+                "geonames_label": "Castelnuovo Bocca d'Adda",
+                "url": "https://www.geonames.org/6541387",
+                "sentence_idx": "2468"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2482"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5,
+                    51.5
+                ]
+            },
+            "properties": {
+                "source_label": "deutschland",
+                "geonames_label": "Germany",
+                "url": "https://www.geonames.org/2921044",
+                "sentence_idx": "2494"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761367",
+                "sentence_idx": "2507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.27947,
+                    41.59101
+                ]
+            },
+            "properties": {
+                "source_label": "vecchio",
+                "geonames_label": "Lodi Vecchio",
+                "url": "https://www.geonames.org/6541391",
+                "sentence_idx": "2507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2517"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2530"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2542"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2552"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "2559"
+            }
+        }
+    ]
+}

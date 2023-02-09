@@ -1,1 +1,133 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 294}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "labrador", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 295}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 296}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 304}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 307}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 308}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 309}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-56.0, 52.0]}, "properties": {"source_label": "neufoundland", "geonames_label": "Newfoundland and Labrador", "url": "https://www.geonames.org/6354959", "sentence_idx": 309}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "294"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "labrador",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "295"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "296"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "304"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "308"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "309"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0,
+                    52.0
+                ]
+            },
+            "properties": {
+                "source_label": "neufoundland",
+                "geonames_label": "Newfoundland and Labrador",
+                "url": "https://www.geonames.org/6354959",
+                "sentence_idx": "309"
+            }
+        }
+    ]
+}

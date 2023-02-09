@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.20474, 41.89552]}, "properties": {"source_label": "Medecine-Bow", "geonames_label": "Medicine Bow", "url": "https://www.geonames.org/5832007", "sentence_idx": 3616}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.20474, 41.89552]}, "properties": {"source_label": "Medecine-Bow", "geonames_label": "Medicine Bow", "url": "https://www.geonames.org/5832007", "sentence_idx": 3621}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 3630}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.20474, 41.89552]}, "properties": {"source_label": "Medecine-Bow", "geonames_label": "Medicine Bow", "url": "https://www.geonames.org/5832007", "sentence_idx": 3630}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.20474,
+                    41.89552
+                ]
+            },
+            "properties": {
+                "source_label": "Medecine-Bow",
+                "geonames_label": "Medicine Bow",
+                "url": "https://www.geonames.org/5832007",
+                "sentence_idx": "3616"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.20474,
+                    41.89552
+                ]
+            },
+            "properties": {
+                "source_label": "Medecine-Bow",
+                "geonames_label": "Medicine Bow",
+                "url": "https://www.geonames.org/5832007",
+                "sentence_idx": "3621"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "3630"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.20474,
+                    41.89552
+                ]
+            },
+            "properties": {
+                "source_label": "Medecine-Bow",
+                "geonames_label": "Medicine Bow",
+                "url": "https://www.geonames.org/5832007",
+                "sentence_idx": "3630"
+            }
+        }
+    ]
+}

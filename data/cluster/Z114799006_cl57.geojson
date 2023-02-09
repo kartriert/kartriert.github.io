@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 560}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.70312, 52.16045]}, "properties": {"source_label": "england", "geonames_label": "England", "url": "https://www.geonames.org/6269131", "sentence_idx": 560}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.0, 54.0]}, "properties": {"source_label": "grossbritannien", "geonames_label": "Great Britain", "url": "https://www.geonames.org/2648147", "sentence_idx": 563}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "560"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.70312,
+                    52.16045
+                ]
+            },
+            "properties": {
+                "source_label": "england",
+                "geonames_label": "England",
+                "url": "https://www.geonames.org/6269131",
+                "sentence_idx": "560"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0,
+                    54.0
+                ]
+            },
+            "properties": {
+                "source_label": "grossbritannien",
+                "geonames_label": "Great Britain",
+                "url": "https://www.geonames.org/2648147",
+                "sentence_idx": "563"
+            }
+        }
+    ]
+}

@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.75, 52.25]}, "properties": {"source_label": "niederlanden", "geonames_label": "Netherlands", "url": "https://www.geonames.org/2750405", "sentence_idx": 2345}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 2357}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [3.08746, 36.73225]}, "properties": {"source_label": "algier", "geonames_label": "Algiers", "url": "https://www.geonames.org/2507480", "sentence_idx": 2363}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.16579, 36.81897]}, "properties": {"source_label": "tunis", "geonames_label": "Tunis", "url": "https://www.geonames.org/2464470", "sentence_idx": 2363}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.18733, 32.88743]}, "properties": {"source_label": "tripolis", "geonames_label": "Tripoli", "url": "https://www.geonames.org/2210247", "sentence_idx": 2363}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75,
+                    52.25
+                ]
+            },
+            "properties": {
+                "source_label": "niederlanden",
+                "geonames_label": "Netherlands",
+                "url": "https://www.geonames.org/2750405",
+                "sentence_idx": "2345"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": "2357"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08746,
+                    36.73225
+                ]
+            },
+            "properties": {
+                "source_label": "algier",
+                "geonames_label": "Algiers",
+                "url": "https://www.geonames.org/2507480",
+                "sentence_idx": "2363"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.16579,
+                    36.81897
+                ]
+            },
+            "properties": {
+                "source_label": "tunis",
+                "geonames_label": "Tunis",
+                "url": "https://www.geonames.org/2464470",
+                "sentence_idx": "2363"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18733,
+                    32.88743
+                ]
+            },
+            "properties": {
+                "source_label": "tripolis",
+                "geonames_label": "Tripoli",
+                "url": "https://www.geonames.org/2210247",
+                "sentence_idx": "2363"
+            }
+        }
+    ]
+}

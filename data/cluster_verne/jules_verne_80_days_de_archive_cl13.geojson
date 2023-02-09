@@ -1,1 +1,181 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [96.16667, 17.0]}, "properties": {"source_label": "Rangoon", "geonames_label": "Yangon", "url": "https://www.geonames.org/1298824", "sentence_idx": 1862}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [84.14906, 28.59743]}, "properties": {"source_label": "Pisang", "geonames_label": "Pisang Peak", "url": "https://www.geonames.org/6941682", "sentence_idx": 1870}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 1875}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [96.16667, 17.0]}, "properties": {"source_label": "Rangoon", "geonames_label": "Yangon", "url": "https://www.geonames.org/1298824", "sentence_idx": 1875}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1876}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1890}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 1890}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "Bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 1905}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 1905}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "Indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1908}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "Calcutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 1910}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.16667,
+                    17.0
+                ]
+            },
+            "properties": {
+                "source_label": "Rangoon",
+                "geonames_label": "Yangon",
+                "url": "https://www.geonames.org/1298824",
+                "sentence_idx": "1862"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.14906,
+                    28.59743
+                ]
+            },
+            "properties": {
+                "source_label": "Pisang",
+                "geonames_label": "Pisang Peak",
+                "url": "https://www.geonames.org/6941682",
+                "sentence_idx": "1870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": "1875"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.16667,
+                    17.0
+                ]
+            },
+            "properties": {
+                "source_label": "Rangoon",
+                "geonames_label": "Yangon",
+                "url": "https://www.geonames.org/1298824",
+                "sentence_idx": "1875"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "1876"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "1890"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": "1890"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "Bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "1905"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": "1905"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "Indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "1908"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "Calcutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": "1910"
+            }
+        }
+    ]
+}

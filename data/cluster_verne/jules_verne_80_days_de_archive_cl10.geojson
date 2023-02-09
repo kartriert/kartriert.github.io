@@ -1,1 +1,101 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "Liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 4196}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "Europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 4201}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "Liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 4204}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "London", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 4204}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.10767, 49.4938]}, "properties": {"source_label": "Havre", "geonames_label": "Le Havre", "url": "https://www.geonames.org/3003796", "sentence_idx": 4204}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.40428, 50.90395]}, "properties": {"source_label": "Southampton", "geonames_label": "Southampton", "url": "https://www.geonames.org/2637487", "sentence_idx": 4204}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "Liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": "4196"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "Europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "4201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "Liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": "4204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "London",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": "4204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.10767,
+                    49.4938
+                ]
+            },
+            "properties": {
+                "source_label": "Havre",
+                "geonames_label": "Le Havre",
+                "url": "https://www.geonames.org/3003796",
+                "sentence_idx": "4204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.40428,
+                    50.90395
+                ]
+            },
+            "properties": {
+                "source_label": "Southampton",
+                "geonames_label": "Southampton",
+                "url": "https://www.geonames.org/2637487",
+                "sentence_idx": "4204"
+            }
+        }
+    ]
+}
