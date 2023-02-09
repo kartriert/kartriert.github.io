@@ -52,8 +52,10 @@ p {
 */
 [data-tooltip] {
   position: relative;
-  cursor: default;
-  border-bottom: 1px dotted #0890a7
+  cursor: default;  
+  background:#e2dbd5;
+  padding: 2px;
+  border-radius: 5px;
       }
   
       [data-tooltip]::after {
@@ -479,7 +481,8 @@ p {
   height: auto;
   width: auto;
   padding: 70px;
-  position: absolute;
+  position: fixed;
+  z-index: ;
   border-radius: 50px;
   left: 100px;
   justify-content: left;
@@ -892,6 +895,8 @@ details[open].styled summary {
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  position: relative;
+  z-index: 10;
   background: #e2dbd5 ;
   padding: 30px 0;
   color: #433d3d;

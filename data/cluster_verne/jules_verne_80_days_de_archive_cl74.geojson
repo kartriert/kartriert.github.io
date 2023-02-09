@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.09375, 7.1881]}, "properties": {"source_label": "Afrika", "geonames_label": "Africa", "url": "https://www.geonames.org/6255146", "sentence_idx": 740}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.09375, 7.1881]}, "properties": {"source_label": "Afrika", "geonames_label": "Africa", "url": "https://www.geonames.org/6255146", "sentence_idx": 741}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.09375, 7.1881]}, "properties": {"source_label": "Afrika", "geonames_label": "Africa", "url": "https://www.geonames.org/6255146", "sentence_idx": 742}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.09375,
+                    7.1881
+                ]
+            },
+            "properties": {
+                "source_label": "Afrika",
+                "geonames_label": "Africa",
+                "url": "https://www.geonames.org/6255146",
+                "sentence_idx": "740"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.09375,
+                    7.1881
+                ]
+            },
+            "properties": {
+                "source_label": "Afrika",
+                "geonames_label": "Africa",
+                "url": "https://www.geonames.org/6255146",
+                "sentence_idx": "741"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.09375,
+                    7.1881
+                ]
+            },
+            "properties": {
+                "source_label": "Afrika",
+                "geonames_label": "Africa",
+                "url": "https://www.geonames.org/6255146",
+                "sentence_idx": "742"
+            }
+        }
+    ]
+}

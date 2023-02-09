@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.36598, 33.71494]}, "properties": {"source_label": "mochha", "geonames_label": "Mochha", "url": "https://www.geonames.org/7086188", "sentence_idx": 7306}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [75.32108, 35.21553]}, "properties": {"source_label": "sabber", "geonames_label": "Sabber", "url": "https://www.geonames.org/11080047", "sentence_idx": 7315}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.36598, 33.71494]}, "properties": {"source_label": "mochha", "geonames_label": "Mochha", "url": "https://www.geonames.org/7086188", "sentence_idx": 7324}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.36598, 33.71494]}, "properties": {"source_label": "mochha", "geonames_label": "Mochha", "url": "https://www.geonames.org/7086188", "sentence_idx": 7326}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.36598,
+                    33.71494
+                ]
+            },
+            "properties": {
+                "source_label": "mochha",
+                "geonames_label": "Mochha",
+                "url": "https://www.geonames.org/7086188",
+                "sentence_idx": "7306"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.32108,
+                    35.21553
+                ]
+            },
+            "properties": {
+                "source_label": "sabber",
+                "geonames_label": "Sabber",
+                "url": "https://www.geonames.org/11080047",
+                "sentence_idx": "7315"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.36598,
+                    33.71494
+                ]
+            },
+            "properties": {
+                "source_label": "mochha",
+                "geonames_label": "Mochha",
+                "url": "https://www.geonames.org/7086188",
+                "sentence_idx": "7324"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.36598,
+                    33.71494
+                ]
+            },
+            "properties": {
+                "source_label": "mochha",
+                "geonames_label": "Mochha",
+                "url": "https://www.geonames.org/7086188",
+                "sentence_idx": "7326"
+            }
+        }
+    ]
+}

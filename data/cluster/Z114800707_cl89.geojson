@@ -1,1 +1,117 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.36598, 33.71494]}, "properties": {"source_label": "mochha", "geonames_label": "Mochha", "url": "https://www.geonames.org/7086188", "sentence_idx": 9602}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.36598, 33.71494]}, "properties": {"source_label": "mochha", "geonames_label": "Mochha", "url": "https://www.geonames.org/7086188", "sentence_idx": 9605}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.36598, 33.71494]}, "properties": {"source_label": "mochha", "geonames_label": "Mochha", "url": "https://www.geonames.org/7086188", "sentence_idx": 9610}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [73.36598, 33.71494]}, "properties": {"source_label": "mochha", "geonames_label": "Mochha", "url": "https://www.geonames.org/7086188", "sentence_idx": 9625}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 9628}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 9628}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [72.88261, 19.07283]}, "properties": {"source_label": "bombay", "geonames_label": "Mumbai", "url": "https://www.geonames.org/1275339", "sentence_idx": 9629}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.36598,
+                    33.71494
+                ]
+            },
+            "properties": {
+                "source_label": "mochha",
+                "geonames_label": "Mochha",
+                "url": "https://www.geonames.org/7086188",
+                "sentence_idx": "9602"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.36598,
+                    33.71494
+                ]
+            },
+            "properties": {
+                "source_label": "mochha",
+                "geonames_label": "Mochha",
+                "url": "https://www.geonames.org/7086188",
+                "sentence_idx": "9605"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.36598,
+                    33.71494
+                ]
+            },
+            "properties": {
+                "source_label": "mochha",
+                "geonames_label": "Mochha",
+                "url": "https://www.geonames.org/7086188",
+                "sentence_idx": "9610"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.36598,
+                    33.71494
+                ]
+            },
+            "properties": {
+                "source_label": "mochha",
+                "geonames_label": "Mochha",
+                "url": "https://www.geonames.org/7086188",
+                "sentence_idx": "9625"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "9628"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "9628"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "properties": {
+                "source_label": "bombay",
+                "geonames_label": "Mumbai",
+                "url": "https://www.geonames.org/1275339",
+                "sentence_idx": "9629"
+            }
+        }
+    ]
+}

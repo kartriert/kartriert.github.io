@@ -1,1 +1,261 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2397}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.11149, 47.00603]}, "properties": {"source_label": "loipersdorf", "geonames_label": "Loipersdorf bei F\u00fcrstenfeld", "url": "https://www.geonames.org/7872318", "sentence_idx": 2404}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.55, 46.86667]}, "properties": {"source_label": "szarvas", "geonames_label": "Szarvas", "url": "https://www.geonames.org/715466", "sentence_idx": 2419}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.12263, 47.76356]}, "properties": {"source_label": "komorn", "geonames_label": "Kom\u00e1rno", "url": "https://www.geonames.org/3059436", "sentence_idx": 2421}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.12263, 47.76356]}, "properties": {"source_label": "komorn", "geonames_label": "Kom\u00e1rno", "url": "https://www.geonames.org/3059436", "sentence_idx": 2423}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 2426}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 2431}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.12263, 47.76356]}, "properties": {"source_label": "komorn", "geonames_label": "Kom\u00e1rno", "url": "https://www.geonames.org/3059436", "sentence_idx": 2432}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 2432}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 2432}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 2435}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [19.75083, 46.06972]}, "properties": {"source_label": "palischer see", "geonames_label": "Pali\u0107ko Jezero", "url": "https://www.geonames.org/3193677", "sentence_idx": 2439}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.16503, 47.11937]}, "properties": {"source_label": "janoshaza", "geonames_label": "J\u00e1nosh\u00e1za", "url": "https://www.geonames.org/3050964", "sentence_idx": 2443}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.23083, 46.0725]}, "properties": {"source_label": "f\u00fcnfkirchen", "geonames_label": "P\u00e9cs", "url": "https://www.geonames.org/3046526", "sentence_idx": 2445}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 2447}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 2459}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2397"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11149,
+                    47.00603
+                ]
+            },
+            "properties": {
+                "source_label": "loipersdorf",
+                "geonames_label": "Loipersdorf bei F\u00fcrstenfeld",
+                "url": "https://www.geonames.org/7872318",
+                "sentence_idx": "2404"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.55,
+                    46.86667
+                ]
+            },
+            "properties": {
+                "source_label": "szarvas",
+                "geonames_label": "Szarvas",
+                "url": "https://www.geonames.org/715466",
+                "sentence_idx": "2419"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12263,
+                    47.76356
+                ]
+            },
+            "properties": {
+                "source_label": "komorn",
+                "geonames_label": "Kom\u00e1rno",
+                "url": "https://www.geonames.org/3059436",
+                "sentence_idx": "2421"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12263,
+                    47.76356
+                ]
+            },
+            "properties": {
+                "source_label": "komorn",
+                "geonames_label": "Kom\u00e1rno",
+                "url": "https://www.geonames.org/3059436",
+                "sentence_idx": "2423"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "2426"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "2431"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12263,
+                    47.76356
+                ]
+            },
+            "properties": {
+                "source_label": "komorn",
+                "geonames_label": "Kom\u00e1rno",
+                "url": "https://www.geonames.org/3059436",
+                "sentence_idx": "2432"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": "2432"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "2432"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "2435"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.75083,
+                    46.06972
+                ]
+            },
+            "properties": {
+                "source_label": "palischer see",
+                "geonames_label": "Pali\u0107ko Jezero",
+                "url": "https://www.geonames.org/3193677",
+                "sentence_idx": "2439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16503,
+                    47.11937
+                ]
+            },
+            "properties": {
+                "source_label": "janoshaza",
+                "geonames_label": "J\u00e1nosh\u00e1za",
+                "url": "https://www.geonames.org/3050964",
+                "sentence_idx": "2443"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.23083,
+                    46.0725
+                ]
+            },
+            "properties": {
+                "source_label": "f\u00fcnfkirchen",
+                "geonames_label": "P\u00e9cs",
+                "url": "https://www.geonames.org/3046526",
+                "sentence_idx": "2445"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "2447"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "2459"
+            }
+        }
+    ]
+}

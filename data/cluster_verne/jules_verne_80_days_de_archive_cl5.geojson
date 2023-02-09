@@ -1,1 +1,341 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4174}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4181}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.75067, 41.50028]}, "properties": {"source_label": "Nebraskas", "geonames_label": "Nebraska", "url": "https://www.geonames.org/5073708", "sentence_idx": 4182}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Omaha", "geonames_label": "Omaha", "url": "https://www.geonames.org/5074472", "sentence_idx": 4183}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.07332, 41.50884]}, "properties": {"source_label": "Chicago", "geonames_label": "Chicago", "url": "https://www.geonames.org/4887398", "sentence_idx": 4184}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.50049, 42.00027]}, "properties": {"source_label": "Iowa", "geonames_label": "Iowa", "url": "https://www.geonames.org/4862182", "sentence_idx": 4187}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.62133, 41.03345]}, "properties": {"source_label": "Bluffs", "geonames_label": "Council Bluffs", "url": "https://www.geonames.org/4852832", "sentence_idx": 4187}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.58808, 41.67155]}, "properties": {"source_label": "Iowa-City", "geonames_label": "Iowa City", "url": "https://www.geonames.org/4862034", "sentence_idx": 4187}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.62324, 41.6371]}, "properties": {"source_label": "Davenport", "geonames_label": "Davenport", "url": "https://www.geonames.org/4853423", "sentence_idx": 4188}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.75036, 32.75041]}, "properties": {"source_label": "Mississippi", "geonames_label": "Mississippi", "url": "https://www.geonames.org/4436296", "sentence_idx": 4188}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-90.56743, 41.46733]}, "properties": {"source_label": "Rock-Island", "geonames_label": "Rock Island", "url": "https://www.geonames.org/4907907", "sentence_idx": 4188}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.25037, 40.00032]}, "properties": {"source_label": "Illinois", "geonames_label": "Illinois", "url": "https://www.geonames.org/4896861", "sentence_idx": 4188}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.07332, 41.50884]}, "properties": {"source_label": "Chicago", "geonames_label": "Chicago", "url": "https://www.geonames.org/4887398", "sentence_idx": 4189}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-85.50033, 44.25029]}, "properties": {"source_label": "Michigan", "geonames_label": "Michigan", "url": "https://www.geonames.org/5001836", "sentence_idx": 4189}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-87.07332, 41.50884]}, "properties": {"source_label": "Chicago", "geonames_label": "Chicago", "url": "https://www.geonames.org/4887398", "sentence_idx": 4190}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "New-York", "geonames_label": "New York", "url": "https://www.geonames.org/5128581", "sentence_idx": 4190}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.25027, 40.00032]}, "properties": {"source_label": "Indiana", "geonames_label": "Indiana", "url": "https://www.geonames.org/4921868", "sentence_idx": 4194}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.00018, 40.25034]}, "properties": {"source_label": "Ohio", "geonames_label": "Ohio", "url": "https://www.geonames.org/5165418", "sentence_idx": 4194}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.91382, 40.64575]}, "properties": {"source_label": "Pennsylvanien", "geonames_label": "Western Pennsylvania", "url": "https://www.geonames.org/12217723", "sentence_idx": 4194}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.49987, 40.16706]}, "properties": {"source_label": "New-Jersey", "geonames_label": "New Jersey", "url": "https://www.geonames.org/5101760", "sentence_idx": 4194}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "Amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 4201}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "4174"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "4181"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.75067,
+                    41.50028
+                ]
+            },
+            "properties": {
+                "source_label": "Nebraskas",
+                "geonames_label": "Nebraska",
+                "url": "https://www.geonames.org/5073708",
+                "sentence_idx": "4182"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Omaha",
+                "geonames_label": "Omaha",
+                "url": "https://www.geonames.org/5074472",
+                "sentence_idx": "4183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.07332,
+                    41.50884
+                ]
+            },
+            "properties": {
+                "source_label": "Chicago",
+                "geonames_label": "Chicago",
+                "url": "https://www.geonames.org/4887398",
+                "sentence_idx": "4184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.50049,
+                    42.00027
+                ]
+            },
+            "properties": {
+                "source_label": "Iowa",
+                "geonames_label": "Iowa",
+                "url": "https://www.geonames.org/4862182",
+                "sentence_idx": "4187"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.62133,
+                    41.03345
+                ]
+            },
+            "properties": {
+                "source_label": "Bluffs",
+                "geonames_label": "Council Bluffs",
+                "url": "https://www.geonames.org/4852832",
+                "sentence_idx": "4187"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.58808,
+                    41.67155
+                ]
+            },
+            "properties": {
+                "source_label": "Iowa-City",
+                "geonames_label": "Iowa City",
+                "url": "https://www.geonames.org/4862034",
+                "sentence_idx": "4187"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.62324,
+                    41.6371
+                ]
+            },
+            "properties": {
+                "source_label": "Davenport",
+                "geonames_label": "Davenport",
+                "url": "https://www.geonames.org/4853423",
+                "sentence_idx": "4188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.75036,
+                    32.75041
+                ]
+            },
+            "properties": {
+                "source_label": "Mississippi",
+                "geonames_label": "Mississippi",
+                "url": "https://www.geonames.org/4436296",
+                "sentence_idx": "4188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.56743,
+                    41.46733
+                ]
+            },
+            "properties": {
+                "source_label": "Rock-Island",
+                "geonames_label": "Rock Island",
+                "url": "https://www.geonames.org/4907907",
+                "sentence_idx": "4188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.25037,
+                    40.00032
+                ]
+            },
+            "properties": {
+                "source_label": "Illinois",
+                "geonames_label": "Illinois",
+                "url": "https://www.geonames.org/4896861",
+                "sentence_idx": "4188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.07332,
+                    41.50884
+                ]
+            },
+            "properties": {
+                "source_label": "Chicago",
+                "geonames_label": "Chicago",
+                "url": "https://www.geonames.org/4887398",
+                "sentence_idx": "4189"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.50033,
+                    44.25029
+                ]
+            },
+            "properties": {
+                "source_label": "Michigan",
+                "geonames_label": "Michigan",
+                "url": "https://www.geonames.org/5001836",
+                "sentence_idx": "4189"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.07332,
+                    41.50884
+                ]
+            },
+            "properties": {
+                "source_label": "Chicago",
+                "geonames_label": "Chicago",
+                "url": "https://www.geonames.org/4887398",
+                "sentence_idx": "4190"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "New-York",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128581",
+                "sentence_idx": "4190"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.25027,
+                    40.00032
+                ]
+            },
+            "properties": {
+                "source_label": "Indiana",
+                "geonames_label": "Indiana",
+                "url": "https://www.geonames.org/4921868",
+                "sentence_idx": "4194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.00018,
+                    40.25034
+                ]
+            },
+            "properties": {
+                "source_label": "Ohio",
+                "geonames_label": "Ohio",
+                "url": "https://www.geonames.org/5165418",
+                "sentence_idx": "4194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.91382,
+                    40.64575
+                ]
+            },
+            "properties": {
+                "source_label": "Pennsylvanien",
+                "geonames_label": "Western Pennsylvania",
+                "url": "https://www.geonames.org/12217723",
+                "sentence_idx": "4194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.49987,
+                    40.16706
+                ]
+            },
+            "properties": {
+                "source_label": "New-Jersey",
+                "geonames_label": "New Jersey",
+                "url": "https://www.geonames.org/5101760",
+                "sentence_idx": "4194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "Amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "4201"
+            }
+        }
+    ]
+}

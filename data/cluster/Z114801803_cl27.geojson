@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [86.35916, 25.40195]}, "properties": {"source_label": "Sanha", "geonames_label": "Sanha", "url": "https://www.geonames.org/10898519", "sentence_idx": 1832}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [86.35916, 25.40195]}, "properties": {"source_label": "Sanha", "geonames_label": "Sanha", "url": "https://www.geonames.org/10898519", "sentence_idx": 1837}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [90.5, 27.5]}, "properties": {"source_label": "butan", "geonames_label": "Bhutan", "url": "https://www.geonames.org/1252634", "sentence_idx": 1838}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.35916,
+                    25.40195
+                ]
+            },
+            "properties": {
+                "source_label": "Sanha",
+                "geonames_label": "Sanha",
+                "url": "https://www.geonames.org/10898519",
+                "sentence_idx": "1832"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.35916,
+                    25.40195
+                ]
+            },
+            "properties": {
+                "source_label": "Sanha",
+                "geonames_label": "Sanha",
+                "url": "https://www.geonames.org/10898519",
+                "sentence_idx": "1837"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.5,
+                    27.5
+                ]
+            },
+            "properties": {
+                "source_label": "butan",
+                "geonames_label": "Bhutan",
+                "url": "https://www.geonames.org/1252634",
+                "sentence_idx": "1838"
+            }
+        }
+    ]
+}

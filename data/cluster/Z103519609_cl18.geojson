@@ -1,1 +1,165 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [19.33333, 47.41667]}, "properties": {"source_label": "pest", "geonames_label": "Pest megye", "url": "https://www.geonames.org/3046431", "sentence_idx": 1713}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.64691, 48.35243]}, "properties": {"source_label": "raab", "geonames_label": "Raab", "url": "https://www.geonames.org/2768180", "sentence_idx": 1722}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 1722}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.04399, 47.79941]}, "properties": {"source_label": "salzburg", "geonames_label": "Salzburg", "url": "https://www.geonames.org/2766824", "sentence_idx": 1726}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.73857, 51.25375]}, "properties": {"source_label": "zschorna", "geonames_label": "Zschorna", "url": "https://www.geonames.org/2803784", "sentence_idx": 1727}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 1729}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1729}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.75, 47.83333]}, "properties": {"source_label": "neusiedler see", "geonames_label": "Lake Neusiedl", "url": "https://www.geonames.org/3052649", "sentence_idx": 1729}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 1730}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.59049, 47.68501]}, "properties": {"source_label": "oedenburg", "geonames_label": "Sopron", "url": "https://www.geonames.org/3045190", "sentence_idx": 1731}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.33333,
+                    47.41667
+                ]
+            },
+            "properties": {
+                "source_label": "pest",
+                "geonames_label": "Pest megye",
+                "url": "https://www.geonames.org/3046431",
+                "sentence_idx": "1713"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64691,
+                    48.35243
+                ]
+            },
+            "properties": {
+                "source_label": "raab",
+                "geonames_label": "Raab",
+                "url": "https://www.geonames.org/2768180",
+                "sentence_idx": "1722"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "1722"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04399,
+                    47.79941
+                ]
+            },
+            "properties": {
+                "source_label": "salzburg",
+                "geonames_label": "Salzburg",
+                "url": "https://www.geonames.org/2766824",
+                "sentence_idx": "1726"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73857,
+                    51.25375
+                ]
+            },
+            "properties": {
+                "source_label": "zschorna",
+                "geonames_label": "Zschorna",
+                "url": "https://www.geonames.org/2803784",
+                "sentence_idx": "1727"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": "1729"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "1729"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75,
+                    47.83333
+                ]
+            },
+            "properties": {
+                "source_label": "neusiedler see",
+                "geonames_label": "Lake Neusiedl",
+                "url": "https://www.geonames.org/3052649",
+                "sentence_idx": "1729"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": "1730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59049,
+                    47.68501
+                ]
+            },
+            "properties": {
+                "source_label": "oedenburg",
+                "geonames_label": "Sopron",
+                "url": "https://www.geonames.org/3045190",
+                "sentence_idx": "1731"
+            }
+        }
+    ]
+}

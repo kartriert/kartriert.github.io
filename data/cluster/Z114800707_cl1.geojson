@@ -1,1 +1,1206 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.97451, 41.02602]}, "properties": {"source_label": "galata", "geonames_label": "Galata", "url": "https://www.geonames.org/747059", "sentence_idx": 706, "cluster_total": 122}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 706}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 715}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 725}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 725}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 730}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 731}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 740}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 750}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 752}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 757}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 773}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 775}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 777}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 780}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 787}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 788}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 789}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.06097, 41.10164]}, "properties": {"source_label": "canal bosphorus", "geonames_label": "Bosporus", "url": "https://www.geonames.org/745043", "sentence_idx": 791}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.97451, 41.02602]}, "properties": {"source_label": "galata", "geonames_label": "Galata", "url": "https://www.geonames.org/747059", "sentence_idx": 791}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 797}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 800}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 802}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.75603, 49.75315]}, "properties": {"source_label": "webern", "geonames_label": "Webern", "url": "https://www.geonames.org/2813548", "sentence_idx": 802}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.97451, 41.02602]}, "properties": {"source_label": "galata", "geonames_label": "Galata", "url": "https://www.geonames.org/747059", "sentence_idx": 806}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 807}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 808}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-8.18889, 40.03228]}, "properties": {"source_label": "pera", "geonames_label": "Castanheira de Pera Municipality", "url": "https://www.geonames.org/8010547", "sentence_idx": 809}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.97451, 41.02602]}, "properties": {"source_label": "galata", "geonames_label": "Galata", "url": "https://www.geonames.org/747059", "sentence_idx": 809}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.75, 52.25]}, "properties": {"source_label": "holland", "geonames_label": "Netherlands", "url": "https://www.geonames.org/2750405", "sentence_idx": 809}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 809}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.72443, 36.92574]}, "properties": {"source_label": "ragusa", "geonames_label": "Ragusa", "url": "https://www.geonames.org/2523650", "sentence_idx": 812}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [3.08746, 36.73225]}, "properties": {"source_label": "algier", "geonames_label": "Algiers", "url": "https://www.geonames.org/2507480", "sentence_idx": 812}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.16579, 36.81897]}, "properties": {"source_label": "tunis", "geonames_label": "Tunis", "url": "https://www.geonames.org/2464470", "sentence_idx": 812}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.18733, 32.88743]}, "properties": {"source_label": "tripolis", "geonames_label": "Tripoli", "url": "https://www.geonames.org/2210247", "sentence_idx": 812}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 812}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 812}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [36.0, 34.0]}, "properties": {"source_label": "levante", "geonames_label": "Levant", "url": "https://www.geonames.org/305104", "sentence_idx": 813}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 817}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [27.0, 46.5]}, "properties": {"source_label": "moldau", "geonames_label": "Moldavia", "url": "https://www.geonames.org/672915", "sentence_idx": 818}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.08268, 40.97882]}, "properties": {"source_label": "chalcedonien", "geonames_label": "Kad\u0131k\u00f6y", "url": "https://www.geonames.org/744906", "sentence_idx": 825}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.01366, 41.02274]}, "properties": {"source_label": "scudar", "geonames_label": "Scutari", "url": "https://www.geonames.org/738329", "sentence_idx": 826}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 831}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.97451, 41.02602]}, "properties": {"source_label": "galata", "geonames_label": "Galata", "url": "https://www.geonames.org/747059", "sentence_idx": 832}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.97451, 41.02602]}, "properties": {"source_label": "galata", "geonames_label": "Galata", "url": "https://www.geonames.org/747059", "sentence_idx": 834}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 836}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 838}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 839}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 841}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 841}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 842}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 842}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 844}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinope", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 845}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 846}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 846}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [19.22436, 41.92936]}, "properties": {"source_label": "dulcigno", "geonames_label": "Ulcinj", "url": "https://www.geonames.org/3188516", "sentence_idx": 846}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.72443, 36.92574]}, "properties": {"source_label": "ragusa", "geonames_label": "Ragusa", "url": "https://www.geonames.org/2523650", "sentence_idx": 846}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 850}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 852}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 852}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 862}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [26.4584, 40.21407]}, "properties": {"source_label": "dardanellen", "geonames_label": "Dardanelles", "url": "https://www.geonames.org/749779", "sentence_idx": 863}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 863}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 866}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [26.03306, 39.82194]}, "properties": {"source_label": "tenedos", "geonames_label": "Tenedos", "url": "https://www.geonames.org/320701", "sentence_idx": 874}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 874}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 874}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 874}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [26.03306, 39.82194]}, "properties": {"source_label": "tenedos", "geonames_label": "Tenedos", "url": "https://www.geonames.org/320701", "sentence_idx": 874}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [27.14665, 36.84452]}, "properties": {"source_label": "stanchio", "geonames_label": "Kos", "url": "https://www.geonames.org/259244", "sentence_idx": 879}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [27.96081, 36.19613]}, "properties": {"source_label": "rhodus", "geonames_label": "Rhodes", "url": "https://www.geonames.org/400665", "sentence_idx": 880}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [27.96081, 36.19613]}, "properties": {"source_label": "rhodus", "geonames_label": "Rhodes", "url": "https://www.geonames.org/400665", "sentence_idx": 881}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [27.96081, 36.19613]}, "properties": {"source_label": "rhodus", "geonames_label": "Rhodes", "url": "https://www.geonames.org/400665", "sentence_idx": 884}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 884}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97451,
+                    41.02602
+                ]
+            },
+            "properties": {
+                "source_label": "galata",
+                "geonames_label": "Galata",
+                "url": "https://www.geonames.org/747059",
+                "sentence_idx": "706",
+                "cluster_total": "122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "706"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "715"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "731"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "740"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "750"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "752"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "757"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "773"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "775"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "777"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "780"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "787"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "788"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "789"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.06097,
+                    41.10164
+                ]
+            },
+            "properties": {
+                "source_label": "canal bosphorus",
+                "geonames_label": "Bosporus",
+                "url": "https://www.geonames.org/745043",
+                "sentence_idx": "791"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97451,
+                    41.02602
+                ]
+            },
+            "properties": {
+                "source_label": "galata",
+                "geonames_label": "Galata",
+                "url": "https://www.geonames.org/747059",
+                "sentence_idx": "791"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "797"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "802"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.75603,
+                    49.75315
+                ]
+            },
+            "properties": {
+                "source_label": "webern",
+                "geonames_label": "Webern",
+                "url": "https://www.geonames.org/2813548",
+                "sentence_idx": "802"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97451,
+                    41.02602
+                ]
+            },
+            "properties": {
+                "source_label": "galata",
+                "geonames_label": "Galata",
+                "url": "https://www.geonames.org/747059",
+                "sentence_idx": "806"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "807"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "808"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.18889,
+                    40.03228
+                ]
+            },
+            "properties": {
+                "source_label": "pera",
+                "geonames_label": "Castanheira de Pera Municipality",
+                "url": "https://www.geonames.org/8010547",
+                "sentence_idx": "809"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97451,
+                    41.02602
+                ]
+            },
+            "properties": {
+                "source_label": "galata",
+                "geonames_label": "Galata",
+                "url": "https://www.geonames.org/747059",
+                "sentence_idx": "809"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75,
+                    52.25
+                ]
+            },
+            "properties": {
+                "source_label": "holland",
+                "geonames_label": "Netherlands",
+                "url": "https://www.geonames.org/2750405",
+                "sentence_idx": "809"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "809"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72443,
+                    36.92574
+                ]
+            },
+            "properties": {
+                "source_label": "ragusa",
+                "geonames_label": "Ragusa",
+                "url": "https://www.geonames.org/2523650",
+                "sentence_idx": "812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08746,
+                    36.73225
+                ]
+            },
+            "properties": {
+                "source_label": "algier",
+                "geonames_label": "Algiers",
+                "url": "https://www.geonames.org/2507480",
+                "sentence_idx": "812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.16579,
+                    36.81897
+                ]
+            },
+            "properties": {
+                "source_label": "tunis",
+                "geonames_label": "Tunis",
+                "url": "https://www.geonames.org/2464470",
+                "sentence_idx": "812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18733,
+                    32.88743
+                ]
+            },
+            "properties": {
+                "source_label": "tripolis",
+                "geonames_label": "Tripoli",
+                "url": "https://www.geonames.org/2210247",
+                "sentence_idx": "812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0,
+                    34.0
+                ]
+            },
+            "properties": {
+                "source_label": "levante",
+                "geonames_label": "Levant",
+                "url": "https://www.geonames.org/305104",
+                "sentence_idx": "813"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "817"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0,
+                    46.5
+                ]
+            },
+            "properties": {
+                "source_label": "moldau",
+                "geonames_label": "Moldavia",
+                "url": "https://www.geonames.org/672915",
+                "sentence_idx": "818"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.08268,
+                    40.97882
+                ]
+            },
+            "properties": {
+                "source_label": "chalcedonien",
+                "geonames_label": "Kad\u0131k\u00f6y",
+                "url": "https://www.geonames.org/744906",
+                "sentence_idx": "825"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.01366,
+                    41.02274
+                ]
+            },
+            "properties": {
+                "source_label": "scudar",
+                "geonames_label": "Scutari",
+                "url": "https://www.geonames.org/738329",
+                "sentence_idx": "826"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "831"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97451,
+                    41.02602
+                ]
+            },
+            "properties": {
+                "source_label": "galata",
+                "geonames_label": "Galata",
+                "url": "https://www.geonames.org/747059",
+                "sentence_idx": "832"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97451,
+                    41.02602
+                ]
+            },
+            "properties": {
+                "source_label": "galata",
+                "geonames_label": "Galata",
+                "url": "https://www.geonames.org/747059",
+                "sentence_idx": "834"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "836"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "838"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "839"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "841"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "841"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": "842"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "842"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "844"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinope",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "845"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "846"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "846"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.22436,
+                    41.92936
+                ]
+            },
+            "properties": {
+                "source_label": "dulcigno",
+                "geonames_label": "Ulcinj",
+                "url": "https://www.geonames.org/3188516",
+                "sentence_idx": "846"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72443,
+                    36.92574
+                ]
+            },
+            "properties": {
+                "source_label": "ragusa",
+                "geonames_label": "Ragusa",
+                "url": "https://www.geonames.org/2523650",
+                "sentence_idx": "846"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": "850"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "852"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "852"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "862"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4584,
+                    40.21407
+                ]
+            },
+            "properties": {
+                "source_label": "dardanellen",
+                "geonames_label": "Dardanelles",
+                "url": "https://www.geonames.org/749779",
+                "sentence_idx": "863"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "863"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "866"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.03306,
+                    39.82194
+                ]
+            },
+            "properties": {
+                "source_label": "tenedos",
+                "geonames_label": "Tenedos",
+                "url": "https://www.geonames.org/320701",
+                "sentence_idx": "874"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "874"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "874"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "874"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.03306,
+                    39.82194
+                ]
+            },
+            "properties": {
+                "source_label": "tenedos",
+                "geonames_label": "Tenedos",
+                "url": "https://www.geonames.org/320701",
+                "sentence_idx": "874"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.14665,
+                    36.84452
+                ]
+            },
+            "properties": {
+                "source_label": "stanchio",
+                "geonames_label": "Kos",
+                "url": "https://www.geonames.org/259244",
+                "sentence_idx": "879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.96081,
+                    36.19613
+                ]
+            },
+            "properties": {
+                "source_label": "rhodus",
+                "geonames_label": "Rhodes",
+                "url": "https://www.geonames.org/400665",
+                "sentence_idx": "880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.96081,
+                    36.19613
+                ]
+            },
+            "properties": {
+                "source_label": "rhodus",
+                "geonames_label": "Rhodes",
+                "url": "https://www.geonames.org/400665",
+                "sentence_idx": "881"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.96081,
+                    36.19613
+                ]
+            },
+            "properties": {
+                "source_label": "rhodus",
+                "geonames_label": "Rhodes",
+                "url": "https://www.geonames.org/400665",
+                "sentence_idx": "884"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": "884"
+            }
+        }
+    ]
+}

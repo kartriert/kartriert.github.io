@@ -1,1 +1,421 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.68417, 50.11552]}, "properties": {"source_label": "frankfurt", "geonames_label": "Frankfurt am Main", "url": "https://www.geonames.org/2925533", "sentence_idx": 1217}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 1218}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1221}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.46513, 44.80401]}, "properties": {"source_label": "belgrads", "geonames_label": "Belgrade", "url": "https://www.geonames.org/792680", "sentence_idx": 1229}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 1233}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1234}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 1235}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1244}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.32618, 44.79935]}, "properties": {"source_label": "parma", "geonames_label": "Parma", "url": "https://www.geonames.org/3171457", "sentence_idx": 1254}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 1257}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1263}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.0, 62.0]}, "properties": {"source_label": "schweden", "geonames_label": "Sweden", "url": "https://www.geonames.org/2661886", "sentence_idx": 1267}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.25, 51.0]}, "properties": {"source_label": "sachsen", "geonames_label": "Saxony", "url": "https://www.geonames.org/2842566", "sentence_idx": 1267}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1272}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.06703, 49.79324]}, "properties": {"source_label": "bouillon", "geonames_label": "Bouillon", "url": "https://www.geonames.org/2801283", "sentence_idx": 1272}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wiens", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1280}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.46513, 44.80401]}, "properties": {"source_label": "belgrad", "geonames_label": "Belgrade", "url": "https://www.geonames.org/792680", "sentence_idx": 1280}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.08333, 48.86667]}, "properties": {"source_label": "marly", "geonames_label": "Marly-le-Roi", "url": "https://www.geonames.org/2995652", "sentence_idx": 1287}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "frankreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 1287}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 1291}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 1291}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 1302}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.68417, 50.11552]}, "properties": {"source_label": "frankfurt", "geonames_label": "Frankfurt am Main", "url": "https://www.geonames.org/2925533", "sentence_idx": 1302}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 1302}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.42076, 50.08804]}, "properties": {"source_label": "prag", "geonames_label": "Prague", "url": "https://www.geonames.org/3067696", "sentence_idx": 1302}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.24626, 43.77925]}, "properties": {"source_label": "florenz", "geonames_label": "Florence", "url": "https://www.geonames.org/3176959", "sentence_idx": 1311}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68417,
+                    50.11552
+                ]
+            },
+            "properties": {
+                "source_label": "frankfurt",
+                "geonames_label": "Frankfurt am Main",
+                "url": "https://www.geonames.org/2925533",
+                "sentence_idx": "1217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": "1218"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "1221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46513,
+                    44.80401
+                ]
+            },
+            "properties": {
+                "source_label": "belgrads",
+                "geonames_label": "Belgrade",
+                "url": "https://www.geonames.org/792680",
+                "sentence_idx": "1229"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "1233"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "1234"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "1235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "1244"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32618,
+                    44.79935
+                ]
+            },
+            "properties": {
+                "source_label": "parma",
+                "geonames_label": "Parma",
+                "url": "https://www.geonames.org/3171457",
+                "sentence_idx": "1254"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "1257"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "1263"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0,
+                    62.0
+                ]
+            },
+            "properties": {
+                "source_label": "schweden",
+                "geonames_label": "Sweden",
+                "url": "https://www.geonames.org/2661886",
+                "sentence_idx": "1267"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25,
+                    51.0
+                ]
+            },
+            "properties": {
+                "source_label": "sachsen",
+                "geonames_label": "Saxony",
+                "url": "https://www.geonames.org/2842566",
+                "sentence_idx": "1267"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "1272"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.06703,
+                    49.79324
+                ]
+            },
+            "properties": {
+                "source_label": "bouillon",
+                "geonames_label": "Bouillon",
+                "url": "https://www.geonames.org/2801283",
+                "sentence_idx": "1272"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wiens",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "1280"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46513,
+                    44.80401
+                ]
+            },
+            "properties": {
+                "source_label": "belgrad",
+                "geonames_label": "Belgrade",
+                "url": "https://www.geonames.org/792680",
+                "sentence_idx": "1280"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.08333,
+                    48.86667
+                ]
+            },
+            "properties": {
+                "source_label": "marly",
+                "geonames_label": "Marly-le-Roi",
+                "url": "https://www.geonames.org/2995652",
+                "sentence_idx": "1287"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "frankreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": "1287"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": "1291"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": "1291"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": "1302"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68417,
+                    50.11552
+                ]
+            },
+            "properties": {
+                "source_label": "frankfurt",
+                "geonames_label": "Frankfurt am Main",
+                "url": "https://www.geonames.org/2925533",
+                "sentence_idx": "1302"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": "1302"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42076,
+                    50.08804
+                ]
+            },
+            "properties": {
+                "source_label": "prag",
+                "geonames_label": "Prague",
+                "url": "https://www.geonames.org/3067696",
+                "sentence_idx": "1302"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24626,
+                    43.77925
+                ]
+            },
+            "properties": {
+                "source_label": "florenz",
+                "geonames_label": "Florence",
+                "url": "https://www.geonames.org/3176959",
+                "sentence_idx": "1311"
+            }
+        }
+    ]
+}

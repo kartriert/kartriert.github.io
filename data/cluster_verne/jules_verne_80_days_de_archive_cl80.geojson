@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.75103, 39.25024]}, "properties": {"source_label": "Utah", "geonames_label": "Utah", "url": "https://www.geonames.org/5549030", "sentence_idx": 3394}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-112.53491, 41.16266]}, "properties": {"source_label": "Salzsee", "geonames_label": "Great Salt Lake", "url": "https://www.geonames.org/5775376", "sentence_idx": 3394}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-115.35776, 41.14583]}, "properties": {"source_label": "Elko", "geonames_label": "Elko", "url": "https://www.geonames.org/5703670", "sentence_idx": 3404}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.75103,
+                    39.25024
+                ]
+            },
+            "properties": {
+                "source_label": "Utah",
+                "geonames_label": "Utah",
+                "url": "https://www.geonames.org/5549030",
+                "sentence_idx": "3394"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.53491,
+                    41.16266
+                ]
+            },
+            "properties": {
+                "source_label": "Salzsee",
+                "geonames_label": "Great Salt Lake",
+                "url": "https://www.geonames.org/5775376",
+                "sentence_idx": "3394"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.35776,
+                    41.14583
+                ]
+            },
+            "properties": {
+                "source_label": "Elko",
+                "geonames_label": "Elko",
+                "url": "https://www.geonames.org/5703670",
+                "sentence_idx": "3404"
+            }
+        }
+    ]
+}

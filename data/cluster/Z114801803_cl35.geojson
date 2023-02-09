@@ -1,1 +1,69 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [79.0, 22.0]}, "properties": {"source_label": "indien", "geonames_label": "India", "url": "https://www.geonames.org/1269750", "sentence_idx": 1293}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [76.26022, 9.93988]}, "properties": {"source_label": "Cochin", "geonames_label": "Ernakulam", "url": "https://www.geonames.org/1273874", "sentence_idx": 1294}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [86.93348, 21.49266]}, "properties": {"source_label": "Balasor", "geonames_label": "Balasore", "url": "https://www.geonames.org/1277599", "sentence_idx": 1294}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "kalkutta", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 1295}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0,
+                    22.0
+                ]
+            },
+            "properties": {
+                "source_label": "indien",
+                "geonames_label": "India",
+                "url": "https://www.geonames.org/1269750",
+                "sentence_idx": "1293"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.26022,
+                    9.93988
+                ]
+            },
+            "properties": {
+                "source_label": "Cochin",
+                "geonames_label": "Ernakulam",
+                "url": "https://www.geonames.org/1273874",
+                "sentence_idx": "1294"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.93348,
+                    21.49266
+                ]
+            },
+            "properties": {
+                "source_label": "Balasor",
+                "geonames_label": "Balasore",
+                "url": "https://www.geonames.org/1277599",
+                "sentence_idx": "1294"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "kalkutta",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": "1295"
+            }
+        }
+    ]
+}

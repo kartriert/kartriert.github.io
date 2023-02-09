@@ -1,1 +1,197 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.75309, 35.68536]}, "properties": {"source_label": "Japan", "geonames_label": "Japan", "url": "https://www.geonames.org/1861060", "sentence_idx": 2839}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.57645, 35.46225]}, "properties": {"source_label": "Yokohama", "geonames_label": "Yokohama", "url": "https://www.geonames.org/1848354", "sentence_idx": 2847}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.75309, 35.68536]}, "properties": {"source_label": "Japan", "geonames_label": "Japan", "url": "https://www.geonames.org/1861060", "sentence_idx": 2848}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.69171, 35.6895]}, "properties": {"source_label": "Yeddo", "geonames_label": "Tokyo", "url": "https://www.geonames.org/1850147", "sentence_idx": 2849}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.75309, 35.68536]}, "properties": {"source_label": "Japan", "geonames_label": "Japan", "url": "https://www.geonames.org/1861060", "sentence_idx": 2849}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.57645, 35.46225]}, "properties": {"source_label": "Yokohama", "geonames_label": "Yokohama", "url": "https://www.geonames.org/1848354", "sentence_idx": 2850}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.57645, 35.46225]}, "properties": {"source_label": "Yokohama", "geonames_label": "Yokohama", "url": "https://www.geonames.org/1848354", "sentence_idx": 2856}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.69171, 35.6895]}, "properties": {"source_label": "Yeddo", "geonames_label": "Tokyo", "url": "https://www.geonames.org/1850147", "sentence_idx": 2859}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.75309, 35.68536]}, "properties": {"source_label": "Japan", "geonames_label": "Japan", "url": "https://www.geonames.org/1861060", "sentence_idx": 2867}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.75309, 35.68536]}, "properties": {"source_label": "Japan", "geonames_label": "Japan", "url": "https://www.geonames.org/1861060", "sentence_idx": 2871}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.75309, 35.68536]}, "properties": {"source_label": "Japan", "geonames_label": "Japan", "url": "https://www.geonames.org/1861060", "sentence_idx": 2872}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [139.75309, 35.68536]}, "properties": {"source_label": "Japan", "geonames_label": "Japan", "url": "https://www.geonames.org/1861060", "sentence_idx": 2879}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75309,
+                    35.68536
+                ]
+            },
+            "properties": {
+                "source_label": "Japan",
+                "geonames_label": "Japan",
+                "url": "https://www.geonames.org/1861060",
+                "sentence_idx": "2839"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57645,
+                    35.46225
+                ]
+            },
+            "properties": {
+                "source_label": "Yokohama",
+                "geonames_label": "Yokohama",
+                "url": "https://www.geonames.org/1848354",
+                "sentence_idx": "2847"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75309,
+                    35.68536
+                ]
+            },
+            "properties": {
+                "source_label": "Japan",
+                "geonames_label": "Japan",
+                "url": "https://www.geonames.org/1861060",
+                "sentence_idx": "2848"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69171,
+                    35.6895
+                ]
+            },
+            "properties": {
+                "source_label": "Yeddo",
+                "geonames_label": "Tokyo",
+                "url": "https://www.geonames.org/1850147",
+                "sentence_idx": "2849"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75309,
+                    35.68536
+                ]
+            },
+            "properties": {
+                "source_label": "Japan",
+                "geonames_label": "Japan",
+                "url": "https://www.geonames.org/1861060",
+                "sentence_idx": "2849"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57645,
+                    35.46225
+                ]
+            },
+            "properties": {
+                "source_label": "Yokohama",
+                "geonames_label": "Yokohama",
+                "url": "https://www.geonames.org/1848354",
+                "sentence_idx": "2850"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57645,
+                    35.46225
+                ]
+            },
+            "properties": {
+                "source_label": "Yokohama",
+                "geonames_label": "Yokohama",
+                "url": "https://www.geonames.org/1848354",
+                "sentence_idx": "2856"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69171,
+                    35.6895
+                ]
+            },
+            "properties": {
+                "source_label": "Yeddo",
+                "geonames_label": "Tokyo",
+                "url": "https://www.geonames.org/1850147",
+                "sentence_idx": "2859"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75309,
+                    35.68536
+                ]
+            },
+            "properties": {
+                "source_label": "Japan",
+                "geonames_label": "Japan",
+                "url": "https://www.geonames.org/1861060",
+                "sentence_idx": "2867"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75309,
+                    35.68536
+                ]
+            },
+            "properties": {
+                "source_label": "Japan",
+                "geonames_label": "Japan",
+                "url": "https://www.geonames.org/1861060",
+                "sentence_idx": "2871"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75309,
+                    35.68536
+                ]
+            },
+            "properties": {
+                "source_label": "Japan",
+                "geonames_label": "Japan",
+                "url": "https://www.geonames.org/1861060",
+                "sentence_idx": "2872"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75309,
+                    35.68536
+                ]
+            },
+            "properties": {
+                "source_label": "Japan",
+                "geonames_label": "Japan",
+                "url": "https://www.geonames.org/1861060",
+                "sentence_idx": "2879"
+            }
+        }
+    ]
+}

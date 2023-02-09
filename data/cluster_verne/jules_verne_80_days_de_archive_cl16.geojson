@@ -1,1 +1,181 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "London", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 697}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3486, 48.8534]}, "properties": {"source_label": "Paris", "geonames_label": "Paris", "url": "https://www.geonames.org/2988507", "sentence_idx": 702}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3486, 48.8534]}, "properties": {"source_label": "Paris", "geonames_label": "Paris", "url": "https://www.geonames.org/2988507", "sentence_idx": 704}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.87917, 45.28583]}, "properties": {"source_label": "Mont-Cenis", "geonames_label": "Lanslebourg-Mont-Cenis", "url": "https://www.geonames.org/3007538", "sentence_idx": 707}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [7.68682, 45.07049]}, "properties": {"source_label": "Turin", "geonames_label": "Turin", "url": "https://www.geonames.org/3165524", "sentence_idx": 707}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [7.68682, 45.07049]}, "properties": {"source_label": "Turin", "geonames_label": "Turin", "url": "https://www.geonames.org/3165524", "sentence_idx": 711}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.66667, 40.58333]}, "properties": {"source_label": "Brindisi", "geonames_label": "Brindisi", "url": "https://www.geonames.org/3181528", "sentence_idx": 713}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3486, 48.8534]}, "properties": {"source_label": "Paris", "geonames_label": "Paris", "url": "https://www.geonames.org/2988507", "sentence_idx": 720}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.66667, 40.58333]}, "properties": {"source_label": "Brindisi", "geonames_label": "Brindisi", "url": "https://www.geonames.org/3181528", "sentence_idx": 720}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.97794, 53.41058]}, "properties": {"source_label": "Liverpool", "geonames_label": "Liverpool", "url": "https://www.geonames.org/2644210", "sentence_idx": 720}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "London", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 720}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "London",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": "697"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3486,
+                    48.8534
+                ]
+            },
+            "properties": {
+                "source_label": "Paris",
+                "geonames_label": "Paris",
+                "url": "https://www.geonames.org/2988507",
+                "sentence_idx": "702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3486,
+                    48.8534
+                ]
+            },
+            "properties": {
+                "source_label": "Paris",
+                "geonames_label": "Paris",
+                "url": "https://www.geonames.org/2988507",
+                "sentence_idx": "704"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.87917,
+                    45.28583
+                ]
+            },
+            "properties": {
+                "source_label": "Mont-Cenis",
+                "geonames_label": "Lanslebourg-Mont-Cenis",
+                "url": "https://www.geonames.org/3007538",
+                "sentence_idx": "707"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68682,
+                    45.07049
+                ]
+            },
+            "properties": {
+                "source_label": "Turin",
+                "geonames_label": "Turin",
+                "url": "https://www.geonames.org/3165524",
+                "sentence_idx": "707"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68682,
+                    45.07049
+                ]
+            },
+            "properties": {
+                "source_label": "Turin",
+                "geonames_label": "Turin",
+                "url": "https://www.geonames.org/3165524",
+                "sentence_idx": "711"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66667,
+                    40.58333
+                ]
+            },
+            "properties": {
+                "source_label": "Brindisi",
+                "geonames_label": "Brindisi",
+                "url": "https://www.geonames.org/3181528",
+                "sentence_idx": "713"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3486,
+                    48.8534
+                ]
+            },
+            "properties": {
+                "source_label": "Paris",
+                "geonames_label": "Paris",
+                "url": "https://www.geonames.org/2988507",
+                "sentence_idx": "720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66667,
+                    40.58333
+                ]
+            },
+            "properties": {
+                "source_label": "Brindisi",
+                "geonames_label": "Brindisi",
+                "url": "https://www.geonames.org/3181528",
+                "sentence_idx": "720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.97794,
+                    53.41058
+                ]
+            },
+            "properties": {
+                "source_label": "Liverpool",
+                "geonames_label": "Liverpool",
+                "url": "https://www.geonames.org/2644210",
+                "sentence_idx": "720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "London",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": "720"
+            }
+        }
+    ]
+}

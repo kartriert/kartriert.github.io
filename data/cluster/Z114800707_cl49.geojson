@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 8316}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [47.7804, 30.50852]}, "properties": {"source_label": "basra", "geonames_label": "Basra", "url": "https://www.geonames.org/99532", "sentence_idx": 8319}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 8319}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 8320}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 8334}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "8316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7804,
+                    30.50852
+                ]
+            },
+            "properties": {
+                "source_label": "basra",
+                "geonames_label": "Basra",
+                "url": "https://www.geonames.org/99532",
+                "sentence_idx": "8319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": "8319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": "8320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": "8334"
+            }
+        }
+    ]
+}

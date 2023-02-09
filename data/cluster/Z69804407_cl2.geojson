@@ -1,1 +1,421 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2778}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 2786}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2786}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 2787}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [27.23333, 42.53333]}, "properties": {"source_label": "burgas", "geonames_label": "Burgas", "url": "https://www.geonames.org/732771", "sentence_idx": 2789}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [26.55597, 41.67719]}, "properties": {"source_label": "adrianopel", "geonames_label": "Edirne", "url": "https://www.geonames.org/747712", "sentence_idx": 2792}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [26.55597, 41.67719]}, "properties": {"source_label": "adrianopel", "geonames_label": "Edirne", "url": "https://www.geonames.org/747712", "sentence_idx": 2793}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [24.75, 42.15]}, "properties": {"source_label": "philippopel", "geonames_label": "Plovdiv", "url": "https://www.geonames.org/728193", "sentence_idx": 2796}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2798}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [22.0, 39.0]}, "properties": {"source_label": "griechenland", "geonames_label": "Greece", "url": "https://www.geonames.org/390903", "sentence_idx": 2800}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.46513, 44.80401]}, "properties": {"source_label": "belgrad", "geonames_label": "Belgrade", "url": "https://www.geonames.org/792680", "sentence_idx": 2808}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.46513, 44.80401]}, "properties": {"source_label": "griechisch weissenburg", "geonames_label": "Belgrade", "url": "https://www.geonames.org/792680", "sentence_idx": 2808}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.66667, 45.33333]}, "properties": {"source_label": "donau", "geonames_label": "Danube River", "url": "https://www.geonames.org/791630", "sentence_idx": 2812}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [25.76111, 48.43867]}, "properties": {"source_label": "valeva", "geonames_label": "Kitsman", "url": "https://www.geonames.org/705735", "sentence_idx": 2815}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.0, 44.0]}, "properties": {"source_label": "bosnia", "geonames_label": "Bosnia", "url": "https://www.geonames.org/3203633", "sentence_idx": 2817}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.43915, 43.50891]}, "properties": {"source_label": "spalato", "geonames_label": "Split", "url": "https://www.geonames.org/3190261", "sentence_idx": 2820}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.5, 43.16667]}, "properties": {"source_label": "dalmatia", "geonames_label": "Split-Dalmatia", "url": "https://www.geonames.org/3337527", "sentence_idx": 2822}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.61933, 44.00204]}, "properties": {"source_label": "tramontana", "geonames_label": "Tramontana", "url": "https://www.geonames.org/8974926", "sentence_idx": 2823}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.91667, 45.25]}, "properties": {"source_label": "istria", "geonames_label": "Istria", "url": "https://www.geonames.org/3337514", "sentence_idx": 2825}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.86667, 44.86667]}, "properties": {"source_label": "pula", "geonames_label": null, "url": "https://www.geonames.org/11054815", "sentence_idx": 2826}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2827}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.66667, 45.08333]}, "properties": {"source_label": "rovigno", "geonames_label": "Ra\u0161a", "url": "https://www.geonames.org/11054816", "sentence_idx": 2827}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.79875, 45.10907]}, "properties": {"source_label": "parenza", "geonames_label": "Parenza", "url": "https://www.geonames.org/8959306", "sentence_idx": 2830}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.07898, 38.35431]}, "properties": {"source_label": "cittanova", "geonames_label": "Cittanova", "url": "https://www.geonames.org/2524976", "sentence_idx": 2830}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.59364, 45.65194]}, "properties": {"source_label": "golfo di trieste", "geonames_label": "Gulf of Trieste", "url": "https://www.geonames.org/3165187", "sentence_idx": 2835}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2836}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2778"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "2786"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2786"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "2787"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.23333,
+                    42.53333
+                ]
+            },
+            "properties": {
+                "source_label": "burgas",
+                "geonames_label": "Burgas",
+                "url": "https://www.geonames.org/732771",
+                "sentence_idx": "2789"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.55597,
+                    41.67719
+                ]
+            },
+            "properties": {
+                "source_label": "adrianopel",
+                "geonames_label": "Edirne",
+                "url": "https://www.geonames.org/747712",
+                "sentence_idx": "2792"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.55597,
+                    41.67719
+                ]
+            },
+            "properties": {
+                "source_label": "adrianopel",
+                "geonames_label": "Edirne",
+                "url": "https://www.geonames.org/747712",
+                "sentence_idx": "2793"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.75,
+                    42.15
+                ]
+            },
+            "properties": {
+                "source_label": "philippopel",
+                "geonames_label": "Plovdiv",
+                "url": "https://www.geonames.org/728193",
+                "sentence_idx": "2796"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2798"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0,
+                    39.0
+                ]
+            },
+            "properties": {
+                "source_label": "griechenland",
+                "geonames_label": "Greece",
+                "url": "https://www.geonames.org/390903",
+                "sentence_idx": "2800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46513,
+                    44.80401
+                ]
+            },
+            "properties": {
+                "source_label": "belgrad",
+                "geonames_label": "Belgrade",
+                "url": "https://www.geonames.org/792680",
+                "sentence_idx": "2808"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46513,
+                    44.80401
+                ]
+            },
+            "properties": {
+                "source_label": "griechisch weissenburg",
+                "geonames_label": "Belgrade",
+                "url": "https://www.geonames.org/792680",
+                "sentence_idx": "2808"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66667,
+                    45.33333
+                ]
+            },
+            "properties": {
+                "source_label": "donau",
+                "geonames_label": "Danube River",
+                "url": "https://www.geonames.org/791630",
+                "sentence_idx": "2812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.76111,
+                    48.43867
+                ]
+            },
+            "properties": {
+                "source_label": "valeva",
+                "geonames_label": "Kitsman",
+                "url": "https://www.geonames.org/705735",
+                "sentence_idx": "2815"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "bosnia",
+                "geonames_label": "Bosnia",
+                "url": "https://www.geonames.org/3203633",
+                "sentence_idx": "2817"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43915,
+                    43.50891
+                ]
+            },
+            "properties": {
+                "source_label": "spalato",
+                "geonames_label": "Split",
+                "url": "https://www.geonames.org/3190261",
+                "sentence_idx": "2820"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5,
+                    43.16667
+                ]
+            },
+            "properties": {
+                "source_label": "dalmatia",
+                "geonames_label": "Split-Dalmatia",
+                "url": "https://www.geonames.org/3337527",
+                "sentence_idx": "2822"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61933,
+                    44.00204
+                ]
+            },
+            "properties": {
+                "source_label": "tramontana",
+                "geonames_label": "Tramontana",
+                "url": "https://www.geonames.org/8974926",
+                "sentence_idx": "2823"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91667,
+                    45.25
+                ]
+            },
+            "properties": {
+                "source_label": "istria",
+                "geonames_label": "Istria",
+                "url": "https://www.geonames.org/3337514",
+                "sentence_idx": "2825"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86667,
+                    44.86667
+                ]
+            },
+            "properties": {
+                "source_label": "pula",
+                "geonames_label": "None",
+                "url": "https://www.geonames.org/11054815",
+                "sentence_idx": "2826"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2827"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66667,
+                    45.08333
+                ]
+            },
+            "properties": {
+                "source_label": "rovigno",
+                "geonames_label": "Ra\u0161a",
+                "url": "https://www.geonames.org/11054816",
+                "sentence_idx": "2827"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79875,
+                    45.10907
+                ]
+            },
+            "properties": {
+                "source_label": "parenza",
+                "geonames_label": "Parenza",
+                "url": "https://www.geonames.org/8959306",
+                "sentence_idx": "2830"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07898,
+                    38.35431
+                ]
+            },
+            "properties": {
+                "source_label": "cittanova",
+                "geonames_label": "Cittanova",
+                "url": "https://www.geonames.org/2524976",
+                "sentence_idx": "2830"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59364,
+                    45.65194
+                ]
+            },
+            "properties": {
+                "source_label": "golfo di trieste",
+                "geonames_label": "Gulf of Trieste",
+                "url": "https://www.geonames.org/3165187",
+                "sentence_idx": "2835"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2836"
+            }
+        }
+    ]
+}

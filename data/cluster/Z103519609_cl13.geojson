@@ -1,1 +1,213 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.68417, 50.11552]}, "properties": {"source_label": "frankfurt", "geonames_label": "Frankfurt am Main", "url": "https://www.geonames.org/2925533", "sentence_idx": 1977}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.52327, 47.84565]}, "properties": {"source_label": "eisenstadt", "geonames_label": "Eisenstadt", "url": "https://www.geonames.org/2780190", "sentence_idx": 1980}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1980}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1981}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.52327, 47.84565]}, "properties": {"source_label": "eisenstadt", "geonames_label": "Eisenstadt", "url": "https://www.geonames.org/2780190", "sentence_idx": 1982}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.59049, 47.68501]}, "properties": {"source_label": "oedenburg", "geonames_label": "Sopron", "url": "https://www.geonames.org/3045190", "sentence_idx": 1982}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.10674, 48.14816]}, "properties": {"source_label": "pre\u00dfburg", "geonames_label": "Bratislava", "url": "https://www.geonames.org/3060972", "sentence_idx": 1982}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.23196, 47.80485]}, "properties": {"source_label": "wiener neustadt", "geonames_label": "Wiener Neustadt", "url": "https://www.geonames.org/2761353", "sentence_idx": 1982}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1982}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3488, 48.85341]}, "properties": {"source_label": "paris", "geonames_label": "Paris", "url": "https://www.geonames.org/2988507", "sentence_idx": 1986}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 1987}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.52327, 47.84565]}, "properties": {"source_label": "eisenstadt", "geonames_label": "Eisenstadt", "url": "https://www.geonames.org/2780190", "sentence_idx": 1987}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.52327, 47.84565]}, "properties": {"source_label": "eisenstadt", "geonames_label": "Eisenstadt", "url": "https://www.geonames.org/2780190", "sentence_idx": 1996}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68417,
+                    50.11552
+                ]
+            },
+            "properties": {
+                "source_label": "frankfurt",
+                "geonames_label": "Frankfurt am Main",
+                "url": "https://www.geonames.org/2925533",
+                "sentence_idx": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52327,
+                    47.84565
+                ]
+            },
+            "properties": {
+                "source_label": "eisenstadt",
+                "geonames_label": "Eisenstadt",
+                "url": "https://www.geonames.org/2780190",
+                "sentence_idx": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52327,
+                    47.84565
+                ]
+            },
+            "properties": {
+                "source_label": "eisenstadt",
+                "geonames_label": "Eisenstadt",
+                "url": "https://www.geonames.org/2780190",
+                "sentence_idx": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59049,
+                    47.68501
+                ]
+            },
+            "properties": {
+                "source_label": "oedenburg",
+                "geonames_label": "Sopron",
+                "url": "https://www.geonames.org/3045190",
+                "sentence_idx": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10674,
+                    48.14816
+                ]
+            },
+            "properties": {
+                "source_label": "pre\u00dfburg",
+                "geonames_label": "Bratislava",
+                "url": "https://www.geonames.org/3060972",
+                "sentence_idx": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23196,
+                    47.80485
+                ]
+            },
+            "properties": {
+                "source_label": "wiener neustadt",
+                "geonames_label": "Wiener Neustadt",
+                "url": "https://www.geonames.org/2761353",
+                "sentence_idx": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3488,
+                    48.85341
+                ]
+            },
+            "properties": {
+                "source_label": "paris",
+                "geonames_label": "Paris",
+                "url": "https://www.geonames.org/2988507",
+                "sentence_idx": "1986"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "1987"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52327,
+                    47.84565
+                ]
+            },
+            "properties": {
+                "source_label": "eisenstadt",
+                "geonames_label": "Eisenstadt",
+                "url": "https://www.geonames.org/2780190",
+                "sentence_idx": "1987"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52327,
+                    47.84565
+                ]
+            },
+            "properties": {
+                "source_label": "eisenstadt",
+                "geonames_label": "Eisenstadt",
+                "url": "https://www.geonames.org/2780190",
+                "sentence_idx": "1996"
+            }
+        }
+    ]
+}

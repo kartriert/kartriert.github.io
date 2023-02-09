@@ -1,1 +1,165 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [44.40088, 33.34058]}, "properties": {"source_label": "bagdad", "geonames_label": "Baghdad", "url": "https://www.geonames.org/98182", "sentence_idx": 3756}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [29.91582, 31.20176]}, "properties": {"source_label": "alexandrien", "geonames_label": "Alexandria", "url": "https://www.geonames.org/361058", "sentence_idx": 3757}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [45.0, 25.0]}, "properties": {"source_label": "arabien", "geonames_label": "Saudi Arabia", "url": "https://www.geonames.org/102358", "sentence_idx": 3759}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 3768}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 3773}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [36.0, 34.0]}, "properties": {"source_label": "levante", "geonames_label": "Levant", "url": "https://www.geonames.org/305104", "sentence_idx": 3779}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 3788}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 3788}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.97451, 41.02602]}, "properties": {"source_label": "galata", "geonames_label": "Galata", "url": "https://www.geonames.org/747059", "sentence_idx": 3789}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [28.94966, 41.01384]}, "properties": {"source_label": "constantinopel", "geonames_label": "Istanbul", "url": "https://www.geonames.org/745044", "sentence_idx": 3803}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.40088,
+                    33.34058
+                ]
+            },
+            "properties": {
+                "source_label": "bagdad",
+                "geonames_label": "Baghdad",
+                "url": "https://www.geonames.org/98182",
+                "sentence_idx": "3756"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91582,
+                    31.20176
+                ]
+            },
+            "properties": {
+                "source_label": "alexandrien",
+                "geonames_label": "Alexandria",
+                "url": "https://www.geonames.org/361058",
+                "sentence_idx": "3757"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.0,
+                    25.0
+                ]
+            },
+            "properties": {
+                "source_label": "arabien",
+                "geonames_label": "Saudi Arabia",
+                "url": "https://www.geonames.org/102358",
+                "sentence_idx": "3759"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "3768"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "3773"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0,
+                    34.0
+                ]
+            },
+            "properties": {
+                "source_label": "levante",
+                "geonames_label": "Levant",
+                "url": "https://www.geonames.org/305104",
+                "sentence_idx": "3779"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "3788"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "3788"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97451,
+                    41.02602
+                ]
+            },
+            "properties": {
+                "source_label": "galata",
+                "geonames_label": "Galata",
+                "url": "https://www.geonames.org/747059",
+                "sentence_idx": "3789"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94966,
+                    41.01384
+                ]
+            },
+            "properties": {
+                "source_label": "constantinopel",
+                "geonames_label": "Istanbul",
+                "url": "https://www.geonames.org/745044",
+                "sentence_idx": "3803"
+            }
+        }
+    ]
+}

@@ -1,1 +1,501 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 437}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 439}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 451}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 454}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 456}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-60.80521, 46.0332]}, "properties": {"source_label": "cap breton", "geonames_label": "Cape Breton Island", "url": "https://www.geonames.org/5915569", "sentence_idx": 458}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-62.99865, 45.00015]}, "properties": {"source_label": "neu schottland", "geonames_label": "Nova Scotia", "url": "https://www.geonames.org/6091530", "sentence_idx": 466}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 469}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 472}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 477}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 481}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 483}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 485}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 493}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 495}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 499}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 504}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.49978, 41.75038]}, "properties": {"source_label": "rhode island", "geonames_label": "Rhode Island", "url": "https://www.geonames.org/5224323", "sentence_idx": 504}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 506}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.49978, 41.75038]}, "properties": {"source_label": "rhode island", "geonames_label": "Rhode Island", "url": "https://www.geonames.org/5224323", "sentence_idx": 506}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 506}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 506}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.49978, 41.75038]}, "properties": {"source_label": "rhode island", "geonames_label": "Rhode Island", "url": "https://www.geonames.org/5224323", "sentence_idx": 507}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.4998, 43.66702]}, "properties": {"source_label": "neu hampshire", "geonames_label": "New Hampshire", "url": "https://www.geonames.org/5090174", "sentence_idx": 507}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-73.06622, 40.81677]}, "properties": {"source_label": "long island", "geonames_label": "Long Island", "url": "https://www.geonames.org/5125123", "sentence_idx": 508}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.4998, 43.66702]}, "properties": {"source_label": "neu hampshire", "geonames_label": "New Hampshire", "url": "https://www.geonames.org/5090174", "sentence_idx": 508}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 510}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 510}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.4999, 43.00035]}, "properties": {"source_label": "neu york", "geonames_label": "New York", "url": "https://www.geonames.org/5128638", "sentence_idx": 513}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 513}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.0, 44.0]}, "properties": {"source_label": "neu england", "geonames_label": "New England", "url": "https://www.geonames.org/11919979", "sentence_idx": 515}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "437"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "451"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "454"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "456"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.80521,
+                    46.0332
+                ]
+            },
+            "properties": {
+                "source_label": "cap breton",
+                "geonames_label": "Cape Breton Island",
+                "url": "https://www.geonames.org/5915569",
+                "sentence_idx": "458"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.99865,
+                    45.00015
+                ]
+            },
+            "properties": {
+                "source_label": "neu schottland",
+                "geonames_label": "Nova Scotia",
+                "url": "https://www.geonames.org/6091530",
+                "sentence_idx": "466"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "469"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "472"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "477"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "481"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "483"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "485"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "493"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "495"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "499"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "504"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.49978,
+                    41.75038
+                ]
+            },
+            "properties": {
+                "source_label": "rhode island",
+                "geonames_label": "Rhode Island",
+                "url": "https://www.geonames.org/5224323",
+                "sentence_idx": "504"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.49978,
+                    41.75038
+                ]
+            },
+            "properties": {
+                "source_label": "rhode island",
+                "geonames_label": "Rhode Island",
+                "url": "https://www.geonames.org/5224323",
+                "sentence_idx": "506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.49978,
+                    41.75038
+                ]
+            },
+            "properties": {
+                "source_label": "rhode island",
+                "geonames_label": "Rhode Island",
+                "url": "https://www.geonames.org/5224323",
+                "sentence_idx": "507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4998,
+                    43.66702
+                ]
+            },
+            "properties": {
+                "source_label": "neu hampshire",
+                "geonames_label": "New Hampshire",
+                "url": "https://www.geonames.org/5090174",
+                "sentence_idx": "507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.06622,
+                    40.81677
+                ]
+            },
+            "properties": {
+                "source_label": "long island",
+                "geonames_label": "Long Island",
+                "url": "https://www.geonames.org/5125123",
+                "sentence_idx": "508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4998,
+                    43.66702
+                ]
+            },
+            "properties": {
+                "source_label": "neu hampshire",
+                "geonames_label": "New Hampshire",
+                "url": "https://www.geonames.org/5090174",
+                "sentence_idx": "508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "510"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "510"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4999,
+                    43.00035
+                ]
+            },
+            "properties": {
+                "source_label": "neu york",
+                "geonames_label": "New York",
+                "url": "https://www.geonames.org/5128638",
+                "sentence_idx": "513"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "513"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0,
+                    44.0
+                ]
+            },
+            "properties": {
+                "source_label": "neu england",
+                "geonames_label": "New England",
+                "url": "https://www.geonames.org/11919979",
+                "sentence_idx": "515"
+            }
+        }
+    ]
+}

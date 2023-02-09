@@ -1,1 +1,197 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.58723, 48.37741]}, "properties": {"source_label": "tyrnau", "geonames_label": "Trnava", "url": "https://www.geonames.org/3057124", "sentence_idx": 1360}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [8.13886, 49.35009]}, "properties": {"source_label": "neustadt", "geonames_label": "Neustadt", "url": "https://www.geonames.org/2864054", "sentence_idx": 1361}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.04436, 48.89452]}, "properties": {"source_label": "trentschin", "geonames_label": "Tren\u010d\u00edn", "url": "https://www.geonames.org/3057140", "sentence_idx": 1361}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.08453, 48.30763]}, "properties": {"source_label": "nitra", "geonames_label": "Nitra", "url": "https://www.geonames.org/3058531", "sentence_idx": 1364}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [18.91003, 48.44858]}, "properties": {"source_label": "schemnitz", "geonames_label": "Bansk\u00e1 \u0160tiavnica", "url": "https://www.geonames.org/3061184", "sentence_idx": 1364}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [19.15349, 48.73946]}, "properties": {"source_label": "neusohl", "geonames_label": "Bansk\u00e1 Bystrica", "url": "https://www.geonames.org/3061186", "sentence_idx": 1366}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1367}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.25808, 48.71395]}, "properties": {"source_label": "kaschau", "geonames_label": "Ko\u0161ice", "url": "https://www.geonames.org/724443", "sentence_idx": 1370}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [17.58723, 48.37741]}, "properties": {"source_label": "tyrnau", "geonames_label": "Trnava", "url": "https://www.geonames.org/3057124", "sentence_idx": 1371}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [15.45194, 46.82111]}, "properties": {"source_label": "st. nikolai", "geonames_label": "Sankt Nikolai im Sausal", "url": "https://www.geonames.org/2766485", "sentence_idx": 1375}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 1378}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.87514, 48.91447]}, "properties": {"source_label": "krompach", "geonames_label": "Krompachy", "url": "https://www.geonames.org/724377", "sentence_idx": 1383}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.58723,
+                    48.37741
+                ]
+            },
+            "properties": {
+                "source_label": "tyrnau",
+                "geonames_label": "Trnava",
+                "url": "https://www.geonames.org/3057124",
+                "sentence_idx": "1360"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.13886,
+                    49.35009
+                ]
+            },
+            "properties": {
+                "source_label": "neustadt",
+                "geonames_label": "Neustadt",
+                "url": "https://www.geonames.org/2864054",
+                "sentence_idx": "1361"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04436,
+                    48.89452
+                ]
+            },
+            "properties": {
+                "source_label": "trentschin",
+                "geonames_label": "Tren\u010d\u00edn",
+                "url": "https://www.geonames.org/3057140",
+                "sentence_idx": "1361"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08453,
+                    48.30763
+                ]
+            },
+            "properties": {
+                "source_label": "nitra",
+                "geonames_label": "Nitra",
+                "url": "https://www.geonames.org/3058531",
+                "sentence_idx": "1364"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91003,
+                    48.44858
+                ]
+            },
+            "properties": {
+                "source_label": "schemnitz",
+                "geonames_label": "Bansk\u00e1 \u0160tiavnica",
+                "url": "https://www.geonames.org/3061184",
+                "sentence_idx": "1364"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15349,
+                    48.73946
+                ]
+            },
+            "properties": {
+                "source_label": "neusohl",
+                "geonames_label": "Bansk\u00e1 Bystrica",
+                "url": "https://www.geonames.org/3061186",
+                "sentence_idx": "1366"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "1367"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25808,
+                    48.71395
+                ]
+            },
+            "properties": {
+                "source_label": "kaschau",
+                "geonames_label": "Ko\u0161ice",
+                "url": "https://www.geonames.org/724443",
+                "sentence_idx": "1370"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.58723,
+                    48.37741
+                ]
+            },
+            "properties": {
+                "source_label": "tyrnau",
+                "geonames_label": "Trnava",
+                "url": "https://www.geonames.org/3057124",
+                "sentence_idx": "1371"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45194,
+                    46.82111
+                ]
+            },
+            "properties": {
+                "source_label": "st. nikolai",
+                "geonames_label": "Sankt Nikolai im Sausal",
+                "url": "https://www.geonames.org/2766485",
+                "sentence_idx": "1375"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "1378"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.87514,
+                    48.91447
+                ]
+            },
+            "properties": {
+                "source_label": "krompach",
+                "geonames_label": "Krompachy",
+                "url": "https://www.geonames.org/724377",
+                "sentence_idx": "1383"
+            }
+        }
+    ]
+}

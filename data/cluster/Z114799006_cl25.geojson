@@ -1,1 +1,277 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "nord amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 948}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.5, 39.76]}, "properties": {"source_label": "vereinigten staaten", "geonames_label": "United States", "url": "https://www.geonames.org/6252001", "sentence_idx": 961}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 964}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 980}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 982}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 985}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 988}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 990}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "nord amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 994}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "nordamerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 996}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "nord amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 996}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 998}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 1004}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.00085, 34.50034]}, "properties": {"source_label": "neu mexiko", "geonames_label": "New Mexico", "url": "https://www.geonames.org/5481136", "sentence_idx": 1006}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.00939, 30.12595]}, "properties": {"source_label": "louisiana", "geonames_label": "Acadiana", "url": "https://www.geonames.org/11874184", "sentence_idx": 1011}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-102.0, 23.0]}, "properties": {"source_label": "mexiko", "geonames_label": "Mexico", "url": "https://www.geonames.org/3996063", "sentence_idx": 1012}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-100.54688, 46.07323]}, "properties": {"source_label": "nord amerika", "geonames_label": "North America", "url": "https://www.geonames.org/6255149", "sentence_idx": 1013}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "nord amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "948"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.5,
+                    39.76
+                ]
+            },
+            "properties": {
+                "source_label": "vereinigten staaten",
+                "geonames_label": "United States",
+                "url": "https://www.geonames.org/6252001",
+                "sentence_idx": "961"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "964"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "988"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "990"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "nord amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "994"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "nordamerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "nord amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "1004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.00085,
+                    34.50034
+                ]
+            },
+            "properties": {
+                "source_label": "neu mexiko",
+                "geonames_label": "New Mexico",
+                "url": "https://www.geonames.org/5481136",
+                "sentence_idx": "1006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.00939,
+                    30.12595
+                ]
+            },
+            "properties": {
+                "source_label": "louisiana",
+                "geonames_label": "Acadiana",
+                "url": "https://www.geonames.org/11874184",
+                "sentence_idx": "1011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.0,
+                    23.0
+                ]
+            },
+            "properties": {
+                "source_label": "mexiko",
+                "geonames_label": "Mexico",
+                "url": "https://www.geonames.org/3996063",
+                "sentence_idx": "1012"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.54688,
+                    46.07323
+                ]
+            },
+            "properties": {
+                "source_label": "nord amerika",
+                "geonames_label": "North America",
+                "url": "https://www.geonames.org/6255149",
+                "sentence_idx": "1013"
+            }
+        }
+    ]
+}

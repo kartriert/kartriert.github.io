@@ -1,1 +1,326 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2034, "cluster_total": 26}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3488, 48.85341]}, "properties": {"source_label": "paris", "geonames_label": "Paris", "url": "https://www.geonames.org/2988507", "sentence_idx": 2040}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.12574, 51.50853]}, "properties": {"source_label": "london", "geonames_label": "London", "url": "https://www.geonames.org/2643743", "sentence_idx": 2040}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.51133, 41.89193]}, "properties": {"source_label": "rom", "geonames_label": "Rome", "url": "https://www.geonames.org/3169070", "sentence_idx": 2040}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2040}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [13.33333, 47.33333]}, "properties": {"source_label": "oesterreich", "geonames_label": "Austria", "url": "https://www.geonames.org/2782113", "sentence_idx": 2051}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2057}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2059}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2059}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [7.97938, 50.11908]}, "properties": {"source_label": "dornbach", "geonames_label": "Dornbach", "url": "https://www.geonames.org/2601015", "sentence_idx": 2063}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.14062, 48.69096]}, "properties": {"source_label": "europa", "geonames_label": "Europe", "url": "https://www.geonames.org/6255148", "sentence_idx": 2065}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2068}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2071}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2085}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.31229, 48.18494]}, "properties": {"source_label": "sch\u00f6nbrunn", "geonames_label": "Schonbrunn Palace", "url": "https://www.geonames.org/6354998", "sentence_idx": 2085}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2088}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.31229, 48.18494]}, "properties": {"source_label": "sch\u00f6nbrunn", "geonames_label": "Schonbrunn Palace", "url": "https://www.geonames.org/6354998", "sentence_idx": 2088}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [11.50835, 52.49718]}, "properties": {"source_label": "stahrenberg", "geonames_label": "Stahrenberg", "url": "https://www.geonames.org/2829654", "sentence_idx": 2088}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.37208, 48.20849]}, "properties": {"source_label": "wien", "geonames_label": "Vienna", "url": "https://www.geonames.org/2761369", "sentence_idx": 2104}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.31229, 48.18494]}, "properties": {"source_label": "sch\u00f6nbrunn", "geonames_label": "Schonbrunn Palace", "url": "https://www.geonames.org/6354998", "sentence_idx": 2104}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2034",
+                "cluster_total": "26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3488,
+                    48.85341
+                ]
+            },
+            "properties": {
+                "source_label": "paris",
+                "geonames_label": "Paris",
+                "url": "https://www.geonames.org/2988507",
+                "sentence_idx": "2040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12574,
+                    51.50853
+                ]
+            },
+            "properties": {
+                "source_label": "london",
+                "geonames_label": "London",
+                "url": "https://www.geonames.org/2643743",
+                "sentence_idx": "2040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51133,
+                    41.89193
+                ]
+            },
+            "properties": {
+                "source_label": "rom",
+                "geonames_label": "Rome",
+                "url": "https://www.geonames.org/3169070",
+                "sentence_idx": "2040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33333,
+                    47.33333
+                ]
+            },
+            "properties": {
+                "source_label": "oesterreich",
+                "geonames_label": "Austria",
+                "url": "https://www.geonames.org/2782113",
+                "sentence_idx": "2051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2057"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.97938,
+                    50.11908
+                ]
+            },
+            "properties": {
+                "source_label": "dornbach",
+                "geonames_label": "Dornbach",
+                "url": "https://www.geonames.org/2601015",
+                "sentence_idx": "2063"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14062,
+                    48.69096
+                ]
+            },
+            "properties": {
+                "source_label": "europa",
+                "geonames_label": "Europe",
+                "url": "https://www.geonames.org/6255148",
+                "sentence_idx": "2065"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2068"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31229,
+                    48.18494
+                ]
+            },
+            "properties": {
+                "source_label": "sch\u00f6nbrunn",
+                "geonames_label": "Schonbrunn Palace",
+                "url": "https://www.geonames.org/6354998",
+                "sentence_idx": "2085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31229,
+                    48.18494
+                ]
+            },
+            "properties": {
+                "source_label": "sch\u00f6nbrunn",
+                "geonames_label": "Schonbrunn Palace",
+                "url": "https://www.geonames.org/6354998",
+                "sentence_idx": "2088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.50835,
+                    52.49718
+                ]
+            },
+            "properties": {
+                "source_label": "stahrenberg",
+                "geonames_label": "Stahrenberg",
+                "url": "https://www.geonames.org/2829654",
+                "sentence_idx": "2088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37208,
+                    48.20849
+                ]
+            },
+            "properties": {
+                "source_label": "wien",
+                "geonames_label": "Vienna",
+                "url": "https://www.geonames.org/2761369",
+                "sentence_idx": "2104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31229,
+                    48.18494
+                ]
+            },
+            "properties": {
+                "source_label": "sch\u00f6nbrunn",
+                "geonames_label": "Schonbrunn Palace",
+                "url": "https://www.geonames.org/6354998",
+                "sentence_idx": "2104"
+            }
+        }
+    ]
+}

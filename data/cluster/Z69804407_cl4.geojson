@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.0, 46.0]}, "properties": {"source_label": "franckreich", "geonames_label": "France", "url": "https://www.geonames.org/3017382", "sentence_idx": 2575}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2577}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [12.33265, 45.43713]}, "properties": {"source_label": "venedig", "geonames_label": "Venice", "url": "https://www.geonames.org/3164603", "sentence_idx": 2589}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0,
+                    46.0
+                ]
+            },
+            "properties": {
+                "source_label": "franckreich",
+                "geonames_label": "France",
+                "url": "https://www.geonames.org/3017382",
+                "sentence_idx": "2575"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2577"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33265,
+                    45.43713
+                ]
+            },
+            "properties": {
+                "source_label": "venedig",
+                "geonames_label": "Venice",
+                "url": "https://www.geonames.org/3164603",
+                "sentence_idx": "2589"
+            }
+        }
+    ]
+}

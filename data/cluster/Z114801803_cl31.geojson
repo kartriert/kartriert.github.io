@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [88.36304, 22.56263]}, "properties": {"source_label": "bengalen", "geonames_label": "Kolkata", "url": "https://www.geonames.org/1275004", "sentence_idx": 2186}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [90.5, 27.5]}, "properties": {"source_label": "butan", "geonames_label": "Bhutan", "url": "https://www.geonames.org/1252634", "sentence_idx": 2195}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [89.59398, 26.75865]}, "properties": {"source_label": "Buxa Du\u0101r", "geonames_label": "Buxa Du\u0101r", "url": "https://www.geonames.org/1275020", "sentence_idx": 2195}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "properties": {
+                "source_label": "bengalen",
+                "geonames_label": "Kolkata",
+                "url": "https://www.geonames.org/1275004",
+                "sentence_idx": "2186"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.5,
+                    27.5
+                ]
+            },
+            "properties": {
+                "source_label": "butan",
+                "geonames_label": "Bhutan",
+                "url": "https://www.geonames.org/1252634",
+                "sentence_idx": "2195"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.59398,
+                    26.75865
+                ]
+            },
+            "properties": {
+                "source_label": "Buxa Du\u0101r",
+                "geonames_label": "Buxa Du\u0101r",
+                "url": "https://www.geonames.org/1275020",
+                "sentence_idx": "2195"
+            }
+        }
+    ]
+}

@@ -1,1 +1,181 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [48.23789, 32.16151]}, "properties": {"source_label": "kolsum", "geonames_label": "Omm-e Kols\u0304\u016bm", "url": "https://www.geonames.org/36475", "sentence_idx": 4429}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.81969, 14.85432]}, "properties": {"source_label": "acca", "geonames_label": "Acca", "url": "https://www.geonames.org/345612", "sentence_idx": 4432}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 4434}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 4439}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 4441}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.61417, 24.46861]}, "properties": {"source_label": "medina", "geonames_label": "Medina", "url": "https://www.geonames.org/109223", "sentence_idx": 4441}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 4441}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 4454}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [39.18624, 21.49012]}, "properties": {"source_label": "dschidda", "geonames_label": "Jeddah", "url": "https://www.geonames.org/105343", "sentence_idx": 4463}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.0, 27.0]}, "properties": {"source_label": "egypten", "geonames_label": "Egypt", "url": "https://www.geonames.org/357994", "sentence_idx": 4466}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [35.45, 31.86667]}, "properties": {"source_label": "jericho", "geonames_label": "Jericho", "url": "https://www.geonames.org/284899", "sentence_idx": 4470}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.23789,
+                    32.16151
+                ]
+            },
+            "properties": {
+                "source_label": "kolsum",
+                "geonames_label": "Omm-e Kols\u0304\u016bm",
+                "url": "https://www.geonames.org/36475",
+                "sentence_idx": "4429"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.81969,
+                    14.85432
+                ]
+            },
+            "properties": {
+                "source_label": "acca",
+                "geonames_label": "Acca",
+                "url": "https://www.geonames.org/345612",
+                "sentence_idx": "4432"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "4434"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "4439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "4441"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.61417,
+                    24.46861
+                ]
+            },
+            "properties": {
+                "source_label": "medina",
+                "geonames_label": "Medina",
+                "url": "https://www.geonames.org/109223",
+                "sentence_idx": "4441"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "4441"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "4454"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.18624,
+                    21.49012
+                ]
+            },
+            "properties": {
+                "source_label": "dschidda",
+                "geonames_label": "Jeddah",
+                "url": "https://www.geonames.org/105343",
+                "sentence_idx": "4463"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0,
+                    27.0
+                ]
+            },
+            "properties": {
+                "source_label": "egypten",
+                "geonames_label": "Egypt",
+                "url": "https://www.geonames.org/357994",
+                "sentence_idx": "4466"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.45,
+                    31.86667
+                ]
+            },
+            "properties": {
+                "source_label": "jericho",
+                "geonames_label": "Jericho",
+                "url": "https://www.geonames.org/284899",
+                "sentence_idx": "4470"
+            }
+        }
+    ]
+}

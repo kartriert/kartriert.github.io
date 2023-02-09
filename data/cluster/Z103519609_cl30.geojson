@@ -1,1 +1,53 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [14.26811, 40.85216]}, "properties": {"source_label": "neapel", "geonames_label": "Naples", "url": "https://www.geonames.org/3172394", "sentence_idx": 198}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [16.75499, 48.74069]}, "properties": {"source_label": "feldsberg", "geonames_label": "Valtice", "url": "https://www.geonames.org/3063409", "sentence_idx": 199}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [20.0, 47.0]}, "properties": {"source_label": "ungarn", "geonames_label": "Hungary", "url": "https://www.geonames.org/719819", "sentence_idx": 204}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26811,
+                    40.85216
+                ]
+            },
+            "properties": {
+                "source_label": "neapel",
+                "geonames_label": "Naples",
+                "url": "https://www.geonames.org/3172394",
+                "sentence_idx": "198"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75499,
+                    48.74069
+                ]
+            },
+            "properties": {
+                "source_label": "feldsberg",
+                "geonames_label": "Valtice",
+                "url": "https://www.geonames.org/3063409",
+                "sentence_idx": "199"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0,
+                    47.0
+                ]
+            },
+            "properties": {
+                "source_label": "ungarn",
+                "geonames_label": "Hungary",
+                "url": "https://www.geonames.org/719819",
+                "sentence_idx": "204"
+            }
+        }
+    ]
+}
