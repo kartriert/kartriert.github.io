@@ -14,7 +14,7 @@
                 "source_label": "Passe-Bridger",
                 "geonames_label": "Bridger Pass",
                 "url": "https://www.geonames.org/5819595",
-                "sentence_idx": 3594
+                "sentence_idx": "3594"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Pic Laramie",
                 "geonames_label": "Laramie Peak",
                 "url": "https://www.geonames.org/5830055",
-                "sentence_idx": 3597
+                "sentence_idx": "3597"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Arkansas",
                 "geonames_label": "Arkansas",
                 "url": "https://www.geonames.org/4099753",
-                "sentence_idx": 3599
+                "sentence_idx": "3599"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Missouri",
                 "geonames_label": "Missouri",
                 "url": "https://www.geonames.org/4398678",
-                "sentence_idx": 3599
+                "sentence_idx": "3599"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Halleck",
                 "geonames_label": "Halleck",
                 "url": "https://www.geonames.org/4048954",
-                "sentence_idx": 3600
+                "sentence_idx": "3600"
             }
         }
     ]

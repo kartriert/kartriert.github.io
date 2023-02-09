@@ -14,7 +14,7 @@
                 "source_label": "tyrnau",
                 "geonames_label": "Trnava",
                 "url": "https://www.geonames.org/3057124",
-                "sentence_idx": 1360
+                "sentence_idx": "1360"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "neustadt",
                 "geonames_label": "Neustadt",
                 "url": "https://www.geonames.org/2864054",
-                "sentence_idx": 1361
+                "sentence_idx": "1361"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "trentschin",
                 "geonames_label": "Tren\u010d\u00edn",
                 "url": "https://www.geonames.org/3057140",
-                "sentence_idx": 1361
+                "sentence_idx": "1361"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "nitra",
                 "geonames_label": "Nitra",
                 "url": "https://www.geonames.org/3058531",
-                "sentence_idx": 1364
+                "sentence_idx": "1364"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "schemnitz",
                 "geonames_label": "Bansk\u00e1 \u0160tiavnica",
                 "url": "https://www.geonames.org/3061184",
-                "sentence_idx": 1364
+                "sentence_idx": "1364"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "neusohl",
                 "geonames_label": "Bansk\u00e1 Bystrica",
                 "url": "https://www.geonames.org/3061186",
-                "sentence_idx": 1366
+                "sentence_idx": "1366"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1367
+                "sentence_idx": "1367"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "kaschau",
                 "geonames_label": "Ko\u0161ice",
                 "url": "https://www.geonames.org/724443",
-                "sentence_idx": 1370
+                "sentence_idx": "1370"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "tyrnau",
                 "geonames_label": "Trnava",
                 "url": "https://www.geonames.org/3057124",
-                "sentence_idx": 1371
+                "sentence_idx": "1371"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "st. nikolai",
                 "geonames_label": "Sankt Nikolai im Sausal",
                 "url": "https://www.geonames.org/2766485",
-                "sentence_idx": 1375
+                "sentence_idx": "1375"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1378
+                "sentence_idx": "1378"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "krompach",
                 "geonames_label": "Krompachy",
                 "url": "https://www.geonames.org/724377",
-                "sentence_idx": 1383
+                "sentence_idx": "1383"
             }
         }
     ]

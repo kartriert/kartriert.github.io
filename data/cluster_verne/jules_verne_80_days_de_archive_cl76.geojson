@@ -14,7 +14,7 @@
                 "source_label": "Singapore",
                 "geonames_label": "Singapore",
                 "url": "https://www.geonames.org/1880251",
-                "sentence_idx": 1921
+                "sentence_idx": "1921"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Singapore",
                 "geonames_label": "Singapore",
                 "url": "https://www.geonames.org/1880251",
-                "sentence_idx": 1921
+                "sentence_idx": "1921"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Singapore",
                 "geonames_label": "Singapore",
                 "url": "https://www.geonames.org/1880251",
-                "sentence_idx": 1925
+                "sentence_idx": "1925"
             }
         }
     ]

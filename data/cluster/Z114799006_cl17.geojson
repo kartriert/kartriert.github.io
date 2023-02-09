@@ -14,7 +14,7 @@
                 "source_label": "neu england",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 1634
+                "sentence_idx": "1634"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "massachuset",
                 "geonames_label": "Massachusetts",
                 "url": "https://www.geonames.org/6254926",
-                "sentence_idx": 1634
+                "sentence_idx": "1634"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "nord virginien",
                 "geonames_label": "Northern Virginia",
                 "url": "https://www.geonames.org/12216875",
-                "sentence_idx": 1634
+                "sentence_idx": "1634"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "hampshire",
                 "geonames_label": "Manchester",
                 "url": "https://www.geonames.org/5089178",
-                "sentence_idx": 1635
+                "sentence_idx": "1635"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "vereinigten colonien",
                 "geonames_label": "Connecticut",
                 "url": "https://www.geonames.org/4831725",
-                "sentence_idx": 1635
+                "sentence_idx": "1635"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "neu englands",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 1636
+                "sentence_idx": "1636"
             }
         }
     ]

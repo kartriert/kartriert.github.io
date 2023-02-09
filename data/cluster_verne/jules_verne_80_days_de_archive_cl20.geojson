@@ -14,7 +14,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1935
+                "sentence_idx": "1935"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Bengalen",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1938
+                "sentence_idx": "1938"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1947
+                "sentence_idx": "1947"
             }
         }
     ]

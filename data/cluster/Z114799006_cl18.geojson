@@ -14,7 +14,7 @@
                 "source_label": "cap breton",
                 "geonames_label": "Cape Breton Island",
                 "url": "https://www.geonames.org/5915569",
-                "sentence_idx": 1510
+                "sentence_idx": "1510"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "st laurenz",
                 "geonames_label": "St. Lawrence",
                 "url": "https://www.geonames.org/6156979",
-                "sentence_idx": 1510
+                "sentence_idx": "1510"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "neufoundland",
                 "geonames_label": "Newfoundland and Labrador",
                 "url": "https://www.geonames.org/6354959",
-                "sentence_idx": 1511
+                "sentence_idx": "1511"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "ludwigsburg",
                 "geonames_label": "Louisbourg",
                 "url": "https://www.geonames.org/6060789",
-                "sentence_idx": 1517
+                "sentence_idx": "1517"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "ludwigsburg",
                 "geonames_label": "Louisbourg",
                 "url": "https://www.geonames.org/6060789",
-                "sentence_idx": 1522
+                "sentence_idx": "1522"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "ludwigsburg",
                 "geonames_label": "Louisbourg",
                 "url": "https://www.geonames.org/6060789",
-                "sentence_idx": 1523
+                "sentence_idx": "1523"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "st. laurenz",
                 "geonames_label": "St. Lawrence",
                 "url": "https://www.geonames.org/6156979",
-                "sentence_idx": 1527
+                "sentence_idx": "1527"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "akadien",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 1529
+                "sentence_idx": "1529"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "neufoundland",
                 "geonames_label": "Newfoundland and Labrador",
                 "url": "https://www.geonames.org/6354959",
-                "sentence_idx": 1529
+                "sentence_idx": "1529"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "ludwigsburg",
                 "geonames_label": "Louisbourg",
                 "url": "https://www.geonames.org/6060789",
-                "sentence_idx": 1537
+                "sentence_idx": "1537"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "quebeck",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 1541
+                "sentence_idx": "1541"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "neu schottland",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 1542
+                "sentence_idx": "1542"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "neu schottland",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 1544
+                "sentence_idx": "1544"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "neu schottland",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 1545
+                "sentence_idx": "1545"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "neu englands",
                 "geonames_label": "New England",
                 "url": "https://www.geonames.org/11919979",
-                "sentence_idx": 1545
+                "sentence_idx": "1545"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "laurenzflusses",
                 "geonames_label": "Saint Lawrence River",
                 "url": "https://www.geonames.org/7315779",
-                "sentence_idx": 1545
+                "sentence_idx": "1545"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "annapolis",
                 "geonames_label": "Annapolis",
                 "url": "https://www.geonames.org/4347242",
-                "sentence_idx": 1549
+                "sentence_idx": "1549"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "akadien",
                 "geonames_label": "Nova Scotia",
                 "url": "https://www.geonames.org/6091530",
-                "sentence_idx": 1550
+                "sentence_idx": "1550"
             }
         }
     ]

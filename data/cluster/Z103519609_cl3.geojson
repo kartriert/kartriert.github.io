@@ -14,7 +14,7 @@
                 "source_label": "pest",
                 "geonames_label": "Pest megye",
                 "url": "https://www.geonames.org/3046431",
-                "sentence_idx": 1659
+                "sentence_idx": "1659"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "raab",
                 "geonames_label": "Raab",
                 "url": "https://www.geonames.org/2768180",
-                "sentence_idx": 1660
+                "sentence_idx": "1660"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "zinkendorf",
                 "geonames_label": "Nagycenk",
                 "url": "https://www.geonames.org/3047781",
-                "sentence_idx": 1666
+                "sentence_idx": "1666"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "pest",
                 "geonames_label": "Pest megye",
                 "url": "https://www.geonames.org/3046431",
-                "sentence_idx": 1667
+                "sentence_idx": "1667"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 1668
+                "sentence_idx": "1668"
             }
         }
     ]

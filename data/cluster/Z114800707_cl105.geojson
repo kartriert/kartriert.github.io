@@ -14,7 +14,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 4760
+                "sentence_idx": "4760"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 4761
+                "sentence_idx": "4761"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 4771
+                "sentence_idx": "4771"
             }
         }
     ]

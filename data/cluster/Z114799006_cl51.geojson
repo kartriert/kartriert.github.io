@@ -14,7 +14,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 126
+                "sentence_idx": "126"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 126
+                "sentence_idx": "126"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 127
+                "sentence_idx": "127"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 129
+                "sentence_idx": "129"
             }
         }
     ]

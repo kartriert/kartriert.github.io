@@ -14,7 +14,7 @@
                 "source_label": "oedenburg",
                 "geonames_label": "Sopron",
                 "url": "https://www.geonames.org/3045190",
-                "sentence_idx": 2198
+                "sentence_idx": "2198"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "eisenstadt",
                 "geonames_label": "Eisenstadt",
                 "url": "https://www.geonames.org/2780190",
-                "sentence_idx": 2199
+                "sentence_idx": "2199"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 2205
+                "sentence_idx": "2205"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "oedenburg",
                 "geonames_label": "Sopron",
                 "url": "https://www.geonames.org/3045190",
-                "sentence_idx": 2216
+                "sentence_idx": "2216"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "oedenburg",
                 "geonames_label": "Sopron",
                 "url": "https://www.geonames.org/3045190",
-                "sentence_idx": 2228
+                "sentence_idx": "2228"
             }
         }
     ]

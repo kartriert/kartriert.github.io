@@ -14,7 +14,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 9413
+                "sentence_idx": "9413"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 9417
+                "sentence_idx": "9417"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 9428
+                "sentence_idx": "9428"
             }
         }
     ]

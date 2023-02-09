@@ -14,7 +14,7 @@
                 "source_label": "Bab-el-Mandeb",
                 "geonames_label": "Bab-el-Mandeb",
                 "url": "https://www.geonames.org/54365",
-                "sentence_idx": 939
+                "sentence_idx": "939"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Aden",
                 "geonames_label": "Aden",
                 "url": "https://www.geonames.org/415189",
-                "sentence_idx": 947
+                "sentence_idx": "947"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Somalis",
                 "geonames_label": "Somalia",
                 "url": "https://www.geonames.org/51537",
-                "sentence_idx": 951
+                "sentence_idx": "951"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Adens",
                 "geonames_label": "Aden",
                 "url": "https://www.geonames.org/415189",
-                "sentence_idx": 951
+                "sentence_idx": "951"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Aden",
                 "geonames_label": "Aden",
                 "url": "https://www.geonames.org/415189",
-                "sentence_idx": 957
+                "sentence_idx": "957"
             }
         }
     ]

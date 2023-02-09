@@ -14,7 +14,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 7306
+                "sentence_idx": "7306"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "sabber",
                 "geonames_label": "Sabber",
                 "url": "https://www.geonames.org/11080047",
-                "sentence_idx": 7315
+                "sentence_idx": "7315"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 7324
+                "sentence_idx": "7324"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 7326
+                "sentence_idx": "7326"
             }
         }
     ]

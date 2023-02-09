@@ -14,7 +14,7 @@
                 "source_label": "deutschland",
                 "geonames_label": "Germany",
                 "url": "https://www.geonames.org/2921044",
-                "sentence_idx": 80
+                "sentence_idx": "80"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "berlin",
                 "geonames_label": "Berlin",
                 "url": "https://www.geonames.org/2950159",
-                "sentence_idx": 81
+                "sentence_idx": "81"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "potsdam",
                 "geonames_label": "Potsdam",
                 "url": "https://www.geonames.org/2852458",
-                "sentence_idx": 81
+                "sentence_idx": "81"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "berlin",
                 "geonames_label": "Berlin",
                 "url": "https://www.geonames.org/2950159",
-                "sentence_idx": 96
+                "sentence_idx": "96"
             }
         }
     ]

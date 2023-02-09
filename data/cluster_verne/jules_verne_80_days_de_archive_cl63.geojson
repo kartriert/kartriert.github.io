@@ -14,7 +14,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2445
+                "sentence_idx": "2445"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2447
+                "sentence_idx": "2447"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Hongkong",
                 "geonames_label": "Hong Kong",
                 "url": "https://www.geonames.org/1819729",
-                "sentence_idx": 2451
+                "sentence_idx": "2451"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Macao",
                 "geonames_label": "Macao",
                 "url": "https://www.geonames.org/1821274",
-                "sentence_idx": 2461
+                "sentence_idx": "2461"
             }
         }
     ]

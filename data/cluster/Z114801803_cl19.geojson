@@ -14,7 +14,7 @@
                 "source_label": "Farsistan",
                 "geonames_label": "F\u0101rs",
                 "url": "https://www.geonames.org/134767",
-                "sentence_idx": 1049
+                "sentence_idx": "1049"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 1049
+                "sentence_idx": "1049"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 1051
+                "sentence_idx": "1051"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 1058
+                "sentence_idx": "1058"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 1058
+                "sentence_idx": "1058"
             }
         }
     ]

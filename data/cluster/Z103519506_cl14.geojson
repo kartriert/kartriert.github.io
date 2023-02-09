@@ -14,7 +14,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1442
+                "sentence_idx": "1442"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 1442
+                "sentence_idx": "1442"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1458
+                "sentence_idx": "1458"
             }
         }
     ]

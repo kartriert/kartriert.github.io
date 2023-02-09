@@ -14,7 +14,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 326
+                "sentence_idx": "326"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 341
+                "sentence_idx": "341"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 345
+                "sentence_idx": "345"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 144
+                "sentence_idx": "144"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 146
+                "sentence_idx": "146"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 149
+                "sentence_idx": "149"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "montelabbate",
                 "geonames_label": "Montelabbate",
                 "url": "https://www.geonames.org/3172883",
-                "sentence_idx": 163
+                "sentence_idx": "163"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "schwarzenberg",
                 "geonames_label": "Schwarzenberg",
                 "url": "https://www.geonames.org/2834978",
-                "sentence_idx": 163
+                "sentence_idx": "163"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "feldsberg",
                 "geonames_label": "Valtice",
                 "url": "https://www.geonames.org/3063409",
-                "sentence_idx": 170
+                "sentence_idx": "170"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "eisgrub",
                 "geonames_label": "Lednice",
                 "url": "https://www.geonames.org/3072232",
-                "sentence_idx": 173
+                "sentence_idx": "173"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "sidon",
                 "geonames_label": "Sidon",
                 "url": "https://www.geonames.org/268064",
-                "sentence_idx": 341
+                "sentence_idx": "341"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 343
+                "sentence_idx": "343"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "tyro",
                 "geonames_label": "Tyre",
                 "url": "https://www.geonames.org/267008",
-                "sentence_idx": 343
+                "sentence_idx": "343"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "sidon",
                 "geonames_label": "Sidon",
                 "url": "https://www.geonames.org/268064",
-                "sentence_idx": 343
+                "sentence_idx": "343"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "aradus",
                 "geonames_label": "Ruad Island",
                 "url": "https://www.geonames.org/172879",
-                "sentence_idx": 346
+                "sentence_idx": "346"
             }
         }
     ]

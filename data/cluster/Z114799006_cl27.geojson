@@ -14,7 +14,7 @@
                 "source_label": "hudsons bay",
                 "geonames_label": "Hudsons Bay",
                 "url": "https://www.geonames.org/5978180",
-                "sentence_idx": 110
+                "sentence_idx": "110"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "hudsons bay",
                 "geonames_label": "Hudsons Bay",
                 "url": "https://www.geonames.org/5978180",
-                "sentence_idx": 126
+                "sentence_idx": "126"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "hudsons bay",
                 "geonames_label": "Hudsons Bay",
                 "url": "https://www.geonames.org/5978180",
-                "sentence_idx": 129
+                "sentence_idx": "129"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "quebeck",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 134
+                "sentence_idx": "134"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "quebeck",
                 "geonames_label": "Quebec",
                 "url": "https://www.geonames.org/6115047",
-                "sentence_idx": 138
+                "sentence_idx": "138"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "hudsons bay",
                 "geonames_label": "Hudsons Bay",
                 "url": "https://www.geonames.org/5978180",
-                "sentence_idx": 148
+                "sentence_idx": "148"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "hudsons bay",
                 "geonames_label": "Hudsons Bay",
                 "url": "https://www.geonames.org/5978180",
-                "sentence_idx": 154
+                "sentence_idx": "154"
             }
         }
     ]

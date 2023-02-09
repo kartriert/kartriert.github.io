@@ -14,7 +14,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 1966
+                "sentence_idx": "1966"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "madera",
                 "geonames_label": "Madeira",
                 "url": "https://www.geonames.org/2593105",
-                "sentence_idx": 1967
+                "sentence_idx": "1967"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "spanien",
                 "geonames_label": "Spain",
                 "url": "https://www.geonames.org/2510769",
-                "sentence_idx": 1967
+                "sentence_idx": "1967"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "portugal",
                 "geonames_label": "Portugal",
                 "url": "https://www.geonames.org/2264397",
-                "sentence_idx": 1967
+                "sentence_idx": "1967"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 1969
+                "sentence_idx": "1969"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1971
+                "sentence_idx": "1971"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Nassik",
                 "geonames_label": "Nashik",
                 "url": "https://www.geonames.org/1261731",
-                "sentence_idx": 1101
+                "sentence_idx": "1101"
             }
         },
         {
@@ -28,9 +28,9 @@
             },
             "properties": {
                 "source_label": "Aurungabad",
-                "geonames_label": null,
+                "geonames_label": "None",
                 "url": "https://www.wikidata.org/wiki/Q200713",
-                "sentence_idx": 1112
+                "sentence_idx": "1112"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Nizam",
                 "geonames_label": "Niz\u0327\u0101m Kh\u0113l",
                 "url": "https://www.geonames.org/1452827",
-                "sentence_idx": 1112
+                "sentence_idx": "1112"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Burhampur",
                 "geonames_label": "Burh\u0101npur",
                 "url": "https://www.geonames.org/1275068",
-                "sentence_idx": 1115
+                "sentence_idx": "1115"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Tapty",
                 "geonames_label": "T\u0101pti River",
                 "url": "https://www.geonames.org/1254944",
-                "sentence_idx": 1116
+                "sentence_idx": "1116"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Surate",
                 "geonames_label": "Surat",
                 "url": "https://www.geonames.org/1255364",
-                "sentence_idx": 1116
+                "sentence_idx": "1116"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Cambaye",
                 "geonames_label": "Khambh\u0101t",
                 "url": "https://www.geonames.org/1267090",
-                "sentence_idx": 1116
+                "sentence_idx": "1116"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 1118
+                "sentence_idx": "1118"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 1119
+                "sentence_idx": "1119"
             }
         }
     ]

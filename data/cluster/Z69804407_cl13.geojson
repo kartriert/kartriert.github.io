@@ -14,7 +14,7 @@
                 "source_label": "nazaret",
                 "geonames_label": "Nazareth",
                 "url": "https://www.geonames.org/294098",
-                "sentence_idx": 1645
+                "sentence_idx": "1645"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "nazaret",
                 "geonames_label": "Nazareth",
                 "url": "https://www.geonames.org/294098",
-                "sentence_idx": 1645
+                "sentence_idx": "1645"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "nazaret",
                 "geonames_label": "Nazareth",
                 "url": "https://www.geonames.org/294098",
-                "sentence_idx": 1650
+                "sentence_idx": "1650"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "aleppo",
                 "geonames_label": "Aleppo",
                 "url": "https://www.geonames.org/170062",
-                "sentence_idx": 1650
+                "sentence_idx": "1650"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "sidon",
                 "geonames_label": "Sidon",
                 "url": "https://www.geonames.org/268064",
-                "sentence_idx": 1661
+                "sentence_idx": "1661"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "sidon",
                 "geonames_label": "Sidon",
                 "url": "https://www.geonames.org/268064",
-                "sentence_idx": 1661
+                "sentence_idx": "1661"
             }
         }
     ]

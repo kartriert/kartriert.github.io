@@ -14,7 +14,7 @@
                 "source_label": "indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 1293
+                "sentence_idx": "1293"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Cochin",
                 "geonames_label": "Ernakulam",
                 "url": "https://www.geonames.org/1273874",
-                "sentence_idx": 1294
+                "sentence_idx": "1294"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Balasor",
                 "geonames_label": "Balasore",
                 "url": "https://www.geonames.org/1277599",
-                "sentence_idx": 1294
+                "sentence_idx": "1294"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "kalkutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1295
+                "sentence_idx": "1295"
             }
         }
     ]

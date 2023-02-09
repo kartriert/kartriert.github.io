@@ -14,7 +14,7 @@
                 "source_label": "bagdad",
                 "geonames_label": "Baghdad",
                 "url": "https://www.geonames.org/98182",
-                "sentence_idx": 5464
+                "sentence_idx": "5464"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5468
+                "sentence_idx": "5468"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5471
+                "sentence_idx": "5471"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 5483
+                "sentence_idx": "5483"
             }
         }
     ]

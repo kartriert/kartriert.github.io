@@ -14,7 +14,7 @@
                 "source_label": "eisenstadt",
                 "geonames_label": "Eisenstadt",
                 "url": "https://www.geonames.org/2780190",
-                "sentence_idx": 2282
+                "sentence_idx": "2282"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "neusiedler see",
                 "geonames_label": "Lake Neusiedl",
                 "url": "https://www.geonames.org/3052649",
-                "sentence_idx": 2283
+                "sentence_idx": "2283"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2294
+                "sentence_idx": "2294"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "sachsen",
                 "geonames_label": "Saxony",
                 "url": "https://www.geonames.org/2842566",
-                "sentence_idx": 2295
+                "sentence_idx": "2295"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "teschen",
                 "geonames_label": "\u010cesk\u00fd T\u011b\u0161\u00edn",
                 "url": "https://www.geonames.org/3077882",
-                "sentence_idx": 2295
+                "sentence_idx": "2295"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2296
+                "sentence_idx": "2296"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 2306
+                "sentence_idx": "2306"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2308
+                "sentence_idx": "2308"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2309
+                "sentence_idx": "2309"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2320
+                "sentence_idx": "2320"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "dos nau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2320
+                "sentence_idx": "2320"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2324
+                "sentence_idx": "2324"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2330
+                "sentence_idx": "2330"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "pischdorf",
                 "geonames_label": "Pischdorf",
                 "url": "https://www.geonames.org/2853567",
-                "sentence_idx": 2331
+                "sentence_idx": "2331"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2339
+                "sentence_idx": "2339"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2339
+                "sentence_idx": "2339"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2341
+                "sentence_idx": "2341"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2343
+                "sentence_idx": "2343"
             }
         }
     ]

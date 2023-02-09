@@ -14,7 +14,7 @@
                 "source_label": "pocock",
                 "geonames_label": "Pocock Point",
                 "url": "https://www.geonames.org/2324825",
-                "sentence_idx": 2203
+                "sentence_idx": "2203"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pocock",
                 "geonames_label": "Pocock Point",
                 "url": "https://www.geonames.org/2324825",
-                "sentence_idx": 2213
+                "sentence_idx": "2213"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "delta",
                 "geonames_label": "Delta",
                 "url": "https://www.geonames.org/2565341",
-                "sentence_idx": 2215
+                "sentence_idx": "2215"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "muenchen",
                 "geonames_label": "Munich",
                 "url": "https://www.geonames.org/3220838",
-                "sentence_idx": 2417
+                "sentence_idx": "2417"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "muenchen",
                 "geonames_label": "Munich",
                 "url": "https://www.geonames.org/3220838",
-                "sentence_idx": 2420
+                "sentence_idx": "2420"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "muenchen",
                 "geonames_label": "Munich",
                 "url": "https://www.geonames.org/3220838",
-                "sentence_idx": 2420
+                "sentence_idx": "2420"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2424
+                "sentence_idx": "2424"
             }
         }
     ]

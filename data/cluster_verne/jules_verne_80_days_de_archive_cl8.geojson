@@ -14,7 +14,7 @@
                 "source_label": "Utah",
                 "geonames_label": "Provo",
                 "url": "https://www.geonames.org/5780026",
-                "sentence_idx": 3506
+                "sentence_idx": "3506"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Ogden",
                 "geonames_label": "Ogden",
                 "url": "https://www.geonames.org/5779206",
-                "sentence_idx": 3511
+                "sentence_idx": "3511"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3511
+                "sentence_idx": "3511"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Salzsee",
                 "geonames_label": "Great Salt Lake",
                 "url": "https://www.geonames.org/5775376",
-                "sentence_idx": 3518
+                "sentence_idx": "3518"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Bitter-Creek",
                 "geonames_label": "Bitter Creek",
                 "url": "https://www.geonames.org/5818876",
-                "sentence_idx": 3519
+                "sentence_idx": "3519"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Fort-Bridger",
                 "geonames_label": "Fort Bridger",
                 "url": "https://www.geonames.org/5825393",
-                "sentence_idx": 3525
+                "sentence_idx": "3525"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Wyoming",
                 "geonames_label": "Wyoming",
                 "url": "https://www.geonames.org/5843591",
-                "sentence_idx": 3525
+                "sentence_idx": "3525"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Bitter-Creek",
                 "geonames_label": "Bitter Creek",
                 "url": "https://www.geonames.org/5818876",
-                "sentence_idx": 3525
+                "sentence_idx": "3525"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Colorado",
                 "geonames_label": "Colorado",
                 "url": "https://www.geonames.org/5417618",
-                "sentence_idx": 3525
+                "sentence_idx": "3525"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Green-River",
                 "geonames_label": "Green River",
                 "url": "https://www.geonames.org/5826559",
-                "sentence_idx": 3526
+                "sentence_idx": "3526"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "Green-River",
                 "geonames_label": "Green River",
                 "url": "https://www.geonames.org/5826559",
-                "sentence_idx": 3536
+                "sentence_idx": "3536"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "San Francisco",
                 "geonames_label": "San Francisco",
                 "url": "https://www.geonames.org/5391959",
-                "sentence_idx": 3537
+                "sentence_idx": "3537"
             }
         }
     ]

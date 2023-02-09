@@ -14,7 +14,7 @@
                 "source_label": "Rangoon",
                 "geonames_label": "Yangon",
                 "url": "https://www.geonames.org/1298824",
-                "sentence_idx": 1862
+                "sentence_idx": "1862"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Pisang",
                 "geonames_label": "Pisang Peak",
                 "url": "https://www.geonames.org/6941682",
-                "sentence_idx": 1870
+                "sentence_idx": "1870"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1875
+                "sentence_idx": "1875"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Rangoon",
                 "geonames_label": "Yangon",
                 "url": "https://www.geonames.org/1298824",
-                "sentence_idx": 1875
+                "sentence_idx": "1875"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 1876
+                "sentence_idx": "1876"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 1890
+                "sentence_idx": "1890"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1890
+                "sentence_idx": "1890"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 1905
+                "sentence_idx": "1905"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1905
+                "sentence_idx": "1905"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 1908
+                "sentence_idx": "1908"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1910
+                "sentence_idx": "1910"
             }
         }
     ]

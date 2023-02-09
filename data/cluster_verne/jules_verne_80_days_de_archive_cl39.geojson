@@ -14,7 +14,7 @@
                 "source_label": "Medecine-Bow",
                 "geonames_label": "Medicine Bow",
                 "url": "https://www.geonames.org/5832007",
-                "sentence_idx": 3616
+                "sentence_idx": "3616"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Medecine-Bow",
                 "geonames_label": "Medicine Bow",
                 "url": "https://www.geonames.org/5832007",
-                "sentence_idx": 3621
+                "sentence_idx": "3621"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Omaha",
                 "geonames_label": "Omaha",
                 "url": "https://www.geonames.org/5074472",
-                "sentence_idx": 3630
+                "sentence_idx": "3630"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Medecine-Bow",
                 "geonames_label": "Medicine Bow",
                 "url": "https://www.geonames.org/5832007",
-                "sentence_idx": 3630
+                "sentence_idx": "3630"
             }
         }
     ]

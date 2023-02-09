@@ -14,7 +14,7 @@
                 "source_label": "bayern",
                 "geonames_label": "Bavaria",
                 "url": "https://www.geonames.org/2951839",
-                "sentence_idx": 0
+                "sentence_idx": "0"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pfalz",
                 "geonames_label": "Rheinland-Pfalz",
                 "url": "https://www.geonames.org/2847618",
-                "sentence_idx": 0
+                "sentence_idx": "0"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "sachsen",
                 "geonames_label": "Saxony",
                 "url": "https://www.geonames.org/2842566",
-                "sentence_idx": 0
+                "sentence_idx": "0"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "brandenburg",
                 "geonames_label": "Brandenburg",
                 "url": "https://www.geonames.org/2945356",
-                "sentence_idx": 0
+                "sentence_idx": "0"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 0
+                "sentence_idx": "0"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 0
+                "sentence_idx": "0"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "brandenburg",
                 "geonames_label": "Brandenburg",
                 "url": "https://www.geonames.org/2945356",
-                "sentence_idx": 4
+                "sentence_idx": "4"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "berlin",
                 "geonames_label": "Berlin",
                 "url": "https://www.geonames.org/2950159",
-                "sentence_idx": 4
+                "sentence_idx": "4"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "berlin",
                 "geonames_label": "Berlin",
                 "url": "https://www.geonames.org/2950159",
-                "sentence_idx": 7
+                "sentence_idx": "7"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "herzberg",
                 "geonames_label": "Herzberg am Harz",
                 "url": "https://www.geonames.org/2905496",
-                "sentence_idx": 11
+                "sentence_idx": "11"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "berlin",
                 "geonames_label": "Berlin",
                 "url": "https://www.geonames.org/2950159",
-                "sentence_idx": 18
+                "sentence_idx": "18"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 26
+                "sentence_idx": "26"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "iglau",
                 "geonames_label": "Jihlava",
                 "url": "https://www.geonames.org/3074199",
-                "sentence_idx": 62
+                "sentence_idx": "62"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pottenstein",
                 "geonames_label": "Pottenstein",
                 "url": "https://www.geonames.org/2852440",
-                "sentence_idx": 68
+                "sentence_idx": "68"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "teltsch",
                 "geonames_label": "Tel\u010d",
                 "url": "https://www.geonames.org/3064316",
-                "sentence_idx": 68
+                "sentence_idx": "68"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "pottenstein",
                 "geonames_label": "Pottenstein",
                 "url": "https://www.geonames.org/2852440",
-                "sentence_idx": 71
+                "sentence_idx": "71"
             }
         }
     ]

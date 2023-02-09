@@ -14,7 +14,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 9483
+                "sentence_idx": "9483"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 9484
+                "sentence_idx": "9484"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 9486
+                "sentence_idx": "9486"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 9488
+                "sentence_idx": "9488"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 9489
+                "sentence_idx": "9489"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "oberegypten",
                 "geonames_label": "Upper Egypt",
                 "url": "https://www.geonames.org/359888",
-                "sentence_idx": 9492
+                "sentence_idx": "9492"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "niederegypten",
                 "geonames_label": "Lower Egypt",
                 "url": "https://www.geonames.org/352260",
-                "sentence_idx": 9493
+                "sentence_idx": "9493"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 9493
+                "sentence_idx": "9493"
             }
         }
     ]

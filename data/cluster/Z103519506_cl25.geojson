@@ -14,7 +14,7 @@
                 "source_label": "schweden",
                 "geonames_label": "Sweden",
                 "url": "https://www.geonames.org/2661886",
-                "sentence_idx": 388
+                "sentence_idx": "388"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "schweden",
                 "geonames_label": "Sweden",
                 "url": "https://www.geonames.org/2661886",
-                "sentence_idx": 389
+                "sentence_idx": "389"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "potsdam",
                 "geonames_label": "Potsdam",
                 "url": "https://www.geonames.org/2852458",
-                "sentence_idx": 389
+                "sentence_idx": "389"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 604
+                "sentence_idx": "604"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Asien",
                 "geonames_label": "Asia",
                 "url": "https://www.geonames.org/6255147",
-                "sentence_idx": 607
+                "sentence_idx": "607"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 608
+                "sentence_idx": "608"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 614
+                "sentence_idx": "614"
             }
         }
     ]

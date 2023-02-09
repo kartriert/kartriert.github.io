@@ -14,7 +14,7 @@
                 "source_label": "bayern",
                 "geonames_label": "Bavaria",
                 "url": "https://www.geonames.org/2951840",
-                "sentence_idx": 1868
+                "sentence_idx": "1868"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "deutschland",
                 "geonames_label": "Germany",
                 "url": "https://www.geonames.org/2921044",
-                "sentence_idx": 1884
+                "sentence_idx": "1884"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1885
+                "sentence_idx": "1885"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "enzersdorf",
                 "geonames_label": "Gro\u00df-Enzersdorf",
                 "url": "https://www.geonames.org/2777836",
-                "sentence_idx": 1893
+                "sentence_idx": "1893"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "laxenburg",
                 "geonames_label": "Laxenburg",
                 "url": "https://www.geonames.org/2772810",
-                "sentence_idx": 1894
+                "sentence_idx": "1894"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "florenz",
                 "geonames_label": "Florence",
                 "url": "https://www.geonames.org/3176959",
-                "sentence_idx": 1898
+                "sentence_idx": "1898"
             }
         }
     ]

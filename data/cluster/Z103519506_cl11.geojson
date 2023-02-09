@@ -14,7 +14,7 @@
                 "source_label": "prater",
                 "geonames_label": "Prater",
                 "url": "https://www.geonames.org/3322725",
-                "sentence_idx": 1346
+                "sentence_idx": "1346"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 1358
+                "sentence_idx": "1358"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "niederlanden",
                 "geonames_label": "Netherlands",
                 "url": "https://www.geonames.org/2750405",
-                "sentence_idx": 1364
+                "sentence_idx": "1364"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "florenz",
                 "geonames_label": "Florence",
                 "url": "https://www.geonames.org/3176959",
-                "sentence_idx": 1373
+                "sentence_idx": "1373"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "peterskirche",
                 "geonames_label": "Old St. Peter's Church",
                 "url": "https://www.geonames.org/11395635",
-                "sentence_idx": 1377
+                "sentence_idx": "1377"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "engelsburg",
                 "geonames_label": "Engelsburg",
                 "url": "https://www.geonames.org/2930240",
-                "sentence_idx": 1377
+                "sentence_idx": "1377"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1380
+                "sentence_idx": "1380"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "antwerpen",
                 "geonames_label": "Antwerp",
                 "url": "https://www.geonames.org/2803138",
-                "sentence_idx": 1386
+                "sentence_idx": "1386"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "carlstein",
                 "geonames_label": "Carlstein",
                 "url": "https://www.geonames.org/2940281",
-                "sentence_idx": 1390
+                "sentence_idx": "1390"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "rotterdam",
                 "geonames_label": "Rotterdam",
                 "url": "https://www.geonames.org/2747891",
-                "sentence_idx": 1391
+                "sentence_idx": "1391"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 1391
+                "sentence_idx": "1391"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "florenz",
                 "geonames_label": "Florence",
                 "url": "https://www.geonames.org/3176959",
-                "sentence_idx": 1394
+                "sentence_idx": "1394"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "rom",
                 "geonames_label": "Rome",
                 "url": "https://www.geonames.org/3169070",
-                "sentence_idx": 1395
+                "sentence_idx": "1395"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "parma",
                 "geonames_label": "Parma",
                 "url": "https://www.geonames.org/3171457",
-                "sentence_idx": 1396
+                "sentence_idx": "1396"
             }
         }
     ]

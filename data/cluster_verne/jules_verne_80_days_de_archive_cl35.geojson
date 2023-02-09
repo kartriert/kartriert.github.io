@@ -14,7 +14,7 @@
                 "source_label": "Benares",
                 "geonames_label": "Varanasi",
                 "url": "https://www.geonames.org/1253405",
-                "sentence_idx": 1630
+                "sentence_idx": "1630"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Benares",
                 "geonames_label": "Varanasi",
                 "url": "https://www.geonames.org/1253405",
-                "sentence_idx": 1641
+                "sentence_idx": "1641"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 1646
+                "sentence_idx": "1646"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Chunar",
                 "geonames_label": "Chun\u0101r",
                 "url": "https://www.geonames.org/1273923",
-                "sentence_idx": 1648
+                "sentence_idx": "1648"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Benares",
                 "geonames_label": "Varanasi",
                 "url": "https://www.geonames.org/1253405",
-                "sentence_idx": 1648
+                "sentence_idx": "1648"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Behar",
                 "geonames_label": "Bihar",
                 "url": "https://www.geonames.org/1275715",
-                "sentence_idx": 1648
+                "sentence_idx": "1648"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Buxar",
                 "geonames_label": "Buxar",
                 "url": "https://www.geonames.org/1275019",
-                "sentence_idx": 1648
+                "sentence_idx": "1648"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Patna",
                 "geonames_label": "Patna",
                 "url": "https://www.geonames.org/1260086",
-                "sentence_idx": 1648
+                "sentence_idx": "1648"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Murshedabad",
                 "geonames_label": "Murshedabad",
                 "url": "https://www.geonames.org/1335358",
-                "sentence_idx": 1649
+                "sentence_idx": "1649"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Calcutta",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 1650
+                "sentence_idx": "1650"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "Indiens",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 1652
+                "sentence_idx": "1652"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "Bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 1653
+                "sentence_idx": "1653"
             }
         }
     ]

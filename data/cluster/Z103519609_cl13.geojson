@@ -14,7 +14,7 @@
                 "source_label": "frankfurt",
                 "geonames_label": "Frankfurt am Main",
                 "url": "https://www.geonames.org/2925533",
-                "sentence_idx": 1977
+                "sentence_idx": "1977"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "eisenstadt",
                 "geonames_label": "Eisenstadt",
                 "url": "https://www.geonames.org/2780190",
-                "sentence_idx": 1980
+                "sentence_idx": "1980"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1980
+                "sentence_idx": "1980"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 1981
+                "sentence_idx": "1981"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "eisenstadt",
                 "geonames_label": "Eisenstadt",
                 "url": "https://www.geonames.org/2780190",
-                "sentence_idx": 1982
+                "sentence_idx": "1982"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "oedenburg",
                 "geonames_label": "Sopron",
                 "url": "https://www.geonames.org/3045190",
-                "sentence_idx": 1982
+                "sentence_idx": "1982"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1982
+                "sentence_idx": "1982"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "wiener neustadt",
                 "geonames_label": "Wiener Neustadt",
                 "url": "https://www.geonames.org/2761353",
-                "sentence_idx": 1982
+                "sentence_idx": "1982"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1982
+                "sentence_idx": "1982"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 1986
+                "sentence_idx": "1986"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1987
+                "sentence_idx": "1987"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "eisenstadt",
                 "geonames_label": "Eisenstadt",
                 "url": "https://www.geonames.org/2780190",
-                "sentence_idx": 1987
+                "sentence_idx": "1987"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "eisenstadt",
                 "geonames_label": "Eisenstadt",
                 "url": "https://www.geonames.org/2780190",
-                "sentence_idx": 1996
+                "sentence_idx": "1996"
             }
         }
     ]

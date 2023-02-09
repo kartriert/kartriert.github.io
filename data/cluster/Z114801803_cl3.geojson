@@ -14,7 +14,7 @@
                 "source_label": "kabul",
                 "geonames_label": "Kabul",
                 "url": "https://www.geonames.org/1138958",
-                "sentence_idx": 1345
+                "sentence_idx": "1345"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "kandahar",
                 "geonames_label": "Kandahar",
                 "url": "https://www.geonames.org/1138336",
-                "sentence_idx": 1346
+                "sentence_idx": "1346"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 1346
+                "sentence_idx": "1346"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 1346
+                "sentence_idx": "1346"
             }
         }
     ]

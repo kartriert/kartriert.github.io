@@ -14,7 +14,7 @@
                 "source_label": "europa",
                 "geonames_label": "Europe",
                 "url": "https://www.geonames.org/6255148",
-                "sentence_idx": 1168
+                "sentence_idx": "1168"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1173
+                "sentence_idx": "1173"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "daenemark",
                 "geonames_label": "Denmark",
                 "url": "https://www.geonames.org/2623032",
-                "sentence_idx": 1173
+                "sentence_idx": "1173"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "schweden",
                 "geonames_label": "Sweden",
                 "url": "https://www.geonames.org/2661886",
-                "sentence_idx": 1173
+                "sentence_idx": "1173"
             }
         }
     ]

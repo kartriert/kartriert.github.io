@@ -14,7 +14,7 @@
                 "source_label": "loheia",
                 "geonames_label": "Al Lu\u1e29ayyah",
                 "url": "https://www.geonames.org/79050",
-                "sentence_idx": 6282
+                "sentence_idx": "6282"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "jemen",
                 "geonames_label": "Yemen",
                 "url": "https://www.geonames.org/69543",
-                "sentence_idx": 6286
+                "sentence_idx": "6286"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 6289
+                "sentence_idx": "6289"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "hodeida",
                 "geonames_label": "Al Hudaydah",
                 "url": "https://www.geonames.org/79415",
-                "sentence_idx": 6290
+                "sentence_idx": "6290"
             }
         }
     ]

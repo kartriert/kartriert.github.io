@@ -14,7 +14,7 @@
                 "source_label": "raschid",
                 "geonames_label": "Qal\u2018ah-ye Rash\u012bd",
                 "url": "https://www.geonames.org/1128502",
-                "sentence_idx": 103
+                "sentence_idx": "103"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 108
+                "sentence_idx": "108"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 108
+                "sentence_idx": "108"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 108
+                "sentence_idx": "108"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 108
+                "sentence_idx": "108"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 108
+                "sentence_idx": "108"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 108
+                "sentence_idx": "108"
             }
         }
     ]

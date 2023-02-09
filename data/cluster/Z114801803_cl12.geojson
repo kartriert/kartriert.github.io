@@ -14,7 +14,7 @@
                 "source_label": "bengalen",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 10
+                "sentence_idx": "10"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "butan",
                 "geonames_label": "Bhutan",
                 "url": "https://www.geonames.org/1252634",
-                "sentence_idx": 10
+                "sentence_idx": "10"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "tibet",
                 "geonames_label": "Tibet",
                 "url": "https://www.geonames.org/1279685",
-                "sentence_idx": 10
+                "sentence_idx": "10"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "bengalen",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 15
+                "sentence_idx": "15"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5340
+                "sentence_idx": "5340"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5355
+                "sentence_idx": "5355"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5357
+                "sentence_idx": "5357"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5358
+                "sentence_idx": "5358"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "susbis dsjidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 5374
+                "sentence_idx": "5374"
             }
         }
     ]

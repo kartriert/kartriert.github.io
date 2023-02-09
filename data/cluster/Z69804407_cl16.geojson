@@ -14,7 +14,7 @@
                 "source_label": "tortosa",
                 "geonames_label": "Tortosa",
                 "url": "https://www.geonames.org/3107677",
-                "sentence_idx": 238
+                "sentence_idx": "238"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "tortosa",
                 "geonames_label": "Tortosa",
                 "url": "https://www.geonames.org/3107677",
-                "sentence_idx": 251
+                "sentence_idx": "251"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "tortosa",
                 "geonames_label": "Tortosa",
                 "url": "https://www.geonames.org/3107677",
-                "sentence_idx": 260
+                "sentence_idx": "260"
             }
         }
     ]

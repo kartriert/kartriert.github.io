@@ -14,7 +14,7 @@
                 "source_label": "grossbritannien",
                 "geonames_label": "Great Britain",
                 "url": "https://www.geonames.org/2648147",
-                "sentence_idx": 284
+                "sentence_idx": "284"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "portugal",
                 "geonames_label": "Portugal",
                 "url": "https://www.geonames.org/2264397",
-                "sentence_idx": 284
+                "sentence_idx": "284"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "spanien",
                 "geonames_label": "Spain",
                 "url": "https://www.geonames.org/2510769",
-                "sentence_idx": 284
+                "sentence_idx": "284"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 286
+                "sentence_idx": "286"
             }
         }
     ]

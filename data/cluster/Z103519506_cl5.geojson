@@ -14,7 +14,7 @@
                 "source_label": "sch\u00f6nbrunn",
                 "geonames_label": "Schonbrunn Palace",
                 "url": "https://www.geonames.org/6354998",
-                "sentence_idx": 1915
+                "sentence_idx": "1915"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1917
+                "sentence_idx": "1917"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1917
+                "sentence_idx": "1917"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 1920
+                "sentence_idx": "1920"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 1924
+                "sentence_idx": "1924"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "parma",
                 "geonames_label": "Parma",
                 "url": "https://www.geonames.org/3171457",
-                "sentence_idx": 1924
+                "sentence_idx": "1924"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1925
+                "sentence_idx": "1925"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "versailles",
                 "geonames_label": "Versailles",
                 "url": "https://www.geonames.org/2969679",
-                "sentence_idx": 1925
+                "sentence_idx": "1925"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "sachsen",
                 "geonames_label": "Saxony",
                 "url": "https://www.geonames.org/2842566",
-                "sentence_idx": 1929
+                "sentence_idx": "1929"
             }
         }
     ]

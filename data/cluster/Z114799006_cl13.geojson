@@ -14,7 +14,7 @@
                 "source_label": "nord carolina",
                 "geonames_label": "North Carolina",
                 "url": "https://www.geonames.org/4482348",
-                "sentence_idx": 2115
+                "sentence_idx": "2115"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "georgien",
                 "geonames_label": "Georgia",
                 "url": "https://www.geonames.org/4197000",
-                "sentence_idx": 2116
+                "sentence_idx": "2116"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "brunswick",
                 "geonames_label": "Brunswick",
                 "url": "https://www.geonames.org/4749396",
-                "sentence_idx": 2130
+                "sentence_idx": "2130"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "brunswick",
                 "geonames_label": "Brunswick",
                 "url": "https://www.geonames.org/4749396",
-                "sentence_idx": 2131
+                "sentence_idx": "2131"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "wilmington",
                 "geonames_label": "Wilmington",
                 "url": "https://www.geonames.org/4231352",
-                "sentence_idx": 2132
+                "sentence_idx": "2132"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "wilmington",
                 "geonames_label": "Wilmington",
                 "url": "https://www.geonames.org/4231352",
-                "sentence_idx": 2132
+                "sentence_idx": "2132"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "sued carolina",
                 "geonames_label": "South Carolina",
                 "url": "https://www.geonames.org/4597040",
-                "sentence_idx": 2132
+                "sentence_idx": "2132"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "nord carolina",
                 "geonames_label": "North Carolina",
                 "url": "https://www.geonames.org/4482348",
-                "sentence_idx": 2134
+                "sentence_idx": "2134"
             }
         }
     ]

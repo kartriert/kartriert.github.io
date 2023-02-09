@@ -14,7 +14,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2778
+                "sentence_idx": "2778"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 2786
+                "sentence_idx": "2786"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2786
+                "sentence_idx": "2786"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 2787
+                "sentence_idx": "2787"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "burgas",
                 "geonames_label": "Burgas",
                 "url": "https://www.geonames.org/732771",
-                "sentence_idx": 2789
+                "sentence_idx": "2789"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "adrianopel",
                 "geonames_label": "Edirne",
                 "url": "https://www.geonames.org/747712",
-                "sentence_idx": 2792
+                "sentence_idx": "2792"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "adrianopel",
                 "geonames_label": "Edirne",
                 "url": "https://www.geonames.org/747712",
-                "sentence_idx": 2793
+                "sentence_idx": "2793"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "philippopel",
                 "geonames_label": "Plovdiv",
                 "url": "https://www.geonames.org/728193",
-                "sentence_idx": 2796
+                "sentence_idx": "2796"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2798
+                "sentence_idx": "2798"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "griechenland",
                 "geonames_label": "Greece",
                 "url": "https://www.geonames.org/390903",
-                "sentence_idx": 2800
+                "sentence_idx": "2800"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "belgrad",
                 "geonames_label": "Belgrade",
                 "url": "https://www.geonames.org/792680",
-                "sentence_idx": 2808
+                "sentence_idx": "2808"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "griechisch weissenburg",
                 "geonames_label": "Belgrade",
                 "url": "https://www.geonames.org/792680",
-                "sentence_idx": 2808
+                "sentence_idx": "2808"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2812
+                "sentence_idx": "2812"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "valeva",
                 "geonames_label": "Kitsman",
                 "url": "https://www.geonames.org/705735",
-                "sentence_idx": 2815
+                "sentence_idx": "2815"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "bosnia",
                 "geonames_label": "Bosnia",
                 "url": "https://www.geonames.org/3203633",
-                "sentence_idx": 2817
+                "sentence_idx": "2817"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "spalato",
                 "geonames_label": "Split",
                 "url": "https://www.geonames.org/3190261",
-                "sentence_idx": 2820
+                "sentence_idx": "2820"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "dalmatia",
                 "geonames_label": "Split-Dalmatia",
                 "url": "https://www.geonames.org/3337527",
-                "sentence_idx": 2822
+                "sentence_idx": "2822"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "tramontana",
                 "geonames_label": "Tramontana",
                 "url": "https://www.geonames.org/8974926",
-                "sentence_idx": 2823
+                "sentence_idx": "2823"
             }
         },
         {
@@ -302,7 +302,7 @@
                 "source_label": "istria",
                 "geonames_label": "Istria",
                 "url": "https://www.geonames.org/3337514",
-                "sentence_idx": 2825
+                "sentence_idx": "2825"
             }
         },
         {
@@ -316,9 +316,9 @@
             },
             "properties": {
                 "source_label": "pula",
-                "geonames_label": null,
+                "geonames_label": "None",
                 "url": "https://www.geonames.org/11054815",
-                "sentence_idx": 2826
+                "sentence_idx": "2826"
             }
         },
         {
@@ -334,7 +334,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2827
+                "sentence_idx": "2827"
             }
         },
         {
@@ -350,7 +350,7 @@
                 "source_label": "rovigno",
                 "geonames_label": "Ra\u0161a",
                 "url": "https://www.geonames.org/11054816",
-                "sentence_idx": 2827
+                "sentence_idx": "2827"
             }
         },
         {
@@ -366,7 +366,7 @@
                 "source_label": "parenza",
                 "geonames_label": "Parenza",
                 "url": "https://www.geonames.org/8959306",
-                "sentence_idx": 2830
+                "sentence_idx": "2830"
             }
         },
         {
@@ -382,7 +382,7 @@
                 "source_label": "cittanova",
                 "geonames_label": "Cittanova",
                 "url": "https://www.geonames.org/2524976",
-                "sentence_idx": 2830
+                "sentence_idx": "2830"
             }
         },
         {
@@ -398,7 +398,7 @@
                 "source_label": "golfo di trieste",
                 "geonames_label": "Gulf of Trieste",
                 "url": "https://www.geonames.org/3165187",
-                "sentence_idx": 2835
+                "sentence_idx": "2835"
             }
         },
         {
@@ -414,7 +414,7 @@
                 "source_label": "venedig",
                 "geonames_label": "Venice",
                 "url": "https://www.geonames.org/3164603",
-                "sentence_idx": 2836
+                "sentence_idx": "2836"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "oberegypten",
                 "geonames_label": "Upper Egypt",
                 "url": "https://www.geonames.org/359888",
-                "sentence_idx": 1361
+                "sentence_idx": "1361"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "oberegypten",
                 "geonames_label": "Upper Egypt",
                 "url": "https://www.geonames.org/359888",
-                "sentence_idx": 1367
+                "sentence_idx": "1367"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "mansura",
                 "geonames_label": "Al Mansurah",
                 "url": "https://www.geonames.org/360761",
-                "sentence_idx": 1375
+                "sentence_idx": "1375"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "mansura",
                 "geonames_label": "Al Mansurah",
                 "url": "https://www.geonames.org/360761",
-                "sentence_idx": 1378
+                "sentence_idx": "1378"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "syrien",
                 "geonames_label": "Syria",
                 "url": "https://www.geonames.org/163843",
-                "sentence_idx": 1382
+                "sentence_idx": "1382"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 1387
+                "sentence_idx": "1387"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 1388
+                "sentence_idx": "1388"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 1392
+                "sentence_idx": "1392"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 1398
+                "sentence_idx": "1398"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "brulos",
                 "geonames_label": "Cape Brulos (historical)",
                 "url": "https://www.geonames.org/9857457",
-                "sentence_idx": 1405
+                "sentence_idx": "1405"
             }
         }
     ]

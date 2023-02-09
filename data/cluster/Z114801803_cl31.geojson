@@ -14,7 +14,7 @@
                 "source_label": "bengalen",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 2186
+                "sentence_idx": "2186"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "butan",
                 "geonames_label": "Bhutan",
                 "url": "https://www.geonames.org/1252634",
-                "sentence_idx": 2195
+                "sentence_idx": "2195"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Buxa Du\u0101r",
                 "geonames_label": "Buxa Du\u0101r",
                 "url": "https://www.geonames.org/1275020",
-                "sentence_idx": 2195
+                "sentence_idx": "2195"
             }
         }
     ]

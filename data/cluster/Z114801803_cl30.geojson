@@ -14,7 +14,7 @@
                 "source_label": "bengalen",
                 "geonames_label": "Kolkata",
                 "url": "https://www.geonames.org/1275004",
-                "sentence_idx": 2129
+                "sentence_idx": "2129"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Assam",
                 "geonames_label": "Assam",
                 "url": "https://www.geonames.org/1278253",
-                "sentence_idx": 2132
+                "sentence_idx": "2132"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "dakka",
                 "geonames_label": "Dhaka",
                 "url": "https://www.geonames.org/1185241",
-                "sentence_idx": 2134
+                "sentence_idx": "2134"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Go\u0101lp\u0101ra",
                 "geonames_label": "Go\u0101lp\u0101ra",
                 "url": "https://www.geonames.org/1271151",
-                "sentence_idx": 2149
+                "sentence_idx": "2149"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Assam",
                 "geonames_label": "Assam",
                 "url": "https://www.geonames.org/1278253",
-                "sentence_idx": 2149
+                "sentence_idx": "2149"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Assam",
                 "geonames_label": "Assam",
                 "url": "https://www.geonames.org/1278253",
-                "sentence_idx": 2150
+                "sentence_idx": "2150"
             }
         }
     ]

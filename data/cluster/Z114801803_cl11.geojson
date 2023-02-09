@@ -14,7 +14,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 91
+                "sentence_idx": "91"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "tellicherry",
                 "geonames_label": "Tellicherry",
                 "url": "https://www.geonames.org/1254780",
-                "sentence_idx": 97
+                "sentence_idx": "97"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 101
+                "sentence_idx": "101"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "goa",
                 "geonames_label": "Goa",
                 "url": "https://www.geonames.org/1271157",
-                "sentence_idx": 107
+                "sentence_idx": "107"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "goa",
                 "geonames_label": "Goa",
                 "url": "https://www.geonames.org/1271157",
-                "sentence_idx": 117
+                "sentence_idx": "117"
             }
         }
     ]

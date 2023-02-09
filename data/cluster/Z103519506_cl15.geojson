@@ -14,7 +14,7 @@
                 "source_label": "prag",
                 "geonames_label": "Prague",
                 "url": "https://www.geonames.org/3067696",
-                "sentence_idx": 2455
+                "sentence_idx": "2455"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "schweidnitz",
                 "geonames_label": "Swidnica",
                 "url": "https://www.geonames.org/3084093",
-                "sentence_idx": 2463
+                "sentence_idx": "2463"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "kuttenberg",
                 "geonames_label": "Kutn\u00e1 Hora",
                 "url": "https://www.geonames.org/3072463",
-                "sentence_idx": 2464
+                "sentence_idx": "2464"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "schlesien",
                 "geonames_label": "Silesia",
                 "url": "https://www.geonames.org/3066138",
-                "sentence_idx": 2465
+                "sentence_idx": "2465"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "jenikau",
                 "geonames_label": "Gol\u010d\u016fv Jen\u00edkov",
                 "url": "https://www.geonames.org/3076098",
-                "sentence_idx": 2465
+                "sentence_idx": "2465"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "auersberg",
                 "geonames_label": "Landschaftsschutzgebiet Auersberg",
                 "url": "https://www.geonames.org/2954550",
-                "sentence_idx": 2466
+                "sentence_idx": "2466"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 2466
+                "sentence_idx": "2466"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2478
+                "sentence_idx": "2478"
             }
         }
     ]

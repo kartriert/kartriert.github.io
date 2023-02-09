@@ -14,7 +14,7 @@
                 "source_label": "bibersburg",
                 "geonames_label": "\u010cerven\u00fd Kame\u0148",
                 "url": "https://www.geonames.org/3060750",
-                "sentence_idx": 1118
+                "sentence_idx": "1118"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 1122
+                "sentence_idx": "1122"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "freistadt",
                 "geonames_label": "Freistadt",
                 "url": "https://www.geonames.org/2779275",
-                "sentence_idx": 1129
+                "sentence_idx": "1129"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 1139
+                "sentence_idx": "1139"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "thyrnau",
                 "geonames_label": "Thyrnau",
                 "url": "https://www.geonames.org/2822484",
-                "sentence_idx": 1144
+                "sentence_idx": "1144"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "bibersburg",
                 "geonames_label": "\u010cerven\u00fd Kame\u0148",
                 "url": "https://www.geonames.org/3060750",
-                "sentence_idx": 1157
+                "sentence_idx": "1157"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "deutschland",
                 "geonames_label": "Germany",
                 "url": "https://www.geonames.org/2921044",
-                "sentence_idx": 1158
+                "sentence_idx": "1158"
             }
         }
     ]

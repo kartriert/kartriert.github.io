@@ -14,7 +14,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 8316
+                "sentence_idx": "8316"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "basra",
                 "geonames_label": "Basra",
                 "url": "https://www.geonames.org/99532",
-                "sentence_idx": 8319
+                "sentence_idx": "8319"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "bagdad",
                 "geonames_label": "Baghdad",
                 "url": "https://www.geonames.org/98182",
-                "sentence_idx": 8319
+                "sentence_idx": "8319"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "bagdad",
                 "geonames_label": "Baghdad",
                 "url": "https://www.geonames.org/98182",
-                "sentence_idx": 8320
+                "sentence_idx": "8320"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "bagdad",
                 "geonames_label": "Baghdad",
                 "url": "https://www.geonames.org/98182",
-                "sentence_idx": 8334
+                "sentence_idx": "8334"
             }
         }
     ]

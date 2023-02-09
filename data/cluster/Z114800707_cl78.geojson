@@ -14,7 +14,7 @@
                 "source_label": "bagdad",
                 "geonames_label": "Baghdad",
                 "url": "https://www.geonames.org/98182",
-                "sentence_idx": 8534
+                "sentence_idx": "8534"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 8543
+                "sentence_idx": "8543"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 8548
+                "sentence_idx": "8548"
             }
         }
     ]

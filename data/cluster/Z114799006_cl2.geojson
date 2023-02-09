@@ -14,7 +14,7 @@
                 "source_label": "virginien",
                 "geonames_label": "Virginia",
                 "url": "https://www.geonames.org/6254928",
-                "sentence_idx": 2083
+                "sentence_idx": "2083"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "williamsburg",
                 "geonames_label": "Williamsburg",
                 "url": "https://www.geonames.org/4793846",
-                "sentence_idx": 2085
+                "sentence_idx": "2085"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "williamsburg",
                 "geonames_label": "Williamsburg",
                 "url": "https://www.geonames.org/4793846",
-                "sentence_idx": 2086
+                "sentence_idx": "2086"
             }
         }
     ]

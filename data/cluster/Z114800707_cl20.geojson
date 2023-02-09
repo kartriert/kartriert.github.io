@@ -14,7 +14,7 @@
                 "source_label": "malta",
                 "geonames_label": "Malta",
                 "url": "https://www.geonames.org/2562770",
-                "sentence_idx": 549
+                "sentence_idx": "549"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "citta vecchia",
                 "geonames_label": "Civitavecchia",
                 "url": "https://www.geonames.org/3178587",
-                "sentence_idx": 552
+                "sentence_idx": "552"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "kopenhagen",
                 "geonames_label": "Copenhagen",
                 "url": "https://www.geonames.org/2618425",
-                "sentence_idx": 558
+                "sentence_idx": "558"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "malta",
                 "geonames_label": "Malta",
                 "url": "https://www.geonames.org/2562770",
-                "sentence_idx": 560
+                "sentence_idx": "560"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "citta vecchia",
                 "geonames_label": "Civitavecchia",
                 "url": "https://www.geonames.org/3178587",
-                "sentence_idx": 563
+                "sentence_idx": "563"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "malta",
                 "geonames_label": "Malta",
                 "url": "https://www.geonames.org/2562770",
-                "sentence_idx": 567
+                "sentence_idx": "567"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "malta",
                 "geonames_label": "Malta",
                 "url": "https://www.geonames.org/2562770",
-                "sentence_idx": 570
+                "sentence_idx": "570"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "malta",
                 "geonames_label": "Malta",
                 "url": "https://www.geonames.org/2562770",
-                "sentence_idx": 571
+                "sentence_idx": "571"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "malta",
                 "geonames_label": "Malta",
                 "url": "https://www.geonames.org/2562770",
-                "sentence_idx": 572
+                "sentence_idx": "572"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "sapienza",
                 "geonames_label": "Sapienza",
                 "url": "https://www.geonames.org/8972173",
-                "sentence_idx": 574
+                "sentence_idx": "574"
             }
         }
     ]

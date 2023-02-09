@@ -14,7 +14,7 @@
                 "source_label": "London",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 697
+                "sentence_idx": "697"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 702
+                "sentence_idx": "702"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 704
+                "sentence_idx": "704"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "Mont-Cenis",
                 "geonames_label": "Lanslebourg-Mont-Cenis",
                 "url": "https://www.geonames.org/3007538",
-                "sentence_idx": 707
+                "sentence_idx": "707"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "Turin",
                 "geonames_label": "Turin",
                 "url": "https://www.geonames.org/3165524",
-                "sentence_idx": 707
+                "sentence_idx": "707"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "Turin",
                 "geonames_label": "Turin",
                 "url": "https://www.geonames.org/3165524",
-                "sentence_idx": 711
+                "sentence_idx": "711"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "Brindisi",
                 "geonames_label": "Brindisi",
                 "url": "https://www.geonames.org/3181528",
-                "sentence_idx": 713
+                "sentence_idx": "713"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "Paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 720
+                "sentence_idx": "720"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "Brindisi",
                 "geonames_label": "Brindisi",
                 "url": "https://www.geonames.org/3181528",
-                "sentence_idx": 720
+                "sentence_idx": "720"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "Liverpool",
                 "geonames_label": "Liverpool",
                 "url": "https://www.geonames.org/2644210",
-                "sentence_idx": 720
+                "sentence_idx": "720"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "London",
                 "geonames_label": "London",
                 "url": "https://www.geonames.org/2643743",
-                "sentence_idx": 720
+                "sentence_idx": "720"
             }
         }
     ]

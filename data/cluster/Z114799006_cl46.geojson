@@ -14,7 +14,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1417
+                "sentence_idx": "1417"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1419
+                "sentence_idx": "1419"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "versailles",
                 "geonames_label": "Versailles",
                 "url": "https://www.geonames.org/2969679",
-                "sentence_idx": 1435
+                "sentence_idx": "1435"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "england",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 1435
+                "sentence_idx": "1435"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 1438
+                "sentence_idx": "1438"
             }
         }
     ]

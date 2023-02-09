@@ -14,7 +14,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 1075
+                "sentence_idx": "1075"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 1076
+                "sentence_idx": "1076"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 1081
+                "sentence_idx": "1081"
             }
         }
     ]

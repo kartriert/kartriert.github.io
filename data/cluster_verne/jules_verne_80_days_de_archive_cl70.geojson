@@ -14,7 +14,7 @@
                 "source_label": "Hudson",
                 "geonames_label": "Hudson River",
                 "url": "https://www.geonames.org/5121521",
-                "sentence_idx": 4216
+                "sentence_idx": "4216"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Broadway",
                 "geonames_label": "New York",
                 "url": "https://www.geonames.org/5128581",
-                "sentence_idx": 4217
+                "sentence_idx": "4217"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Hudson",
                 "geonames_label": "New York",
                 "url": "https://www.geonames.org/5128581",
-                "sentence_idx": 4225
+                "sentence_idx": "4225"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "New-York",
                 "geonames_label": "New York",
                 "url": "https://www.geonames.org/5128581",
-                "sentence_idx": 4227
+                "sentence_idx": "4227"
             }
         }
     ]

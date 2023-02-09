@@ -14,7 +14,7 @@
                 "source_label": "jaffa",
                 "geonames_label": "Tel Aviv",
                 "url": "https://www.geonames.org/293396",
-                "sentence_idx": 2346
+                "sentence_idx": "2346"
             }
         },
         {
@@ -28,9 +28,9 @@
             },
             "properties": {
                 "source_label": "gaza",
-                "geonames_label": null,
+                "geonames_label": "None",
                 "url": "https://www.geonames.org/111184609",
-                "sentence_idx": 2346
+                "sentence_idx": "2346"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2346
+                "sentence_idx": "2346"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2350
+                "sentence_idx": "2350"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "nicosia",
                 "geonames_label": "Nicosia",
                 "url": "https://www.geonames.org/146267",
-                "sentence_idx": 2351
+                "sentence_idx": "2351"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "cypern",
                 "geonames_label": "Cyprus",
                 "url": "https://www.geonames.org/146669",
-                "sentence_idx": 2357
+                "sentence_idx": "2357"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "saida",
                 "geonames_label": "Sidon",
                 "url": "https://www.geonames.org/268064",
-                "sentence_idx": 2359
+                "sentence_idx": "2359"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "saida",
                 "geonames_label": "Sidon",
                 "url": "https://www.geonames.org/268064",
-                "sentence_idx": 2360
+                "sentence_idx": "2360"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "galilaea",
                 "geonames_label": "Galilee",
                 "url": "https://www.geonames.org/294932",
-                "sentence_idx": 2363
+                "sentence_idx": "2363"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "nazaret",
                 "geonames_label": "Nazareth",
                 "url": "https://www.geonames.org/294098",
-                "sentence_idx": 2370
+                "sentence_idx": "2370"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "bach cison",
                 "geonames_label": "Kishon River",
                 "url": "https://www.geonames.org/293820",
-                "sentence_idx": 2370
+                "sentence_idx": "2370"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "samaria",
                 "geonames_label": "Samaria",
                 "url": "https://www.geonames.org/284584",
-                "sentence_idx": 2373
+                "sentence_idx": "2373"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2377
+                "sentence_idx": "2377"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "samaria",
                 "geonames_label": "Samaria",
                 "url": "https://www.geonames.org/284584",
-                "sentence_idx": 2378
+                "sentence_idx": "2378"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "judea",
                 "geonames_label": "Judaea",
                 "url": "https://www.geonames.org/283445",
-                "sentence_idx": 2378
+                "sentence_idx": "2378"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "jerusalem",
                 "geonames_label": "Jerusalem",
                 "url": "https://www.geonames.org/293198",
-                "sentence_idx": 2380
+                "sentence_idx": "2380"
             }
         }
     ]

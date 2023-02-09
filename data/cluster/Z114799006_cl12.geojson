@@ -14,7 +14,7 @@
                 "source_label": "amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 2238
+                "sentence_idx": "2238"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "vereinigten staaten von amerika",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2242
+                "sentence_idx": "2242"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "vereinigten staaten von nord amerika",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2244
+                "sentence_idx": "2244"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "vereinigten staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2249
+                "sentence_idx": "2249"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "nordamerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 2256
+                "sentence_idx": "2256"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "nordamerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 2261
+                "sentence_idx": "2261"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "vereinigten staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2275
+                "sentence_idx": "2275"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 2277
+                "sentence_idx": "2277"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "vereinigten staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2283
+                "sentence_idx": "2283"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "nord amerika",
                 "geonames_label": "North America",
                 "url": "https://www.geonames.org/6255149",
-                "sentence_idx": 2297
+                "sentence_idx": "2297"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "vereinigten staaten von nord amerika",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2297
+                "sentence_idx": "2297"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "vereinigten staaten von nord amerika",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2298
+                "sentence_idx": "2298"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "vereinigten staaten",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2298
+                "sentence_idx": "2298"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "vereinigten staaten von nord amerika",
                 "geonames_label": "United States",
                 "url": "https://www.geonames.org/6252001",
-                "sentence_idx": 2313
+                "sentence_idx": "2313"
             }
         }
     ]

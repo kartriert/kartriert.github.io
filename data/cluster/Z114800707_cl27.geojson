@@ -14,7 +14,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3005
+                "sentence_idx": "3005"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3017
+                "sentence_idx": "3017"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3018
+                "sentence_idx": "3018"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 3018
+                "sentence_idx": "3018"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 3018
+                "sentence_idx": "3018"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "syrien",
                 "geonames_label": "Syria",
                 "url": "https://www.geonames.org/163843",
-                "sentence_idx": 3019
+                "sentence_idx": "3019"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3026
+                "sentence_idx": "3026"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "syrien",
                 "geonames_label": "Syria",
                 "url": "https://www.geonames.org/163843",
-                "sentence_idx": 3028
+                "sentence_idx": "3028"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3031
+                "sentence_idx": "3031"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 3032
+                "sentence_idx": "3032"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "syrien",
                 "geonames_label": "Syria",
                 "url": "https://www.geonames.org/163843",
-                "sentence_idx": 3037
+                "sentence_idx": "3037"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "dschidda",
                 "geonames_label": "Jeddah",
                 "url": "https://www.geonames.org/105343",
-                "sentence_idx": 3037
+                "sentence_idx": "3037"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3038
+                "sentence_idx": "3038"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "oberegypten",
                 "geonames_label": "Upper Egypt",
                 "url": "https://www.geonames.org/359888",
-                "sentence_idx": 3040
+                "sentence_idx": "3040"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3044
+                "sentence_idx": "3044"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "niederegypten",
                 "geonames_label": "Lower Egypt",
                 "url": "https://www.geonames.org/352260",
-                "sentence_idx": 3046
+                "sentence_idx": "3046"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "oberegypten",
                 "geonames_label": "Upper Egypt",
                 "url": "https://www.geonames.org/359888",
-                "sentence_idx": 3050
+                "sentence_idx": "3050"
             }
         },
         {
@@ -286,7 +286,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3052
+                "sentence_idx": "3052"
             }
         },
         {
@@ -302,7 +302,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3056
+                "sentence_idx": "3056"
             }
         },
         {
@@ -318,7 +318,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 3057
+                "sentence_idx": "3057"
             }
         }
     ]

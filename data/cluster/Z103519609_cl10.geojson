@@ -14,7 +14,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2397
+                "sentence_idx": "2397"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "loipersdorf",
                 "geonames_label": "Loipersdorf bei F\u00fcrstenfeld",
                 "url": "https://www.geonames.org/7872318",
-                "sentence_idx": 2404
+                "sentence_idx": "2404"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "szarvas",
                 "geonames_label": "Szarvas",
                 "url": "https://www.geonames.org/715466",
-                "sentence_idx": 2419
+                "sentence_idx": "2419"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "komorn",
                 "geonames_label": "Kom\u00e1rno",
                 "url": "https://www.geonames.org/3059436",
-                "sentence_idx": 2421
+                "sentence_idx": "2421"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "komorn",
                 "geonames_label": "Kom\u00e1rno",
                 "url": "https://www.geonames.org/3059436",
-                "sentence_idx": 2423
+                "sentence_idx": "2423"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2426
+                "sentence_idx": "2426"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 2431
+                "sentence_idx": "2431"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "komorn",
                 "geonames_label": "Kom\u00e1rno",
                 "url": "https://www.geonames.org/3059436",
-                "sentence_idx": 2432
+                "sentence_idx": "2432"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2432
+                "sentence_idx": "2432"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2432
+                "sentence_idx": "2432"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 2435
+                "sentence_idx": "2435"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "palischer see",
                 "geonames_label": "Pali\u0107ko Jezero",
                 "url": "https://www.geonames.org/3193677",
-                "sentence_idx": 2439
+                "sentence_idx": "2439"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "janoshaza",
                 "geonames_label": "J\u00e1nosh\u00e1za",
                 "url": "https://www.geonames.org/3050964",
-                "sentence_idx": 2443
+                "sentence_idx": "2443"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "f\u00fcnfkirchen",
                 "geonames_label": "P\u00e9cs",
                 "url": "https://www.geonames.org/3046526",
-                "sentence_idx": 2445
+                "sentence_idx": "2445"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 2447
+                "sentence_idx": "2447"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 2459
+                "sentence_idx": "2459"
             }
         }
     ]

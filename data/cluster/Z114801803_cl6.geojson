@@ -14,7 +14,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 188
+                "sentence_idx": "188"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 195
+                "sentence_idx": "195"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "tellicherry",
                 "geonames_label": "Tellicherry",
                 "url": "https://www.geonames.org/1254780",
-                "sentence_idx": 195
+                "sentence_idx": "195"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "mangalore",
                 "geonames_label": "Mangalore",
                 "url": "https://www.geonames.org/1263780",
-                "sentence_idx": 195
+                "sentence_idx": "195"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "madras",
                 "geonames_label": "Chennai",
                 "url": "https://www.geonames.org/1264527",
-                "sentence_idx": 200
+                "sentence_idx": "200"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "bombay",
                 "geonames_label": "Mumbai",
                 "url": "https://www.geonames.org/1275339",
-                "sentence_idx": 207
+                "sentence_idx": "207"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "malabar",
                 "geonames_label": "Malab\u0101r Coast",
                 "url": "https://www.geonames.org/1264188",
-                "sentence_idx": 207
+                "sentence_idx": "207"
             }
         }
     ]

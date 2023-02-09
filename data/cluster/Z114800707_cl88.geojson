@@ -14,7 +14,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 8059
+                "sentence_idx": "8059"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "mochha",
                 "geonames_label": "Mochha",
                 "url": "https://www.geonames.org/7086188",
-                "sentence_idx": 8059
+                "sentence_idx": "8059"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "indien",
                 "geonames_label": "India",
                 "url": "https://www.geonames.org/1269750",
-                "sentence_idx": 8059
+                "sentence_idx": "8059"
             }
         }
     ]

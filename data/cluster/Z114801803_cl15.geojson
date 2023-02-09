@@ -14,7 +14,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 839
+                "sentence_idx": "839"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Kaschan",
                 "geonames_label": "Shahrest\u0101n-e K\u0101sh\u0101n",
                 "url": "https://www.geonames.org/449488",
-                "sentence_idx": 839
+                "sentence_idx": "839"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "mekka",
                 "geonames_label": "Makkah",
                 "url": "https://www.geonames.org/104515",
-                "sentence_idx": 841
+                "sentence_idx": "841"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 844
+                "sentence_idx": "844"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 848
+                "sentence_idx": "848"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "mekka",
                 "geonames_label": "Makkah",
                 "url": "https://www.geonames.org/104515",
-                "sentence_idx": 857
+                "sentence_idx": "857"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 857
+                "sentence_idx": "857"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 857
+                "sentence_idx": "857"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 864
+                "sentence_idx": "864"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 867
+                "sentence_idx": "867"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 870
+                "sentence_idx": "870"
             }
         }
     ]

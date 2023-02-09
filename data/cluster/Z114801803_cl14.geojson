@@ -14,7 +14,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 897
+                "sentence_idx": "897"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 900
+                "sentence_idx": "900"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "Bussora",
                 "geonames_label": "Basra",
                 "url": "https://www.geonames.org/99532",
-                "sentence_idx": 906
+                "sentence_idx": "906"
             }
         }
     ]

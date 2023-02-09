@@ -14,7 +14,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 8521
+                "sentence_idx": "8521"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 8521
+                "sentence_idx": "8521"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "alexandrien",
                 "geonames_label": "Alexandria",
                 "url": "https://www.geonames.org/361058",
-                "sentence_idx": 8525
+                "sentence_idx": "8525"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "kahira",
                 "geonames_label": "Cairo",
                 "url": "https://www.geonames.org/360630",
-                "sentence_idx": 8525
+                "sentence_idx": "8525"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "oberegypten",
                 "geonames_label": "Upper Egypt",
                 "url": "https://www.geonames.org/359888",
-                "sentence_idx": 8525
+                "sentence_idx": "8525"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 8537
+                "sentence_idx": "8537"
             }
         }
     ]

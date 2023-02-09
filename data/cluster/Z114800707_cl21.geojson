@@ -14,7 +14,7 @@
                 "source_label": "egypten",
                 "geonames_label": "Egypt",
                 "url": "https://www.geonames.org/357994",
-                "sentence_idx": 522
+                "sentence_idx": "522"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "levante",
                 "geonames_label": "Levant",
                 "url": "https://www.geonames.org/305104",
-                "sentence_idx": 523
+                "sentence_idx": "523"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "levante",
                 "geonames_label": "Levant",
                 "url": "https://www.geonames.org/305104",
-                "sentence_idx": 531
+                "sentence_idx": "531"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "constantinopel",
                 "geonames_label": "Istanbul",
                 "url": "https://www.geonames.org/745044",
-                "sentence_idx": 537
+                "sentence_idx": "537"
             }
         }
     ]

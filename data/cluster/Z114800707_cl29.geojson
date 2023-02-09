@@ -14,7 +14,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 5
+                "sentence_idx": "5"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "persepolis",
                 "geonames_label": "Persepolis",
                 "url": "https://www.geonames.org/110836",
-                "sentence_idx": 16
+                "sentence_idx": "16"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 20
+                "sentence_idx": "20"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 23
+                "sentence_idx": "23"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "arabien",
                 "geonames_label": "Saudi Arabia",
                 "url": "https://www.geonames.org/102358",
-                "sentence_idx": 29
+                "sentence_idx": "29"
             }
         }
     ]

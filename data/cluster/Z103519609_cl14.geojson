@@ -14,7 +14,7 @@
                 "source_label": "spielberg",
                 "geonames_label": "Spielberg bei Knittelfeld",
                 "url": "https://www.geonames.org/2764812",
-                "sentence_idx": 2492
+                "sentence_idx": "2492"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "feldsberg",
                 "geonames_label": "Valtice",
                 "url": "https://www.geonames.org/3063409",
-                "sentence_idx": 2494
+                "sentence_idx": "2494"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 2494
+                "sentence_idx": "2494"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "liechtenstein",
                 "geonames_label": "Liechtenstein",
                 "url": "https://www.geonames.org/3042058",
-                "sentence_idx": 2500
+                "sentence_idx": "2500"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "neapel",
                 "geonames_label": "Naples",
                 "url": "https://www.geonames.org/3172394",
-                "sentence_idx": 2501
+                "sentence_idx": "2501"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 2504
+                "sentence_idx": "2504"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "rottenstein",
                 "geonames_label": "Rottenstein",
                 "url": "https://www.geonames.org/2767030",
-                "sentence_idx": 2505
+                "sentence_idx": "2505"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 2506
+                "sentence_idx": "2506"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "tyrnau",
                 "geonames_label": "Trnava",
                 "url": "https://www.geonames.org/3057124",
-                "sentence_idx": 2518
+                "sentence_idx": "2518"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "neustadt",
                 "geonames_label": "Neustadt",
                 "url": "https://www.geonames.org/2864054",
-                "sentence_idx": 2518
+                "sentence_idx": "2518"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "pest",
                 "geonames_label": "Pest megye",
                 "url": "https://www.geonames.org/3046431",
-                "sentence_idx": 2520
+                "sentence_idx": "2520"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "oedenburg",
                 "geonames_label": "Sopron",
                 "url": "https://www.geonames.org/3045190",
-                "sentence_idx": 2523
+                "sentence_idx": "2523"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "eisenstadt",
                 "geonames_label": "Eisenstadt",
                 "url": "https://www.geonames.org/2780190",
-                "sentence_idx": 2524
+                "sentence_idx": "2524"
             }
         }
     ]

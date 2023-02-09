@@ -14,7 +14,7 @@
                 "source_label": "Paris",
                 "geonames_label": "Paris",
                 "url": "https://www.geonames.org/2988507",
-                "sentence_idx": 101
+                "sentence_idx": "101"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "Frankreich",
                 "geonames_label": "France",
                 "url": "https://www.geonames.org/3017382",
-                "sentence_idx": 103
+                "sentence_idx": "103"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "England",
                 "geonames_label": "England",
                 "url": "https://www.geonames.org/6269131",
-                "sentence_idx": 103
+                "sentence_idx": "103"
             }
         }
     ]

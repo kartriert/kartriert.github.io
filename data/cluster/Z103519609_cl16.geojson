@@ -14,7 +14,7 @@
                 "source_label": "donau",
                 "geonames_label": "Danube River",
                 "url": "https://www.geonames.org/791630",
-                "sentence_idx": 358
+                "sentence_idx": "358"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "ungarn",
                 "geonames_label": "Hungary",
                 "url": "https://www.geonames.org/719819",
-                "sentence_idx": 360
+                "sentence_idx": "360"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 360
+                "sentence_idx": "360"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "oesterreich",
                 "geonames_label": "Austria",
                 "url": "https://www.geonames.org/2782113",
-                "sentence_idx": 363
+                "sentence_idx": "363"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 372
+                "sentence_idx": "372"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "kahlenberg",
                 "geonames_label": "Kahlenberg",
                 "url": "https://www.geonames.org/3333525",
-                "sentence_idx": 376
+                "sentence_idx": "376"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 376
+                "sentence_idx": "376"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "pre\u00dfburg",
                 "geonames_label": "Bratislava",
                 "url": "https://www.geonames.org/3060972",
-                "sentence_idx": 377
+                "sentence_idx": "377"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 359
+                "sentence_idx": "359"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 363
+                "sentence_idx": "363"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 377
+                "sentence_idx": "377"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "persien",
                 "geonames_label": "Iran",
                 "url": "https://www.geonames.org/130758",
-                "sentence_idx": 383
+                "sentence_idx": "383"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "schiras",
                 "geonames_label": "Shiraz",
                 "url": "https://www.geonames.org/115019",
-                "sentence_idx": 397
+                "sentence_idx": "397"
             }
         }
     ]

@@ -14,7 +14,7 @@
                 "source_label": "sch\u00f6nbrunn",
                 "geonames_label": "Schonbrunn Palace",
                 "url": "https://www.geonames.org/6354998",
-                "sentence_idx": 2003
+                "sentence_idx": "2003"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2004
+                "sentence_idx": "2004"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2005
+                "sentence_idx": "2005"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "source_label": "wien",
                 "geonames_label": "Vienna",
                 "url": "https://www.geonames.org/2761369",
-                "sentence_idx": 2012
+                "sentence_idx": "2012"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "source_label": "auersberg",
                 "geonames_label": "Landschaftsschutzgebiet Auersberg",
                 "url": "https://www.geonames.org/2954550",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -94,7 +94,7 @@
                 "source_label": "colloredo",
                 "geonames_label": "Colloredo di Prato",
                 "url": "https://www.geonames.org/3178298",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "source_label": "dietrichstein",
                 "geonames_label": "Dietrichstein",
                 "url": "https://www.geonames.org/2937055",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "source_label": "lichtenstein",
                 "geonames_label": "Liechtenstein",
                 "url": "https://www.geonames.org/3042058",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -142,7 +142,7 @@
                 "source_label": "lobkowitz",
                 "geonames_label": "Lobkovice",
                 "url": "https://www.geonames.org/3071656",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "source_label": "schwarzenberg",
                 "geonames_label": "Schwarzenberg",
                 "url": "https://www.geonames.org/2834978",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "source_label": "stahrenberg",
                 "geonames_label": "Stahrenberg",
                 "url": "https://www.geonames.org/2829654",
-                "sentence_idx": 2013
+                "sentence_idx": "2013"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "source_label": "lichtenstein",
                 "geonames_label": "Liechtenstein",
                 "url": "https://www.geonames.org/3042058",
-                "sentence_idx": 2014
+                "sentence_idx": "2014"
             }
         },
         {
@@ -206,7 +206,7 @@
                 "source_label": "schwarzenberg",
                 "geonames_label": "Schwarzenberg",
                 "url": "https://www.geonames.org/2834978",
-                "sentence_idx": 2014
+                "sentence_idx": "2014"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "source_label": "dietrichstein",
                 "geonames_label": "Dietrichstein",
                 "url": "https://www.geonames.org/2937055",
-                "sentence_idx": 2014
+                "sentence_idx": "2014"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "source_label": "rudersberg",
                 "geonames_label": "Rudersberg",
                 "url": "https://www.geonames.org/2843415",
-                "sentence_idx": 2014
+                "sentence_idx": "2014"
             }
         },
         {
@@ -254,7 +254,7 @@
                 "source_label": "lobkowitz",
                 "geonames_label": "Lobkovice",
                 "url": "https://www.geonames.org/3071656",
-                "sentence_idx": 2014
+                "sentence_idx": "2014"
             }
         },
         {
@@ -270,7 +270,7 @@
                 "source_label": "stahrenberg",
                 "geonames_label": "Stahrenberg",
                 "url": "https://www.geonames.org/2829654",
-                "sentence_idx": 2014
+                "sentence_idx": "2014"
             }
         }
     ]
