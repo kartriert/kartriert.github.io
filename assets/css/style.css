@@ -247,8 +247,8 @@ p {
   align-items: center;
   justify-content: space-between;
   font-family: "Raleway", sans-serif;
-  font-size: 18Spx;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 400;
   color: #b4753f;
   white-space: nowrap;
   transition: 0.3s;
@@ -314,7 +314,7 @@ p {
   padding: 10px 20px;
   font-size: 15px;
   text-transform: none;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .navbar .dropdown ul a i {
